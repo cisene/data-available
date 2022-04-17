@@ -1,0 +1,72 @@
+---
+data:
+
+- orgNumber: 202100-6461
+  orgName: Riksdagens Arvodesnämnd
+  postaladdress: ''
+  postalzip: 100 12
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: '0702303205'
+  fax: ''
+  email: riksdagens.arvodesnamnd@riksdagen.se
+  web: https://www.riksdagen.se/sv/sa-funkar-riksdagen/riksdagens-myndigheter-och-namnder/riksdagens-arvodesnamnd/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:883
+
+- orgNumber: 202100-2650
+  orgName: Riksdagens Ombudsmän
+  postaladdress: Box 16327
+  postalzip: 103 26
+  postalcity: Stockholm
+  visitaddress: Västra Trädgårdsgatan 4
+  visitzip: 111 53
+  visitcity: Stockholm
+  telephone: 087865100
+  fax: ''
+  email: justitieombudsmannen@jo.se
+  web: https://www.jo.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1986:765
+
+- orgNumber: 202100-2627
+  orgName: Riksdagsförvaltningen
+  postaladdress: ''
+  postalzip: 100 12
+  postalcity: Stockholm
+  visitaddress: Riksgatan 1-3
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 087864000
+  fax: ''
+  email: registrator.riksdagsforvaltningen@riksdagen.se
+  web: https://www.riksdagen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:745
+
+- orgNumber: 202100-5422
+  orgName: Riksrevisionen
+  postaladdress: Box 6181
+  postalzip: 102 33
+  postalcity: Stockholm
+  visitaddress: Sankt Eriksgatan 117
+  visitzip: 113 43
+  visitcity: Stockholm
+  telephone: 0851714000
+  fax: ''
+  email: registrator@riksrevisionen.se
+  web: https://www.riksrevisionen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2002:1023
+
+- orgNumber: 202100-2684
+  orgName: Sveriges Riksbank
+  postaladdress: ''
+  postalzip: 103 37
+  postalcity: Stockholm
+  visitaddress: Brunkebergstorg 11
+  visitzip: 111 51
+  visitcity: Stockholm
+  telephone: 087870000
+  fax: ''
+  email: AVS.HR.ENHETEN@riksbank.se
+  web: https://www.riksbank.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:1385

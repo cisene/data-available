@@ -1,0 +1,86 @@
+---
+data:
+
+- orgNumber: 802005-7538
+  orgName: Första Ap-Fonden
+  postaladdress: Box 16294
+  postalzip: 103 25
+  postalcity: Stockholm
+  visitaddress: Regeringsgatan 67
+  visitzip: 111 56
+  visitcity: Stockholm
+  telephone: 0856620200
+  fax: ''
+  email: info@ap1.se
+  web: https://www.ap1.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2000:192
+
+- orgNumber: 857209-0606
+  orgName: Andra Ap-Fonden
+  postaladdress: Box 11155
+  postalzip: 404 24
+  postalcity: Göteborg
+  visitaddress: Östra Hamngatan 26-28
+  visitzip: 411 09
+  visitcity: Göteborg
+  telephone: 0317042900
+  fax: ''
+  email: info@ap2.se
+  web: https://www.ap2.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2000:192
+
+- orgNumber: 802014-4120
+  orgName: Tredje Ap-Fonden
+  postaladdress: Box 1176
+  postalzip: 111 91
+  postalcity: Stockholm
+  visitaddress: Vasagatan 16  9Tr
+  visitzip: 111 20
+  visitcity: Stockholm
+  telephone: 0855517100
+  fax: ''
+  email: info@ap3.se
+  web: https://www.ap3.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2000:192
+
+- orgNumber: 802005-1952
+  orgName: Fjärde Ap-Fonden
+  postaladdress: Box 3069
+  postalzip: 103 61
+  postalcity: Stockholm
+  visitaddress: Jakobsbergsgatan 16
+  visitzip: 111 44
+  visitcity: Stockholm
+  telephone: 087877500
+  fax: ''
+  email: info@ap4.se
+  web: https://www.ap4.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2000:192
+
+- orgNumber: 855104-0721
+  orgName: Sjätte Ap-Fonden
+  postaladdress: Köpmansgatan 32
+  postalzip: 411 06
+  postalcity: Göteborg
+  visitaddress: Köpmansgatan 32
+  visitzip: 411 06
+  visitcity: Göteborg
+  telephone: '0317411000'
+  fax: ''
+  email: info@apfond6.se
+  web: https://www.apfond6.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2000:193
+
+- orgNumber: 802406-2302
+  orgName: Sjunde Ap-Fonden
+  postaladdress: Box 100
+  postalzip: 101 21
+  postalcity: Stockholm
+  visitaddress: Vasagatan 16
+  visitzip: 111 20
+  visitcity: Stockholm
+  telephone: 084122660
+  fax: ''
+  email: info@ap7.se
+  web: https://www.ap7.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=

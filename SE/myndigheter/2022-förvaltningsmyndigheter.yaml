@@ -1,0 +1,3516 @@
+---
+data:
+
+- orgNumber: 202100-5943
+  orgName: Alkoholsortimentsnämnden
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: registratur@kammarkollegiet.se
+  web: https://www.kammarkollegiet.se/rattsavdelningen/alkoholsortimentsnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1216
+
+- orgNumber: 202100-3625
+  orgName: Allmänna Reklamationsnämnden
+  postaladdress: Box 174
+  postalzip: 101 23
+  postalcity: Stockholm
+  visitaddress: Kungsholmstorg 5
+  visitzip: 112 21
+  visitcity: Stockholm
+  telephone: 0850886000
+  fax: ''
+  email: arn@arn.se
+  web: https://www.arn.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:739
+
+- orgNumber: 202100-6834
+  orgName: Ansvarsnämnden För Djurens Hälso- Och Sjukvård
+  postaladdress: Box 322
+  postalzip: 551 15
+  postalcity: Jönköping
+  visitaddress: Vallgatan 8
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: 036155853
+  fax: ''
+  email: vetansvar@jordbruksverket.se
+  web: https://www.vetansvar.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:302
+
+- orgNumber: 202100-2114
+  orgName: Arbetsförmedlingen
+  postaladdress: ''
+  postalzip: 113 99
+  postalcity: Stockholm
+  visitaddress: Elektrogatan 4
+  visitzip: 171 54
+  visitcity: Solna
+  telephone: '0771600000'
+  fax: ''
+  email: registrator@arbetsformedlingen.se
+  web: https://www.arbetsformedlingen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1030
+
+- orgNumber: 202100-3476
+  orgName: Arbetsgivarverket
+  postaladdress: Mäster Samuelsgatan 60  9 Tr
+  postalzip: 111 21
+  postalcity: Stockholm
+  visitaddress: Mäster Samuelsgatan 60
+  visitzip: 111 21
+  visitcity: Stockholm
+  telephone: 087001300
+  fax: ''
+  email: registrator@arbetsgivarverket.se
+  web: https://www.arbetsgivarverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:829
+
+- orgNumber: 202100-2148
+  orgName: Arbetsmiljöverket (Av)
+  postaladdress: Box 9082
+  postalzip: 171 09
+  postalcity: Solna
+  visitaddress: Svetsarvägen 12  2Tr
+  visitzip: 171 41
+  visitcity: Solna
+  telephone: 0107309000
+  fax: ''
+  email: arbetsmiljoverket@av.se
+  web: https://www.av.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:913
+
+- orgNumber: 202100-5950
+  orgName: Arvfondsdelegationen
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: Birger Jarlsgatan 16
+  visitzip: 114 34
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: info@arvsfonden.se
+  web: https://www.arvsfonden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2004:484
+
+- orgNumber: 202100-3690
+  orgName: Barnombudsmannen
+  postaladdress: Box 22106
+  postalzip: 104 22
+  postalcity: Stockholm
+  visitaddress: Norr Mälarstrand 6
+  visitzip: 112 20
+  visitcity: Stockholm
+  telephone: 086922950
+  fax: ''
+  email: info@barnombudsmannen.se
+  web: https://www.barnombudsmannen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1021
+
+- orgNumber: 202100-4011
+  orgName: Blekinge Tekniska Högskola
+  postaladdress: ''
+  postalzip: 371 79
+  postalcity: Karlskrona
+  visitaddress: Valhallavägen 1
+  visitzip: 371 41
+  visitcity: Karlskrona
+  telephone: 0455385000
+  fax: ''
+  email: info@bth.se
+  web: https://www.bth.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3278
+  orgName: Bokföringsnämnden
+  postaladdress: Box 7849
+  postalzip: 103 99
+  postalcity: Stockholm
+  visitaddress: Brunnsgatan 3
+  visitzip: 111 38
+  visitcity: Stockholm
+  telephone: 0840898990
+  fax: ''
+  email: bfn@bfn.se
+  web: https://www.bfn.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:153
+
+- orgNumber: 202100-5489
+  orgName: Bolagsverket
+  postaladdress: ''
+  postalzip: 851 81
+  postalcity: Sundsvall
+  visitaddress: Stuvarvägen 21
+  visitzip: 852 29
+  visitcity: Sundsvall
+  telephone: '0771670670'
+  fax: ''
+  email: bolagsverket@bolagsverket.se
+  web: https://www.bolagsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1110
+
+- orgNumber: 202100-3989
+  orgName: Boverket
+  postaladdress: Box 534
+  postalzip: 371 23
+  postalcity: Karlskrona
+  visitaddress: Drottninggatan 18
+  visitzip: 371 31
+  visitcity: Karlskrona
+  telephone: '0455353000'
+  fax: ''
+  email: registraturen@boverket.se
+  web: https://www.boverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:546
+
+- orgNumber: 202100-0068
+  orgName: Brottsförebyggande Rådet
+  postaladdress: Box 1386
+  postalzip: 111 93
+  postalcity: Stockholm
+  visitaddress: Tegnérgatan 23
+  visitzip: 111 40
+  visitcity: Stockholm
+  telephone: 0852758400
+  fax: ''
+  email: info@bra.se
+  web: https://www.bra.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:1201
+
+- orgNumber: 202100-3435
+  orgName: Brottsoffermyndigheten
+  postaladdress: Box 470
+  postalzip: 901 09
+  postalcity: Umeå
+  visitaddress: Storgatan 49
+  visitzip: 903 26
+  visitcity: Umeå
+  telephone: 090708200
+  fax: ''
+  email: registrator@brottsoffermyndigheten.se
+  web: https://www.brottsoffermyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1171
+
+- orgNumber: 202100-6909
+  orgName: Centrala Djurförsöksetiska Nämnden
+  postaladdress: ''
+  postalzip: 551 82
+  postalcity: Jönköping
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Jönköping
+  telephone: ''
+  fax: ''
+  email: infoCDFN@jordbruksverket.se
+  web: https://www.cdfn.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:539
+
+- orgNumber: 202100-1819
+  orgName: Centrala Studiestödsnämnden
+  postaladdress: ''
+  postalzip: 851 82
+  postalcity: Sundsvall
+  visitaddress: Norra Tjärngatan 2
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 060186000
+  fax: ''
+  email: registrator@csn.se
+  web: https://www.csn.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1071
+
+- orgNumber: 202100-6842
+  orgName: Delegationen För Folkrättslig Granskning Av Vapenprojekt
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:936
+
+- orgNumber: 202100-6701
+  orgName: Delegationen Mot Segregation
+  postaladdress: Alfred Nobels Allé 7
+  postalzip: 141 52
+  postalcity: Huddinge
+  visitaddress: Alfred Nobels Allé 7
+  visitzip: 141 52
+  visitcity: Huddinge
+  telephone: '0101407700'
+  fax: ''
+  email: info@delmos.se
+  web: https://www.delmos.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:1085
+
+- orgNumber: 202100-6073
+  orgName: Diskrimineringsombudsmannen
+  postaladdress: Box 4057
+  postalzip: 169 04
+  postalcity: Solna
+  visitaddress: Råsundavägen 18
+  visitzip: 169 67
+  visitcity: Solna
+  telephone: 0812020700
+  fax: ''
+  email: do@do.se
+  web: https://www.do.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1401
+
+- orgNumber: 202100-6081
+  orgName: Domarnämnden
+  postaladdress: Box 2330
+  postalzip: 103 18
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 5
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856166950
+  fax: ''
+  email: domarnamnden@dom.se
+  web: https://www.domstol.se/om-sveriges-domstolar/domarnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1793
+
+- orgNumber: 202100-6552
+  orgName: E-Hälsomyndigheten
+  postaladdress: Box 913
+  postalzip: 391 29
+  postalcity: Kalmar
+  visitaddress: Södra Långgatan 60
+  visitzip: 392 31
+  visitcity: Kalmar
+  telephone: 0104586200
+  fax: ''
+  email: registrator@ehalsomyndigheten.se
+  web: https://www.ehalsomyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2013:1031
+
+- orgNumber: 202100-4979
+  orgName: Ekobrottsmyndigheten
+  postaladdress: Box 22098
+  postalzip: 104 22
+  postalcity: Stockholm
+  visitaddress: Hantverkargatan 11
+  visitzip: 112 21
+  visitcity: Stockholm
+  telephone: 0105629000
+  fax: ''
+  email: huvudregistrator@ekobrottsmyndigheten.se
+  web: https://www.ekobrottsmyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:744
+
+- orgNumber: 202100-5026
+  orgName: Ekonomistyrningsverket
+  postaladdress: Box 45316
+  postalzip: 104 30
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 89
+  visitzip: 113 60
+  visitcity: Stockholm
+  telephone: 086904300
+  fax: ''
+  email: registrator@esv.se
+  web: https://www.esv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:1023
+
+- orgNumber: 202100-4466
+  orgName: Elsäkerhetsverket
+  postaladdress: Box 4
+  postalzip: 681 21
+  postalcity: Kristinehamn
+  visitaddress: Södra Torget 3
+  visitzip: 681 31
+  visitcity: Kristinehamn
+  telephone: 0101680500
+  fax: ''
+  email: registrator@elsakerhetsverket.se
+  web: https://www.elsakerhetsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1121
+
+- orgNumber: 202100-5695
+  orgName: Energimarknadsinspektionen
+  postaladdress: Box 155
+  postalzip: 631 03
+  postalcity: Eskilstuna
+  visitaddress: Libergsgatan 6
+  visitzip: 632 21
+  visitcity: Eskilstuna
+  telephone: '016162700'
+  fax: ''
+  email: registrator@ei.se
+  web: https://www.ei.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:742
+
+- orgNumber: 202100-6925
+  orgName: Etikprövningsmyndigheten
+  postaladdress: Box 2110
+  postalzip: 750 02
+  postalcity: Uppsala
+  visitaddress: Dag Hammarskjölds Väg 7
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: 0104750800
+  fax: ''
+  email: registrator@etikprovning.se
+  web: https://www.etikprovning.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2018:1879
+
+- orgNumber: 202100-2098
+  orgName: Exportkreditnämnden
+  postaladdress: Box 3064
+  postalzip: 103 61
+  postalcity: Stockholm
+  visitaddress: Kungsgatan 36
+  visitzip: 111 35
+  visitcity: Stockholm
+  telephone: 087880000
+  fax: ''
+  email: info@ekn.se
+  web: https://www.ekn.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1217
+
+- orgNumber: 202100-4870
+  orgName: Fastighetsmäklarinspektionen
+  postaladdress: Box 5045
+  postalzip: 650 05
+  postalcity: Karlstad
+  visitaddress: Våxnäsgatan 10
+  visitzip: 653 40
+  visitcity: Karlstad
+  telephone: 0104580100
+  fax: ''
+  email: registrator@fmi.se
+  web: https://www.fmi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:606
+
+- orgNumber: 202100-0043
+  orgName: Fideikommissnämnden
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: 087000800
+  fax: ''
+  email: registratur@kammarkollegiet.se
+  web: https://www.kammarkollegiet.se/namndmyndigheter/fideikommissnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1074
+
+- orgNumber: 202100-4235
+  orgName: Finansinspektionen
+  postaladdress: Box 7821
+  postalzip: 103 97
+  postalcity: Stockholm
+  visitaddress: Brunnsgatan 3
+  visitzip: 111 38
+  visitcity: Stockholm
+  telephone: 0840898000
+  fax: ''
+  email: finansinspektionen@fi.se
+  web: https://www.fi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:93
+
+- orgNumber: 202100-5687
+  orgName: Finanspolitiska Rådet
+  postaladdress: Box 3273
+  postalzip: 103 65
+  postalcity: Stockholm
+  visitaddress: Kungsgatan 12-14
+  visitzip: 111 35
+  visitcity: Stockholm
+  telephone: 084535990
+  fax: ''
+  email: info@fpr.se
+  web: https://www.fpr.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:446
+
+- orgNumber: 202100-5380
+  orgName: Folke Bernadotteakademin
+  postaladdress: Sandövägen 1
+  postalzip: 872 64
+  postalcity: Sandöverken
+  visitaddress: Sandövägen 1
+  visitzip: 872 64
+  visitcity: Sandöverken
+  telephone: '0104562300'
+  fax: ''
+  email: info@fba.se
+  web: https://www.fba.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2013:727
+
+- orgNumber: 202100-6545
+  orgName: Folkhälsomyndigheten
+  postaladdress: ''
+  postalzip: 171 82
+  postalcity: Solna
+  visitaddress: Nobels Väg 18
+  visitzip: 171 65
+  visitcity: Solna
+  telephone: '0102052000'
+  fax: ''
+  email: info@folkhalsomyndigheten.se
+  web: https://www.folkhalsomyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2021:248
+
+- orgNumber: 202100-5893
+  orgName: Forskarskattenämnden
+  postaladdress: Box 24144
+  postalzip: 104 51
+  postalcity: Stockholm
+  visitaddress: Karlavägen 108
+  visitzip: 115 26
+  visitcity: Stockholm
+  telephone: 0105747957
+  fax: ''
+  email: kansliet@forskarskattenamnden.se
+  web: https://www.forskarskattenamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:786
+
+- orgNumber: 202100-5232
+  orgName: Forskningsrådet F Miljö Arella Näringar Och Samh
+  postaladdress: Box 1206
+  postalzip: 111 82
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 89
+  visitzip: 111 82
+  visitcity: Stockholm
+  telephone: 087754000
+  fax: ''
+  email: registrator@formas.se
+  web: https://www.formas.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1024
+
+- orgNumber: 202100-5240
+  orgName: Forskningsrådet För Hälsa, Arbetsliv Och Välfärd
+  postaladdress: Box 38084
+  postalzip: 100 64
+  postalcity: Stockholm
+  visitaddress: Ringvägen 100
+  visitzip: 118 60
+  visitcity: Stockholm
+  telephone: 087754070
+  fax: ''
+  email: forte@forte.se
+  web: https://www.forte.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1431
+
+- orgNumber: 202100-4607
+  orgName: Fortifikationsverket
+  postaladdress: ''
+  postalzip: 631 89
+  postalcity: Eskilstuna
+  visitaddress: Kungsgatan 43
+  visitzip: 632 17
+  visitcity: Eskilstuna
+  telephone: '0104444000'
+  fax: ''
+  email: fortv@fortifikationsverket.se
+  web: https://www.fortifikationsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:758
+
+- orgNumber: 202100-5356
+  orgName: Forum För Levande Historia
+  postaladdress: Box 2123
+  postalzip: 103 13
+  postalcity: Stockholm
+  visitaddress: Stora Nygatan 10-12
+  visitzip: 111 27
+  visitcity: Stockholm
+  telephone: 087238750
+  fax: ''
+  email: info@levandehistoria.se
+  web: https://www.levandehistoria.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1197
+
+- orgNumber: 202100-0340
+  orgName: Försvarets Materielverk
+  postaladdress: ''
+  postalzip: 115 88
+  postalcity: Stockholm
+  visitaddress: Banérgatan 62
+  visitzip: 115 53
+  visitcity: Stockholm
+  telephone: 087824000
+  fax: ''
+  email: registrator@fmv.se
+  web: https://www.fmv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:854
+
+- orgNumber: 202100-0365
+  orgName: Försvarets Radioanstalt
+  postaladdress: Box 301
+  postalzip: 161 26
+  postalcity: Bromma
+  visitaddress: Rörbyvägen 20
+  visitzip: 178 93
+  visitcity: Drottningholm
+  telephone: '0105574600'
+  fax: ''
+  email: fra@fra.se
+  web: https://www.fra.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:937
+
+- orgNumber: 202100-4730
+  orgName: Försvarshögskolan
+  postaladdress: Box 27805
+  postalzip: 115 93
+  postalcity: Stockholm
+  visitaddress: Drottning Kristinas Väg 37
+  visitzip: 114 28
+  visitcity: Stockholm
+  telephone: 0855342500
+  fax: ''
+  email: registrator@fhs.se
+  web: https://www.fhs.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1164
+
+- orgNumber: 202100-4615
+  orgName: Försvarsmakten
+  postaladdress: ''
+  postalzip: 107 85
+  postalcity: Stockholm
+  visitaddress: Lidingövägen 24
+  visitzip: 115 57
+  visitcity: Stockholm
+  telephone: 087887500
+  fax: ''
+  email: ''
+  web: https://www.forsvarsmakten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1266
+
+- orgNumber: 202100-5521
+  orgName: Försäkringskassan
+  postaladdress: ''
+  postalzip: 103 51
+  postalcity: Stockholm
+  visitaddress: Lm Ericssons Väg 28
+  visitzip: 126 26
+  visitcity: Hägersten
+  telephone: 087869000
+  fax: ''
+  email: huvudkontoret@forsakringskassan.se
+  web: https://www.forsakringskassan.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1174
+
+- orgNumber: 202100-4813
+  orgName: Gentekniknämnden
+  postaladdress: Box 1035
+  postalzip: 101 38
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: 0854644081
+  fax: ''
+  email: genteknik@genteknik.se
+  web: https://www.genteknik.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1075
+
+- orgNumber: 202100-6859
+  orgName: Granskningsnämnden För Försvarsuppfinningar
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:855
+
+- orgNumber: 202100-4334
+  orgName: Gymnastik- Och Idrottshögskolan (Gih)
+  postaladdress: Box 5626
+  postalzip: 114 86
+  postalcity: Stockholm
+  visitaddress: Lidingövägen 1
+  visitzip: 114 33
+  visitcity: Stockholm
+  telephone: 0812053700
+  fax: ''
+  email: registrator@gih.se
+  web: https://www.gih.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3153
+  orgName: Göteborgs Universitet
+  postaladdress: Box 100
+  postalzip: 405 30
+  postalcity: Göteborg
+  visitaddress: Vasagatan 33
+  visitzip: 411 37
+  visitcity: Göteborg
+  telephone: 0317860000
+  fax: ''
+  email: registrator@gu.se
+  web: https://www.gu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-4250
+  orgName: Harpsundsnämnden
+  postaladdress: Harpsund
+  postalzip: 642 63
+  postalcity: Mellösa
+  visitaddress: Harpsund
+  visitzip: 642 63
+  visitcity: Mellösa
+  telephone: '015760003'
+  fax: ''
+  email: christoffer@harpsund.se
+  web: https://www.harpsund.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1227
+
+- orgNumber: 202100-6420
+  orgName: Havs- Och Vattenmyndigheten
+  postaladdress: Box 11930
+  postalzip: 404 39
+  postalcity: Göteborg
+  visitaddress: Gullbergs Strandgata 15
+  visitzip: 411 04
+  visitcity: Göteborg
+  telephone: 0106986000
+  fax: ''
+  email: havochvatten@havochvatten.se
+  web: https://www.havochvatten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:619
+
+- orgNumber: 202100-3765
+  orgName: Hälso- & Sjukvårdens Ansvarsnämnd
+  postaladdress: ''
+  postalzip: 106 30
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: '0752473000'
+  fax: ''
+  email: socialstyrelsen@socialstyrelsen.se
+  web: https://www.hsan.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:582
+
+- orgNumber: 202100-2908
+  orgName: Högskolan Dalarna
+  postaladdress: ''
+  postalzip: 791 88
+  postalcity: Falun
+  visitaddress: Högskolegatan 2
+  visitzip: 791 31
+  visitcity: Falun
+  telephone: 023778000
+  fax: ''
+  email: registrator@du.se
+  web: https://www.du.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3138
+  orgName: Högskolan I Borås
+  postaladdress: ''
+  postalzip: 501 90
+  postalcity: Borås
+  visitaddress: Allégatan 1
+  visitzip: 503 32
+  visitcity: Borås
+  telephone: '0334354000'
+  fax: ''
+  email: registrator@hb.se
+  web: https://www.hb.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-2890
+  orgName: Högskolan I Gävle
+  postaladdress: ''
+  postalzip: 801 76
+  postalcity: Gävle
+  visitaddress: Kungsbäcksvägen 47
+  visitzip: 802 67
+  visitcity: Gävle
+  telephone: 026648500
+  fax: ''
+  email: registrator@hig.se
+  web: https://www.hig.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3203
+  orgName: Högskolan I Halmstad
+  postaladdress: Box 823
+  postalzip: 301 18
+  postalcity: Halmstad
+  visitaddress: Kristian Iv:S Väg 3
+  visitzip: 302 50
+  visitcity: Halmstad
+  telephone: '035167100'
+  fax: ''
+  email: registrator@hh.se
+  web: https://www.hh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3195
+  orgName: Högskolan I Kristianstad
+  postaladdress: ''
+  postalzip: 291 88
+  postalcity: Kristianstad
+  visitaddress: Elmetorpsvägen 15
+  visitzip: 291 39
+  visitcity: Kristianstad
+  telephone: '0442503000'
+  fax: ''
+  email: info@hkr.se
+  web: https://www.hkr.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3146
+  orgName: Högskolan I Skövde
+  postaladdress: Box 408
+  postalzip: 541 28
+  postalcity: Skövde
+  visitaddress: Högskolevägen 1
+  visitzip: 541 46
+  visitcity: Skövde
+  telephone: 0500448000
+  fax: ''
+  email: registrator@his.se
+  web: https://www.his.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-4052
+  orgName: Högskolan Väst
+  postaladdress: ''
+  postalzip: 461 86
+  postalcity: Trollhättan
+  visitaddress: Gustava Melins Gata 2
+  visitzip: 461 32
+  visitcity: Trollhättan
+  telephone: '0520223000'
+  fax: ''
+  email: registrator@hv.se
+  web: https://www.hv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-6867
+  orgName: Högskolans Avskiljandenämnd
+  postaladdress: Box 6028
+  postalzip: 121 06
+  postalcity: Johanneshov
+  visitaddress: Hammarbybacken 31
+  visitzip: 121 06
+  visitcity: Johanneshov
+  telephone: 0856308700
+  fax: ''
+  email: han@han.se
+  web: https://www.han.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:990
+
+- orgNumber: 202100-5877
+  orgName: Ilo-Kommittén
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: Fredsgatan 8
+  visitzip: 111 52
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: a.ilo-kommitten@regeringskansliet.se
+  web: https://www.svenskailo-kommitten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1977:987
+
+- orgNumber: 202100-5414
+  orgName: Inspektionen För Arbetslöshetsförsäkring
+  postaladdress: Box 210
+  postalzip: 641 22
+  postalcity: Katrineholm
+  visitaddress: Köpmangatan 2
+  visitzip: 641 30
+  visitcity: Katrineholm
+  telephone: 0150487000
+  fax: ''
+  email: iaf@iaf.se
+  web: https://www.iaf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:906
+
+- orgNumber: 202100-6248
+  orgName: Inspektionen För Socialförsäkringen
+  postaladdress: Box 1056
+  postalzip: 405 22
+  postalcity: Göteborg
+  visitaddress: Lilla Bommen 1
+  visitzip: 411 04
+  visitcity: Göteborg
+  telephone: '0101741500'
+  fax: ''
+  email: registrator@isf.se
+  web: https://www.isf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:602
+
+- orgNumber: 202100-4912
+  orgName: Inspektionen För Strategiska Produkter
+  postaladdress: Box 6086
+  postalzip: 171 06
+  postalcity: Solna
+  visitaddress: Vretenvägen 13 B
+  visitzip: 171 54
+  visitcity: Solna
+  telephone: ''
+  fax: ''
+  email: registrator@isp.se
+  web: https://www.isp.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1101
+
+- orgNumber: 202100-6537
+  orgName: Inspektionen För Vård Och Omsorg
+  postaladdress: Box 45184
+  postalzip: 104 30
+  postalcity: Stockholm
+  visitaddress: Solnavägen 4
+  visitzip: 113 68
+  visitcity: Stockholm
+  telephone: 0107885000
+  fax: ''
+  email: registrator.vss@ivo.se
+  web: https://www.ivo.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2013:196
+
+- orgNumber: 202100-4946
+  orgName: Institutet För Arbetsmarknads-Och Utbildningspolitisk Utvärdering
+  postaladdress: Box 513
+  postalzip: 751 20
+  postalcity: Uppsala
+  visitaddress: Kyrkogårdsgatan 6
+  visitzip: 753 12
+  visitcity: Uppsala
+  telephone: 0184717070
+  fax: ''
+  email: ifau@ifau.uu.se
+  web: https://www.ifau.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:911
+
+- orgNumber: 202100-7022
+  orgName: Institutet För Mänskliga Rättigheter
+  postaladdress: Mobilvägen 10
+  postalzip: 223 62
+  postalcity: Lund
+  visitaddress: Mobilvägen 10
+  visitzip: 223 62
+  visitcity: Lund
+  telephone: 0462873901
+  fax: ''
+  email: registrator@mrinstitutet.se
+  web: https://www.mrinstitutet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2021:642
+
+- orgNumber: 202100-3567
+  orgName: Institutet För Rymdfysik
+  postaladdress: Box 812
+  postalzip: 981 28
+  postalcity: Kiruna
+  visitaddress: Bengt Hultqvists Väg 1
+  visitzip: 981 92
+  visitcity: Kiruna
+  telephone: 098079000
+  fax: ''
+  email: irf@irf.se
+  web: https://www.irf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1163
+
+- orgNumber: 202100-1082
+  orgName: Institutet För Språk Och Folkminnen
+  postaladdress: Box 135
+  postalzip: 751 04
+  postalcity: Uppsala
+  visitaddress: Von Kraemers Allé 19
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: 0200283333
+  fax: ''
+  email: registrator@isof.se
+  web: https://www.isof.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1181
+
+- orgNumber: 202100-0050
+  orgName: Integritetsskyddsmyndigheten
+  postaladdress: Box 8114
+  postalzip: 104 20
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 29  Plan 5
+  visitzip: 111 51
+  visitcity: Stockholm
+  telephone: 086576100
+  fax: ''
+  email: imy@imy.se
+  web: https://www.imy.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:975
+
+- orgNumber: 202100-0035
+  orgName: Justitiekanslern
+  postaladdress: Box 2308
+  postalzip: 103 17
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 12
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: registrator@jk.se
+  web: https://www.jk.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1975:1345
+
+- orgNumber: 202100-6693
+  orgName: Jämställdhetsmyndigheten
+  postaladdress: Box 73
+  postalzip: 424 22
+  postalcity: Angered
+  visitaddress: Angereds Torg
+  visitzip: 424 65
+  visitcity: Angered
+  telephone: 0313929000
+  fax: ''
+  email: info@jamy.se
+  web: https://www.jamstalldhetsmyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:937
+
+- orgNumber: 202100-0829
+  orgName: Kammarkollegiet
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: Slottsbacken 6
+  visitzip: 111 30
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: registratur@kammarkollegiet.se
+  web: https://www.kammarkollegiet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:824
+
+- orgNumber: 202100-3120
+  orgName: Karlstads Universitet
+  postaladdress: ''
+  postalzip: 651 88
+  postalcity: Karlstad
+  visitaddress: Universitetsgatan 2
+  visitzip: 656 37
+  visitcity: Karlstad
+  telephone: '0547001000'
+  fax: ''
+  email: registrator@kau.se
+  web: https://www.kau.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-2973
+  orgName: Karolinska Institutet
+  postaladdress: ''
+  postalzip: 171 77
+  postalcity: Stockholm
+  visitaddress: Nobels Väg 6
+  visitzip: 171 65
+  visitcity: Solna
+  telephone: 0852480000
+  fax: ''
+  email: registrator@ki.se
+  web: https://www.ki.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3880
+  orgName: Kemikalieinspektionen
+  postaladdress: Box 2
+  postalzip: 172 13
+  postalcity: Sundbyberg
+  visitaddress: Esplanaden 3 A
+  visitzip: 172 67
+  visitcity: Sundbyberg
+  telephone: 0851941100
+  fax: ''
+  email: kemi@kemi.se
+  web: https://www.kemi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:947
+
+- orgNumber: 202100-6719
+  orgName: Klimatpolitiska Rådet
+  postaladdress: Box 1206
+  postalzip: 111 82
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 89
+  visitzip: 111 36
+  visitcity: Stockholm
+  telephone: 087754170
+  fax: ''
+  email: kansli@klimatpolitiskaradet.se
+  web: https://www.klimatpolitiskaradet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:1268
+
+- orgNumber: 202100-2007
+  orgName: Kommerskollegium
+  postaladdress: Box 6803
+  postalzip: 113 86
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 89
+  visitzip: 113 60
+  visitcity: Stockholm
+  telephone: 086904800
+  fax: ''
+  email: registrator@kommerskollegium.se
+  web: https://www.kommerskollegium.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:990
+
+- orgNumber: 202100-0845
+  orgName: Konjunkturinstitutet
+  postaladdress: Box 12090
+  postalzip: 102 23
+  postalcity: Stockholm
+  visitaddress: Fleminggatan 7
+  visitzip: 112 26
+  visitcity: Stockholm
+  telephone: 084535918
+  fax: ''
+  email: registrator@konj.se
+  web: https://www.konj.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:759
+
+- orgNumber: 202100-4342
+  orgName: Konkurrensverket
+  postaladdress: ''
+  postalzip: 103 85
+  postalcity: Stockholm
+  visitaddress: Torsgatan 11
+  visitzip: 111 23
+  visitcity: Stockholm
+  telephone: 087001600
+  fax: ''
+  email: konkurrensverket@kkv.se
+  web: https://www.konkurrensverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1117
+
+- orgNumber: 202100-1199
+  orgName: Konstfack
+  postaladdress: Box 3601
+  postalzip: 126 27
+  postalcity: Stockholm
+  visitaddress: Lm Ericssons Väg 14
+  visitzip: 126 26
+  visitcity: Hägersten
+  telephone: 084504100
+  fax: ''
+  email: registrator@konstfack.se
+  web: https://www.konstfack.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3252
+  orgName: Konstnärsnämnden
+  postaladdress: Maria Skolgata 83
+  postalzip: 118 53
+  postalcity: Stockholm
+  visitaddress: Maria Skolgata 83
+  visitzip: 118 53
+  visitcity: Stockholm
+  telephone: 0850655000
+  fax: ''
+  email: info@konstnarsnamnden.se
+  web: https://www.konstnarsnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1199
+
+- orgNumber: 202100-2064
+  orgName: Konsumentverket
+  postaladdress: Box 48
+  postalzip: 651 02
+  postalcity: Karlstad
+  visitaddress: Tage Erlandergatan 8 A
+  visitzip: 652 20
+  visitcity: Karlstad
+  telephone: '0771423300'
+  fax: ''
+  email: konsumentverket@konsumentverket.se
+  web: https://www.konsumentverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:607
+
+- orgNumber: 202100-5810
+  orgName: Krigsförsäkringsnämnden
+  postaladdress: Box 7821
+  postalzip: 103 97
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 087878000
+  fax: ''
+  email: ''
+  web: https://http://www.regeringen.se/myndigheter-med-flera/krigsforsakringsnamnden//
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:842
+
+- orgNumber: 202100-0225
+  orgName: Kriminalvården
+  postaladdress: ''
+  postalzip: 601 80
+  postalcity: Norrköping
+  visitaddress: Slottsgatan 78
+  visitzip: 602 22
+  visitcity: Norrköping
+  telephone: 0772280800
+  fax: ''
+  email: hk@kriminalvarden.se
+  web: https://www.kriminalvarden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1172
+
+- orgNumber: 202100-5646
+  orgName: Kronofogdemyndigheten
+  postaladdress: Box 1050
+  postalzip: 172 21
+  postalcity: Sundbyberg
+  visitaddress: Esplanaden 1
+  visitzip: 172 67
+  visitcity: Sundbyberg
+  telephone: '0771737300'
+  fax: ''
+  email: kontakt@kronofogden.se
+  web: https://www.kronofogden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:1333
+
+- orgNumber: 202100-1710
+  orgName: Kungliga Biblioteket
+  postaladdress: Box 5039
+  postalzip: 102 41
+  postalcity: Stockholm
+  visitaddress: Humlegårdsgatan 26
+  visitzip: 114 46
+  visitcity: Stockholm
+  telephone: 0107093000
+  fax: ''
+  email: kungl.biblioteket@kb.se
+  web: https://www.kb.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1421
+
+- orgNumber: 202100-2957
+  orgName: Kungliga Konsthögskolan
+  postaladdress: Box 16315
+  postalzip: 103 26
+  postalcity: Stockholm
+  visitaddress: Flaggmansvägen 1
+  visitzip: 111 49
+  visitcity: Stockholm
+  telephone: 086144000
+  fax: ''
+  email: info@kkh.se
+  web: https://www.kkh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-1215
+  orgName: Kungliga Musikhögskolan
+  postaladdress: Box 27711
+  postalzip: 115 91
+  postalcity: Stockholm
+  visitaddress: Valhallavägen 105
+  visitzip: 115 51
+  visitcity: Stockholm
+  telephone: 08161800
+  fax: ''
+  email: registrator@kmh.se
+  web: https://www.kmh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3054
+  orgName: Kungliga Tekniska Högskolan
+  postaladdress: ''
+  postalzip: 100 44
+  postalcity: Stockholm
+  visitaddress: Brinellvägen 8
+  visitzip: 114 28
+  visitcity: Stockholm
+  telephone: 087906000
+  fax: ''
+  email: registrator@kth.se
+  web: https://www.kth.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3997
+  orgName: Kustbevakningen
+  postaladdress: Box 536
+  postalzip: 371 23
+  postalcity: Karlskrona
+  visitaddress: Bastionsgatan 18
+  visitzip: 371 32
+  visitcity: Karlskrona
+  telephone: '0776707000'
+  fax: ''
+  email: registrator@kustbevakningen.se
+  web: https://www.kustbevakningen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2019:84
+
+- orgNumber: 202100-4904
+  orgName: Kärnavfallsfonden
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: Birger Jarlsgatan 16
+  visitzip: 114 34
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: karnavfallsfonden@kammarkollegiet.se
+  web: https://www.karnavfallsfonden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1055
+
+- orgNumber: 202100-5315
+  orgName: Lagrådet
+  postaladdress: Box 2066
+  postalzip: 103 12
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 5
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856166600
+  fax: ''
+  email: lagradet@dom.se
+  web: https://www.lagradet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2003:333
+
+- orgNumber: 202100-4888
+  orgName: Lantmäteriet
+  postaladdress: ''
+  postalzip: 801 82
+  postalcity: Gävle
+  visitaddress: Lantmäterigatan 2 C
+  visitzip: 802 64
+  visitcity: Gävle
+  telephone: '0771636363'
+  fax: ''
+  email: lantmateriet@lm.se
+  web: https://www.lantmateriet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:946
+
+- orgNumber: 202100-3096
+  orgName: Linköpings Universitet
+  postaladdress: ''
+  postalzip: 581 83
+  postalcity: Linköping
+  visitaddress: Mäster Mattias Väg 1
+  visitzip: 583 30
+  visitcity: Linköping
+  telephone: 013281000
+  fax: ''
+  email: registrator@liu.se
+  web: https://www.liu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-6271
+  orgName: Linnéuniversitetet
+  postaladdress: ''
+  postalzip: 351 95
+  postalcity: Växjö
+  visitaddress: Universitetsplatsen 1
+  visitzip: 352 52
+  visitcity: Växjö
+  telephone: 0772288000
+  fax: ''
+  email: info@lnu.se
+  web: https://www.lnu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-1850
+  orgName: Livsmedelsverket
+  postaladdress: Box 622
+  postalzip: 751 26
+  postalcity: Uppsala
+  visitaddress: Dag Hammarskjölds Väg 56 A
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: 018175500
+  fax: ''
+  email: livsmedelsverket@slv.se
+  web: https://www.livsmedelsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1426
+
+- orgNumber: 202100-6727
+  orgName: Lokala Säkerhetsnämnden Vid Barsebäck
+  postaladdress: ''
+  postalzip: 244 80
+  postalcity: Kävlinge
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Kävlinge
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.kavlinge.se/kommunochpolitik/sakerhetochkris/lokalasakerhetsnamndenkso.4.18214b0d140c4bc7c212480.html/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1054
+
+- orgNumber: 202100-6735
+  orgName: Lokala Säkerhetsnämnden Vid Forsmark
+  postaladdress: Box 66
+  postalzip: 742 21
+  postalcity: Östhammar
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Östhammar
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.osthammar.se/sv/organisation/namnd/lokala-sakerhetsnamnden//
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1054
+
+- orgNumber: 202100-6743
+  orgName: Lokala Säkerhetsnämnden Vid Oskarshamn
+  postaladdress: Box 706
+  postalzip: 572 28
+  postalcity: Oskarshamn
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Oskarshamn
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.oskarshamn.se/mer-om-kommunen/karnenergi-och-karnavfall/lokala-sakerhetsnamnden-vid-oskarshamns-karnkraftverk-och-karnenergiberedskap//
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1054
+
+- orgNumber: 202100-6750
+  orgName: Lokala Säkerhetsnämnden Vid Ringhals
+  postaladdress: ''
+  postalzip: 432 80
+  postalcity: Varberg
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Varberg
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.varberg.se/kommunpolitik/kommunensorganisation/lokalasakerhetsnamnden.4.12d3b98d13f7ba71e5a1edb.html/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1054
+
+- orgNumber: 202100-6768
+  orgName: Lokala Säkerhetsnämnden Vid Studsvik
+  postaladdress: ''
+  postalzip: 611 83
+  postalcity: Nyköping
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Nyköping
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.nykoping.se/kommun--politik/politik/namnder/lokala-sakerhetsnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1054
+
+- orgNumber: 202100-2841
+  orgName: Luleå Tekniska Universitet
+  postaladdress: ''
+  postalzip: 971 87
+  postalcity: Luleå
+  visitaddress: Universitetsområdet Porsön
+  visitzip: 977 54
+  visitcity: Luleå
+  telephone: 0920491000
+  fax: ''
+  email: registrator@ltu.se
+  web: https://www.ltu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3211
+  orgName: Lunds Universitet
+  postaladdress: Box 117
+  postalzip: 221 00
+  postalcity: Lund
+  visitaddress: Biskopsgatan 5
+  visitzip: 223 62
+  visitcity: Lund
+  telephone: '0462220000'
+  fax: ''
+  email: prefekt@arthist.lu.se
+  web: https://www.lu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-4078
+  orgName: Läkemedelsverket
+  postaladdress: Box 26
+  postalzip: 751 03
+  postalcity: Uppsala
+  visitaddress: Dag Hammarskjölds Väg 42
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: 018174600
+  fax: ''
+  email: registrator@lakemedelsverket.se
+  web: https://www.lakemedelsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2020:57
+
+- orgNumber: 202100-2320
+  orgName: Länsstyrelsen I Blekinge Län
+  postaladdress: ''
+  postalzip: 371 86
+  postalcity: Karlskrona
+  visitaddress: Skeppsbrokajen 4
+  visitzip: 371 33
+  visitcity: Karlskrona
+  telephone: '0102240000'
+  fax: ''
+  email: blekinge@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/blekinge/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2429
+  orgName: Länsstyrelsen I Dalarnas Län
+  postaladdress: ''
+  postalzip: 791 84
+  postalcity: Falun
+  visitaddress: Åsgatan 38
+  visitzip: 791 72
+  visitcity: Falun
+  telephone: '0102250000'
+  fax: ''
+  email: dalarna@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/dalarna/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2312
+  orgName: Länsstyrelsen I Gotlands Län
+  postaladdress: ''
+  postalzip: 621 85
+  postalcity: Visby
+  visitaddress: Visborgsallén 4
+  visitzip: 621 50
+  visitcity: Visby
+  telephone: 0102239000
+  fax: ''
+  email: gotland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/gotland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2437
+  orgName: Länsstyrelsen I Gävleborgs Län
+  postaladdress: ''
+  postalzip: 801 70
+  postalcity: Gävle
+  visitaddress: Borgmästarplan 2
+  visitzip: 802 66
+  visitcity: Gävle
+  telephone: '0102251000'
+  fax: ''
+  email: gavleborg@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/gavleborg/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2353
+  orgName: Länsstyrelsen I Hallands Län
+  postaladdress: ''
+  postalzip: 301 86
+  postalcity: Halmstad
+  visitaddress: Slottsgatan 2
+  visitzip: 302 42
+  visitcity: Halmstad
+  telephone: '0102243000'
+  fax: ''
+  email: halland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/halland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2452
+  orgName: Länsstyrelsen I Jämtlands Län
+  postaladdress: ''
+  postalzip: 831 86
+  postalcity: Östersund
+  visitaddress: Residensgränd 7
+  visitzip: 831 86
+  visitcity: Östersund
+  telephone: '0102253000'
+  fax: ''
+  email: jamtland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/jamtland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2288
+  orgName: Länsstyrelsen I Jönköpings Län
+  postaladdress: ''
+  postalzip: 551 86
+  postalcity: Jönköping
+  visitaddress: Hamngatan 4
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: '0102236000'
+  fax: ''
+  email: jonkoping@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/jonkoping/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2304
+  orgName: Länsstyrelsen I Kalmar Län
+  postaladdress: ''
+  postalzip: 391 86
+  postalcity: Kalmar
+  visitaddress: Regeringsgatan 1
+  visitzip: 392 31
+  visitcity: Kalmar
+  telephone: 0102238000
+  fax: ''
+  email: kalmar@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/kalmar/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2296
+  orgName: Länsstyrelsen I Kronobergs Län
+  postaladdress: ''
+  postalzip: 351 86
+  postalcity: Växjö
+  visitaddress: Kungsgatan 8
+  visitzip: 352 33
+  visitcity: Växjö
+  telephone: '0102237000'
+  fax: ''
+  email: kronoberg@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/kronoberg/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2478
+  orgName: Länsstyrelsen I Norrbottens Län
+  postaladdress: ''
+  postalzip: 971 86
+  postalcity: Luleå
+  visitaddress: Stationsgatan 5
+  visitzip: 972 38
+  visitcity: Luleå
+  telephone: '0102255000'
+  fax: ''
+  email: Norrbotten@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/norrbotten/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2346
+  orgName: Länsstyrelsen I Skåne Län
+  postaladdress: ''
+  postalzip: 205 15
+  postalcity: Malmö
+  visitaddress: Södergatan 5
+  visitzip: 211 34
+  visitcity: Malmö
+  telephone: '0102241000'
+  fax: ''
+  email: skane@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/skane/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2247
+  orgName: Länsstyrelsen I Stockholms Län
+  postaladdress: Box 22067
+  postalzip: 104 22
+  postalcity: Stockholm
+  visitaddress: Regeringsgatan 66
+  visitzip: 111 39
+  visitcity: Stockholm
+  telephone: '0102231000'
+  fax: ''
+  email: stockholm@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/stockholm/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2262
+  orgName: Länsstyrelsen I Södermanlands Län
+  postaladdress: ''
+  postalzip: 611 86
+  postalcity: Nyköping
+  visitaddress: Stora Torget 13
+  visitzip: 611 32
+  visitcity: Nyköping
+  telephone: '0102234000'
+  fax: ''
+  email: sodermanland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/sodermanland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2254
+  orgName: Länsstyrelsen I Uppsala Län
+  postaladdress: ''
+  postalzip: 751 86
+  postalcity: Uppsala
+  visitaddress: Bäverns Gränd 17
+  visitzip: 753 19
+  visitcity: Uppsala
+  telephone: '0102233000'
+  fax: ''
+  email: uppsala@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/uppsala/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2395
+  orgName: Länsstyrelsen I Värmlands Län
+  postaladdress: ''
+  postalzip: 651 86
+  postalcity: Karlstad
+  visitaddress: Våxnäsgatan 5
+  visitzip: 653 40
+  visitcity: Karlstad
+  telephone: '0102247000'
+  fax: ''
+  email: varmland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/varmland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2460
+  orgName: Länsstyrelsen I Västerbottens Län
+  postaladdress: ''
+  postalzip: 901 86
+  postalcity: Umeå
+  visitaddress: Storgatan 71 B
+  visitzip: 903 30
+  visitcity: Umeå
+  telephone: '0102254000'
+  fax: ''
+  email: vasterbotten@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/vasterbotten/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2445
+  orgName: Länsstyrelsen I Västernorrlands Län
+  postaladdress: ''
+  postalzip: 871 86
+  postalcity: Härnösand
+  visitaddress: Pumpbacksgatan 19
+  visitzip: 871 31
+  visitcity: Härnösand
+  telephone: 0611349000
+  fax: ''
+  email: vasternorrland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/vasternorrland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2411
+  orgName: Länsstyrelsen I Västmanlands Län
+  postaladdress: ''
+  postalzip: 721 86
+  postalcity: Västerås
+  visitaddress: Västra Ringvägen 1
+  visitzip: 722 11
+  visitcity: Västerås
+  telephone: 0102249000
+  fax: ''
+  email: vastmanland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/vastmanland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2361
+  orgName: Länsstyrelsen I Västra Götalands Län
+  postaladdress: ''
+  postalzip: 403 40
+  postalcity: Göteborg
+  visitaddress: Södra Hamngatan 3
+  visitzip: 411 14
+  visitcity: Göteborg
+  telephone: '0102244000'
+  fax: ''
+  email: vastragotaland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/vastragotaland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2403
+  orgName: Länsstyrelsen I Örebro Län
+  postaladdress: ''
+  postalzip: 701 86
+  postalcity: Örebro
+  visitaddress: Stortorget 22
+  visitzip: 702 11
+  visitcity: Örebro
+  telephone: 0102248000
+  fax: ''
+  email: orebro@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/orebro/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-2270
+  orgName: Länsstyrelsen I Östergötlands Län
+  postaladdress: ''
+  postalzip: 581 86
+  postalcity: Linköping
+  visitaddress: Östgötagatan 3
+  visitzip: 582 32
+  visitcity: Linköping
+  telephone: '0102235000'
+  fax: ''
+  email: ostergotland@lansstyrelsen.se
+  web: https://www.lansstyrelsen.se/ostergotland/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:868
+
+- orgNumber: 202100-4920
+  orgName: Malmö Universitet
+  postaladdress: ''
+  postalzip: 205 06
+  postalcity: Malmö
+  visitaddress: Nordenskiöldsgatan 1
+  visitzip: 211 19
+  visitcity: Malmö
+  telephone: '0406657000'
+  fax: ''
+  email: info@mau.se
+  web: https://www.mau.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-5174
+  orgName: Medlingsinstitutet
+  postaladdress: Box 1236
+  postalzip: 111 82
+  postalcity: Stockholm
+  visitaddress: Österlånggatan 43
+  visitzip: 111 31
+  visitcity: Stockholm
+  telephone: 0854529240
+  fax: ''
+  email: info@mi.se
+  web: https://www.mi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:912
+
+- orgNumber: 202100-2163
+  orgName: Migrationsverket
+  postaladdress: ''
+  postalzip: 601 70
+  postalcity: Norrköping
+  visitaddress: Slottsgatan 81-82
+  visitzip: 602 22
+  visitcity: Norrköping
+  telephone: '0771235235'
+  fax: ''
+  email: registraturen@migrationsverket.se
+  web: https://www.migrationsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2019:502
+
+- orgNumber: 202100-4524
+  orgName: Mittuniversitetet
+  postaladdress: ''
+  postalzip: 851 70
+  postalcity: Sundsvall
+  visitaddress: Holmgatan 10
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 0101428000
+  fax: ''
+  email: registrator@miun.se
+  web: https://www.miun.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-5091
+  orgName: Moderna Museet
+  postaladdress: Box 16382
+  postalzip: 103 27
+  postalcity: Stockholm
+  visitaddress: Exercisplan 4  Skeppsholmen
+  visitzip: 111 49
+  visitcity: Stockholm
+  telephone: 0852023500
+  fax: ''
+  email: registrator@modernamuseet.se
+  web: https://www.modernamuseet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1177
+
+- orgNumber: 202100-6875
+  orgName: Myndigheten För Arbetsmiljökunskap
+  postaladdress: Norra Slottsgatan 9
+  postalzip: 803 20
+  postalcity: Gävle
+  visitaddress: Drottninggatan 9  3Tr
+  visitzip: 803 20
+  visitcity: Gävle
+  telephone: 026148400
+  fax: ''
+  email: info@mynak.se
+  web: https://www.mynak.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2018:254
+
+- orgNumber: 202100-5588
+  orgName: Myndigheten För Delaktighet
+  postaladdress: Box 1210
+  postalzip: 172 24
+  postalcity: Sundbyberg
+  visitaddress: Sturegatan 3
+  visitzip: 172 31
+  visitcity: Sundbyberg
+  telephone: 086008400
+  fax: ''
+  email: info@mfd.se
+  web: https://www.mfd.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:134
+
+- orgNumber: 202100-6883
+  orgName: Myndigheten För Digital Förvaltning
+  postaladdress: Box 14
+  postalzip: 851 02
+  postalcity: Sundsvall
+  visitaddress: Storgatan 37
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: '0771114400'
+  fax: ''
+  email: info@digg.se
+  web: https://www.digg.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2018:1486
+
+- orgNumber: 202100-4169
+  orgName: Myndigheten För Familjerätt Och Föräldraskapsstöd
+  postaladdress: Box 35
+  postalzip: 931 21
+  postalcity: Skellefteå
+  visitaddress: Nygatan 40 B
+  visitzip: 931 31
+  visitcity: Skellefteå
+  telephone: 0854555680
+  fax: ''
+  email: info@mfof.se
+  web: https://www.mfof.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:292
+
+- orgNumber: 202100-6404
+  orgName: Myndigheten För Kulturanalys
+  postaladdress: Box 1001
+  postalzip: 405 21
+  postalcity: Göteborg
+  visitaddress: Södra Vägen 54
+  visitzip: 412 54
+  visitcity: Göteborg
+  telephone: 0313952000
+  fax: ''
+  email: info@kulturanalys.se
+  web: https://www.kulturanalys.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:124
+
+- orgNumber: 202100-6347
+  orgName: Myndigheten För Press, Radio Och Tv
+  postaladdress: Kabyssgatan 4 D Bv
+  postalzip: 120 30
+  postalcity: Stockholm
+  visitaddress: Hammarbybacken 31
+  visitzip: 120 30
+  visitcity: Stockholm
+  telephone: 0858007000
+  fax: ''
+  email: registrator@mprt.se
+  web: https://www.mprt.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1062
+
+- orgNumber: 202100-7014
+  orgName: Myndigheten För Psykologiskt Försvar
+  postaladdress: Våxnäsgatan 10
+  postalzip: 653 40
+  postalcity: Karlstad
+  visitaddress: Våxnäsgatan 10
+  visitzip: 653 40
+  visitcity: Karlstad
+  telephone: 0101837000
+  fax: ''
+  email: registrator@mpf.se
+  web: https://www.mpf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2021:936
+
+- orgNumber: 202100-5984
+  orgName: Myndigheten För Samhällsskydd Och Beredskap (Msb)
+  postaladdress: ''
+  postalzip: 651 81
+  postalcity: Karlstad
+  visitaddress: Packhusallén 2
+  visitzip: 652 12
+  visitcity: Karlstad
+  telephone: '0771240240'
+  fax: ''
+  email: registrator@msb.se
+  web: https://www.msb.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1002
+
+- orgNumber: 202100-5141
+  orgName: Myndigheten För Stöd Till Trossamfund
+  postaladdress: Box 14038
+  postalzip: 167 14
+  postalcity: Bromma
+  visitaddress: Gustavslundsvägen 18
+  visitzip: 167 51
+  visitcity: Bromma
+  telephone: 084536870
+  fax: ''
+  email: info@myndighetensst.se
+  web: https://www.myndighetensst.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:104
+
+- orgNumber: 202100-3591
+  orgName: Myndigheten För Tillgängliga Medier
+  postaladdress: Box 51
+  postalzip: 201 20
+  postalcity: Malmö
+  visitaddress: Hans Michelsensgatan 2
+  visitzip: 211 20
+  visitcity: Malmö
+  telephone: '0406532700'
+  fax: ''
+  email: info@mtm.se
+  web: https://www.mtm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:769
+
+- orgNumber: 202100-6164
+  orgName: Myndigheten För Tillväxtpolitiska Utvärderingar Och Analyser
+  postaladdress: Studentplan 3
+  postalzip: 831 40
+  postalcity: Östersund
+  visitaddress: Studentplan 3
+  visitzip: 831 40
+  visitcity: Östersund
+  telephone: '0104474400'
+  fax: ''
+  email: info@tillvaxtanalys.se
+  web: https://www.tillvaxtanalys.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:1048
+
+- orgNumber: 202100-1173
+  orgName: Myndigheten För Ungdoms-Och Civilsamhällesfrågor
+  postaladdress: Box 206
+  postalzip: 351 05
+  postalcity: Växjö
+  visitaddress: Liedbergsgatan 4
+  visitzip: 352 30
+  visitcity: Växjö
+  telephone: '0101601000'
+  fax: ''
+  email: info@mucf.se
+  web: https://www.mucf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2018:1425
+
+- orgNumber: 202100-6412
+  orgName: Myndigheten För Vård- Och Omsorgsanalys
+  postaladdress: Box 6070
+  postalzip: 102 31
+  postalcity: Stockholm
+  visitaddress: Drottninggatan 89
+  visitzip: 113 60
+  visitcity: Stockholm
+  telephone: 086904100
+  fax: ''
+  email: registrator@vardanalys.se
+  web: https://www.vardanalys.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1385
+
+- orgNumber: 202100-6230
+  orgName: Myndigheten För Yrkeshögskolan
+  postaladdress: Box 145
+  postalzip: 721 05
+  postalcity: Västerås
+  visitaddress: Ingenjör Bååths Gata 19
+  visitzip: 722 12
+  visitcity: Västerås
+  telephone: 0102090100
+  fax: ''
+  email: registrator@myh.se
+  web: https://www.myh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:1162
+
+- orgNumber: 202100-2916
+  orgName: Mälardalens Universitet
+  postaladdress: Box 883
+  postalzip: 721 23
+  postalcity: Västerås
+  visitaddress: Högskoleplan 1
+  visitzip: 722 20
+  visitcity: Västerås
+  telephone: '021101300'
+  fax: ''
+  email: registrator@mdh.se
+  web: https://www.mdu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-1108
+  orgName: Nationalmuseum
+  postaladdress: Box 16176
+  postalzip: 103 24
+  postalcity: Stockholm
+  visitaddress: Södra Blasieholmshamnen 2  Nationalmuseibyggnaden
+  visitzip: 111 48
+  visitcity: Stockholm
+  telephone: 0851954300
+  fax: ''
+  email: registrator@nationalmuseum.se
+  web: https://www.nationalmuseum.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1175
+
+- orgNumber: 202100-1124
+  orgName: Naturhistoriska Riksmuseet
+  postaladdress: Box 50007
+  postalzip: 104 05
+  postalcity: Stockholm
+  visitaddress: Frescativägen 40
+  visitzip: 114 18
+  visitcity: Stockholm
+  telephone: 0851954000
+  fax: ''
+  email: registrator@nrm.se
+  web: https://www.nrm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1176
+
+- orgNumber: 202100-1975
+  orgName: Naturvårdsverket
+  postaladdress: ''
+  postalzip: 106 48
+  postalcity: Stockholm
+  visitaddress: Virkesvägen 2
+  visitzip: 120 30
+  visitcity: Stockholm
+  telephone: 0106981000
+  fax: ''
+  email: registrator@naturvardsverket.se
+  web: https://www.naturvardsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:989
+
+- orgNumber: 202100-2726
+  orgName: Nordiska Afrikainstitutet
+  postaladdress: Box 1703
+  postalzip: 751 47
+  postalcity: Uppsala
+  visitaddress: Villavägen 6
+  visitzip: 752 36
+  visitcity: Uppsala
+  telephone: 0184715200
+  fax: ''
+  email: nai@nai.uu.se
+  web: https://www.nai.uu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1222
+
+- orgNumber: 202100-6032
+  orgName: Notarienämnden
+  postaladdress: Box 2203
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Jönköping
+  telephone: '036155300'
+  fax: ''
+  email: notarienamnden@dom.se
+  web: https://www.domstol.se/om-sveriges-domstolar/notarienamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1076
+
+- orgNumber: 202100-4144
+  orgName: Nämnden För Hemslöjdsfrågor
+  postaladdress: Box 4006
+  postalzip: 102 61
+  postalcity: Stockholm
+  visitaddress: Västgötagatan 5
+  visitzip: 118 27
+  visitcity: Stockholm
+  telephone: 086819353
+  fax: ''
+  email: nfh@nfh.se
+  web: https://www.nfh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1193
+
+- orgNumber: 202100-6933
+  orgName: Nämnden För Prövning Av Oredlighet I Forskning
+  postaladdress: Box 2110
+  postalzip: 750 02
+  postalcity: Uppsala
+  visitaddress: Dag Hammarskjölds Väg 7
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: ''
+  fax: ''
+  email: registrator@oredlighetsprovning.se
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2019:1152
+
+- orgNumber: 202100-5786
+  orgName: Nämnden För Styrelserepresentationsfrågor
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: ''
+  web: https://www.regeringen.se/myndigheter-med-flera/namnden-for-styrelserepresentationsfragor/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:909
+
+- orgNumber: 202100-6206
+  orgName: Nämnden Mot Diskriminering
+  postaladdress: Box 2066
+  postalzip: 103 12
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 0856166668
+  fax: ''
+  email: kansliet@namndenmotdiskriminering.se
+  web: https://www.namndenmotdiskriminering.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1328
+
+- orgNumber: 202100-6776
+  orgName: Oljekrisnämnden
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: ''
+  fax: ''
+  email: info@oljekrisnamnden.se
+  web: https://www.regeringen.se/myndigheter-med-flera/oljekrisnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1152
+
+- orgNumber: 202100-2072
+  orgName: Patent- Och Registreringsverket
+  postaladdress: Box 5055
+  postalzip: 102 42
+  postalcity: Stockholm
+  visitaddress: Valhallavägen 136
+  visitzip: 114 41
+  visitcity: Stockholm
+  telephone: 087822800
+  fax: ''
+  email: prv@prv.se
+  web: https://www.prv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1111
+
+- orgNumber: 202100-6370
+  orgName: Patentombudsnämnden
+  postaladdress: Box 46
+  postalzip: 851 02
+  postalcity: Sundsvall
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: '0771670670'
+  fax: ''
+  email: patentombudsnamnden@patentombudsnamnden.se
+  web: https://www.bolagsverket.se/om/oss/fler/patentombud/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1054
+
+- orgNumber: 202100-6255
+  orgName: Pensionsmyndigheten
+  postaladdress: Box 38190
+  postalzip: 100 64
+  postalcity: Stockholm
+  visitaddress: Hornsgatan 168
+  visitzip: 117 28
+  visitcity: Stockholm
+  telephone: '0771771771'
+  fax: ''
+  email: registrator@pensionsmyndigheten.se
+  web: https://www.pensionsmyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1173
+
+- orgNumber: 202100-4060
+  orgName: Polarforskningssekretariatet
+  postaladdress: ''
+  postalzip: 971 87
+  postalcity: Luleå
+  visitaddress: Vintergatan 2
+  visitzip: 977 54
+  visitcity: Luleå
+  telephone: 0705502393
+  fax: ''
+  email: office@polar.se
+  web: https://www.polar.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1072
+
+- orgNumber: 202100-0076
+  orgName: Polismyndigheten
+  postaladdress: Box 12256
+  postalzip: 102 26
+  postalcity: Stockholm
+  visitaddress: Polhemsgatan 30
+  visitzip: 112 30
+  visitcity: Stockholm
+  telephone: '11414'
+  fax: ''
+  email: registrator.kansli@polisen.se
+  web: https://www.polisen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:1102
+
+- orgNumber: 202100-4359
+  orgName: Post- Och Telestyrelsen
+  postaladdress: Box 5398
+  postalzip: 102 49
+  postalcity: Stockholm
+  visitaddress: Valhallavägen 117 A
+  visitzip: 115 31
+  visitcity: Stockholm
+  telephone: 086785500
+  fax: ''
+  email: pts@pts.se
+  web: https://www.pts.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:951
+
+- orgNumber: 202100-3831
+  orgName: Regeringskansliet
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: Herkulesgatan 17
+  visitzip: 111 52
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: forvaltningsavdelningen.registrator@regeringskansliet.se
+  web: https://www.regeringen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1996:1515
+
+- orgNumber: 202100-4805
+  orgName: Revisorsinspektionen
+  postaladdress: Box 24014
+  postalzip: 104 50
+  postalcity: Stockholm
+  visitaddress: Karlavägen 104
+  visitzip: 115 26
+  visitcity: Stockholm
+  telephone: 087384600
+  fax: ''
+  email: ri@revisorsinspektionen.se
+  web: https://www.revisorsinspektionen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1077
+
+- orgNumber: 202100-1090
+  orgName: Riksantikvarieämbetet
+  postaladdress: Box 1114
+  postalzip: 621 22
+  postalcity: Visby
+  visitaddress: Storgatan 41
+  visitzip: 114 55
+  visitcity: Stockholm
+  telephone: 0851918000
+  fax: ''
+  email: registrator@raa.se
+  web: https://www.raa.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:1585
+
+- orgNumber: 202100-1074
+  orgName: Riksarkivet
+  postaladdress: Box 7223
+  postalzip: 187 13
+  postalcity: Täby
+  visitaddress: Mätslingan 17
+  visitzip: 187 66
+  visitcity: Täby
+  telephone: '0104767000'
+  fax: ''
+  email: riksarkivet@riksarkivet.se
+  web: https://www.riksarkivet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1593
+
+- orgNumber: 202100-2635
+  orgName: Riksgäldskontoret
+  postaladdress: ''
+  postalzip: 103 74
+  postalcity: Stockholm
+  visitaddress: Olof Palmes Gata 17
+  visitzip: 111 22
+  visitcity: Stockholm
+  telephone: 086134500
+  fax: ''
+  email: riksgalden@riksgalden.se
+  web: https://www.riksgalden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1447
+
+- orgNumber: 202100-6784
+  orgName: Riksvärderingsnämnden
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:859
+
+- orgNumber: 202100-2585
+  orgName: Rymdstyrelsen
+  postaladdress: Box 4006
+  postalzip: 171 04
+  postalcity: Solna
+  visitaddress: Hemvärnsgatan 15
+  visitzip: 171 54
+  visitcity: Solna
+  telephone: 0840907700
+  fax: ''
+  email: rymdstyrelsen@snsa.se
+  web: https://www.rymdstyrelsen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1115
+
+- orgNumber: 202100-6008
+  orgName: Rättshjälpnämnden
+  postaladdress: Box 170
+  postalzip: 851 03
+  postalcity: Sundsvall
+  visitaddress: Södra Tjärngatan 2
+  visitzip: 852 37
+  visitcity: Sundsvall
+  telephone: 060186891
+  fax: ''
+  email: rattshjalpsnamnden@dom.se
+  web: https://www.domstol.se/rattshjalpsnamnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1079
+
+- orgNumber: 202100-6016
+  orgName: Rättshjälpsmyndigheten
+  postaladdress: Box 853
+  postalzip: 851 24
+  postalcity: Sundsvall
+  visitaddress: Storgatan 39
+  visitzip: 852 30
+  visitcity: Sundsvall
+  telephone: '060134600'
+  fax: ''
+  email: rattshjalpsmyndigheten@dom.se
+  web: https://www.rattshjalp.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1078
+
+- orgNumber: 202100-4227
+  orgName: Rättsmedicinalverket
+  postaladdress: Box 206
+  postalzip: 101 24
+  postalcity: Stockholm
+  visitaddress: Klarabergsviadukten 90  Hus D, Plan 7
+  visitzip: 111 64
+  visitcity: Stockholm
+  telephone: 0104834100
+  fax: ''
+  email: rmv@rmv.se
+  web: https://www.rmv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:976
+
+- orgNumber: 202100-4631
+  orgName: Sameskolstyrelsen
+  postaladdress: Box 155
+  postalzip: 962 24
+  postalcity: Jokkmokk
+  visitaddress: Lärargatan 2
+  visitzip: 962 31
+  visitcity: Jokkmokk
+  telephone: 097144200
+  fax: ''
+  email: sameskolstyrelsen@sameskolstyrelsen.se
+  web: https://www.sameskolstyrelsen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:131
+
+- orgNumber: 202100-4573
+  orgName: Sametinget
+  postaladdress: Box 90
+  postalzip: 981 22
+  postalcity: Kiruna
+  visitaddress: Adolf Hedinsvägen 58
+  visitzip: 981 33
+  visitcity: Kiruna
+  telephone: 098078030
+  fax: ''
+  email: kansli@sametinget.se
+  web: https://www.sametinget.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1395
+
+- orgNumber: 202100-4789
+  orgName: Sida
+  postaladdress: ''
+  postalzip: 105 25
+  postalcity: Stockholm
+  visitaddress: Valhallavägen 199
+  visitzip: 115 53
+  visitcity: Stockholm
+  telephone: 086985000
+  fax: ''
+  email: sida@sida.se
+  web: https://www.sida.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1080
+
+- orgNumber: 202100-5901
+  orgName: Skatterättsnämnden
+  postaladdress: Box 24144
+  postalzip: 104 51
+  postalcity: Stockholm
+  visitaddress: Karlavägen 108
+  visitzip: 115 26
+  visitcity: Stockholm
+  telephone: 0105747957
+  fax: ''
+  email: kansliet@skatterattsnamnden.se
+  web: https://www.skatterattsnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:785
+
+- orgNumber: 202100-5448
+  orgName: Skatteverket
+  postaladdress: ''
+  postalzip: 205 30
+  postalcity: Malmö
+  visitaddress: Sturegatan 2-4
+  visitzip: 172 31
+  visitcity: Sundbyberg
+  telephone: '0771567567'
+  fax: ''
+  email: registrator@skatteverket.se
+  web: https://www.skatteverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2017:154
+
+- orgNumber: 202100-5869
+  orgName: Skiljenämnden I Vissa Trygghetsfrågor
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: registratur@kammarkollegiet.se
+  web: https://www.kammarkollegiet.se/kammarkollegiet/vi-arbetar-ocksa-med/naemndmyndigheter/skiljenaemnden-i-vissa-trygghetsfragor/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:830
+
+- orgNumber: 202100-5612
+  orgName: Skogsstyrelsen
+  postaladdress: ''
+  postalzip: 551 83
+  postalcity: Jönköping
+  visitaddress: Skeppsbrogatan 2
+  visitzip: 553 29
+  visitcity: Jönköping
+  telephone: 036359300
+  fax: ''
+  email: skogsstyrelsen@skogsstyrelsen.se
+  web: https://www.skogsstyrelsen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1393
+
+- orgNumber: 202100-6602
+  orgName: Skolforskningsinstitutet
+  postaladdress: Box 1009
+  postalzip: 171 21
+  postalcity: Solna
+  visitaddress: Hemvärnsgatan 15
+  visitzip: 171 54
+  visitcity: Solna
+  telephone: 0852729800
+  fax: ''
+  email: info@skolfi.se
+  web: https://www.skolfi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:1578
+
+- orgNumber: 202100-5729
+  orgName: Skolväsendets Överklagandenämnd
+  postaladdress: Box 23069
+  postalzip: 104 35
+  postalcity: Stockholm
+  visitaddress: Sveavägen 159
+  visitzip: 113 46
+  visitcity: Stockholm
+  telephone: 087297760
+  fax: ''
+  email: overklagandenamnden@overklagandenamnden.se
+  web: https://www.overklagandenamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:948
+
+- orgNumber: 202100-0555
+  orgName: Socialstyrelsen
+  postaladdress: ''
+  postalzip: 106 30
+  postalcity: Stockholm
+  visitaddress: Rålambsvägen 3
+  visitzip: 112 59
+  visitcity: Stockholm
+  telephone: '0752473000'
+  fax: ''
+  email: socialstyrelsen@socialstyrelsen.se
+  web: https://www.socialstyrelsen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:284
+
+- orgNumber: 202100-5745
+  orgName: Specialpedagogiska Skolmyndigheten
+  postaladdress: Box 1100
+  postalzip: 871 29
+  postalcity: Härnösand
+  visitaddress: Nybrogatan 14 C
+  visitzip: 871 31
+  visitcity: Härnösand
+  telephone: '0104735000'
+  fax: ''
+  email: spsm@spsm.se
+  web: https://www.spsm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:130
+
+- orgNumber: 202100-3310
+  orgName: Spelinspektionen
+  postaladdress: Box 199
+  postalzip: 645 23
+  postalcity: Strängnäs
+  visitaddress: Finningevägen 54 B
+  visitzip: 645 42
+  visitcity: Strängnäs
+  telephone: '0152650100'
+  fax: ''
+  email: registrator@spelinspektionen.se
+  web: https://www.lotteriinspektionen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:756
+
+- orgNumber: 202100-5836
+  orgName: Statens Ansvarsnämnd
+  postaladdress: Box 2290
+  postalzip: 103 17
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 16  Riddarholmen
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856167131
+  fax: ''
+  email: statensansvarsnamnd@dom.se
+  web: https://www.statensansvarsnamnd.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:831
+
+- orgNumber: 202100-4417
+  orgName: Statens Beredning För Medicinsk Och Social Utvärdering
+  postaladdress: Box 6183
+  postalzip: 102 33
+  postalcity: Stockholm
+  visitaddress: Sankt Eriksgatan 117
+  visitzip: 113 43
+  visitcity: Stockholm
+  telephone: 084123200
+  fax: ''
+  email: registrator@sbu.se
+  web: https://www.sbu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1233
+
+- orgNumber: 202100-3427
+  orgName: Statens Centrum För Arkitektur Och Design
+  postaladdress: Box 16410
+  postalzip: 103 27
+  postalcity: Stockholm
+  visitaddress: Exercisplan 4  Skeppsholmen
+  visitzip: 111 49
+  visitcity: Stockholm
+  telephone: 0852023500
+  fax: ''
+  email: info@arkdes.se
+  web: https://www.arkdes.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2013:71
+
+- orgNumber: 202100-5000
+  orgName: Statens Energimyndighet
+  postaladdress: Box 310
+  postalzip: 631 04
+  postalcity: Eskilstuna
+  visitaddress: Gredbyvägen 10
+  visitzip: 632 21
+  visitcity: Eskilstuna
+  telephone: '0165442000'
+  fax: ''
+  email: registrator@energimyndigheten.se
+  web: https://www.energimyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:520
+
+- orgNumber: 202100-4474
+  orgName: Statens Fastighetsverk
+  postaladdress: Box 2263
+  postalzip: 103 16
+  postalcity: Stockholm
+  visitaddress: Sankt Paulsgatan 6
+  visitzip: 118 46
+  visitcity: Stockholm
+  telephone: 0104787000
+  fax: ''
+  email: sfv@sfv.se
+  web: https://www.sfv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:757
+
+- orgNumber: 202100-0464
+  orgName: Statens Försvarshistoriska Museer
+  postaladdress: Box 14095
+  postalzip: 104 41
+  postalcity: Stockholm
+  visitaddress: Riddargatan 13
+  visitzip: 114 51
+  visitcity: Stockholm
+  telephone: 0851956310
+  fax: ''
+  email: info@sfhm.se
+  web: https://www.sfhm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1178
+
+- orgNumber: 202100-0712
+  orgName: Statens Geotekniska Institut
+  postaladdress: ''
+  postalzip: 581 93
+  postalcity: Linköping
+  visitaddress: Olaus Magnus Väg 35
+  visitzip: 583 30
+  visitcity: Linköping
+  telephone: 013201800
+  fax: ''
+  email: sgi@sgi.se
+  web: https://www.swedgeo.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:945
+
+- orgNumber: 202100-3260
+  orgName: Statens Haverikommission
+  postaladdress: Box 6014
+  postalzip: 102 31
+  postalcity: Stockholm
+  visitaddress: Sveavägen 151  Plan 6
+  visitzip: 113 46
+  visitcity: Stockholm
+  telephone: 0850886200
+  fax: ''
+  email: info@havkom.se
+  web: https://www.havkom.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:860
+
+- orgNumber: 202100-4953
+  orgName: Statens Historiska Museer
+  postaladdress: Box 5428
+  postalzip: 114 84
+  postalcity: Stockholm
+  visitaddress: Storgatan 41
+  visitzip: 114 55
+  visitcity: Stockholm
+  telephone: 0851955600
+  fax: ''
+  email: registrator@shm.se
+  web: https://www.shm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:1079
+
+- orgNumber: 202100-6214
+  orgName: Statens Inspektion För Försvarsunderrättelseverksamheten (Siun)
+  postaladdress: Box 1140
+  postalzip: 164 22
+  postalcity: Kista
+  visitaddress: Gullfossgatan 6
+  visitzip: 164 40
+  visitcity: Kista
+  telephone: 0855504550
+  fax: ''
+  email: registrator@siun.se
+  web: https://www.siun.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:969
+
+- orgNumber: 202100-4508
+  orgName: Statens Institutionsstyrelse
+  postaladdress: Box 1062
+  postalzip: 171 22
+  postalcity: Solna
+  visitaddress: Svetsarvägen 10  4Tr
+  visitzip: 171 41
+  visitcity: Solna
+  telephone: '0104534000'
+  fax: ''
+  email: registrator@stat-inst.se
+  web: https://www.stat-inst.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1132
+
+- orgNumber: 202100-4151
+  orgName: Statens Jordbruksverk
+  postaladdress: Skeppsbrogatan 2
+  postalzip: 553 29
+  postalcity: Jönköping
+  visitaddress: Skeppsbrogatan 2
+  visitzip: 553 29
+  visitcity: Jönköping
+  telephone: '036155000'
+  fax: ''
+  email: jordbruksverket@jordbruksverket.se
+  web: https://www.jordbruksverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1464
+
+- orgNumber: 202100-1033
+  orgName: Statens Konstråd
+  postaladdress: Hälsingegatan 45
+  postalzip: 113 31
+  postalcity: Stockholm
+  visitaddress: Hälsingegatan 45
+  visitzip: 113 31
+  visitcity: Stockholm
+  telephone: 084401280
+  fax: ''
+  email: registrator@statenskonstrad.se
+  web: https://www.statenskonstrad.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1188
+
+- orgNumber: 202100-1280
+  orgName: Statens Kulturråd
+  postaladdress: Box 27215
+  postalzip: 102 53
+  postalcity: Stockholm
+  visitaddress: Borgvägen 1-5
+  visitzip: 115 53
+  visitcity: Stockholm
+  telephone: 0851926400
+  fax: ''
+  email: kulturradet@kulturradet.se
+  web: https://www.kulturradet.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:515
+
+- orgNumber: 202100-1132
+  orgName: Statens Maritima Och Transporthistoriska Museer
+  postaladdress: Box 48
+  postalzip: 371 21
+  postalcity: Karlskrona
+  visitaddress: Stumholmen
+  visitzip: 371 32
+  visitcity: Karlskrona
+  telephone: 0455359300
+  fax: ''
+  email: registrator@smtm.se
+  web: https://www.smtm.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1198
+
+- orgNumber: 202100-6396
+  orgName: Statens Medieråd
+  postaladdress: Box 27204
+  postalzip: 102 53
+  postalcity: Stockholm
+  visitaddress: Borgvägen 1  Plan 5
+  visitzip: 102 53
+  visitcity: Stockholm
+  telephone: 086651460
+  fax: ''
+  email: registrator@statensmedierad.se
+  web: https://www.statensmedierad.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1923
+
+- orgNumber: 202100-5075
+  orgName: Statens Museer För Världskultur
+  postaladdress: Box 5306
+  postalzip: 402 27
+  postalcity: Göteborg
+  visitaddress: Södra Vägen 54
+  visitzip: 412 54
+  visitcity: Göteborg
+  telephone: '0104561200'
+  fax: ''
+  email: registrator@varldskulturmuseerna.se
+  web: https://www.varldskulturmuseerna.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1185
+
+- orgNumber: 202100-3666
+  orgName: Statens Musikverk
+  postaladdress: Box 16326
+  postalzip: 103 26
+  postalcity: Stockholm
+  visitaddress: Sibyllegatan 2
+  visitzip: 114 51
+  visitcity: Stockholm
+  telephone: 0851955450
+  fax: ''
+  email: registrator@musikverket.se
+  web: https://www.musikverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1922
+
+- orgNumber: 202100-5778
+  orgName: Statens Nämnd För Arbetstagares Uppfinningar
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: ''
+  web: https://www.regeringen.se/myndigheter-med-flera/statens-namnd-for-arbetstagares-uppfinningar2//
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:908
+
+- orgNumber: 202100-6453
+  orgName: Statens Servicecenter
+  postaladdress: Fe 15
+  postalzip: 801 71
+  postalcity: Gävle
+  visitaddress: Ruddammsgatan 30
+  visitzip: 803 20
+  visitcity: Gävle
+  telephone: '0771456000'
+  fax: ''
+  email: registrator@statenssc.se
+  web: https://www.statenssc.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:208
+
+- orgNumber: 202100-5828
+  orgName: Statens Skaderegleringsnämnd
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 087000800
+  fax: ''
+  email: ''
+  web: https://http://www.kammarkollegiet.se/n-mndmyndigheter/skaderegleringsn-mnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:826
+
+- orgNumber: 202100-6065
+  orgName: Statens Skolinspektion
+  postaladdress: Box 23069
+  postalzip: 104 35
+  postalcity: Stockholm
+  visitaddress: Sveavägen 159
+  visitzip: 113 46
+  visitcity: Stockholm
+  telephone: 0858608000
+  fax: ''
+  email: skolinspektionen@skolinspektionen.se
+  web: https://www.skolinspektionen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2011:556
+
+- orgNumber: 202100-4185
+  orgName: Statens Skolverk
+  postaladdress: Box 4002
+  postalzip: 171 04
+  postalcity: Solna
+  visitaddress: Svetsarvägen 1
+  visitzip: 171 41
+  visitcity: Solna
+  telephone: 0852733200
+  fax: ''
+  email: registrator@skolverket.se
+  web: https://www.skolverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:1047
+
+- orgNumber: 202100-5851
+  orgName: Statens Tjänstepensions- Och Grupplivnämnd
+  postaladdress: ''
+  postalzip: 851 90
+  postalcity: Sundsvall
+  visitaddress: Jägargatan 1
+  visitzip: 852 37
+  visitcity: Sundsvall
+  telephone: '020650065'
+  fax: ''
+  email: kundservice@spv.se
+  web: https://www.spv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:833
+
+- orgNumber: 202100-0928
+  orgName: Statens Tjänstepensionsverk
+  postaladdress: ''
+  postalzip: 851 90
+  postalcity: Sundsvall
+  visitaddress: Jägargatan 1
+  visitzip: 852 37
+  visitcity: Sundsvall
+  telephone: 060187400
+  fax: ''
+  email: kundservice@spv.se
+  web: https://www.spv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:832
+
+- orgNumber: 202100-1868
+  orgName: Statens Veterinärmedicinska Anstalt
+  postaladdress: ''
+  postalzip: 751 89
+  postalcity: Uppsala
+  visitaddress: Ulls Väg 2
+  visitzip: 756 51
+  visitcity: Uppsala
+  telephone: 018674000
+  fax: ''
+  email: sva@sva.se
+  web: https://www.sva.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1394
+
+- orgNumber: 202100-0704
+  orgName: Statens Väg- Och Transportforskningsinstitut
+  postaladdress: ''
+  postalzip: 581 95
+  postalcity: Linköping
+  visitaddress: Olaus Magnus Väg 35
+  visitzip: 583 30
+  visitcity: Linköping
+  telephone: '013204000'
+  fax: ''
+  email: vti@vti.se
+  web: https://www.vti.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:964
+
+- orgNumber: 202100-4763
+  orgName: Statens Överklagandenämnd
+  postaladdress: Box 2218
+  postalzip: 103 15
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: 087000800
+  fax: ''
+  email: registratur@kammarkollegiet.se
+  web: https://www.kammarkollegiet.se/namndmyndigheter/statens-overklagandenamnd/om-namnden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:835
+
+- orgNumber: 202100-0837
+  orgName: Statistiska Centralbyrån
+  postaladdress: ''
+  postalzip: 701 89
+  postalcity: Örebro
+  visitaddress: Klostergatan 23
+  visitzip: 703 61
+  visitcity: Örebro
+  telephone: 0104794000
+  fax: ''
+  email: scb@scb.se
+  web: https://www.scb.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:822
+
+- orgNumber: 202100-0852
+  orgName: Statskontoret
+  postaladdress: Box 396
+  postalzip: 101 27
+  postalcity: Stockholm
+  visitaddress: Torsgatan 11
+  visitzip: 111 23
+  visitcity: Stockholm
+  telephone: 084544600
+  fax: ''
+  email: registrator@statskontoret.se
+  web: https://www.statskontoret.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:827
+
+- orgNumber: 202100-6560
+  orgName: Stockholms Konstnärliga Högskola
+  postaladdress: Box 24045
+  postalzip: 104 50
+  postalcity: Stockholm
+  visitaddress: Valhallavägen 189
+  visitzip: 115 53
+  visitcity: Stockholm
+  telephone: 0849400000
+  fax: ''
+  email: registrator@uniarts.se
+  web: https://www.uniarts.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-3062
+  orgName: Stockholms Universitet
+  postaladdress: ''
+  postalzip: 106 91
+  postalcity: Stockholm
+  visitaddress: Universitetsvägen 10 A
+  visitzip: 114 18
+  visitcity: Stockholm
+  telephone: 08162000
+  fax: ''
+  email: registrator@su.se
+  web: https://www.su.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-5737
+  orgName: Strålsäkerhetsmyndigheten
+  postaladdress: ''
+  postalzip: 171 16
+  postalcity: Stockholm
+  visitaddress: Hantverkaregatan 1-3
+  visitzip: 641 30
+  visitcity: Katrineholm
+  telephone: 087994000
+  fax: ''
+  email: registrator@ssm.se
+  web: https://www.stralsakerhetsmyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:452
+
+- orgNumber: 202100-3815
+  orgName: Styrelsen För Ackreditering Och Teknisk Kontroll
+  postaladdress: Box 878
+  postalzip: 501 15
+  postalcity: Borås
+  visitaddress: Österlånggatan 9
+  visitzip: 503 31
+  visitcity: Borås
+  telephone: 0771990900
+  fax: ''
+  email: registrator@swedac.se
+  web: https://www.swedac.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:895
+
+- orgNumber: 202100-6800
+  orgName: Styrelsen För Samefonden
+  postaladdress: Box 90
+  postalzip: 981 22
+  postalcity: Kiruna
+  visitaddress: Adolf Hedinsvägen 58
+  visitzip: 981 33
+  visitcity: Kiruna
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https://www.sametinget.se/samefonden/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:384
+
+- orgNumber: 202100-5224
+  orgName: Svenska Esf-Rådet
+  postaladdress: Box 397
+  postalzip: 801 05
+  postalcity: Gävle
+  visitaddress: Drottninggatan 9  3Tr
+  visitzip: 803 20
+  visitcity: Gävle
+  telephone: 020333390
+  fax: ''
+  email: esf@esf.se
+  web: https://www.esf.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:907
+
+- orgNumber: 202100-6818
+  orgName: Svenska Fao-Kommittén
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: 084051000
+  fax: ''
+  email: karin.stalhammar@regeringskansliet.se
+  web: https://www.svenskafaokommitten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1995:1100
+
+- orgNumber: 202100-4961
+  orgName: Svenska Institutet
+  postaladdress: Box 9
+  postalzip: 121 21
+  postalcity: Johanneshov
+  visitaddress: Virkesvägen 2
+  visitzip: 120 30
+  visitcity: Stockholm
+  telephone: 084537800
+  fax: ''
+  email: si@si.se
+  web: https://www.si.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:152
+
+- orgNumber: 202100-5331
+  orgName: Svenska Institutet För Europapolitiska Studier
+  postaladdress: Box 55
+  postalzip: 101 21
+  postalcity: Stockholm
+  visitaddress: Torsgatan 11
+  visitzip: 111 23
+  visitcity: Stockholm
+  telephone: 0858644700
+  fax: ''
+  email: info@sieps.se
+  web: https://www.sieps.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:748
+
+- orgNumber: 202100-3583
+  orgName: Sveriges Författarfond
+  postaladdress: Box 6243
+  postalzip: 102 34
+  postalcity: Stockholm
+  visitaddress: Sveavägen 82  2Tr
+  visitzip: 113 59
+  visitcity: Stockholm
+  telephone: 084404550
+  fax: ''
+  email: svff@svff.se
+  web: https://www.svff.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1962:652
+
+- orgNumber: 202100-2528
+  orgName: Sveriges Geologiska Undersökning
+  postaladdress: Box 670
+  postalzip: 751 28
+  postalcity: Uppsala
+  visitaddress: Villavägen 18
+  visitzip: 752 36
+  visitcity: Uppsala
+  telephone: 018179000
+  fax: ''
+  email: sgu@sgu.se
+  web: https://www.sgu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1233
+
+- orgNumber: 202100-2817
+  orgName: Sveriges Lantbruksuniversitet
+  postaladdress: Box 7070
+  postalzip: 750 07
+  postalcity: Uppsala
+  visitaddress: Almas Allé 8  Ulls Hus
+  visitzip: 756 51
+  visitcity: Uppsala
+  telephone: 018671000
+  fax: ''
+  email: registrator@slu.se
+  web: https://www.slu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:221
+
+- orgNumber: 202100-0696
+  orgName: Sveriges Meteorologiska Och Hydrologiska Institut
+  postaladdress: ''
+  postalzip: 601 76
+  postalcity: Norrköping
+  visitaddress: Folkborgsvägen 17
+  visitzip: 603 82
+  visitcity: Norrköping
+  telephone: 0114958000
+  fax: ''
+  email: smhi@smhi.se
+  web: https://www.smhi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:974
+
+- orgNumber: 202100-5703
+  orgName: Säkerhets- Och Integritetsskyddsnämnden
+  postaladdress: Box 22523
+  postalzip: 104 22
+  postalcity: Stockholm
+  visitaddress: Norr Mälarstrand 6  3 Tr
+  visitzip: 112 20
+  visitcity: Stockholm
+  telephone: 0106179800
+  fax: ''
+  email: sakint@sakint.se
+  web: https://www.sakint.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1141
+
+- orgNumber: 202100-6594
+  orgName: Säkerhetspolisen
+  postaladdress: Box 12312
+  postalzip: 102 28
+  postalcity: Stockholm
+  visitaddress: Bolstomtavägen 2
+  visitzip: 171 69
+  visitcity: Solna
+  telephone: 0105687000
+  fax: ''
+  email: sakerhetspolisen@sakerhetspolisen.se
+  web: https://www.sakerhetspolisen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2014:1103
+
+- orgNumber: 202100-4896
+  orgName: Södertörns Högskola
+  postaladdress: ''
+  postalzip: 141 89
+  postalcity: Huddinge
+  visitaddress: Alfred Nobels Allé 7
+  visitzip: 141 52
+  visitcity: Huddinge
+  telephone: 086084000
+  fax: ''
+  email: registrator@sh.se
+  web: https://www.sh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-5364
+  orgName: Tandvårds-Och Läkemedelsförmånsverket, Tlv
+  postaladdress: Box 22520
+  postalzip: 104 22
+  postalcity: Stockholm
+  visitaddress: Fleminggatan 18
+  visitzip: 112 26
+  visitcity: Stockholm
+  telephone: 0856842050
+  fax: ''
+  email: registrator@tlv.se
+  web: https://www.tlv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1206
+
+- orgNumber: 202100-6149
+  orgName: Tillväxtverket
+  postaladdress: Box 4044
+  postalzip: 102 61
+  postalcity: Stockholm
+  visitaddress: Västgötagatan 5
+  visitzip: 118 27
+  visitcity: Stockholm
+  telephone: 086819100
+  fax: ''
+  email: tillvaxtverket@tillvaxtverket.se
+  web: https://www.tillvaxtverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:145
+
+- orgNumber: 202100-5182
+  orgName: Totalförsvarets Forskningsinstitut, Foi
+  postaladdress: ''
+  postalzip: 164 90
+  postalcity: Stockholm
+  visitaddress: Gullfossgatan 12
+  visitzip: 164 40
+  visitcity: Kista
+  telephone: 0855503000
+  fax: ''
+  email: registrator@foi.se
+  web: https://www.foi.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:861
+
+- orgNumber: 202100-4771
+  orgName: Totalförsvarets Plikt- Och Prövningsverk
+  postaladdress: Box 31
+  postalzip: 651 02
+  postalcity: Karlstad
+  visitaddress: Gustaf Anders Gata 13
+  visitzip: 653 40
+  visitcity: Karlstad
+  telephone: '0771244030'
+  fax: ''
+  email: exp@pliktverket.se
+  web: https://www.pliktverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:1472
+
+- orgNumber: 202100-6305
+  orgName: Trafikanalys
+  postaladdress: Rosenlundsgatan 54
+  postalzip: 118 63
+  postalcity: Stockholm
+  visitaddress: Rosenlundsgatan 54
+  visitzip: 118 63
+  visitcity: Stockholm
+  telephone: '0104144200'
+  fax: ''
+  email: trafikanalys@trafa.se
+  web: https://www.trafa.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:186
+
+- orgNumber: 202100-6297
+  orgName: Trafikverket
+  postaladdress: ''
+  postalzip: 781 89
+  postalcity: Borlänge
+  visitaddress: Röda Vägen 1
+  visitzip: 781 70
+  visitcity: Borlänge
+  telephone: 0771921921
+  fax: ''
+  email: trafikverket@trafikverket.se
+  web: https://www.trafikverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:185
+
+- orgNumber: 202100-6099
+  orgName: Transportstyrelsen
+  postaladdress: ''
+  postalzip: 601 73
+  postalcity: Norrköping
+  visitaddress: Olai Kyrkogata 35
+  visitzip: 602 32
+  visitcity: Norrköping
+  telephone: '0771503503'
+  fax: ''
+  email: kontakt@transportstyrelsen.se
+  web: https://www.transportstyrelsen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2008:1300
+
+- orgNumber: 202100-0969
+  orgName: Tullverket
+  postaladdress: Box 27311
+  postalzip: 102 54
+  postalcity: Stockholm
+  visitaddress: Tegeluddsvägen 21  Plan 7
+  visitzip: 115 41
+  visitcity: Stockholm
+  telephone: '0771520520'
+  fax: ''
+  email: tullverket@tullverket.se
+  web: https://www.tullverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2016:1332
+
+- orgNumber: 202100-2874
+  orgName: Umeå Universitet
+  postaladdress: ''
+  postalzip: 901 87
+  postalcity: Umeå
+  visitaddress: Universitetstorget 4  Samverkanshuset
+  visitzip: 907 36
+  visitcity: Umeå
+  telephone: 0907865000
+  fax: ''
+  email: registrator@umu.se
+  web: https://www.umu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-6487
+  orgName: Universitets- Och Högskolerådet
+  postaladdress: Box 4030
+  postalzip: 171 04
+  postalcity: Solna
+  visitaddress: Solna Strandväg 132 B
+  visitzip: 171 54
+  visitcity: Solna
+  telephone: '0104700300'
+  fax: ''
+  email: registrator@uhr.se
+  web: https://www.uhr.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:811
+
+- orgNumber: 202100-6495
+  orgName: Universitetskanslersämbetet
+  postaladdress: Box 6024
+  postalzip: 121 06
+  postalcity: Johanneshov
+  visitaddress: Hammarbybacken 31
+  visitzip: 121 45
+  visitcity: Johanneshov
+  telephone: 0856308500
+  fax: ''
+  email: registrator@uka.se
+  web: https://www.uka.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2012:810
+
+- orgNumber: 202100-6610
+  orgName: Upphandlingsmyndigheten
+  postaladdress: Box 1194
+  postalzip: 171 23
+  postalcity: Solna
+  visitaddress: Svetsarvägen 10
+  visitzip: 171 41
+  visitcity: Solna
+  telephone: 0858621700
+  fax: ''
+  email: registrator@uhmynd.se
+  web: https://www.upphandlingsmyndigheten.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:527
+
+- orgNumber: 202100-2932
+  orgName: Uppsala Universitet
+  postaladdress: Box 256
+  postalzip: 751 05
+  postalcity: Uppsala
+  visitaddress: Dag Hammarskjölds Väg 7
+  visitzip: 752 37
+  visitcity: Uppsala
+  telephone: 0184710000
+  fax: ''
+  email: registrator@uu.se
+  web: https://www.uu.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-6826
+  orgName: Utrikesförvaltningens Antagningsnämnd
+  postaladdress: ''
+  postalzip: 103 33
+  postalcity: Stockholm
+  visitaddress: ''
+  visitzip: 000 00
+  visitcity: Stockholm
+  telephone: ''
+  fax: ''
+  email: ''
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1991:360
+
+- orgNumber: 202100-5281
+  orgName: Valmyndigheten
+  postaladdress: Box 1010
+  postalzip: 171 21
+  postalcity: Solna
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: '0105757000'
+  fax: ''
+  email: registrator@val.se
+  web: https://www.val.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:977
+
+- orgNumber: 202100-5216
+  orgName: Verket För Innovationssystem
+  postaladdress: ''
+  postalzip: 101 58
+  postalcity: Stockholm
+  visitaddress: Mäster Samuelsgatan 56
+  visitzip: 111 21
+  visitcity: Stockholm
+  telephone: 084733000
+  fax: ''
+  email: vinnova@vinnova.se
+  web: https://www.vinnova.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:1101
+
+- orgNumber: 202100-5208
+  orgName: Vetenskapsrådet
+  postaladdress: Box 1035
+  postalzip: 101 38
+  postalcity: Stockholm
+  visitaddress: Västra Järnvägsgatan 3
+  visitzip: 111 64
+  visitcity: Stockholm
+  telephone: 0854644000
+  fax: ''
+  email: registrator@vr.se
+  web: https://www.vr.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:975
+
+- orgNumber: 202100-0084
+  orgName: Åklagarmyndigheten
+  postaladdress: Box 5553
+  postalzip: 114 85
+  postalcity: Stockholm
+  visitaddress: Östermalmsgatan 87 C
+  visitzip: 114 59
+  visitcity: Stockholm
+  telephone: '0105625000'
+  fax: ''
+  email: registrator@aklagare.se
+  web: https://www.aklagare.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2015:743
+
+- orgNumber: 202100-2924
+  orgName: Örebro Universitet
+  postaladdress: ''
+  postalzip: 701 82
+  postalcity: Örebro
+  visitaddress: Fakultetsgatan 1
+  visitzip: 702 81
+  visitcity: Örebro
+  telephone: 019303000
+  fax: ''
+  email: registrator@oru.se
+  web: https://www.oru.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1993:100
+
+- orgNumber: 202100-5463
+  orgName: Överklagandenämnden För Etikprövning
+  postaladdress: Box 1035
+  postalzip: 101 38
+  postalcity: Stockholm
+  visitaddress: Västra Järnvägsgatan 3
+  visitzip: 111 64
+  visitcity: Stockholm
+  telephone: 0854677610
+  fax: ''
+  email: kansli@onep.se
+  web: https://www.onep.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1068
+
+- orgNumber: 202100-4375
+  orgName: Överklagandenämnden För Högskolan
+  postaladdress: Box 6028
+  postalzip: 121 06
+  postalcity: Johanneshov
+  visitaddress: ''
+  visitzip: ''
+  visitcity: ''
+  telephone: 0856308700
+  fax: ''
+  email: onh@onh.se
+  web: https://www.onh.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:991
+
+- orgNumber: 202100-6024
+  orgName: Överklagandenämnden För Nämndemannauppdrag
+  postaladdress: Box 714
+  postalzip: 851 21
+  postalcity: Sundsvall
+  visitaddress: Södra Tjärngatan 2
+  visitzip: 852 37
+  visitcity: Sundsvall
+  telephone: 060186600
+  fax: ''
+  email: overklagandenamnden@dom.se
+  web: https://www.kammarrattenisundsvall.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1081
+
+- orgNumber: 202100-5273
+  orgName: Överklagandenämnden För Studiestöd
+  postaladdress: Box 110
+  postalzip: 871 23
+  postalcity: Härnösand
+  visitaddress: Backgränd 9
+  visitzip: 871 32
+  visitcity: Härnösand
+  telephone: '0611347500'
+  fax: ''
+  email: registrator@oks.se
+  web: https://www.oks.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1348

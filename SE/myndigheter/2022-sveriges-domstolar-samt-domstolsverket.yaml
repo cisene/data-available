@@ -1,0 +1,1164 @@
+---
+data:
+
+- orgNumber: 202100-2122
+  orgName: Arbetsdomstolen
+  postaladdress: Box 2018
+  postalzip: 103 11
+  postalcity: Stockholm
+  visitaddress: Stora Nygatan 2 A-B
+  visitzip: 111 27
+  visitcity: Stockholm
+  telephone: 086176600
+  fax: ''
+  email: kansliet@arbetsdomstolen.se
+  web: https://www.arbetsdomstolen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:1137
+
+- orgNumber: 202100-2742
+  orgName: Domstolsverket
+  postaladdress: ''
+  postalzip: 551 81
+  postalcity: Jönköping
+  visitaddress: Kyrkogatan 32
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: '036155300'
+  fax: ''
+  email: domstolsverket@dom.se
+  web: https://www.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-6313
+  orgName: Försvarsunderrättelsedomstolen
+  postaladdress: Box 1097
+  postalzip: 164 25
+  postalcity: Kista
+  visitaddress: Gullfossgatan 6
+  visitzip: 164 40
+  visitcity: Kista
+  telephone: 0855504500
+  fax: ''
+  email: undom@undom.se
+  web: https://www.undom.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2009:966
+
+- orgNumber: 202100-2742
+  orgName: Alingsås Tingsrätt
+  postaladdress: Box 126
+  postalzip: 441 23
+  postalcity: Alingsås
+  visitaddress: Södra Ringgatan 23
+  visitzip: 441 33
+  visitcity: Alingsås
+  telephone: 032279300
+  fax: ''
+  email: alingsas.tingsratt@dom.se
+  web: https://www.alingsastingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Attunda Tingsrätt
+  postaladdress: Box 940
+  postalzip: 191 29
+  postalcity: Sollentuna
+  visitaddress: Tingsvägen 11
+  visitzip: 191 61
+  visitcity: Sollentuna
+  telephone: 0856169500
+  fax: ''
+  email: attunda.tingsratt@dom.se
+  web: https://www.attundatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Blekinge Tingsrätt
+  postaladdress: Box 319
+  postalzip: 371 25
+  postalcity: Karlskrona
+  visitaddress: Rådhusgatan 2  Rådhuset, Stortorget
+  visitzip: 371 34
+  visitcity: Karlskrona
+  telephone: '0455335400'
+  fax: ''
+  email: blekinge.tingsratt@dom.se
+  web: https://www.blekingetingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Borås Tingsrätt
+  postaladdress: Box 270
+  postalzip: 501 13
+  postalcity: Borås
+  visitaddress: Österlånggatan 35-37
+  visitzip: 503 31
+  visitcity: Borås
+  telephone: '033177000'
+  fax: ''
+  email: boras.tingsratt@dom.se
+  web: https://www.borastingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Eksjö Tingsrätt
+  postaladdress: Box 230
+  postalzip: 575 23
+  postalcity: Eksjö
+  visitaddress: Sofieholmsgatan 7
+  visitzip: 575 33
+  visitcity: Eksjö
+  telephone: 038138400
+  fax: ''
+  email: eksjo.tingsratt@dom.se
+  web: https://www.eksjotingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Eskilstuna Tingsrätt
+  postaladdress: Box 363
+  postalzip: 631 05
+  postalcity: Eskilstuna
+  visitaddress: Rademachergatan 8
+  visitzip: 632 19
+  visitcity: Eskilstuna
+  telephone: '0164030300'
+  fax: ''
+  email: eskilstuna.tingsratt@dom.se
+  web: https://www.eskilstunatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Falu Tingsrätt
+  postaladdress: Box 102
+  postalzip: 791 23
+  postalcity: Falun
+  visitaddress: Kullen 4
+  visitzip: 791 31
+  visitcity: Falun
+  telephone: 02348200
+  fax: ''
+  email: falu.tingsratt@dom.se
+  web: https://www.falutingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Falun
+  postaladdress: Box 45
+  postalzip: 791 21
+  postalcity: Falun
+  visitaddress: Kullen 4
+  visitzip: 791 31
+  visitcity: Falun
+  telephone: 0233830000
+  fax: ''
+  email: forvaltningsrattenifalun@dom.se
+  web: https://www.forvaltningsrattenifalun.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Göteborg Och Migrationsdoms
+  postaladdress: Box 53197
+  postalzip: 400 15
+  postalcity: Göteborg
+  visitaddress: Sten Sturegatan 14
+  visitzip: 411 39
+  visitcity: Göteborg
+  telephone: '0317327000'
+  fax: ''
+  email: forvaltningsrattenigoteborg@dom.se
+  web: https://www.forvaltningsrattenigoteborg.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Härnösand
+  postaladdress: Box 314
+  postalzip: 871 27
+  postalcity: Härnösand
+  visitaddress: Backgränd 9
+  visitzip: 871 32
+  visitcity: Härnösand
+  telephone: '0611460600'
+  fax: ''
+  email: forvaltningsratteniharnosand@dom.se
+  web: https://www.forvaltningsratteniharnosand.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Jönköping
+  postaladdress: Box 2201
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: Hamngatan 15
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: '036156600'
+  fax: ''
+  email: forvaltningsrattenijonkoping@dom.se
+  web: https://www.forvaltningsrattenijonkoping.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Karlstad
+  postaladdress: Box 568
+  postalzip: 651 12
+  postalcity: Karlstad
+  visitaddress: Rådhuset Stora Torget
+  visitzip: 652 24
+  visitcity: Karlstad
+  telephone: 054148500
+  fax: ''
+  email: forvaltningsrattenikarlstad@dom.se
+  web: https://www.forvaltningsrattenikarlstad.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Linköping
+  postaladdress: Box 406
+  postalzip: 581 04
+  postalcity: Linköping
+  visitaddress: Brigadgatan 3
+  visitzip: 587 58
+  visitcity: Linköping
+  telephone: '013251100'
+  fax: ''
+  email: forvaltningsrattenilinkoping@dom.se
+  web: https://www.forvaltningsrattenilinkoping.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Luleå Och Migrationsdomstol
+  postaladdress: Box 849
+  postalzip: 971 26
+  postalcity: Luleå
+  visitaddress: Skeppsbrogatan 43
+  visitzip: 972 31
+  visitcity: Luleå
+  telephone: 0920295490
+  fax: ''
+  email: forvaltningsrattenilulea@dom.se
+  web: https://www.forvaltningsrattenilulea.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Malmö
+  postaladdress: Box 4522
+  postalzip: 203 20
+  postalcity: Malmö
+  visitaddress: Själbodgatan 8
+  visitzip: 211 35
+  visitcity: Malmö
+  telephone: '040353500'
+  fax: ''
+  email: forvaltningsrattenimalmo@dom.se
+  web: https://www.forvaltningsrattenimalmo.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Stockholm Och Migrationsdom
+  postaladdress: ''
+  postalzip: 115 76
+  postalcity: Stockholm
+  visitaddress: Tegeluddsvägen 1
+  visitzip: 115 41
+  visitcity: Stockholm
+  telephone: 0856168000
+  fax: ''
+  email: forvaltningsrattenistockholm@dom.se
+  web: https://www.forvaltningsrattenistockholm.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Umeå
+  postaladdress: Box 193
+  postalzip: 901 05
+  postalcity: Umeå
+  visitaddress: Nygatan 45
+  visitzip: 903 30
+  visitcity: Umeå
+  telephone: 090177400
+  fax: ''
+  email: forvaltningsratteniumea@dom.se
+  web: https://www.forvaltningsratteniumea.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Uppsala
+  postaladdress: Box 1853
+  postalzip: 751 48
+  postalcity: Uppsala
+  visitaddress: Smedsgränd 22
+  visitzip: 753 20
+  visitcity: Uppsala
+  telephone: 0184316300
+  fax: ''
+  email: forvaltningsratteniuppsala@dom.se
+  web: https://www.forvaltningsratteniuppsala.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Förvaltningsrätten I Växjö
+  postaladdress: Box 42
+  postalzip: 351 03
+  postalcity: Växjö
+  visitaddress: Kungsgatan 8
+  visitzip: 352 33
+  visitcity: Växjö
+  telephone: '0470560200'
+  fax: ''
+  email: forvaltningsrattenivaxjo@dom.se
+  web: https://www.forvaltningsrattenivaxjo.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Gotlands Tingsrätt
+  postaladdress: Box 1143
+  postalzip: 621 22
+  postalcity: Visby
+  visitaddress: Artillerigatan 2 A
+  visitzip: 621 45
+  visitcity: Visby
+  telephone: 0498281400
+  fax: ''
+  email: gotlands.tingsratt@dom.se
+  web: https://www.gotlandstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Gällivare Tingsrätt
+  postaladdress: Box 23
+  postalzip: 982 21
+  postalcity: Gällivare
+  visitaddress: Lasarettsgatan 22
+  visitzip: 982 32
+  visitcity: Gällivare
+  telephone: 097075800
+  fax: ''
+  email: gallivare.tingsratt@dom.se
+  web: https:///
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Gävle Tingsrätt
+  postaladdress: Box 1194
+  postalzip: 801 36
+  postalcity: Gävle
+  visitaddress: Lantmäterigatan 4
+  visitzip: 802 64
+  visitcity: Gävle
+  telephone: '026176700'
+  fax: ''
+  email: gavle.tingsratt@dom.se
+  web: https://www.gavletingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Göta Hovrätt
+  postaladdress: Box 2223
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: Hovrättsgränd 4
+  visitzip: 553 20
+  visitcity: Jönköping
+  telephone: 036156900
+  fax: ''
+  email: gota.hovratt@dom.se
+  web: https://www.gotahovratt.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Göteborgs Tingsrätt
+  postaladdress: ''
+  postalzip: 404 83
+  postalcity: Göteborg
+  visitaddress: Ullevigatan 15
+  visitzip: 411 39
+  visitcity: Göteborg
+  telephone: '0317011000'
+  fax: ''
+  email: gbg.tingsratt@dom.se
+  web: https://www.goteborgstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Halmstads Tingsrätt
+  postaladdress: Box 193
+  postalzip: 301 05
+  postalcity: Halmstad
+  visitaddress: Södra Vägen 5
+  visitzip: 302 38
+  visitcity: Halmstad
+  telephone: '035152500'
+  fax: ''
+  email: halmstads.tingsratt@dom.se
+  web: https://www.halmstadstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Haparanda Tingsrätt
+  postaladdress: Box 174
+  postalzip: 953 24
+  postalcity: Haparanda
+  visitaddress: Strandgatan 20
+  visitzip: 953 31
+  visitcity: Haparanda
+  telephone: 092228100
+  fax: ''
+  email: haparanda.tingsratt@dom.se
+  web: https://www.haparandatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Helsingborgs Tingsrätt
+  postaladdress: Box 712
+  postalzip: 251 07
+  postalcity: Helsingborg
+  visitaddress: Konsul Perssons Plats 1
+  visitzip: 252 18
+  visitcity: Helsingborg
+  telephone: 042199700
+  fax: ''
+  email: helsingborgs.tingsratt@dom.se
+  web: https://www.helsingborgstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hovrätten För Nedre Norrland
+  postaladdress: Box 170
+  postalzip: 851 03
+  postalcity: Sundsvall
+  visitaddress: Södra Tjärngatan 2
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 060186800
+  fax: ''
+  email: hovratten.nedrenorrland@dom.se
+  web: https://www.hovrattenfornedrenorrland.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hovrätten För Västra Sverige
+  postaladdress: Box 40
+  postalzip: 401 20
+  postalcity: Göteborg
+  visitaddress: Packhusplatsen 6
+  visitzip: 411 13
+  visitcity: Göteborg
+  telephone: '0317012200'
+  fax: ''
+  email: hovratten.vastrasverige@dom.se
+  web: https://www.vastrahovratten.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hovrätten För Övre Norrland
+  postaladdress: Box 384
+  postalzip: 901 08
+  postalcity: Umeå
+  visitaddress: Bankgatan 3
+  visitzip: 903 25
+  visitcity: Umeå
+  telephone: 090172000
+  fax: ''
+  email: hovratten.ovrenorrland@dom.se
+  web: https://www.hovrattenovrenorrland.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hovrätten Över Skåne Och Blekinge
+  postaladdress: Box 846
+  postalzip: 201 80
+  postalcity: Malmö
+  visitaddress: Hovrättstorget 1
+  visitzip: 211 18
+  visitcity: Malmö
+  telephone: '040355700'
+  fax: ''
+  email: hovratten.skaneblekinge@dom.se
+  web: https://www.hovrattenskaneblekinge.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hudiksvalls Tingsrätt
+  postaladdress: Box 1073
+  postalzip: 824 12
+  postalcity: Hudiksvall
+  visitaddress: Lagmansgatan 1
+  visitzip: 824 43
+  visitcity: Hudiksvall
+  telephone: '065037450'
+  fax: ''
+  email: hudiksvalls.tingsratt@dom.se
+  web: https://www.hudiksvallstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Göteborg
+  postaladdress: ''
+  postalzip: 404 83
+  postalcity: Göteborg
+  visitaddress: Ullevigatan 15
+  visitzip: 411 39
+  visitcity: Göteborg
+  telephone: '0313140360'
+  fax: ''
+  email: hyresnamndenigoteborg@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Jönköping
+  postaladdress: Box 2243
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: Hamngatan 15
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: 036156780
+  fax: ''
+  email: hyresnamndenijonkoping@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Linköping
+  postaladdress: Box 359
+  postalzip: 581 03
+  postalcity: Linköping
+  visitaddress: Brigadgatan 3
+  visitzip: 587 58
+  visitcity: Linköping
+  telephone: '013251000'
+  fax: ''
+  email: hyresnamndenilinkoping@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Stockholm
+  postaladdress: Box 67
+  postalzip: 131 07
+  postalcity: Nacka
+  visitaddress: Sicklastråket 1
+  visitzip: 131 54
+  visitcity: Nacka
+  telephone: 0856166500
+  fax: ''
+  email: hyresnamndenistockholm@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Sundsvall
+  postaladdress: Box 415
+  postalzip: 851 06
+  postalcity: Sundsvall
+  visitaddress: Storgatan 39
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 060186790
+  fax: ''
+  email: hyresnamndenisundsvall@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Umeå
+  postaladdress: Box 324
+  postalzip: 901 07
+  postalcity: Umeå
+  visitaddress: Nygatan 45
+  visitzip: 903 30
+  visitcity: Umeå
+  telephone: 090172190
+  fax: ''
+  email: hyresnamndeniumea@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnden I Västerås
+  postaladdress: Box 40
+  postalzip: 721 04
+  postalcity: Västerås
+  visitaddress: Sigurdsgatan 22
+  visitzip: 721 30
+  visitcity: Västerås
+  telephone: 021310590
+  fax: ''
+  email: hyresnamndenivasteras@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hyres Och Arrendenämnen I Malmö
+  postaladdress: Box 4287
+  postalzip: 203 14
+  postalcity: Malmö
+  visitaddress: Hovrättstorget 1
+  visitzip: 211 18
+  visitcity: Malmö
+  telephone: '040353400'
+  fax: ''
+  email: hyresnamndenimalmo@dom.se
+  web: https://www.hyresnamnden.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Hässleholms Tingsrätt
+  postaladdress: Box 135
+  postalzip: 281 22
+  postalcity: Hässleholm
+  visitaddress: Tingshusgatan 3
+  visitzip: 281 31
+  visitcity: Hässleholm
+  telephone: 045148700
+  fax: ''
+  email: hassleholms.tingsratt@dom.se
+  web: https://www.hassleholmstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Högsta Domstolen
+  postaladdress: Box 2066
+  postalzip: 103 12
+  postalcity: Stockholm
+  visitaddress: Riddarhustorget 8
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856166600
+  fax: ''
+  email: hogsta.domstolen@dom.se
+  web: https://www.hogstadomstolen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Högsta Förvaltningsdomstolen
+  postaladdress: Box 2293
+  postalzip: 103 17
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 13
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856167600
+  fax: ''
+  email: hogstaforvaltningsdomstolen@dom.se
+  web: https://www.hogstaforvaltningsdomstolen.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Jönköpings Tingsrätt
+  postaladdress: Box 2243
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: Hamngatan 15
+  visitzip: 553 16
+  visitcity: Jönköping
+  telephone: '036156700'
+  fax: ''
+  email: jonkopings.tingsratt@dom.se
+  web: https://www.jonkopingstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kalmar Tingsrätt
+  postaladdress: Box 613
+  postalzip: 391 26
+  postalcity: Kalmar
+  visitaddress: Smålandsgatan 28
+  visitzip: 392 34
+  visitcity: Kalmar
+  telephone: 0480477800
+  fax: ''
+  email: kalmar.tingsratt@dom.se
+  web: https://www.kalmartingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kammarrätten I Göteborg
+  postaladdress: Box 1531
+  postalzip: 401 50
+  postalcity: Göteborg
+  visitaddress: Stora Nygatan 21
+  visitzip: 411 08
+  visitcity: Göteborg
+  telephone: '0317327400'
+  fax: ''
+  email: kammarratten.goteborg@dom.se
+  web: https://www.kammarratten.goteborg.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kammarrätten I Jönköping
+  postaladdress: Box 2203
+  postalzip: 550 02
+  postalcity: Jönköping
+  visitaddress: Slottsgatan 5
+  visitzip: 553 22
+  visitcity: Jönköping
+  telephone: 036156800
+  fax: ''
+  email: kammarrattenijonkoping@dom.se
+  web: https://www.kammarrattenijonkoping.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kammarrätten I Stockholm Och Migrationsöverdomst
+  postaladdress: Box 2302
+  postalzip: 103 17
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 5
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856169000
+  fax: ''
+  email: kammarrattenistockholm@dom.se
+  web: https://www.kammarrattenistockholm.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kammarrätten I Sundsvall
+  postaladdress: Box 714
+  postalzip: 851 21
+  postalcity: Sundsvall
+  visitaddress: Södra Tjärngatan 2
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 060186600
+  fax: ''
+  email: kammarrattenisundsvall@dom.se
+  web: https://www.kammarrattenisundsvall.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Kristianstads Tingsrätt
+  postaladdress: Box 536
+  postalzip: 291 25
+  postalcity: Kristianstad
+  visitaddress: Kanalgatan 32
+  visitzip: 291 34
+  visitcity: Kristianstad
+  telephone: 044183600
+  fax: ''
+  email: kristianstads.tingsratt@dom.se
+  web: https://www.kristianstadstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Linköpings Tingsrätt
+  postaladdress: Box 365
+  postalzip: 581 03
+  postalcity: Linköping
+  visitaddress: Brigadgatan 3
+  visitzip: 587 58
+  visitcity: Linköping
+  telephone: '013251000'
+  fax: ''
+  email: linkopings.tingsratt@dom.se
+  web: https://www.linkopingstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Luleå Tingsrätt
+  postaladdress: Box 849
+  postalzip: 971 26
+  postalcity: Luleå
+  visitaddress: Skeppsbrogatan 43
+  visitzip: 972 31
+  visitcity: Luleå
+  telephone: 0920295500
+  fax: ''
+  email: lulea.tingsratt@dom.se
+  web: https://www.luleatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Lunds Tingsrätt
+  postaladdress: Box 75
+  postalzip: 221 00
+  postalcity: Lund
+  visitaddress: Tingsrättsplatsen 2
+  visitzip: 222 37
+  visitcity: Lund
+  telephone: '046160400'
+  fax: ''
+  email: lunds.tingsratt@dom.se
+  web: https://www.lundstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Lycksele Tingsrätt
+  postaladdress: Box 53
+  postalzip: 921 22
+  postalcity: Lycksele
+  visitaddress: Bångvägen 14
+  visitzip: 921 32
+  visitcity: Lycksele
+  telephone: 095023700
+  fax: ''
+  email: lycksele.tingsratt@dom.se
+  web: https://www.lyckseletingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Malmö Tingsrätt
+  postaladdress: Box 265
+  postalzip: 201 22
+  postalcity: Malmö
+  visitaddress: Kalendegatan 1
+  visitzip: 211 35
+  visitcity: Malmö
+  telephone: '040353000'
+  fax: ''
+  email: malmo.tingsratt@dom.se
+  web: https://www.malmotingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Mora Tingsrätt
+  postaladdress: Box 31
+  postalzip: 792 21
+  postalcity: Mora
+  visitaddress: Strandgatan 10
+  visitzip: 792 30
+  visitcity: Mora
+  telephone: 025029600
+  fax: ''
+  email: mora.tingsratt@dom.se
+  web: https://www.moratingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Nacka Tingsrätt
+  postaladdress: Box 69
+  postalzip: 131 07
+  postalcity: Nacka
+  visitaddress: Sicklastråket 1
+  visitzip: 131 54
+  visitcity: Nacka
+  telephone: 0856165600
+  fax: ''
+  email: nacka.tingsratt@dom.se
+  web: https://www.nackatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Norrköpings Tingsrätt
+  postaladdress: Box 418
+  postalzip: 601 05
+  postalcity: Norrköping
+  visitaddress: Olai Kyrkogata 58
+  visitzip: 602 31
+  visitcity: Norrköping
+  telephone: '011243500'
+  fax: ''
+  email: norrkopings.tingsratt@dom.se
+  web: https://www.norrkopingstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Norrtälje Tingsrätt
+  postaladdress: Box 5
+  postalzip: 761 21
+  postalcity: Norrtälje
+  visitaddress: Astrid Lindgrens Gata 7
+  visitzip: 761 46
+  visitcity: Norrtälje
+  telephone: 017676800
+  fax: ''
+  email: norrtalje.tingsratt@dom.se
+  web: https://www.norrtaljetingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Nyköpings Tingsrätt
+  postaladdress: Box 333
+  postalzip: 611 27
+  postalcity: Nyköping
+  visitaddress: Folkungavägen 4
+  visitzip: 611 34
+  visitcity: Nyköping
+  telephone: '0155120400'
+  fax: ''
+  email: nykopings.tingsratt@dom.se
+  web: https://www.nykopingstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Skaraborgs Tingsrätt
+  postaladdress: Box 174
+  postalzip: 541 24
+  postalcity: Skövde
+  visitaddress: Eric Ugglas Plats 2
+  visitzip: 541 50
+  visitcity: Skövde
+  telephone: 0500499200
+  fax: ''
+  email: skaraborgs.tingsratt@dom.se
+  web: https://www.skaraborgstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Skellefteå Tingsrätt
+  postaladdress: Box 398
+  postalzip: 931 24
+  postalcity: Skellefteå
+  visitaddress: Brännavägen 9
+  visitzip: 931 33
+  visitcity: Skellefteå
+  telephone: 0910725650
+  fax: ''
+  email: skelleftea.tingsratt@dom.se
+  web: https://www.skellefteatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Solna Tingsrätt
+  postaladdress: Box 1356
+  postalzip: 171 26
+  postalcity: Solna
+  visitaddress: Sundbybergsvägen 5
+  visitzip: 171 73
+  visitcity: Solna
+  telephone: 0856165800
+  fax: ''
+  email: solna.tingsratt@dom.se
+  web: https://www.solnatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Stockholms Tingsrätt Och Patent Och Marknadsdom
+  postaladdress: Box 8307
+  postalzip: 104 20
+  postalcity: Stockholm
+  visitaddress: Scheelegatan 7
+  visitzip: 112 28
+  visitcity: Stockholm
+  telephone: 0856165000
+  fax: ''
+  email: stockholms.tingsratt@dom.se
+  web: https://www.stockholmstingsratt.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Sundsvalls Tingsrätt
+  postaladdress: Box 467
+  postalzip: 851 06
+  postalcity: Sundsvall
+  visitaddress: Storgatan 39
+  visitzip: 852 33
+  visitcity: Sundsvall
+  telephone: 060186700
+  fax: ''
+  email: sundsvalls.tingsratt@dom.se
+  web: https://www.sundsvallstingsratt.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Svea Hovrätt O Mark O Miljö Och Patent
+  postaladdress: Box 2290
+  postalzip: 103 17
+  postalcity: Stockholm
+  visitaddress: Birger Jarls Torg 16
+  visitzip: 111 28
+  visitcity: Stockholm
+  telephone: 0856167000
+  fax: ''
+  email: svea.hovratt@dom.se
+  web: https://www.svea.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Södertälje Tingsrätt
+  postaladdress: Box 348
+  postalzip: 151 24
+  postalcity: Södertälje
+  visitaddress: Storgatan 17
+  visitzip: 151 72
+  visitcity: Södertälje
+  telephone: 0856166800
+  fax: ''
+  email: sodertalje.tingsratt@dom.se
+  web: https://www.sodertaljetingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Södertörns Tingsrätt
+  postaladdress: ''
+  postalzip: 141 84
+  postalcity: Huddinge
+  visitaddress: Björnkullavägen 5 A
+  visitzip: 141 51
+  visitcity: Huddinge
+  telephone: 0856166000
+  fax: ''
+  email: sodertorns.tingsratt@dom.se
+  web: https://www.sodertornstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Uddevalla Tingsrätt
+  postaladdress: Box 323
+  postalzip: 451 18
+  postalcity: Uddevalla
+  visitaddress: Zachaus Gränd 2
+  visitzip: 451 30
+  visitcity: Uddevalla
+  telephone: '0522657100'
+  fax: ''
+  email: uddevalla.tingsratt@dom.se
+  web: https://www.uddevallatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Umeå Tingsrätt
+  postaladdress: Box 138
+  postalzip: 901 04
+  postalcity: Umeå
+  visitaddress: Nygatan 45  Tingshuset
+  visitzip: 903 30
+  visitcity: Umeå
+  telephone: 090172100
+  fax: ''
+  email: umea.tingsratt@dom.se
+  web: https://www.umeatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Uppsala Tingsrätt
+  postaladdress: Box 1113
+  postalzip: 751 41
+  postalcity: Uppsala
+  visitaddress: Smedsgränd 22
+  visitzip: 753 20
+  visitcity: Uppsala
+  telephone: 0184316000
+  fax: ''
+  email: uppsala.tingsratt@dom.se
+  web: https://www.uppsalatingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Varbergs Tingsrätt
+  postaladdress: Box 121
+  postalzip: 432 23
+  postalcity: Varberg
+  visitaddress: Östra Långgatan 7
+  visitzip: 432 45
+  visitcity: Varberg
+  telephone: 0340628400
+  fax: ''
+  email: varbergs.tingsratt@dom.se
+  web: https://www.varbergstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Vänersborgs Tingsrätt Och Mark Och Miljödomstol
+  postaladdress: Box 1070
+  postalzip: 462 28
+  postalcity: Vänersborg
+  visitaddress: Hamngatan 6
+  visitzip: 462 30
+  visitcity: Vänersborg
+  telephone: '0521270200'
+  fax: ''
+  email: vanersborgs.tingsratt@dom.se
+  web: https://www.vanersborgstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Värmlands Tingsrätt
+  postaladdress: Box 188
+  postalzip: 651 05
+  postalcity: Karlstad
+  visitaddress: Västra Torggatan 13
+  visitzip: 652 24
+  visitcity: Karlstad
+  telephone: 054148400
+  fax: ''
+  email: varmlands.tingsratt@dom.se
+  web: https://www.varmlandstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Västmanlands Tingsrätt
+  postaladdress: Box 40
+  postalzip: 721 04
+  postalcity: Västerås
+  visitaddress: Sigurdsgatan 22
+  visitzip: 721 30
+  visitcity: Västerås
+  telephone: '021310400'
+  fax: ''
+  email: vastmanlands.tingsratt@dom.se
+  web: https://www.vastmanlandstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Växjö Tingsrätt Och Mark Och Miljödomstol
+  postaladdress: Box 81
+  postalzip: 351 03
+  postalcity: Växjö
+  visitaddress: Kungsgatan 8
+  visitzip: 352 33
+  visitcity: Växjö
+  telephone: '0470560100'
+  fax: ''
+  email: vaxjo.tingsratt@dom.se
+  web: https://www.vaxjotingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Ystads Tingsrätt
+  postaladdress: Box 114
+  postalzip: 271 23
+  postalcity: Ystad
+  visitaddress: Bollhusgatan 16
+  visitzip: 271 42
+  visitcity: Ystad
+  telephone: 041169100
+  fax: ''
+  email: ystads.tingsratt@dom.se
+  web: https://www.ystadstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Ångermanlands Tingsrätt
+  postaladdress: Box 114
+  postalzip: 871 23
+  postalcity: Härnösand
+  visitaddress: Backgränd 9
+  visitzip: 871 32
+  visitcity: Härnösand
+  telephone: '0611460500'
+  fax: ''
+  email: angermanlands.tingsratt@dom.se
+  web: https://www.angermanlandstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Örebro Tingsrätt
+  postaladdress: Box 383
+  postalzip: 701 47
+  postalcity: Örebro
+  visitaddress: Järnvägsgatan 1 A
+  visitzip: 703 62
+  visitcity: Örebro
+  telephone: 019166300
+  fax: ''
+  email: orebro.tingsratt@dom.se
+  web: https://www.orebrotingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317
+
+- orgNumber: 202100-2742
+  orgName: Östersunds Tingsrätt Och Mark Och Miljödomstol
+  postaladdress: Box 708
+  postalzip: 831 28
+  postalcity: Östersund
+  visitaddress: Storgatan 6
+  visitzip: 831 30
+  visitcity: Östersund
+  telephone: '063150600'
+  fax: ''
+  email: ostersunds.tingsratt@dom.se
+  web: https://www.ostersundstingsratt.domstol.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=1988:317

@@ -1,0 +1,44 @@
+---
+data:
+
+- orgNumber: 202100-0795
+  orgName: Luftfartsverket
+  postaladdress: ''
+  postalzip: 601 79
+  postalcity: Norrköping
+  visitaddress: Hospitalsgatan 30
+  visitzip: 602 27
+  visitcity: Norrköping
+  telephone: 011192000
+  fax: ''
+  email: lfv@lfv.se
+  web: https://www.lfv.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2010:184
+
+- orgNumber: 202100-0654
+  orgName: Sjöfartsverket
+  postaladdress: ''
+  postalzip: 601 78
+  postalcity: Norrköping
+  visitaddress: Östra Promenaden 7
+  visitzip: 602 28
+  visitcity: Norrköping
+  telephone: '0771630000'
+  fax: ''
+  email: sjofartsverket@sjofartsverket.se
+  web: https://www.sjofartsverket.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1161
+
+- orgNumber: 202100-4284
+  orgName: Svenska Kraftnät
+  postaladdress: Box 1200
+  postalzip: 172 24
+  postalcity: Sundbyberg
+  visitaddress: Sturegatan 1
+  visitzip: 172 31
+  visitcity: Sundbyberg
+  telephone: 0104758000
+  fax: ''
+  email: registrator@svk.se
+  web: https://www.svk.se/
+  sfs: https://rkrattsbaser.gov.se/sfst?bet=2007:1119

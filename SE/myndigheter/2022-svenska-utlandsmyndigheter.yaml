@@ -1,0 +1,2594 @@
+---
+data:
+
+- coutry: Afghanistan
+  name: Sveriges ambassad Kabul
+  appointed: Torkel Stiernlöf
+  postal:
+    address-1: Embassy of Sweden
+    address-2: MoI-Street, opposite the MoI
+    address-3: Shar-e Naw
+    address-4: Kabul, Afghanistan
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: MoI-Street, opposite the MoI
+    address-3: Shar-e Naw
+    address-4: Kabul, Afghanistan
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +93 20 210 49 12
+  fax: ''
+  email: ambassaden.kabul@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/afghanistan-kabul/
+
+- coutry: Albanien
+  name: Sveriges ambassad Tirana
+  appointed: Elsa Håstad
+  postal:
+    address-1: Sveriges ambassad
+    address-2: 56 Rruga Pjeter Budi
+    address-3: 1000 Tirana
+    address-4: Albanien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: Rruga Pjeter Budi, 56
+    address-3: Tirana
+    address-4: Albanien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +335 4 238 06 50
+  fax: ''
+  email: ambassaden.tirana@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/albanien-tirana/
+
+- coutry: Algeriet
+  name: Sveriges ambassad Alger
+  appointed: Björn Häggmark
+  postal:
+    address-1: Ambassade de Suède
+    address-2: B.P. 263
+    address-3: 160 35 Hydra-Alger
+    address-4: Algeriet
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Rue Olof Palme
+    address-3: Hydra Alger
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +213 (21) 54 83 33
+  fax: +213 (21) 54 83 34
+  email: ambassaden.alger@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/algeriet-alger/
+
+- coutry: Angola
+  name: Sveriges ambassad Luanda
+  appointed: Ewa Polano
+  postal:
+    address-1: Embassy of Sweden
+    address-2: C.P. 1130
+    address-3: Luanda
+    address-4: Angola
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Rua Garcia Neto nº 9
+    address-2: Miramar
+    address-3: Luanda
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +244 222 447522
+  fax: ''
+  email: ambassaden.luanda@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/angola-luanda/
+
+- coutry: Argentina
+  name: Sveriges ambassad Buenos Aires
+  appointed: Anders Carlsson
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Olga Cossettini 731, 2do. Piso
+    address-3: C1107CDA
+    address-4: Ciudad Autónoma de Buenos Aires
+    address-5: Argentina
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Olga Cossettini 731, 2do. piso.
+    address-3: Buenos Aires
+    address-4: Argentina
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +54 (11) 4319 5100
+  fax: +54 (11) 4319 5199
+  email: ambassaden.buenos-aires@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/argentina-buenos-aires/
+
+- coutry: Armenien
+  name: Sveriges ambassad Jerevan
+  appointed: Patrik Svensson
+  postal:
+    address-1: Yerevan Plaza Business Centre
+    address-2: 9 Grigor Lusavorich Street
+    address-3: Yerevan 0015
+    address-4: Armenia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Yerevan Plaza Business Centre
+    address-2: 9 Grigor Lusavorich Street
+    address-3: Yerevan 0015
+    address-4: Armenia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +374(0)95959501
+  fax: ''
+  email: ambassaden.jerevan@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/armenien-jerevan/
+
+- coutry: Australien
+  name: Sveriges ambassad Canberra
+  appointed: Henrik Cederin
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Yarralumla ACT 2600
+    address-3: Canberra
+    address-4: Australien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 5 Turrana Street
+    address-3: Yarralumla
+    address-4: Canberra
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +61 (2) 62 70 27 00
+  fax: +61 (2) 62 70 27 55
+  email: ambassaden.canberra@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/
+
+- coutry: Azerbajdzjan
+  name: Sveriges Ambassad Baku
+  appointed: Christian Kamill
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 69 Nizami Street, ISR Plaza
+    address-3: 11th Floor
+    address-4: AZ-1005 Baku
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: ISR Plaza 11th Floor
+    address-2: 69 Nizami Street, ISR Plaza
+    address-3: 11th Floor
+    address-4: Baku
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +994 (0)12 505 25 76
+  fax: +994 (0)12 505 25 67
+  email: ambassaden.baku@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/azerbajdzjan-baku/
+
+- coutry: Bangladesh
+  name: Sveriges ambassad Dhaka
+  appointed: Alexandra Berg von Linde
+  postal:
+    address-1: The Embassy of Sweden
+    address-2: Bay´s Edgewater, 6th floor
+    address-3: Gulshan 2
+    address-4: Dhaka 1212
+    address-5: Bangladesh
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Bay´s Edgewater, 6th floor
+    address-3: Gulshan 2
+    address-4: Dhaka
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +880 (2) 556 685 00
+  fax: +880 (2) 985 20 32
+  email: ambassaden.dhaka@gov.se
+  web: https://www.swedenabroad.se/en/embassies/bangladesh-dhaka/
+
+- coutry: Belarus
+  name: Sveriges ambassad Minsk
+  appointed: Christina Johannesson
+  postal:
+    address-1: Vulitsa Revaliutsyinaya 15
+    address-2: Minsk
+    address-3: Belarus 220030
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Vulitsa Revaliutsyinaya 15
+    address-2: Minsk
+    address-3: Belarus
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +375 17 329 17 00
+  fax: ''
+  email: ambassaden.minsk@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/belarus-minsk/
+
+- coutry: Belgien
+  name: Sveriges EU-representation Bryssel
+  appointed: Lars Danielsson
+  postal:
+    address-1: Permanent Representation of Sweden to the European Union
+    address-2: Square de Meeûs 30
+    address-3: 1000 Bryssel
+    address-4: Belgien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ständiga representation vid Europeiska unionen
+    address-2: Square de Meeûs 30
+    address-3: Bryssel
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +32 2 289 56 11
+  fax: +32 2 289 56 00
+  email: representationen.bryssel@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/europeiska-unionen/
+
+- coutry: Belgien
+  name: Sveriges generalkonsulat Bryssel
+  appointed: Åsa Zinfandel
+  postal:
+    address-1: Sveriges generalkonsulat i Bryssel
+    address-2: Square de Meeûs 30
+    address-3: 1110 Bryssel
+    address-4: Belgien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Square de Meeûs 30
+    address-2: 1110 Bryssel
+    address-3: Belgien
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +32 22895800
+  fax: ''
+  email: generalkonsulat.bryssel@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/belgien-bryssel/
+
+- coutry: Bolivia
+  name: Sveriges ambassad La Paz
+  appointed: Nicolas Weeks
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Avenida Arce 2631 Edificio Multicine
+    address-3: Piso 11, San Jorge
+    address-4: La Paz
+    address-5: Bolivia
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Avenida Arce 2631, Edificio Multicine,
+    address-3: piso 11
+    address-4: San Jorge
+    address-5: La Paz
+    address-6: ''
+    address-7: ''
+  telephone: +591 2 297 96 30
+  fax: +591 2 297 96 31
+  email: ambassaden.lapaz@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/bolivia-la-paz/
+
+- coutry: Bosnien-Hercegovina
+  name: Sveriges ambassad Sarajevo
+  appointed: Johanna Strömquist
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Ferhadija 20
+    address-3: 71000 Sarajevo
+    address-4: Bosnien-Hercegovina
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Ferhadija 20
+    address-3: Sarajevo
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +387 (0)33 27 60 30
+  fax: +387 (0)33 27 60 60
+  email: ambassaden.sarajevo@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/bosnien-och-hercegovina-sarajevo/
+
+- coutry: Brasilien
+  name: Sveriges ambassad Brasilia
+  appointed: Johanna Brismar Skoog
+  postal:
+    address-1: Sveriges Ambassad i Brasilia
+    address-2: Avenida das Nações Qd.807
+    address-3: Lote 29
+    address-4: 70419-900 Brasília - DF
+    address-5: Brasilien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad i Brasilia
+    address-2: Avenida das Nações,
+    address-3: Qd.807, lote 29
+    address-4: 70419-900 Brasilia - DF
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +55 (61) 3442 52 00
+  fax: +55 (61) 3443 11 87
+  email: ambassaden.brasilia@gov.se
+  web: https://www.swedenabroad.com (www.suecia.org.br)/
+
+- coutry: Burkina Faso
+  name: Sveriges ambassad Ouagadougou
+  appointed: Maria Sargren
+  postal:
+    address-1: Ambassade de Suède
+    address-2: 11 BP 755 CMS
+    address-3: Ouagadougou 11
+    address-4: Burkina Faso
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: Avenue de l'Europe, 187
+    address-3: Burkina Faso
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +226 50 49 61 70
+  fax: ''
+  email: ambassaden.ouagadougou@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/burkina-faso-ouagadougou//
+
+- coutry: Chile
+  name: Svergies ambassad Santigao
+  appointed: Oscar Stenström
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Av. Nueva Providencia 2353
+    address-3: Providencia
+    address-4: Santigao de Chile
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Nueva Providencia 2353, 4 Piso
+    address-3: Providencia
+    address-4: Santigao de Chile
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +56 (2) 940 17 00
+  fax: +56 (2) 940 17 30
+  email: ambassaden.santiago-de-chile@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/chile-santiago-de-chile/
+
+- coutry: Colombia
+  name: Sveriges ambassad Bogotá
+  appointed: Helena Storm
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Calle 72 No. 5-83
+    address-3: piso 8, Edificio Avenida Chile
+    address-4: Código postal 110231
+    address-5: Bogotá, D. C., Apartado Postal 52966
+    address-6: Colombia
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Calle 72 No. 5-83
+    address-3: piso 8 Edificio Avenida Chile
+    address-4: Bogotá D.C.
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +57 (1) 325 61 00
+  fax: +57 (1) 314 50 25
+  email: ambassaden.bogota@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/colombia-bogotá/
+
+- coutry: Cypern
+  name: Sveriges ambassad Nicosia
+  appointed: Anders Hagelberg
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 216 21
+    address-3: CY 1511 Nicosia
+    address-4: Cyprus
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 9, Arch. Makarios III Avenue
+    address-3: Severis Building, 2nd floor
+    address-4: 1065 Nicosia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +357 (22) 45 80 88
+  fax: +357 (22) 37 45 22
+  email: ambassaden.nicosia@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/cypern-nicosia/
+
+- coutry: D.R. Kongo
+  name: Sveriges ambassad Kinshasa
+  appointed: Henric Råsbrant
+  postal:
+    address-1: Ambassade de Suède
+    address-2: B.P. 11096, Kinshasa-Gombe
+    address-3: Demokratiska republikanen Kongo
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 93, avenue Roi Baudouin
+    address-2: Kinshasa-Gombe
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +243 99 930 11 02
+  fax: ''
+  email: ambassaden.kinshasa@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/d.r.-kongo-kinshasa/
+
+- coutry: Danmark
+  name: Sveriges ambassad Köpenhamn
+  appointed: Charlotte Wrangber
+  postal:
+    address-1: Sveriges Ambassad
+    address-2: Amaliegade 5A
+    address-3: 1256 Köpenhamn K
+    address-4: Danmark
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Amaliegade 5A
+    address-3: 1256 Köpenhamn K
+    address-4: Danmark
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +45 (-) 33 36 03 70
+  fax: +45 (-) 33 36 03 95
+  email: ambassaden.kopenhamn@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/danmark-köpenhamn/
+
+- coutry: Egypten
+  name: Sveriges ambassad Kairo
+  appointed: Håkan Emsgård
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 13 Mohamed Mazhar St., Zamalek
+    address-3: Cairo
+    address-4: Egypten
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 13, Mohamed Mahzar
+    address-3: Kairo
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +20 (2) 2728 92 00
+  fax: +20 (2) 2735 43 57
+  email: ambassaden.kairo@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/egypten-kairo/
+
+- coutry: Estland
+  name: Sveriges ambassad Tallinn
+  appointed: Ingrid Tersman
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Pikk 28
+    address-3: 15055 Tallinn
+    address-4: Estland
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Pikk 28
+    address-3: Tallinn
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +372 (-) 640 5600
+  fax: +372 (-) 640 5695
+  email: ambassaden.tallinn@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/estland-tallinn/
+
+- coutry: Etiopien
+  name: Sveriges ambassad Addis Abeba
+  appointed: Hans Lundquist
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P. O. Box 1142
+    address-3: Addis Abeba
+    address-4: Ethiopia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Lideta Sub-City
+    address-3: Woreda 09, House No 891
+    address-4: Addis Abeba
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +251 (11) 518 00 00
+  fax: +251 (11) 518 00 30
+  email: ambassaden.addis-abeba@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/etiopien-addis-abeba/
+
+- coutry: Filippinerna
+  name: Sveriges ambassad Manila
+  appointed: Annika Thunborg
+  postal:
+    address-1: Sveriges ambassad
+    address-2: 11th Floor, DelRosarioLaw Centre
+    address-3: Bonifacio, Global City, 1630 Taguig
+    address-4: Metro Manila, Phillipines
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: 11th floor Del Rosario Law Centre
+    address-3: Bonifacio, Global City, 1630 Taguig
+    address-4: Metro Manila, Phillipines
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +63 (2) 88117900
+  fax: +63 (2) 88117940
+  email: ambassaden.manila@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/filippinerna-manila/
+
+- coutry: Finland
+  name: Sveriges generalkonsulat Mariehamn
+  appointed: Claes Hammar
+  postal:
+    address-1: Sveriges generalkonsulat
+    address-2: Norragatan 44
+    address-3: ax22100 Mariehamn
+    address-4: Åland
+    address-5: Finland
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Generalkonsulat
+    address-2: Norragatan 44
+    address-3: Mariehamn
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +358 18 196 24
+  fax: +358 18 176 24
+  email: generalkonsulat.mariehamn@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/aland-mariehamn/
+
+- coutry: Finland
+  name: Sveriges ambassad Helsingfors
+  appointed: Nicola Clase
+  postal:
+    address-1: Sveriges Ambassad
+    address-2: PB 168
+    address-3: FIN-00131 Helsingfors
+    address-4: Finland
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Norra Esplanaden 7 B
+    address-3: Helsingfors
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +358 9 68 77 660
+  fax: +358 9 17 64 16
+  email: ambassaden.helsingfors@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/finland-helsingfors/
+
+- coutry: Frankrike
+  name: Sveriges ambassad Paris
+  appointed: Håkan Åkesson
+  postal:
+    address-1: Ambassade de Suède
+    address-2: 17, rue Barbet-de-Jouy
+    address-3: 75007 Paris
+    address-4: Frankrike
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 17, rue Barbet-de-Jouy
+    address-3: 75007 Paris
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +33 (0)1 44 18 88 00
+  fax: +33 (0)1 44 18 88 40
+  email: ambassaden.paris@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/frankrike-paris/
+
+- coutry: Frankrike
+  name: Sveriges delegation Paris, OECD
+  appointed: Anna Brandt
+  postal:
+    address-1: La délégation de la Suède auprès de l'OCDE
+    address-2: 17 rue Barbet-de-Jouy
+    address-3: 75007 Paris
+    address-4: Frankrike
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: La délégation de la Suède auprès de l'OCDE
+    address-2: 17 rue Barbet-de-Jouy
+    address-3: 75007 Paris
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +33 1 44 18 88 00
+  fax: +33 1 44 18 88 10
+  email: oecd-del.paris@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal/
+
+- coutry: Frankrike
+  name: Sveriges representation Europarådet Strasbourg
+  appointed: Mårten Ehnberg
+  postal:
+    address-1: The Permanent Representation of Sweden to the Council of Europé
+    address-2: 67, allée de la Robertsau
+    address-3: 67000 Strasbourg
+    address-4: Frankrike
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 67, allée de la Robertsau
+    address-2: Strasbourg
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +33 3 88 24 60 50
+  fax: +33 3 88 24 48 30
+  email: representationen.strasbourg@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/europarådet-strasbourg/
+
+- coutry: Frankrike
+  name: Sveriges delegation UNESCO Paris
+  appointed: Anna Brandt
+  postal:
+    address-1: Déöégation de la Suède auprès de IÚNESCO
+    address-2: 1 rue Miollis
+    address-3: 75015 Paris
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: ''
+    address-2: ''
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +33 1 45 68 34 50
+  fax: ''
+  email: unesco-del.paris@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal/
+
+- coutry: Förenade arabemiraten
+  name: Sveriges ambassad Abu Dhabi
+  appointed: Liselott Andersson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 31867
+    address-3: Abu Dhabi
+    address-4: Förenade arabemiraten
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 12th floor, Al Otaiba Tower
+    address-3: Sayed the 1st Street (Electra Street)
+    address-4: crossing with 4th Street
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +971 (2) 417 88 00
+  fax: +971 (2) 417 88 50
+  email: ambassaden.abu-dhabi@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/förenade-arabemiraten-abu-dhabi/
+
+- coutry: Georgien
+  name: Sveriges ambassad Tbilisi
+  appointed: Ulrik Tideström
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 15 Turn Kipshidze Street
+    address-3: Vake region
+    address-4: 0162 Tbilisi
+    address-5: Georgien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: 15 Turn Kipshidze Street
+    address-3: Vake region
+    address-4: 0162 Tbilisi
+    address-5: Georgien
+    address-6: ''
+    address-7: ''
+  telephone: +995 32 255 03 20
+  fax: +995 32 222 48 90
+  email: ambassaden.tbilisi@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/georgien-tbilisi/
+
+- coutry: Grekland
+  name: Sveriges ambassad Athen
+  appointed: Johan Borgstam
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Vassileos Konstantinou 7
+    address-3: 106 74 Athen
+    address-4: Grekland
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Vassileos Konstantinou 7
+    address-3: Athen
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +30 (210) 72 66 100
+  fax: +30 (210) 72 66 150
+  email: ambassaden.athen@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/grekland-athen/
+
+- coutry: Guatemala
+  name: Sveriges ambassad Guatemala
+  appointed: Hans Magnusson
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Avenida Reforma 9-55,  zona 10
+    address-3: Edificio Reforma 10, Nivel 11
+    address-4: Ciudad de Guatemala
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Avenida la Reforma 9-55, zona 10
+    address-3: Edificio Reforma 10
+    address-4: nivel 11
+    address-5: Ciudad de Guatemala
+    address-6: ''
+    address-7: ''
+  telephone: +502 (2) 384 7300
+  fax: +502 (2) 384 7350
+  email: ambassaden.guatemala@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/guatemala-guatemala/
+
+- coutry: Indien
+  name: Sveriges ambassad New Delhi
+  appointed: Klas Molin
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Nyaya Marg
+    address-3: Chanakyapuri
+    address-4: New Delhi 110 021
+    address-5: Indien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 4-5 Nyaya Marg, Chanakyapuri
+    address-3: New Delhi
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +91 (11) 441 971 00
+  fax: +91 (11) 441 971 01
+  email: ambassaden.new-delhi@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/indien-new-delhi/
+
+- coutry: Indien
+  name: Svergies generalkonsulat Mumbai
+  appointed: Anna Lekvall
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: 3 Floor, C-53, TCG Financial Centre
+    address-3: G-Block, BKC, Bandra (E)
+    address-4: Mumbai - 400098
+    address-5: Maharashtra, India
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Consulate General of Sweden
+    address-2: 3 Floor, C-53, TCG Financial Centre
+    address-3: G-Block, BKC, Bandra (E)
+    address-4: Mumbai - 400098
+    address-5: Maharashtra, India
+    address-6: ''
+    address-7: ''
+  telephone: +91 22 6113 2300
+  fax: ''
+  email: consulategeneral.mumbai@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/indien-mumbai/
+
+- coutry: Indonesien
+  name: Sveriges ambassad Jakarta
+  appointed: Marina Berg
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Menara Rajawali, 9th floor
+    address-3: Kawasan Mega Kuningan, Lot 5.1
+    address-4: 12950 Jakarta
+    address-5: Indonesia
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Menara Rajawali, 9th floor
+    address-3: 'JI. DR. Ide Anak Agung Gede Agung Lot #5.1'
+    address-4: Kawasan Mega Kuningan
+    address-5: Jakarta 12950
+    address-6: ''
+    address-7: ''
+  telephone: +62 (21) 25535900
+  fax: ''
+  email: ambassaden.jakarta@gov.se
+  web: https://www.swedenabroad.se/en/embassies/indonesia-jakarta/
+
+- coutry: Irak
+  name: Sveriges ambassad Bagdad
+  appointed: Jonas Lovén
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 55550 Baghdad Post Office
+    address-3: Karadat Mariam
+    address-4: Bagdad, Iraq
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: House No 21
+    address-2: Karadat Mariam
+    address-3: District 22
+    address-4: Street No 8, Bagdad
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +964 7835418300
+  fax: ''
+  email: ambassaden.bagdad@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/irak-bagdad/
+
+- coutry: Iran
+  name: Sveriges ambassad Teheran
+  appointed: Mattias Lentz
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 19575-458
+    address-3: Teheran
+    address-4: Iran
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 27 Nastaran Str, Boostan St,
+    address-3: Pasdaran Ave
+    address-4: Teheran
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +98 21 2371 22 00
+  fax: +98 21 2229 64 51
+  email: ambassaden.teheran@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/iran-teheran/
+
+- coutry: Island
+  name: Sveriges ambassad Reykjavik
+  appointed: Pär Ahlberger
+  postal:
+    address-1: Sveriges Ambassad
+    address-2: P.O. Box 8136
+    address-3: 128 Reykjavik
+    address-4: Island
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Lágmúli 7
+    address-3: 108 Reykjavik
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +354 (-) 520 12 30
+  fax: +354 (-) 520 12 35
+  email: ambassaden.reykjavik@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/island-reykjavik/
+
+- coutry: Israel
+  name: Sveriges ambassad Tel Aviv
+  appointed: Erik Ullenhag
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O.B. 9393
+    address-3: Tel Aviv 6109301
+    address-4: Israel
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Adgar 360, 24 th floor
+    address-3: 2, Hashlosha St
+    address-4: Tel Aviv
+    address-5: Israel
+    address-6: ''
+    address-7: ''
+  telephone: +972 3 718 00 00
+  fax: +972 3 718 00 05
+  email: ambassaden.tel-aviv@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/israel-tel-aviv/
+
+- coutry: Israel
+  name: Sveriges generalkonsulat Jerusalem
+  appointed: Julius Liljeström
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: P.O. Box 297
+    address-3: Jerusalem 91002
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 5, Ibn Jubir Street
+    address-2: Sheikh Jarrah
+    address-3: Jerusalem
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +972 2 646 58 60
+  fax: ''
+  email: generalkonsulat.jerusalem@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/jerusalem/
+
+- coutry: Italien
+  name: Sveriges ambassad Rom
+  appointed: Jan Björklund
+  postal:
+    address-1: Ambasciata di Svezia
+    address-2: Piazza Rio de Janeiro 3
+    address-3: 00161 Rom RM
+    address-4: Italien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Piazza Rio de Janeiro 3
+    address-3: 00161 Rom RM
+    address-4: Italien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +39 (-)06 44 19 41 00
+  fax: +39 (-)06 44 44194760
+  email: ambassaden.rom@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/italien-rom/
+
+- coutry: Japan
+  name: Sveriges ambassad Tokyo
+  appointed: Pereric Högberg
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 1-10-3-100 Roppongi
+    address-3: Minato-ku
+    address-4: Tokyo 106-0032
+    address-5: Japan
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 1-10-3-100 Roppongi
+    address-3: Minato-ku
+    address-4: Tokyo 106-0032
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +81 3 55 62 50 50
+  fax: +81 3 55 62 90 95
+  email: ambassaden.tokyo@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/japan-tokyo/
+
+- coutry: Jordanien
+  name: Sveriges ambassad Amman
+  appointed: Alexandra Rydmark
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 830536
+    address-3: 11183 Amman
+    address-4: Jordanien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 20 Abdul Majeed Al-Adwan Street
+    address-3: Abdoun
+    address-4: Amman
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +962 6 590 1300
+  fax: +962 6 593 0179
+  email: ambassaden.amman@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/jordanien-amman/
+
+- coutry: Kanada
+  name: Sveriges ambassad Ottawa
+  appointed: Urban Ahlin
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 377 Dalhousie Street, Suite 305
+    address-3: Ottawa, ON K1N 9N8
+    address-4: Kanada
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 377 Dalhousie Street, Suite 305
+    address-3: Ottawa
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +1 (613) 244 8200
+  fax: +1 (613) 244 2277
+  email: sweden.ottawa@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kanada-ottawa/
+
+- coutry: Kazakstan
+  name: Sveriges Ambassad Nur-Sultan
+  appointed: Mats Foyer
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Astana Tower 17th floor
+    address-3: 12 Samal Microdistrict
+    address-4: 010000 Nur-Sultan
+    address-5: Republic of Kazakhstan
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Embassy of Sweden
+    address-2: Astana Tower 17th floor
+    address-3: 12 Samal Microdistrict
+    address-4: 010000 Nur-Sultan
+    address-5: Republic of Kazakhstan
+    address-6: ''
+    address-7: ''
+  telephone: +7 7172 591805
+  fax: ''
+  email: ambassaden.nur-sultan@gov.se
+  web: https://www.swedenabroad.se/en/embassies/kazakhstan-astana/
+
+- coutry: Kenya
+  name: Sveriges ambassad Nairobi
+  appointed: Caroline Vicini
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 30600
+    address-3: 00100 Nairobi
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: United Nations Crescent
+    address-3: Gigiri Nairobi
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +254 20 423 40 00
+  fax: +254 20 423 43 39
+  email: ambassaden.nairobi@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kenya-nairobi/
+
+- coutry: Kina
+  name: Sveriges ambassad Peking
+  appointed: Helena Sångeland
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 3 Dongzhimenwaii Dajie
+    address-3: Sanlitun, Chaoyang District
+    address-4: Beijing 100600
+    address-5: China
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 3 Dongzhimenwai Dajie
+    address-3: Sanlitun, Chaoyang District
+    address-4: Beijing
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +86 (10) 8531 1800
+  fax: +86 (10) 6532 5008
+  email: ambassaden.peking@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kina-peking/
+
+- coutry: Kina
+  name: Sveriges generalkonsulat Hongkong
+  appointed: Per Augustsson
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: Room 2501, 25/F.
+    address-3: BEA Harbour View Centre
+    address-4: 56 Gloucester Road
+    address-5: Wanchai, Hongkong
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Consulate General of Sweden
+    address-2: Room 2501, 25/F.
+    address-3: BEA Harbour View Centre
+    address-4: 56 Gloucester Road
+    address-5: Wanchai, Hongkong
+    address-6: ''
+    address-7: ''
+  telephone: +85 2 2521 1212
+  fax: +85 2 2596 0308
+  email: generalkonsulat.hongkong@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/hong-kong/
+
+- coutry: Kina
+  name: Sveriges generalkonsulat Shanghai
+  appointed: Marie-Claire Swärd Capra
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: 1521-1541,  Central Plaza
+    address-3: 381 Huaihai Road (Middle)
+    address-4: Shanghai 200020
+    address-5: China
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: ''
+    address-2: ''
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +86-21-5359 9610
+  fax: ''
+  email: generalkonsulat.shanghai@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kina-shanghai/
+
+- coutry: Kosovo
+  name: Sveriges ambassad Pristina
+  appointed: Karin Hernmarck Ahliny
+  postal:
+    address-1: Sveriges Ambassad
+    address-2: Str. Perandori Justinian, No 111
+    address-3: Pejton
+    address-4: 10000 Pristina
+    address-5: Republiken Kosovo
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Str. Perandori Justinian, No 111
+    address-3: Pejton
+    address-4: 10 000 Pristina
+    address-5: Republiken Kosovo
+    address-6: ''
+    address-7: ''
+  telephone: +381 (0) 38 245 795
+  fax: +381 (0) 38 245 791
+  email: ambassaden.pristina@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kosovo-pristina/
+
+- coutry: Kroatien
+  name: Sveriges ambassad  Zagreb
+  appointed: Diana Madunic
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.P. 779
+    address-3: 10 000 Zagreb
+    address-4: Kroatien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Strojarska 20, 24 th floor
+    address-3: 10 000 Zagreb
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +385 (1) 49 25 100
+  fax: +385 (1) 49 25 125
+  email: ambassaden.zagreb@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kroatien-zagreb/
+
+- coutry: Kuba
+  name: Sveriges ambassad Havanna
+  appointed: Tomas Wiklund
+  postal:
+    address-1: Embajada de Suecia
+    address-2: '# 510, Calle 34'
+    address-3: e/5a y 7a, Miramar
+    address-4: La Havanna
+    address-5: Cuba
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: '# 510, Calle 34'
+    address-3: e/5a y 7a, Miramar
+    address-4: La Havanna
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +53 (7) 204 28 31
+  fax: +53 (7) 204 11 94
+  email: ambassaden.havanna@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kuba-havanna/
+
+- coutry: Lettland
+  name: Sveriges ambassad Riga
+  appointed: Karin Höglund
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Andreja Pumpura Street 8
+    address-3: LV-1010 Riga
+    address-4: Lettland
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Andreja Pumpura iela 8
+    address-3: 1010 Riga
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +371 (-) 67 68 66 00
+  fax: +371 (-) 67 68 66 01
+  email: ambassaden.riga@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/lettland-riga/
+
+- coutry: Libanon
+  name: Sveriges ambassad Beirut
+  appointed: Ann Dismorr
+  postal:
+    address-1: Riad el Solh
+    address-2: P.O. Box 11-4883
+    address-3: Beirut
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 1347 Minet el Hosn
+    address-2: French Avenue (bredvid Beirut Souks)
+    address-3: French Avenue Building, 6e våningen
+    address-4: Down Town, Beirut
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +961 (0)1 951 200
+  fax: ''
+  email: ambassaden.beirut@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/libanon--beirut/
+
+- coutry: Liberia
+  name: Sveriges ambassad Monrovia
+  appointed: Urban Sjöström
+  postal:
+    address-1: Embassy of Sweden
+    address-2: LCL Compound
+    address-3: 12th St Sinkor
+    address-4: Oceanfront
+    address-5: Monrovia, Liberia
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: LCL Compound
+    address-2: 12th St Sinkor
+    address-3: Oceanfront
+    address-4: Monrovia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +231 770 1738 01
+  fax: ''
+  email: www.swedenabroad.se/sv/utlandsmyndigheter/liberia-monrovia
+  web: https://www.swedenabroad.se/monrovia/
+
+- coutry: Litauen
+  name: Sveriges ambassad Vilnius
+  appointed: Inger Buxton
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Didzioji g. 16
+    address-3: LT-01128 Vilnius
+    address-4: Litauen
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Didzioji g. 16
+    address-3: Vilnius
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +370 (5) 268 50 10
+  fax: +370 (5) 268 50 30
+  email: ambassaden.vilnius@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/litauen-vilnius/
+
+- coutry: Makedonien
+  name: Sveriges ambassad Skopje
+  appointed: Kristin Forsgren Bengtsson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 8ma Udarna Brigada No. 2
+    address-3: 1000 Skopje
+    address-4: Norht Macedonia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 8ma Udarna Brigada No. 2
+    address-3: Skopje
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +389 (2) 329 78 80
+  fax: +389 (2) 311 20 65
+  email: ambassaden.skopje@gov.se
+  web: https://www.swedenabroad.se/en/embassies/north-macedonia-skopje/
+
+- coutry: Malaysia
+  name: Sveriges ambassad Kuala Lumpur
+  appointed: Joachim Bergström
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O.Box 10239
+    address-3: 50708 Kuala Lumpur
+    address-4: Malaysia
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Embassy of Sweden
+    address-2: A-12-2 Hampshire Place Office,
+    address-3: 157 Hampshire,
+    address-4: 1 Jalan Mayang Sari,
+    address-5: 50450 Kuala Lumpur
+    address-6: ''
+    address-7: ''
+  telephone: +60-(0)3-220 30 200
+  fax: +60-(0)3-220 30 201
+  email: ambassaden.kuala-lumpur@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/malaysia-kuala-lumpur/
+
+- coutry: Mali
+  name: Sveriges ambassad Bamako
+  appointed: Kristina Kühnel
+  postal:
+    address-1: Ambassade de Suède
+    address-2: BP E2093
+    address-3: Bamako
+    address-4: Mali
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Ambassade de Suède
+    address-2: Immeuble UATT, 2eme etage
+    address-3: Quartier du Fleuve
+    address-4: Bamako, Mali
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +223 20 70 70 00
+  fax: +223 20 70 70 10
+  email: ambassaden.bamako@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mali-bamako/
+
+- coutry: Marocko
+  name: Sveriges ambassad Rabat
+  appointed: Anne Höglund
+  postal:
+    address-1: Ambassade de Suède
+    address-2: P.O. Box 428
+    address-3: 10001 Rabat
+    address-4: Marocko
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 159, Avenue Mohamed IV
+    address-3: Rabat-Souissi
+    address-4: Marocko
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +212 537 63 32 10
+  fax: +212 537 75 80 48
+  email: ambassaden.rabat@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/marocko-rabat/
+
+- coutry: Mexiko
+  name: Sveriges ambassad Mexiko
+  appointed: Gunnar Aldén
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Paseo de las Palmas 1225
+    address-3: Col. Lomas de Chapultepec
+    address-4: 11 000 México
+    address-5: CDMX, México
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Paseo de las Palmas 1225
+    address-3: Col. Lomas de Chapultepec
+    address-4: México
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +52 55-91 78 50 10
+  fax: +52 55-55 40 32 53
+  email: ambassaden.mexico@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mexico-mexico-city/
+
+- coutry: Moçambique
+  name: Sveriges ambassad Maputo
+  appointed: Mette Sunnergren
+  postal:
+    address-1: Embassy Of Sweden
+    address-2: Av. Julius Nyerere 1128
+    address-3: C.P. 338, Maputo
+    address-4: Moçambique
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Av. Julius Nyerere 1128
+    address-3: Maputo
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +258-21-480 300
+  fax: ''
+  email: ambassaden.maputo@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mocambique-maputo/
+
+- coutry: Moldavien
+  name: Sveriges ambassad Chisinau
+  appointed: Katarina Fried
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 12 Toma Ciorba St.
+    address-3: MD2004
+    address-4: Chisinau
+    address-5: Moldavien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: 12 Toma Ciorba St.
+    address-3: MD2004, Chisinau
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +373 22 26 73 20
+  fax: +373 22 26 73 30
+  email: ambassaden.chisinau@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/moldavien-chisinau/
+
+- coutry: Nederländerna
+  name: Sveriges ambassad Haag
+  appointed: Johannes Oljelund
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Postbus 85601
+    address-3: 2508 CH Den Haag
+    address-4: Nederländerna
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Johan de Wittlaan 7, Plan 4
+    address-3: 2517 JR Den Haag
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +31 (70) 412 02 00
+  fax: +31 (70) 412 02 11
+  email: ambassaden.haag@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nederländerna-haag/
+
+- coutry: Nigeria
+  name: Sveriges ambassad Abuja
+  appointed: Carl Michael Gräns
+  postal:
+    address-1: Embassy of Sweden
+    address-2: PMB 569
+    address-3: Garki
+    address-4: Abuja
+    address-5: Nigeria
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 41, T.Y. Danjuma Street (Plot 1520)
+    address-3: Asokoro District, Abuja
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +234 9 904 73 02
+  fax: ''
+  email: ambassaden.abuja@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nigeria-abuja/
+
+- coutry: Nordkorea
+  name: Sveriges ambassad Pyongyang
+  appointed: Andreas Bengtsson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: UD/Pyongyang
+    address-3: 103 55 Stockholm
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Munsu-dong, Taehak Street
+    address-3: Taedonggang District
+    address-4: Pyongyang
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +46 8 405 10 00
+  fax: ''
+  email: ambassaden.pyongyang@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nordkorea-pyongyang/
+
+- coutry: Norge
+  name: Sveriges ambassad Oslo
+  appointed: Cecilia Björner
+  postal:
+    address-1: Sveriges Ambassad
+    address-2: Postboks 4001 AMB
+    address-3: 0244 Oslo
+    address-4: Norge
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Inkognitogata 27
+    address-3: 0256 Oslo
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +47 (-) 24 11 42 00
+  fax: +47 (-) 22 55 15 96
+  email: ambassaden.oslo@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/norge-oslo/
+
+- coutry: Pakistan
+  name: Sveriges ambassad Islamabad
+  appointed: Henrik Persson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 1100
+    address-3: Islamabad
+    address-4: Pakistan
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: House No. 4, Street No. 5
+    address-3: Sector F-6/3
+    address-4: Islamabad
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +92 (51) 207 26 00
+  fax: +92 (51) 207 26 60
+  email: ambassaden.islamabad@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/pakistan-islamabad/
+
+- coutry: Peru
+  name: Sveriges ambassad Lima
+  appointed: Maria Cramér
+  postal:
+    address-1: Calle La Santa María 120
+    address-2: San Isidro
+    address-3: Lima 27
+    address-4: Peru
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Calle La Santa María 120
+    address-2: San Isidro
+    address-3: Lima
+    address-4: Peru
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +511 5669240
+  fax: +511 2210298
+  email: ambassaden.lima@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/peru-lima/
+
+- coutry: Polen
+  name: Sveriges ambassad Warszawa
+  appointed: Stefan Gullgren
+  postal:
+    address-1: Embassy of Sweden
+    address-2: ul. Bagatela 3
+    address-3: 00-585 Warszawa
+    address-4: Polen
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: ul. Bagatela 3
+    address-3: 00-585 Warszawa
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +48 (22) 640 89 00
+  fax: +48 (22) 640 89 83
+  email: ambassaden.warszawa@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/polen-warszawa/
+
+- coutry: Portugal
+  name: Sveriges ambassad Lissabon
+  appointed: Helena Pilsas
+  postal:
+    address-1: Embaixada da Suécia
+    address-2: Rua Miguel Lupi, 12-2°-Dto
+    address-3: 1249-077 Lisboa
+    address-4: Portugal
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Embaixada da Suécia
+    address-2: Rua Miguel Lupi, 12-2°-Dto
+    address-3: 1249-077 Lisboa
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +351 (-) 213 942 261
+  fax: ''
+  email: ambassaden.lissabon@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/portugal-lissabon/
+
+- coutry: Qatar
+  name: Sveriges ambassad Doha
+  appointed: Anders Bengtcén
+  postal:
+    address-1: P.O.Box 22649
+    address-2: West Bay, Doha
+    address-3: Qatar
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Palm Tower B ("Monoprix Tower")
+    address-2: Suit 1302 (13th floor)
+    address-3: West Bay
+    address-4: Qatar
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +974 4444 9500
+  fax: +974 4444 3350
+  email: ambassaden.doha@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/qatar-doha/
+
+- coutry: Rumänien
+  name: Sveriges ambassad Bukarest
+  appointed: Therese Hydén
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Casuta Postala 2-142
+    address-3: 014730 Bukarest
+    address-4: Rumänien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Sos.Pavel Kiseleff 43
+    address-3: 011343 Bukarest
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +40 (21) 406 71 00
+  fax: +40 (21) 406 71 24
+  email: ambassaden.bukarest@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/rumänien-bukarest/
+
+- coutry: Rwanda
+  name: Sveriges ambassad Kigali
+  appointed: Johanna Teague
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O Box 6387
+    address-3: Kigali
+    address-4: Rwanda
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Aurore House
+    address-2: Umuganda Boulevard
+    address-3: Kigali
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +250 252 59 74 00
+  fax: +250 252 59 74 59
+  email: ambassaden.kigali@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/rwanda-kigali/
+
+- coutry: Ryssland
+  name: Sveriges ambassad Moskva
+  appointed: Malena Mård
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Ulitsa Mosfilmovskaja 60
+    address-3: 119590 Moskva
+    address-4: Ryska federationen
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Ulitsa Mosfilmovskaya 60
+    address-3: 60, metro Kievskaja, Universitet eller Lomonosovkij prospekt
+    address-4: Moskva
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +7 (495) 937 92 00
+  fax: +7 (495) 937 92 02
+  email: ambassaden.moskva@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-moskva/
+
+- coutry: Ryssland
+  name: Sveriges generalkonsulat Sankt Petersburg
+  appointed: Eva Sundquist
+  postal:
+    address-1: Sveriges Generalkonsulat
+    address-2: Malaya Konyushennaya 1/3
+    address-3: Sankt Petersburg RU-191186
+    address-4: Ryska Federationen
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Generalkonsulat
+    address-2: Malaya Konyushennaya 1/3
+    address-3: metro Gostinij Dvor
+    address-4: Sankt Petersburg
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +7 812 329 14 30
+  fax: +7 812 329 14 50
+  email: generalkonsulat.st-petersburg@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-sankt-petersburg/
+
+- coutry: Saudiarabien
+  name: Sveriges ambassad Riyadh
+  appointed: Niclas Trouvé
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 94382
+    address-3: Riyadh 11693
+    address-4: Saudiarabien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Tayma Street, Lenah Residential Area
+    address-3: 'Diplomatic Quarter, Byggnad nummer: 3743'
+    address-4: 'Zip: 12513-8384'
+    address-5: Riyadh
+    address-6: ''
+    address-7: ''
+  telephone: +966-55-330-14-41
+  fax: ''
+  email: ambassaden.riyadh@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/saudiarabien-riyadh/
+
+- coutry: Schweiz
+  name: Sveriges ambassad Bern
+  appointed: Jan Knutsson
+  postal:
+    address-1: Schwedische Botschaft
+    address-2: Postfach, 3001
+    address-3: Schweiz
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Bundesgasse 26
+    address-3: Bern
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +41 31 328 70 00
+  fax: +41 31 328 70 01
+  email: ambassaden.bern@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/schweiz-bern/
+
+- coutry: Schweiz
+  name: Sveriges FN-representation Genève
+  appointed: Anna Jardfelt
+  postal:
+    address-1: Permanent Mission of Sweden to the United Nations
+    address-2: Case Postale 190
+    address-3: CH-1211 Geneva 20
+    address-4: Schweiz
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 82, rue de Lausanne
+    address-2: Genève
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +41 22 908 08 00
+  fax: ''
+  email: representationen.geneve@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/fn-genève/
+
+- coutry: Serbien
+  name: Sveriges ambassad Belgrad
+  appointed: Annika Ben David
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O.B 5
+    address-3: 11040 Belgrad
+    address-4: Serbien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Ledi Pedzet 2
+    address-3: 11040 Belgrade
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +381 (11) 20 69 200
+  fax: +381 (11) 20 69 250
+  email: ambassaden.belgrad@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/serbien-belgrad/
+
+- coutry: Singapore
+  name: Sveriges ambassad Singapore
+  appointed: Kent Härstedt
+  postal:
+    address-1: Embassy of Sweden
+    address-2: '#14-03 Millenia Tower'
+    address-3: 1 Temasek Avenue
+    address-4: Singapore 039192
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: '#14-03 Millenia Tower'
+    address-3: 1 Temasek Avenue
+    address-4: Singapore 039192
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +65 (-) 64 15 9720
+  fax: +65 (-) 64 15 9747
+  email: ambassaden.singapore@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/singapore-singapore/
+
+- coutry: Spanien
+  name: Sveriges ambassad Madrid
+  appointed: Teppo Tauriainen
+  postal:
+    address-1: Embajada de Suecia
+    address-2: Calle Caracas 25
+    address-3: 280 10 Madrid
+    address-4: Spanien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Calle Caracas 25
+    address-3: 280 10 Madrid
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +34 91 702 20 40
+  fax: ''
+  email: ambassaden.madrid@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/spanien-madrid/
+
+- coutry: Storbritannien
+  name: Sveriges ambassad London
+  appointed: Mikaela Kumlin Granit
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 11 Montagu Place
+    address-3: London W1H 2AL
+    address-4: Storbritannien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 11 Montagu Place
+    address-3: London W1H 2AL
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +44 (20) 7917 6400
+  fax: +44 (20) 7724 4174
+  email: ambassaden.london@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/storbritannien-london/
+
+- coutry: Sudan
+  name: Sveriges ambassad Khartoum
+  appointed: Signe Burgstaller
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O.Box 2206
+    address-3: Khartoum
+    address-4: Sudan
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges ambassad
+    address-2: House 70,
+    address-3: Street 43,
+    address-4: Khartoum 2
+    address-5: Khartoum
+    address-6: ''
+    address-7: ''
+  telephone: +249 187 18 87 00
+  fax: ''
+  email: ambassaden.khartoum@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sudan-khartoum/
+
+- coutry: Sydafrika
+  name: Sveriges ambassad Pretoria
+  appointed: Håkan Juholt
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 13477
+    address-3: Hatfield 0028
+    address-4: Sydafrika
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: iParioli Complex
+    address-3: 1166 Park Street
+    address-4: Hatfield
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +27 (12) 426 64 00
+  fax: +27 (12) 426 64 64
+  email: ambassaden.pretoria@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sydafrika-pretoria/
+
+- coutry: Sydkorea
+  name: Sveriges ambassad Seoul
+  appointed: Daniel Wolvén
+  postal:
+    address-1: Embassy of Sweden
+    address-2: CPO Box 3577
+    address-3: Seoul 04535
+    address-4: Republic of Korea
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Danam Building, 8F
+    address-3: 10 Sowol-ro
+    address-4: Jung-Gu
+    address-5: Seoul 04527
+    address-6: ''
+    address-7: ''
+  telephone: +82 2 3703 3700
+  fax: +82 2 3703 3701/2
+  email: ambassaden.seoul@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sydkorea-seoul/
+
+- coutry: Syrien
+  name: Sveriges ambassad Damaskus
+  appointed: Ann Dismorr
+  postal:
+    address-1: Ambassade de Suède
+    address-2: P.O. Box 4266
+    address-3: Damascus
+    address-4: Syria
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: ''
+    address-2: ''
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +963 (11) 619 09 00
+  fax: ''
+  email: ambassaden.damaskus@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/syrien-damaskus/
+
+- coutry: Tanzania
+  name: Sveriges ambassad Dar es Salaam
+  appointed: Anders Sjöberg
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 9274
+    address-3: Dar es Salaam
+    address-4: Tanzania
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Mirambo Street - Garden Avenue
+    address-3: Dar es Salaam
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +255 (22) 219 65 00
+  fax: +255 (22) 219 65 03
+  email: ambassaden.dar-es-salaam@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tanzania-dar-es-salaam/
+
+- coutry: Thailand
+  name: Sveriges ambassad Bangkok
+  appointed: Jon Åström Gröndahl
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 1324, Nana Post Office
+    address-3: Bangkok 10110
+    address-4: Thailand
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambasssad
+    address-2: 8 våningen, One Pacific Place
+    address-3: 140 Sukhumvit Road, mellan soi 4 och soi 6
+    address-4: Ambassaden ligger bredvid Landmark Hotel
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +66 2 263 72 00 / +66 2 263 72 11
+  fax: ''
+  email: ambassaden.bangkok@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/thailand-bangkok/
+
+- coutry: Tjeckien
+  name: Sveriges ambassad Prag
+  appointed: Fredrik Jörgensen
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 35
+    address-3: 160 12 Praha 612
+    address-4: Tjeckien
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Úvoz 13
+    address-3: Prag 1-Hradcany
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +420 (-) 220 313 200
+  fax: +420 (-) 220 313 240
+  email: ambassaden.prag@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tjeckien-prag/
+
+- coutry: Tunisien
+  name: Sveriges ambassad Tunis
+  appointed: Anna Block Mazoyer
+  postal:
+    address-1: Sveriges Ambassad Tunis
+    address-2: Dar Nordique
+    address-3: Rue du Lac Neuchâtel
+    address-4: 1053 Les Berges du Lac
+    address-5: Tunis, Tunisien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Dar Nordique
+    address-2: Rue du Lac Neuchatel
+    address-3: Tunis
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +216 (71) 71121300
+  fax: ''
+  email: ambassaden.tunis@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tunisien-tunis/
+
+- coutry: Turkiet
+  name: Sveriges ambassad Ankara
+  appointed: Staffan Herrström
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O.B. 3
+    address-3: 06692 Kavaklidere
+    address-4: Ankara
+    address-5: Turkiet
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Katip Celebi Sokak 7
+    address-3: Kavaklidere
+    address-4: Ankara
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +90 (312) 455 41 00
+  fax: +90 (312) 455 41 20
+  email: ambassaden.ankara@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-ankara/
+
+- coutry: Turkiet
+  name: Sveriges generalkonsulat Istanbul
+  appointed: Peter Ericson
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: P.K. 125
+    address-3: 34433 Beyoglu
+    address-4: Istanbul
+    address-5: Turkiet
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Generalkonsulat
+    address-2: (Visum, migrations-, konsulära och allmänna frågor)
+    address-3: Sah Kulu Bostan Sk
+    address-4: södra ingången
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +90 212 334 0600
+  fax: +90 212 334 0628
+  email: generalkonsulat.istanbul@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-istanbul/
+
+- coutry: Tyskland
+  name: Sveriges ambassad Berlin
+  appointed: Per Thöresson
+  postal:
+    address-1: Schwedische Botschaft
+    address-2: Rauchstrasse 1
+    address-3: 10787 Berlin
+    address-4: Tyskland
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Schwedische Botschaft
+    address-2: Rauchstrasse 1
+    address-3: 107 87 Berlin
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +49 (30) 50 50 60
+  fax: +49 (30) 50 50 67 89
+  email: ambassaden.berlin@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tyskland-berlin/
+
+- coutry: Uganda
+  name: Sveriges ambassad Kampala
+  appointed: Maria Håkansson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 22669
+    address-3: Kampala
+    address-4: Uganda
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Plot 24, Lumumba Avenue
+    address-3: Nakasero
+    address-4: Kampala
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +256 41 77 00 800
+  fax: +256 41 77 00 801
+  email: ambassaden.kampala@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/uganda-kampala/
+
+- coutry: Ukraina
+  name: Sveriges ambassad Kiev
+  appointed: Tobias Thyberg
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Ivan Franka Street 34/33, 3rd floor
+    address-3: 01901 Kiev
+    address-4: Ukraina
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Ivana Franka Street 34/33, 3rd floor
+    address-3: Kiev
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +380 44 494 4270
+  fax: +380 44 494 42 71
+  email: ambassaden.kiev@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ukraina-kiev/
+
+- coutry: Ungern
+  name: Sveriges ambassad Budapest
+  appointed: Dag Hartelius
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Kapás utca 6-12
+    address-3: 1027 Budapest
+    address-4: Ungern
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Vizíváros Office Center
+    address-3: Byggnad B, plan 4
+    address-4: Kapás utca 6-12
+    address-5: 1027 Budapest
+    address-6: ''
+    address-7: ''
+  telephone: +36 (1) 460 60 20
+  fax: +36 (1) 460 60 21
+  email: ambassaden.budapest@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ungern-budapest/
+
+- coutry: USA
+  name: Sveriges ambassad Washington
+  appointed: Karin Olofsdotter
+  postal:
+    address-1: Embassy of Sweden
+    address-2: 2900 K Street, N.W
+    address-3: Washington, DC 20007
+    address-4: USA
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: 2900 K Street
+    address-2: N.W., Washington
+    address-3: ''
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +1 202 467 2600
+  fax: ''
+  email: ambassaden.washington@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/usa-washington/
+
+- coutry: USA
+  name: Sveriges generalkonsulat New York
+  appointed: Camilla Mellander
+  postal:
+    address-1: Consulate General of Sweden
+    address-2: One Dag Hammarskjöld Plaza
+    address-3: 885 Second Avenue
+    address-4: 40th floor
+    address-5: New York, NY10017
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: One Dag Hammarskjöld Plaza
+    address-2: 885 Second Avenue
+    address-3: vid hörnet av 47th Street på Manhattan
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +1 212 583 2560
+  fax: ''
+  email: generalkonsulat.new-york@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/usa-new-york/
+
+- coutry: USA
+  name: Sveriges FN-Representation New York
+  appointed: Anna-Karin Eneström
+  postal:
+    address-1: Permanent Mission of Sweden to the United Nations
+    address-2: 885 Second Avenue
+    address-3: New York, NY 10017
+    address-4: USA
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: One Dag Hammarskjöld Plaza
+    address-2: 885 Second Avenue
+    address-3: 46th Floor
+    address-4: New York, NY
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +1 212 583 2500
+  fax: ''
+  email: representationen.new-york@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/fn-new-york/
+
+- coutry: Vietnam
+  name: Sveriges ambassad Hanoi
+  appointed: Ann Måwe
+  postal:
+    address-1: Embassy of Sweden
+    address-2: Daeha Business Center
+    address-3: 15th floor, 360 Kim Ma
+    address-4: Hanoi
+    address-5: Vietnam
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Dahea Business Center
+    address-3: 15:e våningen
+    address-4: 360 Kim Ma street
+    address-5: Ba Dinh, Hanoi
+    address-6: ''
+    address-7: ''
+  telephone: +84 4 37260 400
+  fax: +84 4 37260410
+  email: ambassaden.hanoi@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/vietnam-hanoi/
+
+- coutry: Zambia
+  name: Sveriges ambassad Lusaka
+  appointed: Anna-Maj Hultgård
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 50264
+    address-3: Ridgeway
+    address-4: 10101 Lusaka
+    address-5: Zambia
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Haile Selassie Avenue,
+    address-3: Opposite Ndeke House
+    address-4: Longacres
+    address-5: Lusaka
+    address-6: ''
+    address-7: ''
+  telephone: +260 211 42 61 00 / +260 777 17 72 33
+  fax: +260 (211) 25 40 49
+  email: ambassaden.lusaka@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/zambia-lusaka/
+
+- coutry: Zimbabwe
+  name: Sveriges ambassad Harare
+  appointed: Åsa Pehrson
+  postal:
+    address-1: Embassy of Sweden
+    address-2: P.O. Box 4110
+    address-3: Harare
+    address-4: Zimbabwe
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: 32, Aberdeen Road
+    address-3: Avondale
+    address-4: Harare
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +263 (4) 302 636
+  fax: +263 (4) 302 236
+  email: ambassaden.harare@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/zimbabwe-harare/
+
+- coutry: Österrike
+  name: Sveriges ambassad Wien
+  appointed: Annika Markovic
+  postal:
+    address-1: Schwedische Botschaft
+    address-2: Liechtensteinstrasse 51
+    address-3: 1090 Wien
+    address-4: Österrike
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges Ambassad
+    address-2: Liechtensteinstrasse 51
+    address-3: 1090 Wien
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: +43 1-217 530
+  fax: ''
+  email: ambassaden.wien@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/österrike-wien/
+
+- coutry: Österrike
+  name: Svergies delegation NATO Bryssel
+  appointed: Ulrika Funeredt
+  postal:
+    address-1: Mission of Sweden to NATO
+    address-2: NATO HQ - MWB
+    address-3: Boulevard Leopold III
+    address-4: 1110 Bryssel
+    address-5: Belgien
+    address-6: ''
+    address-7: ''
+  visit:
+    address-1: Sveriges delegation vid Nato
+    address-2: NATO HQ
+    address-3: Boulevard Leopold III, (Manfred Wörner Building, Evere)
+    address-4: ''
+    address-5: ''
+    address-6: ''
+    address-7: ''
+  telephone: '+3227077855'
+  fax: ''
+  email: nato-delegationen.bryssel@gov.se
+  web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nato-bryssel/kontakt/the-delegation/
