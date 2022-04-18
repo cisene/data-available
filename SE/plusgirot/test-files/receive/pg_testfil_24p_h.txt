@@ -1,0 +1,54 @@
+00123456TESTSERVICEBYRÅN AB              TP0000000000011123
+13999999TESTSERVICEBYRÅN AB
+23999999  99999999
+30999999  99999999011123
+40                         0000000000100       1    111111
+531111111          22222222           1,00
+53TESTA AB                                                                    A1
+53BOX 123                                                                     A2
+40                         0000000000100       1    111111
+533333333                             1,00
+53TESTFABRIKEN AB                                                             A1
+53123 45  ÅSTAD                                                               A2
+40                         0000000000100       1    222222
+534444444                             1,00
+53TESTCENTER I ÅSTAD AB                                                       A1
+53123 45  ÅSTAD                                                               A2
+40                         0000000000100       1   3333333
+53FRU LINA TESTARE
+535555555              666666         1,00
+53TESTKOMMUNEN, TEST KONTORET                                                 A1
+53234 56 ÖSTAD                                                                A2
+40                         0000000000100       1   4444444
+53FAKTURA: 1234567 BELOPP:       1,00
+531212121                             1,00
+53TESTMEKANISKA VERKSTAN AB                                                   A1
+53111-222222                                                                  A2
+40                         0000000000100       1   5555555
+531111111-222222                      1,00
+53TESTARNAS EKONOMISKA FÖRENING                                               A1
+53123 45 ÅSTAD                                                                A2
+40                         0000000000100       1   6666666
+53            1111111                 1,00
+53TESTINGE KRAFT AB                                                           A1
+53123 45  ÅSTAD                                                               A2
+40                         0000000000100       1   7777777
+53FNR0000001 KNR1 22222               1,00
+53TESTFABIKEN AB                                                              A1
+53BOX 1                                                                       A2
+40                         0000000000100       1  88888888
+533333333                             1,00
+53TEST LASTBILAR AB                                                           A1
+53BOX 1234                                                                    A2
+40                         0000000000100       1  99999999
+53VID KONTAKT ANGE VÅRT NR: 12345678
+531111111   222222   33333333         1,00
+53TESTKOMMUNEN I TESTING                                                      A1
+53VID FÖRFR RING 000-000000                                                   A2
+40                         0000000000100       1  99999999
+53VID KONTAKT ANGE VÅRT NR: 87654321
+531111111   222222   33333333         1,00
+53TESTKOMMUNEN I TESTING                                                      A1
+53VID FÖRFR RING 000-000000                                                   A2
+50999999  999999990111230000011000000000001100
+90123456          0111230000011000000000001100
