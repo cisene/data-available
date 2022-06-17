@@ -1,7 +1,7 @@
 ---
 data:
 
-- coutry: Afghanistan
+- country: Afghanistan
   name: Sveriges ambassad Kabul
   appointed: Torkel Stiernlöf
   postal:
@@ -25,7 +25,7 @@ data:
   email: ambassaden.kabul@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/afghanistan-kabul/
 
-- coutry: Albanien
+- country: Albanien
   name: Sveriges ambassad Tirana
   appointed: Elsa Håstad
   postal:
@@ -49,7 +49,7 @@ data:
   email: ambassaden.tirana@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/albanien-tirana/
 
-- coutry: Algeriet
+- country: Algeriet
   name: Sveriges ambassad Alger
   appointed: Björn Häggmark
   postal:
@@ -73,7 +73,7 @@ data:
   email: ambassaden.alger@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/algeriet-alger/
 
-- coutry: Angola
+- country: Angola
   name: Sveriges ambassad Luanda
   appointed: Ewa Polano
   postal:
@@ -97,7 +97,7 @@ data:
   email: ambassaden.luanda@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/angola-luanda/
 
-- coutry: Argentina
+- country: Argentina
   name: Sveriges ambassad Buenos Aires
   appointed: Anders Carlsson
   postal:
@@ -121,7 +121,7 @@ data:
   email: ambassaden.buenos-aires@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/argentina-buenos-aires/
 
-- coutry: Armenien
+- country: Armenien
   name: Sveriges ambassad Jerevan
   appointed: Patrik Svensson
   postal:
@@ -145,7 +145,7 @@ data:
   email: ambassaden.jerevan@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/armenien-jerevan/
 
-- coutry: Australien
+- country: Australien
   name: Sveriges ambassad Canberra
   appointed: Henrik Cederin
   postal:
@@ -169,7 +169,7 @@ data:
   email: ambassaden.canberra@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/
 
-- coutry: Azerbajdzjan
+- country: Azerbajdzjan
   name: Sveriges Ambassad Baku
   appointed: Christian Kamill
   postal:
@@ -193,7 +193,7 @@ data:
   email: ambassaden.baku@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/azerbajdzjan-baku/
 
-- coutry: Bangladesh
+- country: Bangladesh
   name: Sveriges ambassad Dhaka
   appointed: Alexandra Berg von Linde
   postal:
@@ -217,7 +217,7 @@ data:
   email: ambassaden.dhaka@gov.se
   web: https://www.swedenabroad.se/en/embassies/bangladesh-dhaka/
 
-- coutry: Belarus
+- country: Belarus
   name: Sveriges ambassad Minsk
   appointed: Christina Johannesson
   postal:
@@ -241,7 +241,7 @@ data:
   email: ambassaden.minsk@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/belarus-minsk/
 
-- coutry: Belgien
+- country: Belgien
   name: Sveriges EU-representation Bryssel
   appointed: Lars Danielsson
   postal:
@@ -265,7 +265,7 @@ data:
   email: representationen.bryssel@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/europeiska-unionen/
 
-- coutry: Belgien
+- country: Belgien
   name: Sveriges generalkonsulat Bryssel
   appointed: Åsa Zinfandel
   postal:
@@ -289,7 +289,7 @@ data:
   email: generalkonsulat.bryssel@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/belgien-bryssel/
 
-- coutry: Bolivia
+- country: Bolivia
   name: Sveriges ambassad La Paz
   appointed: Nicolas Weeks
   postal:
@@ -313,7 +313,7 @@ data:
   email: ambassaden.lapaz@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/bolivia-la-paz/
 
-- coutry: Bosnien-Hercegovina
+- country: Bosnien-Hercegovina
   name: Sveriges ambassad Sarajevo
   appointed: Johanna Strömquist
   postal:
@@ -337,7 +337,7 @@ data:
   email: ambassaden.sarajevo@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/bosnien-och-hercegovina-sarajevo/
 
-- coutry: Brasilien
+- country: Brasilien
   name: Sveriges ambassad Brasilia
   appointed: Johanna Brismar Skoog
   postal:
@@ -361,7 +361,7 @@ data:
   email: ambassaden.brasilia@gov.se
   web: https://www.swedenabroad.com (www.suecia.org.br)/
 
-- coutry: Burkina Faso
+- country: Burkina Faso
   name: Sveriges ambassad Ouagadougou
   appointed: Maria Sargren
   postal:
@@ -385,7 +385,7 @@ data:
   email: ambassaden.ouagadougou@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/burkina-faso-ouagadougou//
 
-- coutry: Chile
+- country: Chile
   name: Svergies ambassad Santigao
   appointed: Oscar Stenström
   postal:
@@ -409,7 +409,7 @@ data:
   email: ambassaden.santiago-de-chile@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/chile-santiago-de-chile/
 
-- coutry: Colombia
+- country: Colombia
   name: Sveriges ambassad Bogotá
   appointed: Helena Storm
   postal:
@@ -433,7 +433,7 @@ data:
   email: ambassaden.bogota@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/colombia-bogotá/
 
-- coutry: Cypern
+- country: Cypern
   name: Sveriges ambassad Nicosia
   appointed: Anders Hagelberg
   postal:
@@ -457,7 +457,7 @@ data:
   email: ambassaden.nicosia@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/cypern-nicosia/
 
-- coutry: D.R. Kongo
+- country: D.R. Kongo
   name: Sveriges ambassad Kinshasa
   appointed: Henric Råsbrant
   postal:
@@ -481,7 +481,7 @@ data:
   email: ambassaden.kinshasa@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/d.r.-kongo-kinshasa/
 
-- coutry: Danmark
+- country: Danmark
   name: Sveriges ambassad Köpenhamn
   appointed: Charlotte Wrangber
   postal:
@@ -505,7 +505,7 @@ data:
   email: ambassaden.kopenhamn@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/danmark-köpenhamn/
 
-- coutry: Egypten
+- country: Egypten
   name: Sveriges ambassad Kairo
   appointed: Håkan Emsgård
   postal:
@@ -529,7 +529,7 @@ data:
   email: ambassaden.kairo@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/egypten-kairo/
 
-- coutry: Estland
+- country: Estland
   name: Sveriges ambassad Tallinn
   appointed: Ingrid Tersman
   postal:
@@ -553,7 +553,7 @@ data:
   email: ambassaden.tallinn@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/estland-tallinn/
 
-- coutry: Etiopien
+- country: Etiopien
   name: Sveriges ambassad Addis Abeba
   appointed: Hans Lundquist
   postal:
@@ -577,7 +577,7 @@ data:
   email: ambassaden.addis-abeba@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/etiopien-addis-abeba/
 
-- coutry: Filippinerna
+- country: Filippinerna
   name: Sveriges ambassad Manila
   appointed: Annika Thunborg
   postal:
@@ -601,7 +601,7 @@ data:
   email: ambassaden.manila@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/filippinerna-manila/
 
-- coutry: Finland
+- country: Finland
   name: Sveriges generalkonsulat Mariehamn
   appointed: Claes Hammar
   postal:
@@ -625,7 +625,7 @@ data:
   email: generalkonsulat.mariehamn@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/aland-mariehamn/
 
-- coutry: Finland
+- country: Finland
   name: Sveriges ambassad Helsingfors
   appointed: Nicola Clase
   postal:
@@ -649,7 +649,7 @@ data:
   email: ambassaden.helsingfors@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/finland-helsingfors/
 
-- coutry: Frankrike
+- country: Frankrike
   name: Sveriges ambassad Paris
   appointed: Håkan Åkesson
   postal:
@@ -673,7 +673,7 @@ data:
   email: ambassaden.paris@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/frankrike-paris/
 
-- coutry: Frankrike
+- country: Frankrike
   name: Sveriges delegation Paris, OECD
   appointed: Anna Brandt
   postal:
@@ -697,7 +697,7 @@ data:
   email: oecd-del.paris@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal/
 
-- coutry: Frankrike
+- country: Frankrike
   name: Sveriges representation Europarådet Strasbourg
   appointed: Mårten Ehnberg
   postal:
@@ -721,7 +721,7 @@ data:
   email: representationen.strasbourg@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/europarådet-strasbourg/
 
-- coutry: Frankrike
+- country: Frankrike
   name: Sveriges delegation UNESCO Paris
   appointed: Anna Brandt
   postal:
@@ -745,7 +745,7 @@ data:
   email: unesco-del.paris@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/oecd-unesco/om-delegationen/delegationens-personal/
 
-- coutry: Förenade arabemiraten
+- country: Förenade arabemiraten
   name: Sveriges ambassad Abu Dhabi
   appointed: Liselott Andersson
   postal:
@@ -769,7 +769,7 @@ data:
   email: ambassaden.abu-dhabi@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/förenade-arabemiraten-abu-dhabi/
 
-- coutry: Georgien
+- country: Georgien
   name: Sveriges ambassad Tbilisi
   appointed: Ulrik Tideström
   postal:
@@ -793,7 +793,7 @@ data:
   email: ambassaden.tbilisi@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/georgien-tbilisi/
 
-- coutry: Grekland
+- country: Grekland
   name: Sveriges ambassad Athen
   appointed: Johan Borgstam
   postal:
@@ -817,7 +817,7 @@ data:
   email: ambassaden.athen@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/grekland-athen/
 
-- coutry: Guatemala
+- country: Guatemala
   name: Sveriges ambassad Guatemala
   appointed: Hans Magnusson
   postal:
@@ -841,7 +841,7 @@ data:
   email: ambassaden.guatemala@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/guatemala-guatemala/
 
-- coutry: Indien
+- country: Indien
   name: Sveriges ambassad New Delhi
   appointed: Klas Molin
   postal:
@@ -865,7 +865,7 @@ data:
   email: ambassaden.new-delhi@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/indien-new-delhi/
 
-- coutry: Indien
+- country: Indien
   name: Svergies generalkonsulat Mumbai
   appointed: Anna Lekvall
   postal:
@@ -889,7 +889,7 @@ data:
   email: consulategeneral.mumbai@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/indien-mumbai/
 
-- coutry: Indonesien
+- country: Indonesien
   name: Sveriges ambassad Jakarta
   appointed: Marina Berg
   postal:
@@ -913,7 +913,7 @@ data:
   email: ambassaden.jakarta@gov.se
   web: https://www.swedenabroad.se/en/embassies/indonesia-jakarta/
 
-- coutry: Irak
+- country: Irak
   name: Sveriges ambassad Bagdad
   appointed: Jonas Lovén
   postal:
@@ -937,7 +937,7 @@ data:
   email: ambassaden.bagdad@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/irak-bagdad/
 
-- coutry: Iran
+- country: Iran
   name: Sveriges ambassad Teheran
   appointed: Mattias Lentz
   postal:
@@ -961,7 +961,7 @@ data:
   email: ambassaden.teheran@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/iran-teheran/
 
-- coutry: Island
+- country: Island
   name: Sveriges ambassad Reykjavik
   appointed: Pär Ahlberger
   postal:
@@ -985,7 +985,7 @@ data:
   email: ambassaden.reykjavik@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/island-reykjavik/
 
-- coutry: Israel
+- country: Israel
   name: Sveriges ambassad Tel Aviv
   appointed: Erik Ullenhag
   postal:
@@ -1009,7 +1009,7 @@ data:
   email: ambassaden.tel-aviv@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/israel-tel-aviv/
 
-- coutry: Israel
+- country: Israel
   name: Sveriges generalkonsulat Jerusalem
   appointed: Julius Liljeström
   postal:
@@ -1033,7 +1033,7 @@ data:
   email: generalkonsulat.jerusalem@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/jerusalem/
 
-- coutry: Italien
+- country: Italien
   name: Sveriges ambassad Rom
   appointed: Jan Björklund
   postal:
@@ -1057,7 +1057,7 @@ data:
   email: ambassaden.rom@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/italien-rom/
 
-- coutry: Japan
+- country: Japan
   name: Sveriges ambassad Tokyo
   appointed: Pereric Högberg
   postal:
@@ -1081,7 +1081,7 @@ data:
   email: ambassaden.tokyo@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/japan-tokyo/
 
-- coutry: Jordanien
+- country: Jordanien
   name: Sveriges ambassad Amman
   appointed: Alexandra Rydmark
   postal:
@@ -1105,7 +1105,7 @@ data:
   email: ambassaden.amman@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/jordanien-amman/
 
-- coutry: Kanada
+- country: Kanada
   name: Sveriges ambassad Ottawa
   appointed: Urban Ahlin
   postal:
@@ -1129,7 +1129,7 @@ data:
   email: sweden.ottawa@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kanada-ottawa/
 
-- coutry: Kazakstan
+- country: Kazakstan
   name: Sveriges Ambassad Nur-Sultan
   appointed: Mats Foyer
   postal:
@@ -1153,7 +1153,7 @@ data:
   email: ambassaden.nur-sultan@gov.se
   web: https://www.swedenabroad.se/en/embassies/kazakhstan-astana/
 
-- coutry: Kenya
+- country: Kenya
   name: Sveriges ambassad Nairobi
   appointed: Caroline Vicini
   postal:
@@ -1177,7 +1177,7 @@ data:
   email: ambassaden.nairobi@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kenya-nairobi/
 
-- coutry: Kina
+- country: Kina
   name: Sveriges ambassad Peking
   appointed: Helena Sångeland
   postal:
@@ -1201,7 +1201,7 @@ data:
   email: ambassaden.peking@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kina-peking/
 
-- coutry: Kina
+- country: Kina
   name: Sveriges generalkonsulat Hongkong
   appointed: Per Augustsson
   postal:
@@ -1225,7 +1225,7 @@ data:
   email: generalkonsulat.hongkong@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/hong-kong/
 
-- coutry: Kina
+- country: Kina
   name: Sveriges generalkonsulat Shanghai
   appointed: Marie-Claire Swärd Capra
   postal:
@@ -1249,7 +1249,7 @@ data:
   email: generalkonsulat.shanghai@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kina-shanghai/
 
-- coutry: Kosovo
+- country: Kosovo
   name: Sveriges ambassad Pristina
   appointed: Karin Hernmarck Ahliny
   postal:
@@ -1273,7 +1273,7 @@ data:
   email: ambassaden.pristina@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kosovo-pristina/
 
-- coutry: Kroatien
+- country: Kroatien
   name: Sveriges ambassad  Zagreb
   appointed: Diana Madunic
   postal:
@@ -1297,7 +1297,7 @@ data:
   email: ambassaden.zagreb@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kroatien-zagreb/
 
-- coutry: Kuba
+- country: Kuba
   name: Sveriges ambassad Havanna
   appointed: Tomas Wiklund
   postal:
@@ -1321,7 +1321,7 @@ data:
   email: ambassaden.havanna@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/kuba-havanna/
 
-- coutry: Lettland
+- country: Lettland
   name: Sveriges ambassad Riga
   appointed: Karin Höglund
   postal:
@@ -1345,7 +1345,7 @@ data:
   email: ambassaden.riga@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/lettland-riga/
 
-- coutry: Libanon
+- country: Libanon
   name: Sveriges ambassad Beirut
   appointed: Ann Dismorr
   postal:
@@ -1369,7 +1369,7 @@ data:
   email: ambassaden.beirut@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/libanon--beirut/
 
-- coutry: Liberia
+- country: Liberia
   name: Sveriges ambassad Monrovia
   appointed: Urban Sjöström
   postal:
@@ -1393,7 +1393,7 @@ data:
   email: www.swedenabroad.se/sv/utlandsmyndigheter/liberia-monrovia
   web: https://www.swedenabroad.se/monrovia/
 
-- coutry: Litauen
+- country: Litauen
   name: Sveriges ambassad Vilnius
   appointed: Inger Buxton
   postal:
@@ -1417,7 +1417,7 @@ data:
   email: ambassaden.vilnius@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/litauen-vilnius/
 
-- coutry: Makedonien
+- country: Makedonien
   name: Sveriges ambassad Skopje
   appointed: Kristin Forsgren Bengtsson
   postal:
@@ -1441,7 +1441,7 @@ data:
   email: ambassaden.skopje@gov.se
   web: https://www.swedenabroad.se/en/embassies/north-macedonia-skopje/
 
-- coutry: Malaysia
+- country: Malaysia
   name: Sveriges ambassad Kuala Lumpur
   appointed: Joachim Bergström
   postal:
@@ -1465,7 +1465,7 @@ data:
   email: ambassaden.kuala-lumpur@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/malaysia-kuala-lumpur/
 
-- coutry: Mali
+- country: Mali
   name: Sveriges ambassad Bamako
   appointed: Kristina Kühnel
   postal:
@@ -1489,7 +1489,7 @@ data:
   email: ambassaden.bamako@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mali-bamako/
 
-- coutry: Marocko
+- country: Marocko
   name: Sveriges ambassad Rabat
   appointed: Anne Höglund
   postal:
@@ -1513,7 +1513,7 @@ data:
   email: ambassaden.rabat@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/marocko-rabat/
 
-- coutry: Mexiko
+- country: Mexiko
   name: Sveriges ambassad Mexiko
   appointed: Gunnar Aldén
   postal:
@@ -1537,7 +1537,7 @@ data:
   email: ambassaden.mexico@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mexico-mexico-city/
 
-- coutry: Moçambique
+- country: Moçambique
   name: Sveriges ambassad Maputo
   appointed: Mette Sunnergren
   postal:
@@ -1561,7 +1561,7 @@ data:
   email: ambassaden.maputo@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/mocambique-maputo/
 
-- coutry: Moldavien
+- country: Moldavien
   name: Sveriges ambassad Chisinau
   appointed: Katarina Fried
   postal:
@@ -1585,7 +1585,7 @@ data:
   email: ambassaden.chisinau@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/moldavien-chisinau/
 
-- coutry: Nederländerna
+- country: Nederländerna
   name: Sveriges ambassad Haag
   appointed: Johannes Oljelund
   postal:
@@ -1609,7 +1609,7 @@ data:
   email: ambassaden.haag@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nederländerna-haag/
 
-- coutry: Nigeria
+- country: Nigeria
   name: Sveriges ambassad Abuja
   appointed: Carl Michael Gräns
   postal:
@@ -1633,7 +1633,7 @@ data:
   email: ambassaden.abuja@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nigeria-abuja/
 
-- coutry: Nordkorea
+- country: Nordkorea
   name: Sveriges ambassad Pyongyang
   appointed: Andreas Bengtsson
   postal:
@@ -1657,7 +1657,7 @@ data:
   email: ambassaden.pyongyang@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/nordkorea-pyongyang/
 
-- coutry: Norge
+- country: Norge
   name: Sveriges ambassad Oslo
   appointed: Cecilia Björner
   postal:
@@ -1681,7 +1681,7 @@ data:
   email: ambassaden.oslo@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/norge-oslo/
 
-- coutry: Pakistan
+- country: Pakistan
   name: Sveriges ambassad Islamabad
   appointed: Henrik Persson
   postal:
@@ -1705,7 +1705,7 @@ data:
   email: ambassaden.islamabad@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/pakistan-islamabad/
 
-- coutry: Peru
+- country: Peru
   name: Sveriges ambassad Lima
   appointed: Maria Cramér
   postal:
@@ -1729,7 +1729,7 @@ data:
   email: ambassaden.lima@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/peru-lima/
 
-- coutry: Polen
+- country: Polen
   name: Sveriges ambassad Warszawa
   appointed: Stefan Gullgren
   postal:
@@ -1753,7 +1753,7 @@ data:
   email: ambassaden.warszawa@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/polen-warszawa/
 
-- coutry: Portugal
+- country: Portugal
   name: Sveriges ambassad Lissabon
   appointed: Helena Pilsas
   postal:
@@ -1777,7 +1777,7 @@ data:
   email: ambassaden.lissabon@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/portugal-lissabon/
 
-- coutry: Qatar
+- country: Qatar
   name: Sveriges ambassad Doha
   appointed: Anders Bengtcén
   postal:
@@ -1801,7 +1801,7 @@ data:
   email: ambassaden.doha@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/qatar-doha/
 
-- coutry: Rumänien
+- country: Rumänien
   name: Sveriges ambassad Bukarest
   appointed: Therese Hydén
   postal:
@@ -1825,7 +1825,7 @@ data:
   email: ambassaden.bukarest@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/rumänien-bukarest/
 
-- coutry: Rwanda
+- country: Rwanda
   name: Sveriges ambassad Kigali
   appointed: Johanna Teague
   postal:
@@ -1849,7 +1849,7 @@ data:
   email: ambassaden.kigali@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/rwanda-kigali/
 
-- coutry: Ryssland
+- country: Ryssland
   name: Sveriges ambassad Moskva
   appointed: Malena Mård
   postal:
@@ -1873,7 +1873,7 @@ data:
   email: ambassaden.moskva@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-moskva/
 
-- coutry: Ryssland
+- country: Ryssland
   name: Sveriges generalkonsulat Sankt Petersburg
   appointed: Eva Sundquist
   postal:
@@ -1897,7 +1897,7 @@ data:
   email: generalkonsulat.st-petersburg@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-sankt-petersburg/
 
-- coutry: Saudiarabien
+- country: Saudiarabien
   name: Sveriges ambassad Riyadh
   appointed: Niclas Trouvé
   postal:
@@ -1921,7 +1921,7 @@ data:
   email: ambassaden.riyadh@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/saudiarabien-riyadh/
 
-- coutry: Schweiz
+- country: Schweiz
   name: Sveriges ambassad Bern
   appointed: Jan Knutsson
   postal:
@@ -1945,7 +1945,7 @@ data:
   email: ambassaden.bern@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/schweiz-bern/
 
-- coutry: Schweiz
+- country: Schweiz
   name: Sveriges FN-representation Genève
   appointed: Anna Jardfelt
   postal:
@@ -1969,7 +1969,7 @@ data:
   email: representationen.geneve@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/fn-genève/
 
-- coutry: Serbien
+- country: Serbien
   name: Sveriges ambassad Belgrad
   appointed: Annika Ben David
   postal:
@@ -1993,7 +1993,7 @@ data:
   email: ambassaden.belgrad@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/serbien-belgrad/
 
-- coutry: Singapore
+- country: Singapore
   name: Sveriges ambassad Singapore
   appointed: Kent Härstedt
   postal:
@@ -2017,7 +2017,7 @@ data:
   email: ambassaden.singapore@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/singapore-singapore/
 
-- coutry: Spanien
+- country: Spanien
   name: Sveriges ambassad Madrid
   appointed: Teppo Tauriainen
   postal:
@@ -2041,7 +2041,7 @@ data:
   email: ambassaden.madrid@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/spanien-madrid/
 
-- coutry: Storbritannien
+- country: Storbritannien
   name: Sveriges ambassad London
   appointed: Mikaela Kumlin Granit
   postal:
@@ -2065,7 +2065,7 @@ data:
   email: ambassaden.london@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/storbritannien-london/
 
-- coutry: Sudan
+- country: Sudan
   name: Sveriges ambassad Khartoum
   appointed: Signe Burgstaller
   postal:
@@ -2089,7 +2089,7 @@ data:
   email: ambassaden.khartoum@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sudan-khartoum/
 
-- coutry: Sydafrika
+- country: Sydafrika
   name: Sveriges ambassad Pretoria
   appointed: Håkan Juholt
   postal:
@@ -2113,7 +2113,7 @@ data:
   email: ambassaden.pretoria@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sydafrika-pretoria/
 
-- coutry: Sydkorea
+- country: Sydkorea
   name: Sveriges ambassad Seoul
   appointed: Daniel Wolvén
   postal:
@@ -2137,7 +2137,7 @@ data:
   email: ambassaden.seoul@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/sydkorea-seoul/
 
-- coutry: Syrien
+- country: Syrien
   name: Sveriges ambassad Damaskus
   appointed: Ann Dismorr
   postal:
@@ -2161,7 +2161,7 @@ data:
   email: ambassaden.damaskus@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/syrien-damaskus/
 
-- coutry: Tanzania
+- country: Tanzania
   name: Sveriges ambassad Dar es Salaam
   appointed: Anders Sjöberg
   postal:
@@ -2185,7 +2185,7 @@ data:
   email: ambassaden.dar-es-salaam@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tanzania-dar-es-salaam/
 
-- coutry: Thailand
+- country: Thailand
   name: Sveriges ambassad Bangkok
   appointed: Jon Åström Gröndahl
   postal:
@@ -2209,7 +2209,7 @@ data:
   email: ambassaden.bangkok@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/thailand-bangkok/
 
-- coutry: Tjeckien
+- country: Tjeckien
   name: Sveriges ambassad Prag
   appointed: Fredrik Jörgensen
   postal:
@@ -2233,7 +2233,7 @@ data:
   email: ambassaden.prag@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tjeckien-prag/
 
-- coutry: Tunisien
+- country: Tunisien
   name: Sveriges ambassad Tunis
   appointed: Anna Block Mazoyer
   postal:
@@ -2257,7 +2257,7 @@ data:
   email: ambassaden.tunis@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tunisien-tunis/
 
-- coutry: Turkiet
+- country: Turkiet
   name: Sveriges ambassad Ankara
   appointed: Staffan Herrström
   postal:
@@ -2281,7 +2281,7 @@ data:
   email: ambassaden.ankara@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-ankara/
 
-- coutry: Turkiet
+- country: Turkiet
   name: Sveriges generalkonsulat Istanbul
   appointed: Peter Ericson
   postal:
@@ -2305,7 +2305,7 @@ data:
   email: generalkonsulat.istanbul@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/turkiet-istanbul/
 
-- coutry: Tyskland
+- country: Tyskland
   name: Sveriges ambassad Berlin
   appointed: Per Thöresson
   postal:
@@ -2329,7 +2329,7 @@ data:
   email: ambassaden.berlin@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/tyskland-berlin/
 
-- coutry: Uganda
+- country: Uganda
   name: Sveriges ambassad Kampala
   appointed: Maria Håkansson
   postal:
@@ -2353,7 +2353,7 @@ data:
   email: ambassaden.kampala@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/uganda-kampala/
 
-- coutry: Ukraina
+- country: Ukraina
   name: Sveriges ambassad Kiev
   appointed: Tobias Thyberg
   postal:
@@ -2377,7 +2377,7 @@ data:
   email: ambassaden.kiev@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ukraina-kiev/
 
-- coutry: Ungern
+- country: Ungern
   name: Sveriges ambassad Budapest
   appointed: Dag Hartelius
   postal:
@@ -2401,7 +2401,7 @@ data:
   email: ambassaden.budapest@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/ungern-budapest/
 
-- coutry: USA
+- country: USA
   name: Sveriges ambassad Washington
   appointed: Karin Olofsdotter
   postal:
@@ -2425,7 +2425,7 @@ data:
   email: ambassaden.washington@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/usa-washington/
 
-- coutry: USA
+- country: USA
   name: Sveriges generalkonsulat New York
   appointed: Camilla Mellander
   postal:
@@ -2449,7 +2449,7 @@ data:
   email: generalkonsulat.new-york@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/usa-new-york/
 
-- coutry: USA
+- country: USA
   name: Sveriges FN-Representation New York
   appointed: Anna-Karin Eneström
   postal:
@@ -2473,7 +2473,7 @@ data:
   email: representationen.new-york@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/fn-new-york/
 
-- coutry: Vietnam
+- country: Vietnam
   name: Sveriges ambassad Hanoi
   appointed: Ann Måwe
   postal:
@@ -2497,7 +2497,7 @@ data:
   email: ambassaden.hanoi@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/vietnam-hanoi/
 
-- coutry: Zambia
+- country: Zambia
   name: Sveriges ambassad Lusaka
   appointed: Anna-Maj Hultgård
   postal:
@@ -2521,7 +2521,7 @@ data:
   email: ambassaden.lusaka@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/zambia-lusaka/
 
-- coutry: Zimbabwe
+- country: Zimbabwe
   name: Sveriges ambassad Harare
   appointed: Åsa Pehrson
   postal:
@@ -2545,7 +2545,7 @@ data:
   email: ambassaden.harare@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/zimbabwe-harare/
 
-- coutry: Österrike
+- country: Österrike
   name: Sveriges ambassad Wien
   appointed: Annika Markovic
   postal:
@@ -2569,7 +2569,7 @@ data:
   email: ambassaden.wien@gov.se
   web: https://www.swedenabroad.se/sv/utlandsmyndigheter/österrike-wien/
 
-- coutry: Österrike
+- country: Österrike
   name: Svergies delegation NATO Bryssel
   appointed: Ulrika Funeredt
   postal:
