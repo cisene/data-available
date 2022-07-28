@@ -1,6 +1,11 @@
 ---
 shoesizes:
   men:
+    225:
+      eu: 35
+      us:
+      uk: 4
+      jp: 22.5
     230:
       eu: 36
       us: 4
@@ -41,9 +46,12 @@ shoesizes:
       eu: 48
       us: 14
     295:
-      eu:
+      eu: 49
       us:
     300:
-      eu:
+      eu: 50
       us:
-    
+    305:
+      eu: 51
+    310:
+      eu: 52
