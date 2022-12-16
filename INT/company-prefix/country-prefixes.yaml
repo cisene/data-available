@@ -1,0 +1,99 @@
+---
+source: https://www.gs1.org/standards/id-keys/company-prefix
+gs1:
+  companyprefixes:
+    0:
+    1:
+    2:
+    3:
+    4:
+    5:
+    6:
+    7:
+      70:
+        700:
+          country: Norway
+        701:
+          country: Norway
+        702:
+          country: Norway
+        703:
+          country: Norway
+        704:
+          country: Norway
+        705:
+          country: Norway
+        706:
+          country: Norway
+        707:
+          country: Norway
+        708:
+          country: Norway
+        709:
+          country: Norway
+
+      71:
+      72:
+        729:
+          country: Israel
+
+      73:
+        730:
+          country: Sweden
+        731:
+          country: Sweden
+        732:
+          country: Sweden
+        733:
+          country: Sweden
+        734:
+          country: Sweden
+        735:
+          country: Sweden
+        736:
+          country: Sweden
+        737:
+          country: Sweden
+        738:
+          country: Sweden
+        739:
+          country: Sweden
+
+      74:
+        740:
+          country: Guatemala
+        741:
+          country: El Salvador
+        742:
+          country: Honduras
+        743:
+          country: Nicaragua
+        744:
+          country: Costa Rica
+        745:
+          country: Panama
+        746:
+          country: Republica Dominicana
+      75:
+        750:
+          country: Mexico
+        754:
+          country: Canada
+        755:
+          country: Canada
+      76:
+      77:
+      78:
+      79:
+    8:
+    9:
+      90:
+      91:
+      92:
+      93:
+      94:
+      95:
+      96:
+      97:
+      98:
+      99:
