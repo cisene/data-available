@@ -1,0 +1,561 @@
+---
+origin: http://www.swedishbankers.se/media/1253/1601_clearingnummer.pdf
+date: 2016-01-07
+clearingnumbers:
+
+  1000:
+    name: Sveriges Riksbank
+  1001:
+    name: Sveriges Riksbank
+  1002:
+    name: Sveriges Riksbank
+  1003:
+    name: Sveriges Riksbank
+  1004:
+    name: Sveriges Riksbank
+  1005:
+    name: Sveriges Riksbank
+  1006:
+    name: Sveriges Riksbank
+  1007:
+    name: Sveriges Riksbank
+  1008:
+    name: Sveriges Riksbank
+  1009:
+    name: Sveriges Riksbank
+
+  1010:
+    name: Sveriges Riksbank
+  1011:
+    name: Sveriges Riksbank
+  1012:
+    name: Sveriges Riksbank
+  1013:
+    name: Sveriges Riksbank
+  1014:
+    name: Sveriges Riksbank
+  1015:
+    name: Sveriges Riksbank
+  1016:
+    name: Sveriges Riksbank
+  1017:
+    name: Sveriges Riksbank
+  1018:
+    name: Sveriges Riksbank
+  1019:
+    name: Sveriges Riksbank
+
+  1020:
+    name: Sveriges Riksbank
+  1021:
+    name: Sveriges Riksbank
+  1022:
+    name: Sveriges Riksbank
+  1023:
+    name: Sveriges Riksbank
+  1024:
+    name: Sveriges Riksbank
+  1025:
+    name: Sveriges Riksbank
+  1026:
+    name: Sveriges Riksbank
+  1027:
+    name: Sveriges Riksbank
+  1028:
+    name: Sveriges Riksbank
+  1029:
+    name: Sveriges Riksbank
+
+  1030:
+    name: Sveriges Riksbank
+  1031:
+    name: Sveriges Riksbank
+  1032:
+    name: Sveriges Riksbank
+  1033:
+    name: Sveriges Riksbank
+  1034:
+    name: Sveriges Riksbank
+  1035:
+    name: Sveriges Riksbank
+  1036:
+    name: Sveriges Riksbank
+  1037:
+    name: Sveriges Riksbank
+  1038:
+    name: Sveriges Riksbank
+  1039:
+    name: Sveriges Riksbank
+
+  1040:
+    name: Sveriges Riksbank
+  1041:
+    name: Sveriges Riksbank
+  1042:
+    name: Sveriges Riksbank
+  1043:
+    name: Sveriges Riksbank
+  1044:
+    name: Sveriges Riksbank
+  1045:
+    name: Sveriges Riksbank
+  1046:
+    name: Sveriges Riksbank
+  1047:
+    name: Sveriges Riksbank
+  1048:
+    name: Sveriges Riksbank
+  1049:
+    name: Sveriges Riksbank
+
+  1050:
+    name: Sveriges Riksbank
+  1051:
+    name: Sveriges Riksbank
+  1052:
+    name: Sveriges Riksbank
+  1053:
+    name: Sveriges Riksbank
+  1054:
+    name: Sveriges Riksbank
+  1055:
+    name: Sveriges Riksbank
+  1056:
+    name: Sveriges Riksbank
+  1057:
+    name: Sveriges Riksbank
+  1058:
+    name: Sveriges Riksbank
+  1059:
+    name: Sveriges Riksbank
+
+  1060:
+    name: Sveriges Riksbank
+  1061:
+    name: Sveriges Riksbank
+  1062:
+    name: Sveriges Riksbank
+  1063:
+    name: Sveriges Riksbank
+  1064:
+    name: Sveriges Riksbank
+  1065:
+    name: Sveriges Riksbank
+  1066:
+    name: Sveriges Riksbank
+  1067:
+    name: Sveriges Riksbank
+  1068:
+    name: Sveriges Riksbank
+  1069:
+    name: Sveriges Riksbank
+
+  1070:
+    name: Sveriges Riksbank
+  1071:
+    name: Sveriges Riksbank
+  1072:
+    name: Sveriges Riksbank
+  1073:
+    name: Sveriges Riksbank
+  1074:
+    name: Sveriges Riksbank
+  1075:
+    name: Sveriges Riksbank
+  1076:
+    name: Sveriges Riksbank
+  1077:
+    name: Sveriges Riksbank
+  1078:
+    name: Sveriges Riksbank
+  1079:
+    name: Sveriges Riksbank
+
+  1080:
+    name: Sveriges Riksbank
+  1081:
+    name: Sveriges Riksbank
+  1082:
+    name: Sveriges Riksbank
+  1083:
+    name: Sveriges Riksbank
+  1084:
+    name: Sveriges Riksbank
+  1085:
+    name: Sveriges Riksbank
+  1086:
+    name: Sveriges Riksbank
+  1087:
+    name: Sveriges Riksbank
+  1088:
+    name: Sveriges Riksbank
+  1089:
+    name: Sveriges Riksbank
+
+  1090:
+    name: Sveriges Riksbank
+  1091:
+    name: Sveriges Riksbank
+  1092:
+    name: Sveriges Riksbank
+  1093:
+    name: Sveriges Riksbank
+  1094:
+    name: Sveriges Riksbank
+  1095:
+    name: Sveriges Riksbank
+  1096:
+    name: Sveriges Riksbank
+  1097:
+    name: Sveriges Riksbank
+  1098:
+    name: Sveriges Riksbank
+  1099:
+    name: Sveriges Riksbank
+
+
+  1100:
+    name: Nordea
+  1199:
+
+
+  1200:
+    name: Danske Bank
+  1399:
+
+
+  1400:
+    name: Nordea
+  2099:
+
+
+  2300:
+    name: Ålandsbanken
+  2399:
+
+
+  2400:
+    name: Danske Bank
+  2499:
+
+
+  3000:
+    name: Nordea
+  3399:
+
+
+  3400:
+    name: Länsförsäkringar Bank
+  3409:
+
+
+  3410:
+    name: Nordea
+  4999:
+
+
+  5000:
+    name: SEB
+  5999:
+
+
+  6000:
+    name: Handelsbanken
+  6999:
+
+
+  7000:
+    name: Swedbank
+  8999:
+
+
+  9020:
+    name: Länsförsäkringar Bank
+  9029:
+
+
+  9040:
+    name: Citibank
+  9049:
+
+
+  9060:
+    name: Länsförsäkringar Bank
+  9069:
+
+
+  9080:
+    name: Calyon Bank
+  9089:
+
+
+  9090:
+    name: RBS
+  9099:
+
+
+  9100:
+    name: Nordnet Bank
+  9109:
+
+
+  9120:
+    name: SEB
+  9124:
+
+
+  9130:
+    name: SEB
+  9149:
+
+
+  9150:
+    name: Skandiabanken
+  9169:
+
+
+  9170:
+    name: IKANO Banken
+  9179:
+
+
+  9180:
+    name: Danske Bank
+  9189:
+
+
+  9190:
+    name: DNB Bank
+  9199:
+
+
+  9230:
+    name: Marginalen Bank
+  9239:
+
+
+  9250:
+    name: SBAB Bank
+  9251:
+    name: SBAB Bank
+  9252:
+    name: SBAB Bank
+  9253:
+    name: SBAB Bank
+  9254:
+    name: SBAB Bank
+  9255:
+    name: SBAB Bank
+  9256:
+    name: SBAB Bank
+  9257:
+    name: SBAB Bank
+  9258:
+    name: SBAB Bank
+  9259:
+    name: SBAB Bank
+
+
+  9260:
+    name: DNB Bank
+  9261:
+    name: DNB Bank
+  9262:
+    name: DNB Bank
+  9263:
+    name: DNB Bank
+  9264:
+    name: DNB Bank
+  9265:
+    name: DNB Bank
+  9266:
+    name: DNB Bank
+  9267:
+    name: DNB Bank
+  9268:
+    name: DNB Bank
+  9269:
+    name: DNB Bank
+
+
+  9270:
+    name: ICA Banken
+  9279:
+
+
+  9280:
+    name: Resurs Bank
+  9289:
+
+
+  9300:
+    name: Swedbank
+  9349:
+
+
+  9380:
+    name: Pareto Öhman
+  9389:
+
+
+  9390:
+    name: Landshypotek
+  9399:
+
+
+  9400:
+    name: Forex Bank
+  9449:
+
+
+  9460:
+    name: GE Money Bank
+  9469:
+
+
+  9470:
+    name: Fortis Bank
+  9479:
+
+
+  9480:
+    name: Parex Bank
+  9489:
+
+
+  9500:
+    name: Nordea
+  9549:
+
+
+  9550:
+    name: Avanza Bank
+  9569:
+
+
+  9570:
+    name: Sparbanken Syd
+  9579:
+
+
+  9580:
+    name: Exchange Finans Europe
+  9589:
+
+
+  9590:
+    name: Erik Penser Bankaktiebolag
+  9599:
+
+
+  9610:
+    name: Volvofinans Bank
+  9619:
+
+
+  9620:
+    name: Bank of China (Luxembourg)
+  9629:
+
+
+  9630:
+    name: Lån & Spar Bank
+  9639:
+
+
+  9640:
+    name: Nordax Finans
+  9649:
+
+
+  9650:
+    name: MedMera Bank
+  9659:
+
+
+  9660:
+    name: Amfa Bank
+  9669:
+
+
+  9670:
+    name: JAK Medlemsbank
+  9679:
+
+
+  9680:
+    name: Bluestep Finans
+  9689:
+
+
+  9690:
+    name: Folkia
+  9699:
+
+
+  9700:
+    name: Ekobanken
+  9709:
+
+
+  9710:
+    name: Aman Bank (ub)
+  9719:
+
+
+  9720:
+    name: Netfonds Bank (ub)
+  9729:
+
+
+  9860:
+    name: Privatgirot
+  9869:
+
+
+  9870:
+    name: Nasdaq-OMX
+  9879:
+
+
+  9880:
+    name: Riksgälden
+  9899:
+
+  9950:
+    name: Nykredit
+
+  9951:
+    name: Teller Branch Norway
+
+  9952:
+    name: Bankernas Automatbolag
+
+  9953:
+    name: Teller Branch Sweden
+
+  9954:
+    name: Kortaccept Nordic AB
+
+  9960:
+    name: Nordea
+  9961:
+    name: Nordea
+  9962:
+    name: Nordea
+  9963:
+    name: Nordea
+  9964:
+    name: Nordea
+  9965:
+    name: Nordea
+  9966:
+    name: Nordea
+  9967:
+    name: Nordea
+  9968:
+    name: Nordea
+  9969:
+    name: Nordea
+
+
