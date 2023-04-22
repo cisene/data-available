@@ -24,45 +24,46 @@ I dagsläget verkar alla dessa siffror vara "okända" och "opubliserade", kanske
 
 Dessa nummer är samlade från öppna källor på internet och sammanställda till nedan tabell.
 
-| Pref |      | Issuer                             | Format                    |
-| ---- | ---- | ---------------------------------- | ------------------------- |
-| 9752 | 2016 | Resurs Bank                        | `9752 2016 xxxx xxxx`     |
-| 9752 | 2040 | ICA Förmåns- och Betalkort         | `9752 2040 xxxx xxxx`     |
-| 9752 | 2050 | ICA Förmånskort                    | `9752 2050 xxxx xxxx`     |
-| 9752 | 2097 | SJ AB (Riksparkering, Årskort)     | `9752 2097 xxxx xxxx`     |
-| 9752 | 2097 | SJ AB, Årskort                     | `9752 2097 xxxx xxxx`     |
-| 9752 | 2102 | SJ AB, Medlemskort                 | `9752 2102 xxxx xxxx`     |
-| 9752 | 2112 | ICA AB                             | `9752 2112 xxxx xxxx`     |
-| 9752 | 2176 | Stadium                            | `9752 2176 xxxx xxxx`     |
-| 9752 | 2198 | Posten                             | `9752 2198 tmm xxxx xxxx` |
-| 9752 | 2224 | Resurs Bank                        | `9752 2224 xxxx xxxx`     |
-| 9752 | 2226 | Tyresöbostäder                     | `9752 2226 xxxx xxxx`     |
-| 9752 | 2229 | Tullverket                         | `9752 2229 tmm xxxx xxxx` |
-| 9752 | 2237 | HGL Bränsle                        | `9752 22379 xxxx xxxxxx`  |
-| 9752 | 2248 | City Gross                         | `9752 2248 xxxxxxx x`     |
-| 9752 | 2249 |                                    |                           |
-| 9752 | 2288 | Maestro                            | `9752 2288 xxxx xxxx`     |
-| 9752 | 2382 | Mecenat                            | `9752 2382 xxxx xxxx`     |
-| 9752 | 2387 | Stadium                            | `9752 2387 xxxx xxxx`     |
-| 9752 | 2525 | Region Östergötland                | `9752 2525 tmm xxxx xxxx` |
-| 9752 | 2566 | ICA                                | `9752 2566 xxxx xxxx`     |
-| 9752 | 2583 | Inera                              | `9752 2583 tmm xxxx xxxx` |
-| 9752 | 2647 | Landstinget Gävleborg              | `9752 2647 tmm xxxx xxxx` |
-| 9752 | 2675 | Praktikertjänst                    | `9752 2675 xxxx xxxx`     |
-| 9752 | 2679 | Västra Götalands Region            | `9752 2679 tmm xxxx xxxx` |
-| 9752 | 2692 | Landstinget Sörmland               | `9752 2692 tmm xxxx xxxx` |
-| 9752 | 2698 | Region Stockholm                   | `9752 2698 tmm xxxx xxxx` |
-| 9752 | 2705 | Region Uppsala                     | `9752 2705 tmm xxxx xxxx` |
-| 9752 | 2726 | Skatteverket                       | `9752 2726 tmm xxxx xxxx` |
-| 9752 | 2758 | Region Norrbotten                  | `9752 2758 tmm xxxx xxxx` |
-| 9752 | 2789 | Svenk E-identitet                  | `9752 2789 xxx xxxx`      |
-| 9752 | 2797 | Region Norrbotten                  | `9752 2797 tmm xxxx xxxx` |
-| 9752 | 2975 | Bauhaus Premium                    | `9752 2975 xxxx xxxx`     |
-| 9752 | 2976 | Resurs Bank                        | `9752 2976 xxxx xxxx`     |
-| 9752 | 3058 | Säkerhetspolisen                   | `9752 3058 tmm xxxx xxxx` |
-| 9752 | 3124 | SL-kort, Grönt kort                | `9752 3124 tmm xxxx xxxx` |
-
-
+| Pref |      | Issuer                         | Format                    |
+| ---- | ---- | ------------------------------ | ------------------------- |
+| 9752 | 2016 | Resurs Bank                    | `9752 2016 xxxx xxxx`     |
+| 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
+| 9752 | 2050 | ICA Förmånskort                | `9752 2050 xxxx xxxx`     |
+| 9752 | 2097 | SJ AB (Riksparkering, Årskort) | `9752 2097 xxxx xxxx`     |
+| 9752 | 2097 | SJ AB, Årskort                 | `9752 2097 xxxx xxxx`     |
+| 9752 | 2102 | SJ AB, Medlemskort             | `9752 2102 xxxx xxxx`     |
+| 9752 | 2112 | ICA AB                         | `9752 2112 xxxx xxxx`     |
+| 9752 | 2176 | Stadium                        | `9752 2176 xxxx xxxx`     |
+| 9752 | 2198 | Posten                         | `9752 2198 tmm xxxx xxxx` |
+| 9752 | 2224 | Resurs Bank                    | `9752 2224 xxxx xxxx`     |
+| 9752 | 2226 | Tyresöbostäder                 | `9752 2226 xxxx xxxx`     |
+| 9752 | 2229 | Tullverket                     | `9752 2229 tmm xxxx xxxx` |
+| 9752 | 2237 | HGL Bränsle                    | `9752 22379 xxxx xxxxxx`  |
+| 9752 | 2248 | City Gross                     | `9752 2248 xxxxxxx x`     |
+| 9752 | 2249 | JulaClub                       | `9752 2249 xxxx xxxx`     |
+| 9752 | 2288 | Maestro                        | `9752 2288 xxxx xxxx`     |
+| 9752 | 2382 | Mecenat                        | `9752 2382 xxxx xxxx`     |
+| 9752 | 2387 | Stadium                        | `9752 2387 xxxx xxxx`     |
+| 9752 | 2525 | Region Östergötland            | `9752 2525 tmm xxxx xxxx` |
+| 9752 | 2566 | ICA                            | `9752 2566 xxxx xxxx`     |
+| 9752 | 2583 | Inera                          | `9752 2583 tmm xxxx xxxx` |
+| 9752 | 2647 | Landstinget Gävleborg          | `9752 2647 tmm xxxx xxxx` |
+| 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
+| 9752 | 2679 | Västra Götalands Region        | `9752 2679 tmm xxxx xxxx` |
+| 9752 | 2692 | Landstinget Sörmland           | `9752 2692 tmm xxxx xxxx` |
+| 9752 | 2698 | Region Stockholm               | `9752 2698 tmm xxxx xxxx` |
+| 9752 | 2705 | Region Uppsala                 | `9752 2705 tmm xxxx xxxx` |
+| 9752 | 2726 | Skatteverket                   | `9752 2726 tmm xxxx xxxx` |
+| 9752 | 2758 | Region Norrbotten              | `9752 2758 tmm xxxx xxxx` |
+| 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
+| 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
+| 9752 | 2975 | Bauhaus Premium                | `9752 2975 xxxx xxxx`     |
+| 9752 | 2976 | Resurs Bank                    | `9752 2976 xxxx xxxx`     |
+| 9752 | 2991 | Hemköp                         | `9752 2991 xxxx xxxx`     |
+| 9752 | 2995 | Willys                         | `9752 2995 xxxx xxxx`     |
+| 9752 | 3029 | ICA                            | `9752 3029 xxxx xxxx`     |
+| 9752 | 3058 | Säkerhetspolisen               | `9752 3058 tmm xxxx xxxx` |
+| 9752 | 3124 | SL-kort, Grönt kort            | `9752 3124 tmm xxxx xxxx` |
 
 ## SiTHS-Kort, HSA-ID
 
