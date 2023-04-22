@@ -135,79 +135,96 @@ Används för att avkoda korts fysiska egenskaper och tillverkare.
 
 
 
-### Korttyper HSA/SITHS
-| Korttyp | TMM  | Beskrivning                                      | Ersätter                                         | Ersätts av |
-| ------- | ---- | ------------------------------------------------ | ------------------------------------------------ | ---------- |
-| 401     |      |                                                  |                                                  | 509        |
-| 405     |      |                                                  |                                                  | 509        |
-| 410     | 357  | SIS, skyddad ID                                  |                                                  | 559        |
-| 411     | 857  | Företagskort, utan foto, Samordningsnummer       |                                                  |            |
-| 412     | 857  | Företagskort, med foto, Samordningsnummer        |                                                  |            |
-| 413     | 857  | Företagskort, med foto, skyddad ID               |                                                  | 577        |
-| 416     | 657  | Studentkort med foto                             |                                                  |            |
-| 431     | 857  | Företagskort utan foto                           |                                                  | 531        |
-| 433     | 857  | Företagskort utan foto                           |                                                  |            |
-| 442     |      |                                                  |                                                  | 577        |
-| 443     |      |                                                  |                                                  | 577        |
-| 448     | 857  | Företagskort, Samordningsnummer utan foto        |                                                  |            |
-| 450     | 757  | Testkort, SIS-kort                               |                                                  |            |
-| 451     | -    | Testkort, med foto, HCC(ISO-nr)                  |                                                  | 574        |
-| 454     | 857  | Företagskort, Skyddad ID, utan foto              |                                                  | 531        |
-| 456     |      |                                                  |                                                  | 573        |
-| 457     | -    | Företagskort, utan foto, HCC (ISO-nr)            |                                                  | 531        |
-| 459     | 357  | SITHS SIS ID-kort                                |                                                  | 559        |
-| 463     | 357  | SIS-kort, Skyddade personuppgifter               |                                                  |            |
-| 466     |      |                                                  |                                                  | 577        |
-| 469     | -    | Företagskort, med foto, HCC(ISO-nr)              |                                                  | 577        |
-| 473     | 957  | Reservkort                                       |                                                  | 573        |
-| 474     | 757  | Testkort, HCC-kort med foto                      |                                                  | 574        |
-| 475     | 757  | Testkort, HCC-kort utan foto                     |                                                  |            |
-| 477     | 857  | Företagskort med foto                            |                                                  | 577        |
-| 478     | 857  | Företagskort, Samordningsnummer med foto         |                                                  |            |
-| 480     | 857  | Konsultkort utan foto                            |                                                  | 580        |
-| 484     | 857  | Företagskort, Skyddade personuppgifter           |                                                  |            |
-| 485     |      |                                                  |                                                  |            |
-| 486     |      |                                                  |                                                  |            |
-| 487     |      |                                                  |                                                  |            |
-| 488     |      |                                                  |                                                  |            |
-| 491     |      |                                                  |                                                  | 577        |
-| 492     |      |                                                  |                                                  | 577        |
-| 497     |      |                                                  |                                                  | 577        |
-| 498     |      |                                                  |                                                  | 577        |
-| 501     | 957  | Reservkort LoA 2                                 |                                                  |            |
-| 502     |      | Ordinarie nyutgivet kort                         |                                                  |            |
-| 503     | 957  | Reservkort LoA 3                                 |                                                  |            |
-| 504     |      | Certifikat för mobil autentisering               |                                                  |            |
-| 506     |      | Distansuppgraderat kort                          |                                                  |            |
-| 507     |      | Tilläggscertifikat                               |                                                  |            |
-| 508     |      | Reservkort "Crossborder"                         |                                                  |            |
-| 509     | 857  | Stående kort med foto                            | 401, 405, 909, 910                               | 609        |
-| 510     |      | Certifikat för mobil autentisering               |                                                  |            |
-| 516     | 657  | Studentkort - Liggande kort med foto             | 416                                              |            |
-| 518     | 657  | Studentkort - Liggande kort utan foto            | 918                                              | 618        |
-| 531     | 857  | Liggande kort utan foto                          | 431, 454, 457                                    | 631        |
-| 559     | 357  | SITHS SIS ID-kort                                | 410, 459                                         | 659        |
-| 573     | 957  | Reservkort                                       | 456, 473                                         | 673        |
-| 574     | 757  | Testkort                                         | 474, 451                                         | 674        |
-| 577     | 857  | Liggande kort med foto                           | 413, 442, 443, 466, 469, 477, 491, 492, 497, 498 | 677        |
-| 580     | 857  | Konsultkort - Liggande kort utan foto            | 480                                              | 680        |
-| 609     | 857  | Standardkort - Stående kort med foto             |                                                  |            |
-| 616     | 657  | Studentkort - Liggande kort med foto             |                                                  |            |
-| 618     | 657  | Studentkort - Liggande kort utan foto            |                                                  |            |
-| 631     | 857  | Standardkort - Liggande kort utan foto           |                                                  |            |
-| 659     | 357  | SITHS SIS ID-kort                                |                                                  |            |
-| 673     | 957  | Reservkort                                       |                                                  |            |
-| 674     | 757  | Testkort                                         |                                                  |            |
-| 677     | 857  | Standardkort - Liggande kort med foto            |                                                  |            |
-| 680     | 857  | Konsultkort - Liggande kort utan foto            |                                                  |            |
-| 909     | 857  | Företagskort, Enkel Stående                      |                                                  | 509        |
-| 910     | 857  | Företagskort Enkel Stående, Skyddad ID           |                                                  | 509        |
-| 911     | 857  | Företagskort Enkel Stående, Samordningsnummer    |                                                  |            |
-| 912     | 857  | Företagskort Stående (SIS-nr)                    |                                                  |            |
-| 913     | 857  | Företagskort - Stående, Skyddade personuppgifter |                                                  |            |
-| 914     | 857  | Företagskort Stående, Samordningsnummer          |                                                  |            |
-| 916     |      |                                                  |                                                  |            |
-| 918     | 657  | Studentkort utan foto                            |                                                  | 518        |
+### Produktnummer generellt
+
+
+| Typ  | Beskrivning                      | Anmärkning |
+| ---- | -------------------------------- | ---------- |
+| x09  | Stående kort med foto            |            |
+| x16  | Liggande kort med foto           | Student    |
+| x18  | Liggande kort utan foto          | Student    |
+| x31  | Liggande kort utan foto          |            |
+| x59  | SIS-kort, Liggande kort med foto |            |
+| x73  | Reservkort                       |            |
+| x74  | Testkort                         |            |
+| x77  | Liggande kort med foto           |            |
+| x80  | Liggande kort utan foto          | Konsult    |
+
+
+
+### Korttyper SITHS
+| P.nummer | TMM  | Beskrivning                                      | Ersätter                                         | Ersätts av |
+| -------- | ---- | ------------------------------------------------ | ------------------------------------------------ | ---------- |
+| 401      |      |                                                  |                                                  | 509        |
+| 405      |      |                                                  |                                                  | 509        |
+| 410      | 357  | SIS, skyddad ID                                  |                                                  | 559        |
+| 411      | 857  | Företagskort, utan foto, Samordningsnummer       |                                                  |            |
+| 412      | 857  | Företagskort, med foto, Samordningsnummer        |                                                  |            |
+| 413      | 857  | Företagskort, med foto, skyddad ID               |                                                  | 577        |
+| 416      | 657  | Studentkort med foto                             |                                                  |            |
+| 431      | 857  | Företagskort utan foto                           |                                                  | 531        |
+| 433      | 857  | Företagskort utan foto                           |                                                  |            |
+| 442      |      |                                                  |                                                  | 577        |
+| 443      |      |                                                  |                                                  | 577        |
+| 448      | 857  | Företagskort, Samordningsnummer utan foto        |                                                  |            |
+| 450      | 757  | Testkort, SIS-kort                               |                                                  |            |
+| 451      | -    | Testkort, med foto, HCC(ISO-nr)                  |                                                  | 574        |
+| 454      | 857  | Företagskort, Skyddad ID, utan foto              |                                                  | 531        |
+| 456      |      |                                                  |                                                  | 573        |
+| 457      | -    | Företagskort, utan foto, HCC (ISO-nr)            |                                                  | 531        |
+| 459      | 357  | SITHS SIS ID-kort                                |                                                  | 559        |
+| 463      | 357  | SIS-kort, Skyddade personuppgifter               |                                                  |            |
+| 466      |      |                                                  |                                                  | 577        |
+| 469      | -    | Företagskort, med foto, HCC(ISO-nr)              |                                                  | 577        |
+| 473      | 957  | Reservkort                                       |                                                  | 573        |
+| 474      | 757  | Testkort, HCC-kort med foto                      |                                                  | 574        |
+| 475      | 757  | Testkort, HCC-kort utan foto                     |                                                  |            |
+| 477      | 857  | Företagskort med foto                            |                                                  | 577        |
+| 478      | 857  | Företagskort, Samordningsnummer med foto         |                                                  |            |
+| 480      | 857  | Konsultkort utan foto                            |                                                  | 580        |
+| 484      | 857  | Företagskort, Skyddade personuppgifter           |                                                  |            |
+| 485      |      |                                                  |                                                  |            |
+| 486      |      |                                                  |                                                  |            |
+| 487      |      |                                                  |                                                  |            |
+| 488      |      |                                                  |                                                  |            |
+| 491      |      |                                                  |                                                  | 577        |
+| 492      |      |                                                  |                                                  | 577        |
+| 497      |      |                                                  |                                                  | 577        |
+| 498      |      |                                                  |                                                  | 577        |
+| 501      | 957  | Reservkort LoA 2                                 |                                                  |            |
+| 502      |      | Ordinarie nyutgivet kort                         |                                                  |            |
+| 503      | 957  | Reservkort LoA 3                                 |                                                  |            |
+| 504      |      | Certifikat för mobil autentisering               |                                                  |            |
+| 506      |      | Distansuppgraderat kort                          |                                                  |            |
+| 507      |      | Tilläggscertifikat                               |                                                  |            |
+| 508      |      | Reservkort "Crossborder"                         |                                                  |            |
+| 509      | 857  | Stående kort med foto                            | 401, 405, 909, 910                               | 609        |
+| 510      |      | Certifikat för mobil autentisering               |                                                  |            |
+| 516      | 657  | Studentkort - Liggande kort med foto             | 416                                              |            |
+| 518      | 657  | Studentkort - Liggande kort utan foto            | 918                                              | 618        |
+| 531      | 857  | Liggande kort utan foto                          | 431, 454, 457                                    | 631        |
+| 559      | 357  | SITHS SIS ID-kort                                | 410, 459                                         | 659        |
+| 573      | 957  | Reservkort                                       | 456, 473                                         | 673        |
+| 574      | 757  | Testkort                                         | 474, 451                                         | 674        |
+| 577      | 857  | Liggande kort med foto                           | 413, 442, 443, 466, 469, 477, 491, 492, 497, 498 | 677        |
+| 580      | 857  | Konsultkort - Liggande kort utan foto            | 480                                              | 680        |
+| 609      | 857  | Standardkort - Stående kort med foto             |                                                  |            |
+| 616      | 657  | Studentkort - Liggande kort med foto             |                                                  |            |
+| 618      | 657  | Studentkort - Liggande kort utan foto            |                                                  |            |
+| 631      | 857  | Standardkort - Liggande kort utan foto           |                                                  |            |
+| 659      | 357  | SITHS SIS ID-kort                                |                                                  |            |
+| 673      | 957  | Reservkort                                       |                                                  |            |
+| 674      | 757  | Testkort                                         |                                                  |            |
+| 677      | 857  | Standardkort - Liggande kort med foto            |                                                  |            |
+| 680      | 857  | Konsultkort - Liggande kort utan foto            |                                                  |            |
+| 909      | 857  | Företagskort, Enkel Stående                      |                                                  | 509        |
+| 910      | 857  | Företagskort Enkel Stående, Skyddad ID           |                                                  | 509        |
+| 911      | 857  | Företagskort Enkel Stående, Samordningsnummer    |                                                  |            |
+| 912      | 857  | Företagskort Stående (SIS-nr)                    |                                                  |            |
+| 913      | 857  | Företagskort - Stående, Skyddade personuppgifter |                                                  |            |
+| 914      | 857  | Företagskort Stående, Samordningsnummer          |                                                  |            |
+| 916      |      |                                                  |                                                  |            |
+| 918      | 657  | Studentkort utan foto                            |                                                  | 518        |
 
 
 
