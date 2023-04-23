@@ -30,9 +30,9 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
 | 9752 | 2050 | ICA Förmånskort                | `9752 2050 xxxx xxxx`     |
 | 9752 | 2097 | SJ AB (Riksparkering, Årskort) | `9752 2097 xxxx xxxx`     |
-| 9752 | 2097 | SJ AB, Årskort                 | `9752 2097 xxxx xxxx`     |
 | 9752 | 2102 | SJ AB, Medlemskort             | `9752 2102 xxxx xxxx`     |
 | 9752 | 2112 | ICA AB                         | `9752 2112 xxxx xxxx`     |
+| 9752 | 2129 | Brothers                       | `9752 2129 xxxx xxxx`     |
 | 9752 | 2176 | Stadium                        | `9752 2176 xxxx xxxx`     |
 | 9752 | 2198 | Posten                         | `9752 2198 tmm xxxx xxxx` |
 | 9752 | 2224 | Resurs Bank                    | `9752 2224 xxxx xxxx`     |
@@ -42,6 +42,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2248 | City Gross                     | `9752 2248 xxxxxxx x`     |
 | 9752 | 2249 | JulaClub                       | `9752 2249 xxxx xxxx`     |
 | 9752 | 2288 | Maestro                        | `9752 2288 xxxx xxxx`     |
+| 9752 | 2381 | Golfkortet                     | `9752 2381 xxxx xxxx`     |
 | 9752 | 2382 | Mecenat                        | `9752 2382 xxxx xxxx`     |
 | 9752 | 2387 | Stadium                        | `9752 2387 xxxx xxxx`     |
 | 9752 | 2525 | Region Östergötland            | `9752 2525 tmm xxxx xxxx` |
@@ -57,6 +58,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2758 | Region Norrbotten              | `9752 2758 tmm xxxx xxxx` |
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
+| 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
 | 9752 | 2975 | Bauhaus Premium                | `9752 2975 xxxx xxxx`     |
 | 9752 | 2976 | Resurs Bank                    | `9752 2976 xxxx xxxx`     |
 | 9752 | 2991 | Hemköp                         | `9752 2991 xxxx xxxx`     |
@@ -64,6 +66,61 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 3029 | ICA                            | `9752 3029 xxxx xxxx`     |
 | 9752 | 3058 | Säkerhetspolisen               | `9752 3058 tmm xxxx xxxx` |
 | 9752 | 3124 | SL-kort, Grönt kort            | `9752 3124 tmm xxxx xxxx` |
+
+
+### Ofta förekommande
+Några av utfärdare är extra flitiga och nyttjar effektivt sina prefix
+
+
+
+#### Resurs Bank
+
+Dessa har observerats vara ansluta och ha klubb och medlems- och lojalitetskor.
+
+`9752 2016`
+* AD Autoclub
+* Baby Best Sweden
+* BDS-Kortet
+* Däckarna
+* Ford Kortet
+* Golvkedjan
+* Mekonomen
+* NP Nilsson
+* Super Däck
+* Usports
+
+
+`9752 2224`
+* Autoexperten
+* Babyproffsen
+* Colosseum
+* Euromaster
+* Lantmannabutiken
+* Nazar
+* Spirit Stores
+* Sport Shoppen
+* Turkietresor
+
+
+`9752 2976`
+* Bad & Värme
+* Bauhaus
+* Biltema
+* Bosch Service
+* Däckia
+* Hornbach
+* KungSängen
+* Mio
+* NetOnNet
+* Synoptik
+* Synsam
+* Ticket.se
+* Vianor
+* XXL
+* Your Age
+
+
+
 
 ## SiTHS-Kort, HSA-ID
 
