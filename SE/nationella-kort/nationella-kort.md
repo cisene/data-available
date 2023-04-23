@@ -28,13 +28,14 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | ---- | ---- | ------------------------------ | ------------------------- |
 | 9752 | 2016 | Resurs Bank                    | `9752 2016 xxxx xxxx`     |
 | 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
+| 9752 | 2046 | Ving Holiday Card              | `9752 2046 xxxx xxxx`     |
 | 9752 | 2050 | ICA Förmånskort                | `9752 2050 xxxx xxxx`     |
 | 9752 | 2097 | SJ AB (Riksparkering, Årskort) | `9752 2097 xxxx xxxx`     |
 | 9752 | 2102 | SJ AB, Medlemskort             | `9752 2102 xxxx xxxx`     |
 | 9752 | 2112 | ICA AB                         | `9752 2112 xxxx xxxx`     |
 | 9752 | 2129 | Brothers                       | `9752 2129 xxxx xxxx`     |
 | 9752 | 2176 | Stadium                        | `9752 2176 xxxx xxxx`     |
-| 9752 | 2198 | Posten                         | `9752 2198 tmm xxxx xxxx` |
+| 9752 | 2198 | Posten ID-kort                 | `9752 2198 tmm xxxx xxxx` |
 | 9752 | 2224 | Resurs Bank                    | `9752 2224 xxxx xxxx`     |
 | 9752 | 2226 | Tyresöbostäder                 | `9752 2226 xxxx xxxx`     |
 | 9752 | 2229 | Tullverket                     | `9752 2229 tmm xxxx xxxx` |
@@ -91,6 +92,7 @@ Dessa har observerats vara ansluta och ha klubb och medlems- och lojalitetskor.
 
 
 `9752 2224`
+* AOptik
 * Autoexperten
 * Babyproffsen
 * Colosseum
