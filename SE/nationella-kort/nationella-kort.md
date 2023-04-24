@@ -30,6 +30,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
 | 9752 | 2046 | Ving Holiday Card              | `9752 2046 xxxx xxxx`     |
 | 9752 | 2050 | ICA Förmånskort                | `9752 2050 xxxx xxxx`     |
+| 9752 | 2094 | Lindex                         | `9752 2094 xxxx xxxx`     |
 | 9752 | 2097 | SJ AB (Riksparkering, Årskort) | `9752 2097 xxxx xxxx`     |
 | 9752 | 2102 | SJ AB, Medlemskort             | `9752 2102 xxxx xxxx`     |
 | 9752 | 2112 | ICA AB                         | `9752 2112 xxxx xxxx`     |
@@ -40,14 +41,19 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2226 | Eurovip                        | `9752 2226 xxxx xxxx`     |
 | 9752 | 2229 | Tullverket                     | `9752 2229 tmm xxxx xxxx` |
 | 9752 | 2237 | HGL Bränsle                    | `9752 22379 xxxx xxxxxx`  |
+| 9752 | 2243 | SEB Id-kort                    | `9752 2243 tmm xxxx xxxx` |
+| 9752 | 2244 | Handelsbanken Id-kort          | `9752 2244 tmm xxxx xxxx` |
 | 9752 | 2248 | City Gross                     | `9752 2248 xxxxxxx x`     |
 | 9752 | 2249 | JulaClub                       | `9752 2249 xxxx xxxx`     |
 | 9752 | 2288 | Maestro                        | `9752 2288 xxxx xxxx`     |
+| 9752 | 2313 | Nordea Id-kort                 | `9752 2313 tmm xxxx xxxx` |
 | 9752 | 2381 | Golfkortet                     | `9752 2381 xxxx xxxx`     |
 | 9752 | 2382 | Mecenat                        | `9752 2382 xxxx xxxx`     |
 | 9752 | 2387 | Stadium                        | `9752 2387 xxxx xxxx`     |
+| 9752 | 2519 | Polisen Id-kort                | `9752 2519 tmm XXXX XXXX` |
 | 9752 | 2525 | Region Östergötland            | `9752 2525 tmm xxxx xxxx` |
 | 9752 | 2566 | ICA                            | `9752 2566 xxxx xxxx`     |
+| 9752 | 2578 | Resurs Bank                    | `9752 2578 xxxx xxxx`     |
 | 9752 | 2583 | Inera                          | `9752 2583 tmm xxxx xxxx` |
 | 9752 | 2647 | Landstinget Gävleborg          | `9752 2647 tmm xxxx xxxx` |
 | 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
