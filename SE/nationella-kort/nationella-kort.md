@@ -52,12 +52,14 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2387 | Stadium                        | `9752 2387 xxxx xxxx`     |
 | 9752 | 2519 | Polisen Id-kort                | `9752 2519 tmm XXXX XXXX` |
 | 9752 | 2525 | Region Östergötland            | `9752 2525 tmm xxxx xxxx` |
+| 9752 | 2559 | Arbetsmarknadsverket           | `9752 2559 tmm xxxx xxxx` |
 | 9752 | 2566 | ICA                            | `9752 2566 xxxx xxxx`     |
 | 9752 | 2578 | Resurs Bank                    | `9752 2578 xxxx xxxx`     |
-| 9752 | 2583 | Inera                          | `9752 2583 tmm xxxx xxxx` |
+| 9752 | 2583 | Stockholms Läns Landsting      | `9752 2583 tmm xxxx xxxx` |
 | 9752 | 2647 | Landstinget Gävleborg          | `9752 2647 tmm xxxx xxxx` |
 | 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
 | 9752 | 2679 | Västra Götalands Region        | `9752 2679 tmm xxxx xxxx` |
+| 9752 | 2682 | Örebro Läns Landsting          | `9752 2682 tmm xxxx xxxx` |
 | 9752 | 2692 | Landstinget Sörmland           | `9752 2692 tmm xxxx xxxx` |
 | 9752 | 2698 | Region Stockholm               | `9752 2698 tmm xxxx xxxx` |
 | 9752 | 2705 | Region Uppsala                 | `9752 2705 tmm xxxx xxxx` |
@@ -66,6 +68,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
+| 9752 | 2931 | Lycksele Kommun                | `9752 2931 tmm xxxx xxxx` |
 | 9752 | 2975 | Bauhaus Premium                | `9752 2975 xxxx xxxx`     |
 | 9752 | 2976 | Resurs Bank                    | `9752 2976 xxxx xxxx`     |
 | 9752 | 2991 | Hemköp                         | `9752 2991 xxxx xxxx`     |
