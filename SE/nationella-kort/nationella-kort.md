@@ -37,7 +37,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2176 | Stadium                        | `9752 2176 xxxx xxxx`     |
 | 9752 | 2198 | Posten ID-kort                 | `9752 2198 tmm xxxx xxxx` |
 | 9752 | 2224 | Resurs Bank                    | `9752 2224 xxxx xxxx`     |
-| 9752 | 2226 | Tyresöbostäder                 | `9752 2226 xxxx xxxx`     |
+| 9752 | 2226 | Eurovip                        | `9752 2226 xxxx xxxx`     |
 | 9752 | 2229 | Tullverket                     | `9752 2229 tmm xxxx xxxx` |
 | 9752 | 2237 | HGL Bränsle                    | `9752 22379 xxxx xxxxxx`  |
 | 9752 | 2248 | City Gross                     | `9752 2248 xxxxxxx x`     |
