@@ -12,7 +12,7 @@ Kort som utfärdas för att ha en specifik funktion i Sverige kallas "nationella
 
 
 
-I dagsläget verkar alla dessa siffror vara "okända" och "opubliserade", kanske genom "säkerhet och sekretess". Ingenting i samhäller blir säkrare av att man håller saker och ting hemliga i det öppna, dessa kort används för att identifiera individer.
+I dagsläget verkar alla dessa siffror vara "okända" och "opublicerade", kanske genom "säkerhet och sekretess". Ingenting i samhället blir säkrare eller bättre av att man håller saker och ting hemliga i det öppna, dessa kort används för att identifiera individer.
 
 
 
@@ -170,14 +170,14 @@ Används för att avkoda korts fysiska egenskaper och tillverkare.
 
 | MM   | Förklaring                                     | Tillverkare |
 | ---- | ---------------------------------------------- | ----------- |
-| 50   | ID kort stående                                | Gamalto     |
+| 50   | ID kort stående                                | Gemalto     |
 | 51   | [ Används ej ]                                 |             |
-| 52   | ID kort stående                                | Gamalto     |
-| 53   | ID kort liggande utan chip                     | Gamalto     |
-| 54   | ID kort liggande med chip                      | Gamalto     |
-| 55   | ID kort liggande med kontaktlöst chip          | Gamalto     |
+| 52   | ID kort stående                                | Gemalto     |
+| 53   | ID kort liggande utan chip                     | Gemalto     |
+| 54   | ID kort liggande med chip                      | Gemalto     |
+| 55   | ID kort liggande med kontaktlöst chip          | Gemalto     |
 | 56   | [ Används ej ]                                 |             |
-| 57   | ID kort liggande med chip och kontaktlöst chip | Gamalto     |
+| 57   | ID kort liggande med chip och kontaktlöst chip | Gemalto     |
 | 58   | [ Används ej ]                                 |             |
 | 59   | [ Används ej ]                                 |             |
 | 60   | ID kort stående                                | Oberthür    |
