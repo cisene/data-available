@@ -68,6 +68,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
+| 9752 | 2917 | Västerås Stad                  | `9752 2917 tmm xxxx xxxx` |
 | 9752 | 2931 | Lycksele Kommun                | `9752 2931 tmm xxxx xxxx` |
 | 9752 | 2975 | Bauhaus Premium                | `9752 2975 xxxx xxxx`     |
 | 9752 | 2976 | Resurs Bank                    | `9752 2976 xxxx xxxx`     |
