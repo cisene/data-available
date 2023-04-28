@@ -26,7 +26,9 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 
 | Pref |      | Issuer                         | Format                    |
 | ---- | ---- | ------------------------------ | ------------------------- |
+| 9752 | 0000 | Test/Specimen                  | `9752 0000 tmm xxxx xxxx` |
 | 9752 | 0123 | Test/Specimen                  | `9752 0123 tmm xxxx xxxx` |
+| 9752 | 1234 | Test/Specimen                  | `9752 1234 tmm xxxx xxxx` |
 | 9752 | 2016 | Resurs Bank                    | `9752 2016 xxxx xxxx`     |
 | 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
 | 9752 | 2046 | Ving Holiday Card              | `9752 2046 xxxx xxxx`     |
@@ -54,9 +56,10 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2519 | Polisen Id-kort                | `9752 2519 tmm XXXX XXXX` |
 | 9752 | 2525 | Region Östergötland            | `9752 2525 tmm xxxx xxxx` |
 | 9752 | 2559 | Arbetsmarknadsverket           | `9752 2559 tmm xxxx xxxx` |
+| 9752 | 2562 | Swedbank Id-kort               | `9752 2562 tmm xxxx xxxx` |
 | 9752 | 2566 | ICA                            | `9752 2566 xxxx xxxx`     |
 | 9752 | 2578 | Resurs Bank                    | `9752 2578 xxxx xxxx`     |
-| 9752 | 2583 | Stockholms Läns Landsting      | `9752 2583 tmm xxxx xxxx` |
+| 9752 | 2583 | Region Stockholm               | `9752 2583 tmm xxxx xxxx` |
 | 9752 | 2647 | Landstinget Gävleborg          | `9752 2647 tmm xxxx xxxx` |
 | 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
 | 9752 | 2679 | Västra Götalands Region        | `9752 2679 tmm xxxx xxxx` |
@@ -68,6 +71,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2758 | Region Norrbotten              | `9752 2758 tmm xxxx xxxx` |
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
+| 9752 | 2800 | Resurs Bank                    | `9752 2800 xxxx xxxx`     |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
 | 9752 | 2917 | Västerås Stad                  | `9752 2917 tmm xxxx xxxx` |
 | 9752 | 2931 | Lycksele Kommun                | `9752 2931 tmm xxxx xxxx` |
@@ -78,6 +82,8 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 3029 | ICA                            | `9752 3029 xxxx xxxx`     |
 | 9752 | 3058 | Säkerhetspolisen               | `9752 3058 tmm xxxx xxxx` |
 | 9752 | 3124 | SL-kort, Grönt kort            | `9752 3124 tmm xxxx xxxx` |
+| 9752 | 8950 | Swedbank                       | `9752 8950 tmm xxxx xxxx` |
+| 9752 | 9999 | Test/Specimen                  | `9752 9999 tmm xxxx xxxx` |
 
 
 ### Ofta förekommande
