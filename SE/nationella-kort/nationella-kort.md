@@ -26,6 +26,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 
 | Pref |      | Issuer                         | Format                    |
 | ---- | ---- | ------------------------------ | ------------------------- |
+| 9752 | 0123 | Test/Specimen                  | `9752 0123 tmm xxxx xxxx` |
 | 9752 | 2016 | Resurs Bank                    | `9752 2016 xxxx xxxx`     |
 | 9752 | 2040 | ICA Förmåns- och Betalkort     | `9752 2040 xxxx xxxx`     |
 | 9752 | 2046 | Ving Holiday Card              | `9752 2046 xxxx xxxx`     |
@@ -83,10 +84,18 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 Några av utfärdare är extra flitiga och nyttjar effektivt sina prefix
 
 
+#### Eurovip
+
+Dessa har observerats vara anslutna och ha klubb och medmelms- och lojalitetskort.
+
+`9752 2226`
+* Mimerkortet
+* Tyresö Bostäder
+
 
 #### Resurs Bank
 
-Dessa har observerats vara ansluta och ha klubb och medlems- och lojalitetskor.
+Dessa har observerats vara ansluta och ha klubb och medlems- och lojalitetskort.
 
 `9752 2016`
 * AD Autoclub
