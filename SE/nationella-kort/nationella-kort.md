@@ -70,7 +70,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2705 | Region Uppsala                 | `9752 2705 tmm xxxx xxxx` |
 | 9752 | 2726 | Skatteverket                   | `9752 2726 tmm xxxx xxxx` |
 | 9752 | 2758 | Region Norrbotten              | `9752 2758 tmm xxxx xxxx` |
-| 9752 | 2789 | Svenk E-identitet              | `9752 2789 xxx xxxx`      |
+| 9752 | 2789 | Svenk E-identitet              | `9752 2789 tmm xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
 | 9752 | 2800 | Resurs Bank                    | `9752 2800 xxxx xxxx`     |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
