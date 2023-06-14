@@ -65,6 +65,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
 | 9752 | 2679 | Västra Götalands Region        | `9752 2679 tmm xxxx xxxx` |
 | 9752 | 2682 | Örebro Läns Landsting          | `9752 2682 tmm xxxx xxxx` |
+| 9752 | 2684 | Landstinget Västmanland        | `9752 2684 tmm xxxx xxxx` |
 | 9752 | 2692 | Landstinget Sörmland           | `9752 2692 tmm xxxx xxxx` |
 | 9752 | 2698 | Region Stockholm               | `9752 2698 tmm xxxx xxxx` |
 | 9752 | 2705 | Region Uppsala                 | `9752 2705 tmm xxxx xxxx` |
@@ -73,6 +74,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 tmm xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
 | 9752 | 2800 | Resurs Bank                    | `9752 2800 xxxx xxxx`     |
+| 9752 | 2813 | Landstinget Halland            | `9752 2813 tmm xxxx xxxx` |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
 | 9752 | 2917 | Västerås Stad                  | `9752 2917 tmm xxxx xxxx` |
 | 9752 | 2931 | Lycksele Kommun                | `9752 2931 tmm xxxx xxxx` |
