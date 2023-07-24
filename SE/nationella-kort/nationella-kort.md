@@ -78,19 +78,19 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx`      |             |               |
 | 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx` |             |               |
 | 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`     | 516401-0208 | SE5164010208  |
-| 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tnn xxxx xxxx` |             |               |
+| 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tmm xxxx xxxx` |             |               |
 | 9752 | 2809 | Nacka Kommun                              | `9752 2809 tmm xxxx xxxx` |             |               |
-| 9752 | 2826 | Haninge kommun                            | `9752 2826 tmm xxxx xxxx` |             |               |
-| 9752 | 2867 | Huddinge kommun                           | `9752 2867 tmm xxxx xxxx` |             |               |
-| 9752 | 2872 | Botkyrka Kommun                           | `9752 2872 tmm xxxx xxxx` |             |               |
 | 9752 | 2813 | Landstinget Halland                       | `9752 2813 tmm xxxx xxxx` |             |               |
 | 9752 | 2815 | Upplands Väsby kommun                     | `9752 2815 tmm xxxx xxxx` |             |               |
+| 9752 | 2826 | Haninge kommun                            | `9752 2826 tmm xxxx xxxx` |             |               |
 | 9752 | 2830 | Täby kommun                               | `9752 2830 tmm xxxx xxxx` |             |               |
 | 9752 | 2850 | Ersta diakoni                             | `9752 2850 tmm xxxx xxxx` |             |               |
 | 9752 | 2858 | Sundbyberg kommun                         | `9752 2858 tmm xxxx xxxx` |             |               |
 | 9752 | 2860 | Solna stad kommun                         | `9752 2860 tmm xxxx xxxx` |             |               |
 | 9752 | 2862 | Österåker kommun                          | `9752 2862 tmm xxxx xxxx` |             |               |
+| 9752 | 2867 | Huddinge kommun                           | `9752 2867 tmm xxxx xxxx` |             |               |
 | 9752 | 2870 | Järfälla kommun                           | `9752 2870 tmm xxxx xxxx` |             |               |
+| 9752 | 2872 | Botkyrka Kommun                           | `9752 2872 tmm xxxx xxxx` |             |               |
 | 9752 | 2876 | Danderyd Kommun                           | `9752 2876 tmm xxxx xxxx` |             |               |
 | 9752 | 2877 | Nykvarn kommun                            | `9752 2877 tmm xxxx xxxx` |             |               |
 | 9752 | 2879 | Nynäshamn kommun                          | `9752 2879 tmm xxxx xxxx` |             |               |
