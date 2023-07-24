@@ -83,6 +83,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2991 | Hemköp                         | `9752 2991 xxxx xxxx`     |
 | 9752 | 2995 | Willys                         | `9752 2995 xxxx xxxx`     |
 | 9752 | 3029 | ICA                            | `9752 3029 xxxx xxxx`     |
+| 9752 | 3040 | PointSharp                     | `9752 3040 tmm xxxx xxxx` |
 | 9752 | 3058 | Säkerhetspolisen               | `9752 3058 tmm xxxx xxxx` |
 | 9752 | 3124 | SL-kort, Grönt kort            | `9752 3124 tmm xxxx xxxx` |
 | 9752 | 8950 | Swedbank                       | `9752 8950 tmm xxxx xxxx` |
@@ -183,38 +184,38 @@ Används för att avkoda typ av kort.
 Används för att avkoda korts fysiska egenskaper och tillverkare.
 
 
-| MM   | Förklaring                                     | Tillverkare |
-| ---- | ---------------------------------------------- | ----------- |
-| 50   | ID kort stående                                | Gemalto     |
-| 51   | [ Används ej ]                                 |             |
-| 52   | ID kort stående                                | Gemalto     |
-| 53   | ID kort liggande utan chip                     | Gemalto     |
-| 54   | ID kort liggande med chip                      | Gemalto     |
-| 55   | ID kort liggande med kontaktlöst chip          | Gemalto     |
-| 56   | [ Används ej ]                                 |             |
-| 57   | ID kort liggande med chip och kontaktlöst chip | Gemalto     |
-| 58   | [ Används ej ]                                 |             |
-| 59   | [ Används ej ]                                 |             |
-| 60   | ID kort stående                                | Oberthür    |
-| 61   | [ Används ej ]                                 |             |
-| 62   | ID kort stående                                | Oberthür    |
-| 63   | ID kort liggande utan chip                     | Oberthür    |
-| 64   | ID kort liggande med chip                      | Oberthür    |
-| 65   | ID kort liggande med kontaktlöst chip          | Oberthür    |
-| 66   | [ Används ej ]                                 |             |
-| 67   | ID kort liggande med chip och kontaktlöst chip | Oberthür    |
-| 68   | [ Används ej ]                                 |             |
-| 69   | [ Används ej ]                                 |             |
-| 80   | ID kort stående                                | ACSC        |
-| 81   | [ Används ej ]                                 |             |
-| 82   | ID kort stående                                | ACSC        |
-| 83   | ID kort liggande utan chip                     | ACSC        |
-| 84   | ID kort liggande med chip                      | ACSC        |
-| 85   | ID kort liggande med kontaktlöst chip          | ACSC        |
-| 86   | [ Används ej ]                                 |             |
-| 87   | ID kort liggande med chip och kontaktlöst chip | ACSC        |
-| 88   | [ Används ej ]                                 |             |
-| 89   | [ Används ej ]                                 |             |
+| MM   | Förklaring                                     |
+| ---- | ---------------------------------------------- |
+| 50   | ID kort stående                                |
+| 51   | [ Används ej ]                                 |
+| 52   | ID kort stående                                |
+| 53   | ID kort liggande utan chip                     |
+| 54   | ID kort liggande med chip                      |
+| 55   | ID kort liggande med kontaktlöst chip          |
+| 56   | [ Används ej ]                                 |
+| 57   | ID kort liggande med chip och kontaktlöst chip |
+| 58   | [ Används ej ]                                 |
+| 59   | [ Används ej ]                                 |
+| 60   | ID kort stående                                |
+| 61   | [ Används ej ]                                 |
+| 62   | ID kort stående                                |
+| 63   | ID kort liggande utan chip                     |
+| 64   | ID kort liggande med chip                      |
+| 65   | ID kort liggande med kontaktlöst chip          |
+| 66   | [ Används ej ]                                 | 
+| 67   | ID kort liggande med chip och kontaktlöst chip |
+| 68   | [ Används ej ]                                 |
+| 69   | [ Används ej ]                                 |
+| 80   | ID kort stående                                |
+| 81   | [ Används ej ]                                 |
+| 82   | ID kort stående                                |
+| 83   | ID kort liggande utan chip                     |
+| 84   | ID kort liggande med chip                      |
+| 85   | ID kort liggande med kontaktlöst chip          |
+| 86   | [ Används ej ]                                 |
+| 87   | ID kort liggande med chip och kontaktlöst chip |
+| 88   | [ Används ej ]                                 |
+| 89   | [ Används ej ]                                 |
 
 
 
