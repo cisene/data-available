@@ -50,6 +50,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2248 | City Gross                     | `9752 2248 xxxxxxx x`     |
 | 9752 | 2249 | JulaClub                       | `9752 2249 xxxx xxxx`     |
 | 9752 | 2288 | Maestro                        | `9752 2288 xxxx xxxx`     |
+| 9752 | 2311 | MYBW Office Management Gruppen Holding AB | `9752 2311 tmm xxxx xxxx` |
 | 9752 | 2313 | Nordea Id-kort                 | `9752 2313 tmm xxxx xxxx` |
 | 9752 | 2381 | Golfkortet                     | `9752 2381 xxxx xxxx`     |
 | 9752 | 2382 | Mecenat                        | `9752 2382 xxxx xxxx`     |
@@ -63,6 +64,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2583 | Region Stockholm               | `9752 2583 tmm xxxx xxxx` |
 | 9752 | 2647 | Landstinget Gävleborg          | `9752 2647 tmm xxxx xxxx` |
 | 9752 | 2675 | Praktikertjänst                | `9752 2675 xxxx xxxx`     |
+| 9752 | 2677 | Praktikertjänst                | `9752 2677 tmm xxxx xxxx` |
 | 9752 | 2679 | Västra Götalands Region        | `9752 2679 tmm xxxx xxxx` |
 | 9752 | 2682 | Örebro Läns Landsting          | `9752 2682 tmm xxxx xxxx` |
 | 9752 | 2684 | Landstinget Västmanland        | `9752 2684 tmm xxxx xxxx` |
@@ -70,14 +72,46 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2698 | Region Stockholm               | `9752 2698 tmm xxxx xxxx` |
 | 9752 | 2705 | Region Uppsala                 | `9752 2705 tmm xxxx xxxx` |
 | 9752 | 2726 | Skatteverket                   | `9752 2726 tmm xxxx xxxx` |
+| 9752 | 2736 | Capio ST Göran                 | `9752 2736 tmm xxxx xxxx` |
 | 9752 | 2758 | Region Norrbotten              | `9752 2758 tmm xxxx xxxx` |
+| 9752 | 2770 | Gotland kommun                 | `9752 2770 tmm xxxx xxxx` |
 | 9752 | 2789 | Svenk E-identitet              | `9752 2789 tmm xxxx`      |
 | 9752 | 2797 | Region Norrbotten              | `9752 2797 tmm xxxx xxxx` |
 | 9752 | 2800 | Resurs Bank                    | `9752 2800 xxxx xxxx`     |
+| 9752 | 2801 | Sollentuna kommun              | `9752 2801 tnn xxxx xxxx` |
+| 9752 | 2809 | Nacka Kommun                   | `9752 2809 tmm xxxx xxxx` |
+| 9752 | 2826 | Haninge kommun                 | `9752 2826 tmm xxxx xxxx` |
+| 9752 | 2867 | Huddinge kommun                | `9752 2867 tmm xxxx xxxx` |
+| 9752 | 2872 | Botkyrka Kommun                | `9752 2872 tmm xxxx xxxx` |
 | 9752 | 2813 | Landstinget Halland            | `9752 2813 tmm xxxx xxxx` |
+| 9752 | 2815 | Upplands Väsby kommun          | `9752 2815 tmm xxxx xxxx` |
+| 9752 | 2830 | Täby kommun                    | `9752 2830 tmm xxxx xxxx` |
+| 9752 | 2850 | Ersta diakoni                  | `9752 2850 tmm xxxx xxxx` |
+| 9752 | 2858 | Sundbyberg kommun              | `9752 2858 tmm xxxx xxxx` |
+| 9752 | 2860 | Solna stad kommun              | `9752 2860 tmm xxxx xxxx` |
+| 9752 | 2862 | Österåker kommun               | `9752 2862 tmm xxxx xxxx` |
+| 9752 | 2870 | Järfälla kommun                | `9752 2870 tmm xxxx xxxx` |
+| 9752 | 2876 | Danderyd Kommun                | `9752 2876 tmm xxxx xxxx` |
+| 9752 | 2877 | Nykvarn kommun                 | `9752 2877 tmm xxxx xxxx` |
+| 9752 | 2879 | Nynäshamn kommun               | `9752 2879 tmm xxxx xxxx` |
+| 9752 | 2880 | Förenade Care                  | `9752 2880 tmm xxxx xxxx` |
+| 9752 | 2882 | Norrtälje kommun               | `9752 2882 tmm xxxx xxxx` |
+| 9752 | 2891 | Södertälje kommun              | `9752 2891 tmm xxxx xxxx` |
 | 9752 | 2894 | Pekås (Presentkort)            | `9752 2894 xxxx xxxx`     |
+| 9752 | 2896 | Salem kommun                   | `9752 2896 tmm xxxx xxxx` |
+| 9752 | 2897 | Stockholms sjukhem             | `9752 2897 tmm xxxx xxxx` |
+| 9752 | 2899 | Vaxholms stad                  | `9752 2899 tmm xxxx xxxx` |
+| 9752 | 2904 | Tyresö kommun                  | `9752 2904 tmm xxxx xxxx` |
+| 9752 | 2906 | Vallentuna kommun              | `9752 2906 tmm xxxx xxxx` |
+| 9752 | 2911 | Aleris                         | `9752 2911 tmm xxxx xxxx` |
+| 9752 | 2913 | Värmdö kommun                  | `9752 2913 tmm xxxx xxxx` |
+| 9752 | 2914 | Sigtuna kommun                 | `9752 2914 tmm xxxx xxxx` |
+| 9752 | 2916 | Upplands-Bro kommun            | `9752 2916 tmm xxxx xxxx` |
 | 9752 | 2917 | Västerås Stad                  | `9752 2917 tmm xxxx xxxx` |
+| 9752 | 2923 | Ekerö kommun                   | `9752 2923 tmm xxxx xxxx` |
+| 9752 | 2930 | Stockholms stad                | `9752 2930 tmm xxxx xxxx` |
 | 9752 | 2931 | Lycksele Kommun                | `9752 2931 tmm xxxx xxxx` |
+| 9752 | 2946 | Lidingö stad                   | `9752 2946 tmm xxxx xxxx` |
 | 9752 | 2975 | Bauhaus Premium                | `9752 2975 xxxx xxxx`     |
 | 9752 | 2976 | Resurs Bank                    | `9752 2976 xxxx xxxx`     |
 | 9752 | 2991 | Hemköp                         | `9752 2991 xxxx xxxx`     |
