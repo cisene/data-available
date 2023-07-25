@@ -62,12 +62,12 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2566 | ICA                                       | `9752 2566 xxxx xxxx`     |             |               |
 | 9752 | 2578 | Resurs Bank                               | `9752 2578 xxxx xxxx`     |             |               |
 | 9752 | 2583 | Region Stockholm                          | `9752 2583 tmm xxxx xxxx` | 232100-0016 | SE2321000016  |
-| 9752 | 2647 | Landstinget Gävleborg                     | `9752 2647 tmm xxxx xxxx` | 232100-0198 |               |
+| 9752 | 2647 | Landstinget Gävleborg                     | `9752 2647 tmm xxxx xxxx` | 232100-0198 | SE2321000198  |
 | 9752 | 2675 | Praktikertjänst                           | `9752 2675 xxxx xxxx`     |             |               |
 | 9752 | 2677 | Praktikertjänst                           | `9752 2677 tmm xxxx xxxx` |             |               |
 | 9752 | 2679 | Västra Götalands Region                   | `9752 2679 tmm xxxx xxxx` | 232100-0131 | SE2321000131  |
-| 9752 | 2682 | Örebro Läns Landsting                     | `9752 2682 tmm xxxx xxxx` |             |               |
-| 9752 | 2684 | Landstinget Västmanland                   | `9752 2684 tmm xxxx xxxx` |             |               |
+| 9752 | 2682 | Örebro Läns Landsting                     | `9752 2682 tmm xxxx xxxx` | 232100-0164 | SE2321000164  |
+| 9752 | 2684 | Region Västmanland                        | `9752 2684 tmm xxxx xxxx` | 232100-0172 | SE2321000172  |
 | 9752 | 2692 | Landstinget Sörmland                      | `9752 2692 tmm xxxx xxxx` | 232100-0032 | SE2321000032  |
 | 9752 | 2698 | Region Stockholm                          | `9752 2698 tmm xxxx xxxx` | 232100-0016 | SE2321000016  |
 | 9752 | 2705 | Region Uppsala                            | `9752 2705 tmm xxxx xxxx` | 232100-0024 | SE2321000024  |
@@ -76,8 +76,8 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2758 | Region Norrbotten                         | `9752 2758 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
 | 9752 | 2770 | Gotland kommun                            | `9752 2770 tmm xxxx xxxx` |             |               |
 | 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx`      |             |               |
-| 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx` |             |               |
-| 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`     | 516401-0208 | SE5164010208  |
+| 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
+| 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`     | 516401-0208 | -             |
 | 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tmm xxxx xxxx` |             |               |
 | 9752 | 2809 | Nacka Kommun                              | `9752 2809 tmm xxxx xxxx` |             |               |
 | 9752 | 2813 | Landstinget Halland                       | `9752 2813 tmm xxxx xxxx` |             |               |
@@ -108,10 +108,10 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2914 | Sigtuna kommun                            | `9752 2914 tmm xxxx xxxx` |             |               |
 | 9752 | 2916 | Upplands-Bro kommun                       | `9752 2916 tmm xxxx xxxx` |             |               |
 | 9752 | 2917 | Västerås Stad                             | `9752 2917 tmm xxxx xxxx` | 212000-2080 | SE2120002080  |
-| 9752 | 2923 | Ekerö kommun                              | `9752 2923 tmm xxxx xxxx` |             |               |
-| 9752 | 2930 | Stockholms stad                           | `9752 2930 tmm xxxx xxxx` |             |               |
+| 9752 | 2923 | Ekerö kommun                              | `9752 2923 tmm xxxx xxxx` | 212000-0050 | SE2120000050  |
+| 9752 | 2930 | Stockholms stad                           | `9752 2930 tmm xxxx xxxx` | 212000-0142 | SE2120000142  |
 | 9752 | 2931 | Lycksele Kommun                           | `9752 2931 tmm xxxx xxxx` | 212000-2635 | SE2120002635  |
-| 9752 | 2946 | Lidingö stad                              | `9752 2946 tmm xxxx xxxx` |             |               |
+| 9752 | 2946 | Lidingö stad                              | `9752 2946 tmm xxxx xxxx` | 212000-0191 | SE2120000191  |
 | 9752 | 2975 | Bauhaus Premium                           | `9752 2975 xxxx xxxx`     |             |               |
 | 9752 | 2976 | Resurs Bank                               | `9752 2976 xxxx xxxx`     | 516401-0208 | SE5164010208  |
 | 9752 | 2991 | Hemköp                                    | `9752 2991 xxxx xxxx`     |             |               |
