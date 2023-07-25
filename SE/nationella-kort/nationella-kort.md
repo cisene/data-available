@@ -75,7 +75,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2736 | Capio ST Göran                            | `9752 2736 tmm xxxx xxxx` | 556479-1456 | SE5564791456  |
 | 9752 | 2758 | Region Norrbotten                         | `9752 2758 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
 | 9752 | 2770 | Gotland kommun                            | `9752 2770 tmm xxxx xxxx` |             |               |
-| 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx`      |             |               |
+| 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx XXXX` |             |               |
 | 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
 | 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`     | 516401-0208 | -             |
 | 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tmm xxxx xxxx` | 212000-0134 | SE2120000134  |
@@ -112,6 +112,7 @@ Dessa nummer är samlade från öppna källor på internet och sammanställda ti
 | 9752 | 2930 | Stockholms stad                           | `9752 2930 tmm xxxx xxxx` | 212000-0142 | SE2120000142  |
 | 9752 | 2931 | Lycksele Kommun                           | `9752 2931 tmm xxxx xxxx` | 212000-2635 | SE2120002635  |
 | 9752 | 2946 | Lidingö stad                              | `9752 2946 tmm xxxx xxxx` | 212000-0191 | SE2120000191  |
+| 9752 | 2948 | Motala Kommun                             | `9752 2948 tmm xxxx xxxx` |             |               |
 | 9752 | 2975 | Bauhaus Premium                           | `9752 2975 xxxx xxxx`     |             |               |
 | 9752 | 2976 | Resurs Bank                               | `9752 2976 xxxx xxxx`     | 516401-0208 | -             |
 | 9752 | 2991 | Hemköp                                    | `9752 2991 xxxx xxxx`     |             |               |
