@@ -1,0 +1,605 @@
+meta:
+  source: https://pts.se/globalassets/startpage/dokument/ovrigt/plan_mnc.pdf
+  revision: 2019-03-12
+data:
+- mcc: 240
+  country: Sweden
+  mncs:
+  - mnc: 00
+    operator: null
+    date: null
+    reference: null
+    note: Not for use - Reserved
+
+  - mnc: 01
+    operator: Telia Sverige AB
+    date: 2004-09-07
+    reference: 03-7930
+    note: null
+
+  - mnc: 02
+    operator: HI3G Access AB
+    date: 2001-08-22
+    reference: 01-15166 04-11763
+    note: Used for PLMN(UMTS/IMT-2000)
+
+  - mnc: 03
+    operator: Netett Sverige AB
+    date: 2009-03-11
+    reference: 09-2098
+    note: Used for PLMN(CDMA 2000/IMT-2000)
+
+  - mnc: 04
+    operator: 3G Infrastructure Services AB
+    date: 2007-05-07
+    reference: 07-5510
+    note: Used for PLMN(UMTS/IMT-2000)
+
+  - mnc: 05
+    operator: Svenska UMTS-Nät AB
+    date: 2008-12-18
+    reference: 08-12684
+    note: Used for PLMN(UMTS/ IMT-2000)
+
+  - mnc: 06
+    operator: Telenor Sverige AB
+    date: 2001-08-22
+    reference: 01-14828 04-11763
+    note: Used for PLMN(UMTS/IMT-2000)
+
+  - mnc: 07
+    operator: Tele2 Sverige AB
+    date: 2004-09-07
+    reference: 01-12392 03-7931
+    note: null
+
+  - mnc: 08
+    operator: Telenor Sverige AB
+    date: 2004-09-07
+    reference: 01-12392 03-7932
+    note: null
+
+  - mnc: 09
+    operator: Com4 Sweden AB
+    date: 2015-09-21
+    reference: 15-9303
+    note: Used for PLMN(GSM, UMTS, LTE)
+
+  - mnc: 10
+    operator: Tele2 Sverige AB
+    date: 2016-01-07
+    reference: 15-11763
+    note: null
+
+  - mnc: 11
+    operator: ComHem AB
+    date: 2016-07-28
+    reference: 16-8288
+    note: null
+
+  - mnc: 12
+    operator: Lycamobile Sweden Limited
+    date: 2006-10-13
+    reference: 06-14451
+    note: null
+
+  - mnc: 13
+    operator: A3 Företag AB
+    date: 2006-12-04
+    reference: 06-16523
+    note: 
+
+  - mnc: 14
+    operator: Tele2 Business AB
+    date: 2012-11-27
+    reference: 12-9430
+    note: null
+
+  - mnc: 15
+    operator: Sierra Wireless Sweden AB
+    date: 2007-08-02
+    reference: 07-9912
+    note: Used for PLMN(GSM,UMTS/IMT-2000)
+
+  - mnc: 16
+    operator: 42 Telecom AB
+    date: 2007-12-04
+    reference: 07-12730
+    note: Used for PLMN(GSM)
+
+  - mnc: 17
+    operator: Götalandsnätet AB
+    date: 2008-02-18
+    reference: 08-1559
+    note: null
+
+  - mnc: 18
+    operator: Generic Mobile Systems Sweden AB
+    date: 2008-04-16
+    reference: 08-4606
+    note: null
+
+
+  - mnc: 19
+    operator: Vectone Mobile (Sweden) Ltd
+    date: 2009-10-15
+    reference: 09-9254
+    note: Used for PLMN(GSM,UMTS/IMT-2000)
+
+  - mnc: 20
+    operator: Wireless Maingate Messaging Services AB
+    date: 2005-11-28
+    reference: 05-13227
+    note: Used for PLMN(GSM)
+
+  - mnc: 21
+    operator: Trafikverket centralfunktion IT
+    date: 2006-05-05
+    reference: 06-7436
+    note: Used for PLMN(R-GSM5)
+
+  - mnc: 22
+    operator: EuTel AB
+    date: 2009-12-11
+    reference: 09-11102
+    note: null
+
+  - mnc: 23
+    operator: Infobip LTD (UK)
+    date: 2014-12-12
+    reference: 14-11098
+    note: Used for PLMN(GSM, UMTS)
+
+  - mnc: 24
+    operator: Net4Mobility HB
+    date: 2010-01-27
+    reference: 10-337
+    note: Used for PLMN(GSM, LTE)
+
+  - mnc: 25
+    operator: Monty UK Global Limited
+    date: 2016-09-27
+    reference: 16-9263
+    note: Used for PLMN(GSM,UMTS/IMT-2000)
+
+  - mnc: 26
+    operator: Twilio Sweden AB
+    date: 2010-08-24
+    reference: 10-8031
+    note: Used for PLMN(GSM)
+
+  - mnc: 27
+    operator: GlobeTouch AB
+    date: 2015-12-18
+    reference: 15-11277
+    note: Used for PLMN(GSM,UMTS/IMT-2000)
+
+  - mnc: 28
+    operator: LINK Mobile A/S
+    date: 2010-11-17
+    reference: 10-9497
+    note: null
+
+  - mnc: 29
+    operator: Mercury International Carrier Services
+    date: 2010-12-15
+    reference: 10-9936
+    note: Used for PLMN(GSM)
+
+  - mnc: 30
+    operator: null
+    date: 2019-03-12
+    reference: 19-2205
+    note: Dormant until 2020-03-12
+
+  - mnc: 31
+    operator: RebTel Network AB
+    date: 2015-02-10
+    reference: 15-279
+    note: Used for PLMN(GSM, UMTS)
+
+  - mnc: 32
+    operator: Compatel Limited
+    date: 2011-04-01
+    reference: 11-3159
+    note: Used for PLMN(GSM/UMTS)
+
+  - mnc: 33
+    operator: Mobile Arts AB
+    date: 2011-07-07
+    reference: 11-7332
+    note: Used for PLMN(GSM/UMTS/LTE)
+
+  - mnc: 34
+    operator: Trafikverket centralfunktion IT
+    date: 2018-10-26
+    reference: 18-10107
+    note: Used for PLMN(GSM/UMTS/LTE)
+
+  - mnc: 35
+    operator: 42 Telecom LTD
+    date: 2011-11-14
+    reference: 11-9586
+    note: Used for PLMN(GSM)
+
+  - mnc: 36
+    operator: interactive digital media GmbH
+    date: 2012-06-13
+    reference: 12-2056
+    note: Used for PLMN(GSM/UMTS)
+
+  - mnc: 37
+    operator: CLX Networks AB
+    date: 2013-04-04
+    reference: 13-2092
+    note: Used for PLMN(GSM)
+
+  - mnc: 38
+    operator: Voxbone SA
+    date: 2013-04-26
+    reference: 13-4039
+    note: Used for PLMN(UMTS/LTE)
+
+  - mnc: 39
+    operator: Borderlight AB
+    date: 2014-10-13
+    reference: 14-10193
+    note: Used for PLMN(GSM1800)
+
+  - mnc: 40
+    operator: Netmore Group AB
+    date: 2011-08-22
+    reference: 11-7067
+    note: Used for PLMN(GSM1800)
+
+  - mnc: 41
+    operator: Shyam Telecom UK Ltd.
+    date: 2012-12-17
+    reference: 12-1990
+    note: Used for PLMN(GSM1800)
+
+  - mnc: 42
+    operator: Telenor Connexion AB
+    date: 2013-07-04
+    reference: 13-6504
+    note: Used for PLMN(GSM/UMTS/IMT-2000)
+
+  - mnc: 43
+    operator: MobiWeb Ltd.
+    date: 2014-03-14
+    reference: 14-1144
+    note: Used for PLMN(GSM)
+
+  - mnc: 44
+    operator: Telenabler AB
+    date: 2014-03-27
+    reference: 14-3497
+    note: null
+
+  - mnc: 45
+    operator: SPIRIUS AB
+    date: 2014-07-01
+    reference: 14-7739
+    note: null
+
+  - mnc: 46
+    operator: SMS Provider Corp.
+    date: 2017-01-02
+    reference: 16-10437
+    note: Used for PLMN(GSM)
+
+  - mnc: 47
+    operator: Viatel Sweden AB
+    date: 2017-11-24
+    reference: 17-11304
+    note: null
+
+  - mnc: 48
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 49
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 50
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 51
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 52
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 53
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 54
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 55
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 56
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 57
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 58
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 59
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 60
+    operator: Telefonaktiebolaget LM Ericsson
+    date: 2018-12-14
+    reference: Dnr. 18-39251
+    note: MNC assigned for test purpose. Temporary license until 2019-12-31
+
+  - mnc: 61
+    operator: MessageBird B.V.
+    date: 2017-11-03
+    reference: Dnr. 17-8979
+    note: Temporary license until 2019-11-03
+
+  - mnc: 62
+    operator: null
+    date: null
+    reference: null
+    note: Not allocated
+
+  - mnc: 63
+    operator: Fink Telecom Services
+    date: 2019-03-12
+    reference: 19-1741
+    note: Used for PLMN(GSM/UMTS/LTE/5G)
+
+  - mnc: 64
+    operator: null
+    date: null
+    reference: null
+    note: null
+
+  - mnc: 65
+    operator: null
+    date: 2013-05-30
+    refernce: 12-6487
+    note: Allocated for shared use for closed networks
+
+  - mnc: 66
+    operator: null
+    date: 2013-05-30
+    refernce: 12-6487
+    note: Allocated for shared use for closed networks
+
+  - mnc: 67
+    operator: null
+    date: 2013-05-30
+    refernce: 12-6487
+    note: Allocated for shared use for test purpose
+
+  - mnc: 68
+    operator: null
+    date: 2013-05-30
+    refernce: 12-6487
+    note: Allocated for shared use for test purpose
+
+  - mnc: 69
+    operator: Swedish Post- and Telecom Authority
+    date: 2013-05-30
+    reference: 12-6487
+    note: Allocated for crisis management after determination by the Swedish Post- and Telecom Authority
+  - mnc: 70
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 71
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+  - mnc: 72
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 73
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 74
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 75
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 76
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 77
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 78
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 79
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 80
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 81
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 82
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 83
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 84
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 85
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 86
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 87
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 88
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 89
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 90
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 91
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 92
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 93
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 94
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 95
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 96
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 97
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 98
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
+
+  - mnc: 99
+    operator: null
+    date: 2013-05-30
+    reference: 12-6487
+    note: Reserved for future use
