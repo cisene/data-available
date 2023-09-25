@@ -1,0 +1,110 @@
+meta:
+  name: Regioner
+
+regions:
+
+- name: Region Stockholm
+  subdivisionCode: AB
+  alternativeCode: SE-01
+  url: http://www.sll.se/
+
+- name: Region Uppsala
+  subdivisionCode: C
+  alternativeCode: SE-03
+  url: https://www.regionuppsala.se/
+
+- name: Region Sörmland
+  subdivisionCode: D
+  alternativeCode: SE-04
+  url: http://regionsormland.se/
+
+- name: Region Östergötland
+  subdivisionCode: E
+  alternativeCode: SE-05
+  url: https://www.regionostergotland.se/
+
+- name: Region Jönköpings län
+  subdivisionCode: F
+  alternativeCode: SE-06
+  url: https://www.rjl.se/
+
+- name: Region Kronoberg
+  subdivisionCode: G
+  alternativeCode: SE-07
+  url: http://www.regionkronoberg.se/
+
+- name: Region Kalmar län
+  subdivisionCode: H
+  alternativeCode: SE-08
+  url: http://www.regionkalmar.se/
+
+- name: Region Gotland
+  subdivisionCode: I
+  alternativeCode: SE-09
+  url: http://www.gotland.se/
+
+- name: Region Blekinge
+  subdivisionCode: K
+  alternativeCode: SE-10
+  url: http://regionblekinge.se/
+
+- name: Region Skåne
+  subdivisionCode: M
+  alternativeCode: SE-12
+  url: http://www.skane.se/
+
+- name: Region Halland
+  subdivisionCode: N
+  alternativeCode: SE-13
+  url: http://www.regionhalland.se/
+
+- name: Västra Götalandsregionen
+  subdivisionCode: O
+  alternativeCode: SE-14
+  url: https://www.vgregion.se/
+
+- name: Region Värmland
+  subdivisionCode: S
+  alternativeCode: SE-17
+  url: http://www.regionvarmland.se/
+
+- name: Region Örebro län
+  subdivisionCode: T
+  alternativeCode: SE-18
+  url: http://www.regionorebrolan.se/
+
+- name: Region Västmanland
+  subdivisionCode: U
+  alternativeCode: SE-19
+  url: https://regionvastmanland.se/
+
+- name: Region Dalarna
+  subdivisionCode: W
+  alternativeCode: SE-20
+  url: http://regiondalarna.se/
+
+- name: Region Gävleborg
+  subdivisionCode: X
+  alternativeCode: SE-21
+  url: http://regiongavleborg.se/
+
+- name: Region Västernorrland
+  subdivisionCode: Y
+  alternativeCode: SE-22
+  url: https://www.rvn.se/
+
+- name: Region Jämtland Härjedalen
+  subdivisionCode: Z
+  alternativeCode: SE-23
+  url: https://www.regionjh.se/
+
+- name: Region Västerbotten
+  subdivisionCode: AC
+  alternativeCode: SE-24
+  url: https://regionvasterbotten.se/
+
+- name: Region Norrbotten
+  subdivisionCode: BD
+  alternativeCode: SE-25
+  url: http://norrbotten.se/
+
