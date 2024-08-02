@@ -24,105 +24,107 @@ I dagsläget verkar alla dessa siffror vara "okända" och "opublicerade", kanske
 
 Dessa nummer är samlade från öppna källor på internet och sammanställda till nedan tabell.
 
-| Pref |      | Issuer                                    | Format kortnummer         | OrgNr       | HSA-Id prefix |
-| ---- | ---- | ----------------------------------------- | ------------------------- | ----------- | ------------- |
-| 9752 | 0000 | Test/Specimen                             | `9752 0000 tmm xxxx xxxx` | -           | -             |
-| 9752 | 0123 | Test/Specimen                             | `9752 0123 tmm xxxx xxxx` | -           | -             |
-| 9752 | 1234 | Test/Specimen                             | `9752 1234 tmm xxxx xxxx` | -           | -             |
-| 9752 | 2016 | Resurs Bank                               | `9752 2016 xxxx xxxx`     | 516401-0208 | -             |
-| 9752 | 2040 | ICA Förmåns- och Betalkort                | `9752 2040 xxxx xxxx`     | -           |               |
-| 9752 | 2046 | Ving Holiday Card (Nordea Finans)         | `9752 2046 xxxx xxxx`     | 556021-1475 | -             |
-| 9752 | 2050 | ICA Förmånskort                           | `9752 2050 xxxx xxxx`     | 556021-0261 | -             |
-| 9752 | 2094 | Lindex                                    | `9752 2094 xxxx xxxx`     | 556068-8565 | -             |
-| 9752 | 2097 | SJ AB (Riksparkering, Årskort)            | `9752 2097 xxxx xxxx`     | 556196-1599 | -             |
-| 9752 | 2102 | SJ AB, Medlemskort                        | `9752 2102 xxxx xxxx`     | 556196-1599 | -             |
-| 9752 | 2112 | ICA AB                                    | `9752 2112 xxxx xxxx`     | 556021-0261 | -             |
-| 9752 | 2129 | Brothers                                  | `9752 2129 xxxx xxxx`     | 556513-6826 | -             |
-| 9752 | 2162 | Nordea Finans                             | `9752 2162 xxxx xxxx`     | 556021-1475 | -             |
-| 9752 | 2176 | Stadium                                   | `9752 2176 xxxx xxxx`     | 556236-4397 | -             |
-| 9752 | 2198 | Posten ID-kort                            | `9752 2198 tmm xxxx xxxx` |             |               |
-| 9752 | 2224 | Resurs Bank                               | `9752 2224 xxxx xxxx`     | 516401-0208 | -             |
-| 9752 | 2226 | Eurovip                                   | `9752 2226 xxxx xxxx`     | 556574-1526 | -             |
-| 9752 | 2229 | Tullverket                                | `9752 2229 tmm xxxx xxxx` | 202100-0969 | -             |
-| 9752 | 2237 | HGL Bränsle                               | `9752 22379 xxxx xxxxxx`  | 556317-3482 | -             |
-| 9752 | 2243 | SEB Id-kort                               | `9752 2243 tmm xxxx xxxx` |             |               |
-| 9752 | 2244 | Handelsbanken Id-kort                     | `9752 2244 tmm xxxx xxxx` |             |               |
-| 9752 | 2248 | City Gross                                | `9752 2248 xxxxxxx x`     | 556597-2451 | -             |
-| 9752 | 2249 | JulaClub                                  | `9752 2249 xxxx xxxx`     | 556944-7856 | -             |
-| 9752 | 2288 | Maestro                                   | `9752 2288 xxxx xxxx`     |             |               |
-| 9752 | 2311 | MYBW Office Management Gruppen Holding AB | `9752 2311 tmm xxxx xxxx` |             |               |
-| 9752 | 2313 | Nordea Id-kort                            | `9752 2313 tmm xxxx xxxx` |             |               |
-| 9752 | 2381 | Golfkortet                                | `9752 2381 xxxx xxxx`     |             |               |
-| 9752 | 2382 | Mecenat                                   | `9752 2382 xxxx xxxx`     | 556317-4076 | -             |
-| 9752 | 2387 | Stadium                                   | `9752 2387 xxxx xxxx`     |             |               |
-| 9752 | 2519 | Polisen Id-kort                           | `9752 2519 tmm XXXX XXXX` | 202100-0076 | -             |
-| 9752 | 2525 | Region Östergötland                       | `9752 2525 tmm xxxx xxxx` | 232100-0040 | SE2321000040  |
-| 9752 | 2559 | Arbetsförmedlingen                        | `9752 2559 tmm xxxx xxxx` | 202100-2114 | -             |
-| 9752 | 2562 | Swedbank Id-kort                          | `9752 2562 tmm xxxx xxxx` |             |               |
-| 9752 | 2566 | ICA                                       | `9752 2566 xxxx xxxx`     | 556021-0261 | -             |
-| 9752 | 2578 | Resurs Bank                               | `9752 2578 xxxx xxxx`     | 516401-0208 | -             |
-| 9752 | 2583 | Region Stockholm                          | `9752 2583 tmm xxxx xxxx` | 232100-0016 | SE2321000016  |
-| 9752 | 2647 | Landstinget Gävleborg                     | `9752 2647 tmm xxxx xxxx` | 232100-0198 | SE2321000198  |
-| 9752 | 2675 | Praktikertjänst                           | `9752 2675 xxxx xxxx`     | 556077-2419 | -             |
-| 9752 | 2677 | Praktikertjänst                           | `9752 2677 tmm xxxx xxxx` | 556077-2419 | SE5560772419  |
-| 9752 | 2679 | Västra Götalands Region                   | `9752 2679 tmm xxxx xxxx` | 232100-0131 | SE2321000131  |
-| 9752 | 2682 | Örebro Läns Landsting                     | `9752 2682 tmm xxxx xxxx` | 232100-0164 | SE2321000164  |
-| 9752 | 2684 | Region Västmanland                        | `9752 2684 tmm xxxx xxxx` | 232100-0172 | SE2321000172  |
-| 9752 | 2692 | Landstinget Sörmland                      | `9752 2692 tmm xxxx xxxx` | 232100-0032 | SE2321000032  |
-| 9752 | 2698 | Region Stockholm                          | `9752 2698 tmm xxxx xxxx` | 232100-0016 | SE2321000016  |
-| 9752 | 2705 | Region Uppsala                            | `9752 2705 tmm xxxx xxxx` | 232100-0024 | SE2321000024  |
-| 9752 | 2726 | Skatteverket                              | `9752 2726 tmm xxxx xxxx` | 202100-5448 | SE2021005448  |
-| 9752 | 2736 | Capio ST Göran                            | `9752 2736 tmm xxxx xxxx` | 556479-1456 | SE5564791456  |
-| 9752 | 2758 | Region Norrbotten                         | `9752 2758 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
-| 9752 | 2770 | Gotland kommun                            | `9752 2770 tmm xxxx xxxx` |             |               |
-| 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx XXXX` |             |               |
-| 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx` | 232100-0230 | SE2321000230  |
-| 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`     | 516401-0208 | -             |
-| 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tmm xxxx xxxx` | 212000-0134 | SE2120000134  |
-| 9752 | 2809 | Nacka Kommun                              | `9752 2809 tmm xxxx xxxx` |             |               |
-| 9752 | 2813 | Landstinget Halland                       | `9752 2813 tmm xxxx xxxx` |             |               |
-| 9752 | 2815 | Upplands Väsby kommun                     | `9752 2815 tmm xxxx xxxx` |             |               |
-| 9752 | 2826 | Haninge kommun                            | `9752 2826 tmm xxxx xxxx` |             |               |
-| 9752 | 2830 | Täby kommun                               | `9752 2830 tmm xxxx xxxx` |             |               |
-| 9752 | 2850 | Ersta diakoni                             | `9752 2850 tmm xxxx xxxx` |             |               |
-| 9752 | 2858 | Sundbyberg kommun                         | `9752 2858 tmm xxxx xxxx` |             |               |
-| 9752 | 2860 | Solna stad kommun                         | `9752 2860 tmm xxxx xxxx` |             |               |
-| 9752 | 2862 | Österåker kommun                          | `9752 2862 tmm xxxx xxxx` |             |               |
-| 9752 | 2867 | Huddinge kommun                           | `9752 2867 tmm xxxx xxxx` |             |               |
-| 9752 | 2870 | Järfälla kommun                           | `9752 2870 tmm xxxx xxxx` |             |               |
-| 9752 | 2872 | Botkyrka Kommun                           | `9752 2872 tmm xxxx xxxx` |             |               |
-| 9752 | 2876 | Danderyd Kommun                           | `9752 2876 tmm xxxx xxxx` |             |               |
-| 9752 | 2877 | Nykvarn kommun                            | `9752 2877 tmm xxxx xxxx` |             |               |
-| 9752 | 2879 | Nynäshamn kommun                          | `9752 2879 tmm xxxx xxxx` |             |               |
-| 9752 | 2880 | Förenade Care                             | `9752 2880 tmm xxxx xxxx` |             |               |
-| 9752 | 2882 | Norrtälje kommun                          | `9752 2882 tmm xxxx xxxx` |             |               |
-| 9752 | 2891 | Södertälje kommun                         | `9752 2891 tmm xxxx xxxx` |             |               |
-| 9752 | 2894 | Pekås (Presentkort)                       | `9752 2894 xxxx xxxx`     |             | -             |
-| 9752 | 2896 | Salem kommun                              | `9752 2896 tmm xxxx xxxx` |             |               |
-| 9752 | 2897 | Stockholms sjukhem                        | `9752 2897 tmm xxxx xxxx` |             |               |
-| 9752 | 2899 | Vaxholms stad                             | `9752 2899 tmm xxxx xxxx` |             |               |
-| 9752 | 2904 | Tyresö kommun                             | `9752 2904 tmm xxxx xxxx` |             |               |
-| 9752 | 2906 | Vallentuna kommun                         | `9752 2906 tmm xxxx xxxx` |             |               |
-| 9752 | 2911 | Aleris                                    | `9752 2911 tmm xxxx xxxx` |             |               |
-| 9752 | 2913 | Värmdö kommun                             | `9752 2913 tmm xxxx xxxx` |             |               |
-| 9752 | 2914 | Sigtuna kommun                            | `9752 2914 tmm xxxx xxxx` |             |               |
-| 9752 | 2916 | Upplands-Bro kommun                       | `9752 2916 tmm xxxx xxxx` |             |               |
-| 9752 | 2917 | Västerås Stad                             | `9752 2917 tmm xxxx xxxx` | 212000-2080 | SE2120002080  |
-| 9752 | 2923 | Ekerö kommun                              | `9752 2923 tmm xxxx xxxx` | 212000-0050 | SE2120000050  |
-| 9752 | 2930 | Stockholms stad                           | `9752 2930 tmm xxxx xxxx` | 212000-0142 | SE2120000142  |
-| 9752 | 2931 | Lycksele Kommun                           | `9752 2931 tmm xxxx xxxx` | 212000-2635 | SE2120002635  |
-| 9752 | 2946 | Lidingö stad                              | `9752 2946 tmm xxxx xxxx` | 212000-0191 | SE2120000191  |
-| 9752 | 2948 | Motala Kommun                             | `9752 2948 tmm xxxx xxxx` |             |               |
-| 9752 | 2975 | Bauhaus Premium                           | `9752 2975 xxxx xxxx`     |             |               |
-| 9752 | 2976 | Resurs Bank                               | `9752 2976 xxxx xxxx`     | 516401-0208 | -             |
-| 9752 | 2991 | Hemköp                                    | `9752 2991 xxxx xxxx`     |             |               |
-| 9752 | 2995 | Willys                                    | `9752 2995 xxxx xxxx`     |             |               |
-| 9752 | 3029 | ICA                                       | `9752 3029 xxxx xxxx`     |             | -             |
-| 9752 | 3040 | PointSharp                                | `9752 3040 tmm xxxx xxxx` |             | -             |
-| 9752 | 3058 | Säkerhetspolisen                          | `9752 3058 tmm xxxx xxxx` | 202100-6594 | SE2021006594  |
-| 9752 | 3124 | SL-kort, Grönt kort                       | `9752 3124 tmm xxxx xxxx` |             | -             |
-| 9752 | 8950 | Swedbank                                  | `9752 8950 tmm xxxx xxxx` |             | -             |
-| 9752 | 9999 | Test/Specimen                             | `9752 9999 tmm xxxx xxxx` | -           | -             |
+| Pref |      | Issuer                                    | Format kortnummer             | OrgNr       | HSA-Id prefix |
+| ---- | ---- | ----------------------------------------- | ----------------------------- | ----------- | ------------- |
+| 9752 | 0000 | Test/Specimen                             | `9752 0000 tmm xxxx xxxx`     | -           | -             |
+| 9752 | 0123 | Test/Specimen                             | `9752 0123 tmm xxxx xxxx`     | -           | -             |
+| 9752 | 1234 | Test/Specimen                             | `9752 1234 tmm xxxx xxxx`     | -           | -             |
+| 9752 | 2016 | Resurs Bank                               | `9752 2016 xxxx xxxx`         | 516401-0208 | -             |
+| 9752 | 2040 | ICA Förmåns- och Betalkort                | `9752 2040 xxxx xxxx`         | -           |               |
+| 9752 | 2046 | Ving Holiday Card (Nordea Finans)         | `9752 2046 xxxx xxxx`         | 556021-1475 | -             |
+| 9752 | 2050 | ICA Förmånskort                           | `9752 2050 xxxx xxxx`         | 556021-0261 | -             |
+| 9752 | 2094 | Lindex                                    | `9752 2094 xxxx xxxx`         | 556068-8565 | -             |
+| 9752 | 2097 | SJ AB (Riksparkering, Årskort)            | `9752 2097 xxxx xxxx`         | 556196-1599 | -             |
+| 9752 | 2102 | SJ AB, Medlemskort                        | `9752 2102 xxxx xxxx`         | 556196-1599 | -             |
+| 9752 | 2112 | ICA AB                                    | `9752 2112 xxxx xxxx`         | 556021-0261 | -             |
+| 9752 | 2129 | Brothers                                  | `9752 2129 xxxx xxxx`         | 556513-6826 | -             |
+| 9752 | 2162 | Nordea Finans                             | `9752 2162 xxxx xxxx`         | 556021-1475 | -             |
+| 9752 | 2176 | Stadium                                   | `9752 2176 xxxx xxxx`         | 556236-4397 | -             |
+| 9752 | 2198 | Posten ID-kort                            | `9752 2198 tmm xxxx xxxx`     |             |               |
+| 9752 | 2224 | Resurs Bank                               | `9752 2224 xxxx xxxx`         | 516401-0208 | -             |
+| 9752 | 2226 | Eurovip                                   | `9752 2226 xxxx xxxx`         | 556574-1526 | -             |
+| 9752 | 2229 | Tullverket                                | `9752 2229 tmm xxxx xxxx`     | 202100-0969 | -             |
+| 9752 | 2237 | HGL Bränsle                               | `9752 22379 xxxx xxxxxx`      | 556317-3482 | -             |
+| 9752 | 2243 | SEB Id-kort                               | `9752 2243 tmm xxxx xxxx`     |             |               |
+| 9752 | 2244 | Handelsbanken Id-kort                     | `9752 2244 tmm xxxx xxxx`     |             |               |
+| 9752 | 2248 | City Gross                                | `9752 2248 xxxxxxx x`         | 556597-2451 | -             |
+| 9752 | 2249 | JulaClub                                  | `9752 2249 xxxx xxxx`         | 556944-7856 | -             |
+| 9752 | 2288 | Maestro                                   | `9752 2288 xxxx xxxx`         |             |               |
+| 9752 | 2311 | MYBW Office Management Gruppen Holding AB | `9752 2311 tmm xxxx xxxx`     |             |               |
+| 9752 | 2313 | Nordea Id-kort                            | `9752 2313 tmm xxxx xxxx`     |             |               |
+| 9752 | 2381 | Golfkortet                                | `9752 2381 xxxx xxxx`         |             |               |
+| 9752 | 2382 | Mecenat                                   | `9752 2382 xxxx xxxx`         | 556317-4076 | -             |
+| 9752 | 2387 | Stadium                                   | `9752 2387 xxxx xxxx`         |             |               |
+| 9752 | 2519 | Polisen Id-kort                           | `9752 2519 tmm XXXX XXXX`     | 202100-0076 | -             |
+| 9752 | 2525 | Region Östergötland                       | `9752 2525 tmm xxxx xxxx`     | 232100-0040 | SE2321000040  |
+| 9752 | 2526 | Polisregion Väst                          | `9752 2526 tmm xxxx xxxx`     |             |               |
+| 9752 | 2559 | Arbetsförmedlingen                        | `9752 2559 tmm xxxx xxxx`     | 202100-2114 | -             |
+| 9752 | 2562 | Swedbank Id-kort                          | `9752 2562 tmm xxxx xxxx`     |             |               |
+| 9752 | 2566 | ICA                                       | `9752 2566 xxxx xxxx`         | 556021-0261 | -             |
+| 9752 | 2578 | Resurs Bank                               | `9752 2578 xxxx xxxx`         | 516401-0208 | -             |
+| 9752 | 2583 | Region Stockholm                          | `9752 2583 tmm xxxx xxxx`     | 232100-0016 | SE2321000016  |
+| 9752 | 2627 | Region Skåne                              | `9752 2627 tmm xxxx xxxx`     |             |               |
+| 9752 | 2647 | Landstinget Gävleborg                     | `9752 2647 tmm xxxx xxxx`     | 232100-0198 | SE2321000198  |
+| 9752 | 2675 | Praktikertjänst                           | `9752 2675 xxxx xxxx`         | 556077-2419 | -             |
+| 9752 | 2677 | Praktikertjänst                           | `9752 2677 tmm xxxx xxxx`     | 556077-2419 | SE5560772419  |
+| 9752 | 2679 | Västra Götalands Region                   | `9752 2679 tmm xxxx xxxx`     | 232100-0131 | SE2321000131  |
+| 9752 | 2682 | Örebro Läns Landsting                     | `9752 2682 tmm xxxx xxxx`     | 232100-0164 | SE2321000164  |
+| 9752 | 2684 | Region Västmanland                        | `9752 2684 tmm xxxx xxxx`     | 232100-0172 | SE2321000172  |
+| 9752 | 2692 | Landstinget Sörmland                      | `9752 2692 tmm xxxx xxxx`     | 232100-0032 | SE2321000032  |
+| 9752 | 2698 | Region Stockholm                          | `9752 2698 tmm xxxx xxxx`     | 232100-0016 | SE2321000016  |
+| 9752 | 2705 | Region Uppsala                            | `9752 2705 tmm xxxx xxxx`     | 232100-0024 | SE2321000024  |
+| 9752 | 2726 | Skatteverket                              | `9752 2726 tmm xxxx xxxx`     | 202100-5448 | SE2021005448  |
+| 9752 | 2736 | Capio ST Göran                            | `9752 2736 tmm xxxx xxxx`     | 556479-1456 | SE5564791456  |
+| 9752 | 2758 | Region Norrbotten                         | `9752 2758 tmm xxxx xxxx`     | 232100-0230 | SE2321000230  |
+| 9752 | 2770 | Gotland kommun                            | `9752 2770 tmm xxxx xxxx`     |             |               |
+| 9752 | 2789 | Svenk E-identitet                         | `9752 2789 tmm xxxx XXXX`     |             |               |
+| 9752 | 2797 | Region Norrbotten                         | `9752 2797 tmm xxxx xxxx`     | 232100-0230 | SE2321000230  |
+| 9752 | 2800 | Resurs Bank                               | `9752 2800 xxxx xxxx`         | 516401-0208 | -             |
+| 9752 | 2801 | Sollentuna kommun                         | `9752 2801 tmm xxxx xxxx`     | 212000-0134 | SE2120000134  |
+| 9752 | 2809 | Nacka Kommun                              | `9752 2809 tmm xxxx xxxx`     |             |               |
+| 9752 | 2813 | Landstinget Halland                       | `9752 2813 tmm xxxx xxxx`     |             |               |
+| 9752 | 2815 | Upplands Väsby kommun                     | `9752 2815 tmm xxxx xxxx`     |             |               |
+| 9752 | 2826 | Haninge kommun                            | `9752 2826 tmm xxxx xxxx`     |             |               |
+| 9752 | 2830 | Täby kommun                               | `9752 2830 tmm xxxx xxxx`     |             |               |
+| 9752 | 2850 | Ersta diakoni                             | `9752 2850 tmm xxxx xxxx`     |             |               |
+| 9752 | 2858 | Sundbyberg kommun                         | `9752 2858 tmm xxxx xxxx`     |             |               |
+| 9752 | 2860 | Solna stad kommun                         | `9752 2860 tmm xxxx xxxx`     |             |               |
+| 9752 | 2862 | Österåker kommun                          | `9752 2862 tmm xxxx xxxx`     |             |               |
+| 9752 | 2867 | Huddinge kommun                           | `9752 2867 tmm xxxx xxxx`     |             |               |
+| 9752 | 2870 | Järfälla kommun                           | `9752 2870 tmm xxxx xxxx`     |             |               |
+| 9752 | 2872 | Botkyrka Kommun                           | `9752 2872 tmm xxxx xxxx`     |             |               |
+| 9752 | 2876 | Danderyd Kommun                           | `9752 2876 tmm xxxx xxxx`     |             |               |
+| 9752 | 2877 | Nykvarn kommun                            | `9752 2877 tmm xxxx xxxx`     |             |               |
+| 9752 | 2879 | Nynäshamn kommun                          | `9752 2879 tmm xxxx xxxx`     |             |               |
+| 9752 | 2880 | Förenade Care                             | `9752 2880 tmm xxxx xxxx`     |             |               |
+| 9752 | 2882 | Norrtälje kommun                          | `9752 2882 tmm xxxx xxxx`     |             |               |
+| 9752 | 2891 | Södertälje kommun                         | `9752 2891 tmm xxxx xxxx`     |             |               |
+| 9752 | 2894 | Pekås (Presentkort)                       | `9752 2894 xxxx xxxx`         |             | -             |
+| 9752 | 2896 | Salem kommun                              | `9752 2896 tmm xxxx xxxx`     |             |               |
+| 9752 | 2897 | Stockholms sjukhem                        | `9752 2897 tmm xxxx xxxx`     |             |               |
+| 9752 | 2899 | Vaxholms stad                             | `9752 2899 tmm xxxx xxxx`     |             |               |
+| 9752 | 2904 | Tyresö kommun                             | `9752 2904 tmm xxxx xxxx`     |             |               |
+| 9752 | 2906 | Vallentuna kommun                         | `9752 2906 tmm xxxx xxxx`     |             |               |
+| 9752 | 2911 | Aleris                                    | `9752 2911 tmm xxxx xxxx`     |             |               |
+| 9752 | 2913 | Värmdö kommun                             | `9752 2913 tmm xxxx xxxx`     |             |               |
+| 9752 | 2914 | Sigtuna kommun                            | `9752 2914 tmm xxxx xxxx`     |             |               |
+| 9752 | 2916 | Upplands-Bro kommun                       | `9752 2916 tmm xxxx xxxx`     |             |               |
+| 9752 | 2917 | Västerås Stad                             | `9752 2917 tmm xxxx xxxx`     | 212000-2080 | SE2120002080  |
+| 9752 | 2923 | Ekerö kommun                              | `9752 2923 tmm xxxx xxxx`     | 212000-0050 | SE2120000050  |
+| 9752 | 2930 | Stockholms stad                           | `9752 2930 tmm xxxx xxxx`     | 212000-0142 | SE2120000142  |
+| 9752 | 2931 | Lycksele Kommun                           | `9752 2931 tmm xxxx xxxx`     | 212000-2635 | SE2120002635  |
+| 9752 | 2946 | Lidingö stad                              | `9752 2946 tmm xxxx xxxx`     | 212000-0191 | SE2120000191  |
+| 9752 | 2948 | Motala Kommun                             | `9752 2948 tmm xxxx xxxx`     |             |               |
+| 9752 | 2975 | Bauhaus Premium                           | `9752 2975 xxxx xxxx`         |             |               |
+| 9752 | 2976 | Resurs Bank                               | `9752 2976 xxxx xxxx`         | 516401-0208 | -             |
+| 9752 | 2991 | Hemköp                                    | `9752 2991 xxxx xxxx`         |             |               |
+| 9752 | 2995 | Willys                                    | `9752 2995 xxxx xxxx`         |             |               |
+| 9752 | 3029 | ICA                                       | `9752 3029 xxxx xxxx`         |             | -             |
+| 9752 | 3040 | PointSharp                                | `9752 3040 tmm xxxx xxxx`     |             | -             |
+| 9752 | 3058 | Säkerhetspolisen                          | `9752 3058 tmm xxxx xxxx`     | 202100-6594 | SE2021006594  |
+| 9752 | 3124 | SL-kort, Grönt kort                       | `9752 3124 tmm xxxx xxxx`     |             | -             |
+| 9752 | 8950 | Swedbank                                  | `9752 8950 tmm xxxx xxxx`     |             | -             |
+| 9752 | 9999 | Test/Specimen                             | `9752 9999 tmm xxxx xxxx`     | -           | -             |
 
 
 ### Ofta förekommande
