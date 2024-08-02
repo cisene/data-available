@@ -5,6 +5,7 @@ data:
 - mcc: 240
   country: Sweden
   mncs:
+
   - mnc: 00
     operator: null
     date: null
@@ -118,7 +119,6 @@ data:
     date: 2008-04-16
     reference: 08-4606
     note: null
-
 
   - mnc: 19
     operator: Vectone Mobile (Sweden) Ltd
@@ -425,6 +425,7 @@ data:
     date: 2013-05-30
     reference: 12-6487
     note: Allocated for crisis management after determination by the Swedish Post- and Telecom Authority
+
   - mnc: 70
     operator: null
     date: 2013-05-30
@@ -436,6 +437,7 @@ data:
     date: 2013-05-30
     reference: 12-6487
     note: Reserved for future use
+
   - mnc: 72
     operator: null
     date: 2013-05-30
