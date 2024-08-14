@@ -38,6 +38,9 @@ def countryLookup(data):
   if re.search(r"Azerbajdzjan", str(data), flags=re.IGNORECASE):
     result = { 'country': 'Azerbaijan', 'countrycode': 'az', 'numericcode': '', 'continent': 'asia' }
 
+  if re.search(r"Bangladesh", str(data), flags=re.IGNORECASE):
+    result = { 'country': 'Bangladesh', 'countrycode': 'bd', 'numericcode': '050', 'continent': 'asia' }
+
   if re.search(r"Belarus", str(data), flags=re.IGNORECASE):
     result = { 'country': 'Belarus', 'countrycode': 'by', 'numericcode': '', 'continent': 'europe' }
 
@@ -193,6 +196,7 @@ def countryLookup(data):
 
 
   if result == None:
+    print(f"'{data}' did not yield any lookup hit")
     exit(0)
 
   return result
@@ -253,9 +257,38 @@ def flattenString(data):
 
   return data
 
-def prepSplit(data):
-  data = re.sub(r"\x3cli\x3e\x3ca\shref\x3d\x22(.+?)\x22\x3e(.+?)\x3c\x2fa\x3e\x3c\x2fli\x3e", "https://www.regeringen.se\\1|\\2", str(data), flags=re.IGNORECASE)
-  return data
+def extractLinkWithCountry(data):
+  result = {
+    "caption": None,
+    "url": None,
+  }
+  data = re.sub(r"(\r\n|\r|\n|\t)", " ", data, flags=re.IGNORECASE)
+
+  #data = re.sub(r"\x3c(\x2f)?li\x3e", "", data, flags=re.IGNORECASE)
+
+  tmp_soup = BeautifulSoup(data, 'html5lib')
+  a_elem = tmp_soup.find('a')
+  a_href = a_elem.get('href')
+  a_text = a_elem.text
+
+  a_text = re.sub(r"\s\x2d\savrådan", "", str(a_text), flags=re.IGNORECASE)
+
+  #print(f"a_elem: {a_elem} -> '{a_href}' + '{a_text}'")
+
+  if a_href != None:
+    result['url'] = f"https://www.regeringen.se{a_href}"
+
+  if a_text != None:
+    result['caption'] = a_text
+
+  tmp_soup = None
+
+  return result
+
+#def prepSplit(data):
+#  data = re.sub(r"\x3cli\x3e\x3ca\shref\x3d\x22(.+?)\x22\x3e(.+?)\x3c\x2fa\x3e\x3c\x2fli\x3e", "https://www.regeringen.se\\1|\\2", str(data), flags=re.IGNORECASE)
+#
+#  return data
 
 def transformEpochtoISO(data):
 
@@ -279,7 +312,7 @@ def main():
 
   dissuasions = {
     '@meta': {
-      'sourece': 'https://www.regeringen.se/ud-avrader/',
+      'source': 'https://www.regeringen.se/ud-avrader/',
       'updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S+0100'),
     },
     'countries': []
@@ -290,25 +323,30 @@ def main():
   soup = BeautifulSoup(r.content, 'html5lib')
   ul_list = soup.find('ul', attrs = {'class':'list--Block--icons list--politikomr columnCount--3'})
 
+  print(f"List length: {len(ul_list)}")
+
   for li in ul_list.findAll('li'):
     li_elem = flattenString(li)
-    prep = prepSplit(li_elem)
-    parts = re.split(r"\x7c", str(prep))
-    if len(parts) == 2:
-      url = parts[0]
-      caption = parts[1]
+    prep = extractLinkWithCountry(li_elem)
 
-      caption = re.sub(r"\s\x2d\savrådan", "", str(caption), flags=re.IGNORECASE)
-      country_info = countryLookup(caption)
-      print(country_info)
+    if(
+      prep['caption'] != None
+      and
+      prep['url'] != None
+    ):
+      country_url = prep['url']
+      country_caption = prep['caption']
 
-      r = requests.get(url)
-      print(f"{r.status_code} '{url}'")
+      country_info = countryLookup(country_caption)
+      #print(country_info)
 
-      soup = BeautifulSoup(r.content, 'html5lib')
+      country_r = requests.get(country_url)
+      print(f"{country_r.status_code} '{country_url}'")
+
+      country_soup = BeautifulSoup(country_r.content, 'html5lib')
 
       # <section class="gridModule-A gridModule-fullwidth">
-      section = soup.find('section', attrs = {'class':'gridModule-A gridModule-fullwidth'})
+      section = country_soup.find('section', attrs = {'class':'gridModule-A gridModule-fullwidth'})
       #print(section)
 
       p = None
@@ -324,20 +362,14 @@ def main():
           p = resolveTextDatesToISO( article_published.time['datetime'] )
           pe = transformISOtoEpoch(p)
           ue = pe
-      else:
-        # Did not find section
-        print(soup.prettify())
-        exit(0)
-
-      # <span class="updated">
-      if section != None:
+  
+        # <span class="updated">
         article_updated = section.find('span', attrs = {'class':'updated'})
         if article_updated != None:
           u = resolveTextDatesToISO( article_updated.time['datetime'])
           ue = transformISOtoEpoch(u)
 
-      # <p class="ingress has-wordExplanation">
-      if section != None:
+        # <p class="ingress has-wordExplanation">
         article_ingress = section.find('p', attrs = {'class': 'ingress has-wordExplanation'})
         for (m) in re.finditer(r"(\d{1,2})\s(januari|februari|mars|april|maj|juni|juli|augusti|september|oktober|november|december)\s(\d{4})", str(article_ingress), flags=re.IGNORECASE):
           d = resolveTextDatesToISO( m.group(0) )
@@ -350,30 +382,35 @@ def main():
         ):
           article_dissuade_onwards = True
 
-      if (
-        pe != None and
-        ue != None
-      ):
-        obj = {
-          'countryCode': country_info['countrycode'],
-          'name': country_info['country'],
-          'continent': country_info['continent'],
-          'link': url,
-          'dissuasion': {
-            'begin': transformEpochtoISO(pe),
-            'end': None,
-            'updated': transformEpochtoISO(ue),
-            'ongoing_without_limitation': article_dissuade_onwards,
+        if (
+          pe != None and
+          ue != None
+        ):
+          obj = {
+            'countryCode': country_info['countrycode'],
+            'name': country_info['country'],
+            'continent': country_info['continent'],
+            'link': country_url,
+            'dissuasion': {
+              'begin': transformEpochtoISO(pe),
+              'end': None,
+              'updated': transformEpochtoISO(ue),
+              'ongoing_without_limitation': article_dissuade_onwards,
+              #'explanation': []
+            }
           }
-        }
 
-        print(obj)
-        dissuasions['countries'].append(obj)
+          #print(obj)
+          dissuasions['countries'].append(obj)
 
+    else:
+      print(f"split to {len(parts)} as '{prep}' was weird ..")
 
-    time.sleep(3)
+    time.sleep(1)
 
-  print(dissuasions)
+  #print("foo")
+
+  #print(dissuasions)
   s = json.dumps(dissuasions, skipkeys=False, ensure_ascii=True, check_circular=True, allow_nan=True, cls=None, indent=2, separators=(", ", ": "), default=None, sort_keys=False)
   with open("./dissuasions.json", "w") as f:
     f.write(s)
