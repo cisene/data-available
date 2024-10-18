@@ -1,0 +1,833 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Svenska Myndigheters RSS-flöden</title>
+    <dateCreated>Mon, 14 Oct 2024 14:43:18 +0100</dateCreated>
+    <dateModified>Mon, 14 Oct 2024 14:43:18 +0100</dateModified>
+    <ownerName>Christopher Isene</ownerName>
+    <ownerEmail>christopher.isene@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Myndigheter">
+      <outline text="Folkhälsomyndigheten">
+        <outline text="Alla nyheter">
+          <outline type="rss" version="rss" text="Alla nyheter" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss" />
+        </outline>
+        <outline text="Smittskydd och sjukdomar">
+          <outline type="rss" version="rss" text="Smittskydd och sjukdomar" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=smittskydd-och-sjukdomar&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Alkohol, narkotika, dopning, tobak och spel">
+          <outline type="rss" version="rss" text="Alkohol, narkotika, dopning, tobak och spel" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=andts&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Livsvillkor och levnadsvanor">
+          <outline type="rss" version="rss" text="Livsvillkor och levnadsvanor" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=livsvillkor-och-levnadsvanor&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Hälsoskydd och miljöhälsa">
+          <outline type="rss" version="rss" text="Hälsoskydd och miljöhälsa" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=halsoskydd-och-miljohalsa&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Statistik och undersökningar">
+          <outline type="rss" version="rss" text="Statistik och undersökningar" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=statistik-och-undersokningar&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Tillsyn och tillsynsvägledning">
+          <outline type="rss" version="rss" text="Tillsyn och tillsynsvägledning" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=tillsyn-och-tillsynsvagledning&amp;amp;syndication=rss" />
+        </outline>
+        <outline text="Publikationer">
+          <outline type="rss" version="rss" text="Publikationer" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationer/?syndication=rss" />
+        </outline>
+        <outline text="Kalenderhändelser">
+          <outline type="rss" version="rss" text="Kalenderhändelser" htmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/" xmlUrl="https://www.folkhalsomyndigheten.se/konferens-och-utbildning/?syndication=rss" />
+        </outline>
+      </outline>
+      <outline text="MSB">
+        <outline text="Alla nyheter från MSB">
+          <outline type="rss" version="rss" text="Alla nyheter från MSB" htmlUrl="https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/" xmlUrl="https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb/" />
+        </outline>
+        <outline text="Nyheter från startsidan på msb.se">
+          <outline type="rss" version="rss" text="Nyheter från startsidan på msb.se" htmlUrl="https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/" xmlUrl="https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-startsidan-pa-msb.se/" />
+        </outline>
+        <outline text="Nyheter om Rakel">
+          <outline type="rss" version="rss" text="Nyheter om Rakel" htmlUrl="https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/" xmlUrl="https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-om-rakel/" />
+        </outline>
+        <outline text="Nyheter från Farligt gods">
+          <outline type="rss" version="rss" text="Nyheter från Farligt gods" htmlUrl="https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/" xmlUrl="https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-om-farligt-gods/" />
+        </outline>
+        <outline text="Nyheter från Räddningstjänst">
+          <outline type="rss" version="rss" text="Nyheter från Räddningstjänst" htmlUrl="https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/" xmlUrl="https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-raddningstjanst/" />
+        </outline>
+      </outline>
+      <outline text="Elsäkerhetsverket">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/" xmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS/" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/" xmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS-pressmeddelanden/" />
+        </outline>
+        <outline text="Försäljningsförbud">
+          <outline type="rss" version="rss" text="Försäljningsförbud" htmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/" xmlUrl="https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS-forsaljningsforbud/" />
+        </outline>
+      </outline>
+      <outline text="Justitieombudsmannen, JO">
+        <outline text="JO-beslut alla sektorer">
+          <outline type="rss" version="rss" text="JO-beslut alla sektorer" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-alla-sektorer" />
+        </outline>
+        <outline text="JO-beslut allmän domstol">
+          <outline type="rss" version="rss" text="JO-beslut allmän domstol" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-allman-domstol" />
+        </outline>
+        <outline text="JO-beslut Försäkringskassan">
+          <outline type="rss" version="rss" text="JO-beslut Försäkringskassan" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-forsakringskassan" />
+        </outline>
+        <outline text="JO-beslut försvaret">
+          <outline type="rss" version="rss" text="JO-beslut försvaret" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-forsvaret" />
+        </outline>
+        <outline text="JO-beslut förvaltningsdomstol">
+          <outline type="rss" version="rss" text="JO-beslut förvaltningsdomstol" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-forvaltningsdomstol" />
+        </outline>
+        <outline text="JO-beslut förvaltningslagen">
+          <outline type="rss" version="rss" text="JO-beslut förvaltningslagen" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-forvaltningslagen" />
+        </outline>
+        <outline text="JO-beslut grundläggande fri- och rättigheter samt tryck- och yttrandefrihet">
+          <outline type="rss" version="rss" text="JO-beslut grundläggande fri- och rättigheter samt tryck- och yttrandefrihet" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-fri-rattigheter-tryckfrihet" />
+        </outline>
+        <outline text="JO-beslut hälso- och sjukvård">
+          <outline type="rss" version="rss" text="JO-beslut hälso- och sjukvård" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-halso-sjukvard" />
+        </outline>
+        <outline text="JO-beslut kriminalvård">
+          <outline type="rss" version="rss" text="JO-beslut kriminalvård" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-kriminalvard" />
+        </outline>
+        <outline text="JO-beslut kronofogden">
+          <outline type="rss" version="rss" text="JO-beslut kronofogden" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-kronofogden" />
+        </outline>
+        <outline text="JO-beslut jordbruk, djurskydd, miljö- och hälsoskydd">
+          <outline type="rss" version="rss" text="JO-beslut jordbruk, djurskydd, miljö- och hälsoskydd" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-miljo" />
+        </outline>
+        <outline text="JO-beslut överförmyndare">
+          <outline type="rss" version="rss" text="JO-beslut överförmyndare" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-overformyndare" />
+        </outline>
+        <outline text="JO-beslut plan- och byggområdet">
+          <outline type="rss" version="rss" text="JO-beslut plan- och byggområdet" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-plan-bygg" />
+        </outline>
+        <outline text="JO-beslut polis">
+          <outline type="rss" version="rss" text="JO-beslut polis" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-polis" />
+        </outline>
+        <outline text="JO-beslut sekretess">
+          <outline type="rss" version="rss" text="JO-beslut sekretess" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-sekretess" />
+        </outline>
+        <outline text="JO-beslut Skatteverket">
+          <outline type="rss" version="rss" text="JO-beslut Skatteverket" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-skatteverket" />
+        </outline>
+        <outline text="JO-beslut socialtjänst och LSS">
+          <outline type="rss" version="rss" text="JO-beslut socialtjänst och LSS" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-socialtjanst-lss" />
+        </outline>
+        <outline text="JO-beslut tryck- och yttrandefrihet">
+          <outline type="rss" version="rss" text="JO-beslut tryck- och yttrandefrihet" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-tryck-yttrandefrihet" />
+        </outline>
+        <outline text="JO-beslut utlänningsärenden">
+          <outline type="rss" version="rss" text="JO-beslut utlänningsärenden" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-beslut-utlanningsarenden" />
+        </outline>
+        <outline text="Lediga/tillsatta tjänster JO">
+          <outline type="rss" version="rss" text="Lediga/tillsatta tjänster JO" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/jo-lediga-tjanster" />
+        </outline>
+        <outline text="Övriga nyheter från JO">
+          <outline type="rss" version="rss" text="Övriga nyheter från JO" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/pressmeddelanden" />
+        </outline>
+        <outline text="Senast publicerade protokoll från Opcat-inspektioner">
+          <outline type="rss" version="rss" text="Senast publicerade protokoll från Opcat-inspektioner" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/senast-publicerade-protokoll-opcat-inspektioner" />
+        </outline>
+        <outline text="Senast publicerade protokoll från ordinarie JO-inspektioner">
+          <outline type="rss" version="rss" text="Senast publicerade protokoll från ordinarie JO-inspektioner" htmlUrl="https://www.jo.se/om-jo/press/rss-floden/" xmlUrl="https://www.jo.se/feed/senast-publicerade-protokoll-ordinarie-jo-inspektioner" />
+        </outline>
+      </outline>
+      <outline text="Lantmäteriet">
+        <outline text="Nyheter på lantmateriet.se">
+          <outline type="rss" version="rss" text="Nyheter på lantmateriet.se" htmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/" xmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-nyheter/" />
+        </outline>
+        <outline text="Produktnyheter, allmänna">
+          <outline type="rss" version="rss" text="Produktnyheter, allmänna" htmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/" xmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-allmanna/" />
+        </outline>
+        <outline text="Produktnyheter, fastighetsinformation">
+          <outline type="rss" version="rss" text="Produktnyheter, fastighetsinformation" htmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/" xmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-fastighetsinformation/" />
+        </outline>
+        <outline text="Produktnyheter, geografisk information">
+          <outline type="rss" version="rss" text="Produktnyheter, geografisk information" htmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/" xmlUrl="https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-geografisk-information/" />
+        </outline>
+      </outline>
+      <outline text="Riksarkivet">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://riksarkivet.se/vara-rss-floden" xmlUrl="http://riksarkivet.se/Rss/nyheter" />
+        </outline>
+      </outline>
+      <outline text="E‑hälsomyndigheten">
+        <outline text="Driftinformation">
+          <outline type="rss" version="rss" text="Driftinformation" htmlUrl="https://www.ehalsomyndigheten.se/om-oss/rss/" xmlUrl="https://www.ehalsomyndigheten.se/driftinformation/rss/" />
+        </outline>
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.ehalsomyndigheten.se/om-oss/rss/" xmlUrl="https://www.ehalsomyndigheten.se/nyheter/rss/" />
+        </outline>
+        <outline text="Nyheter om NGS-tjänsten (Nationella gemensamma e-hälsospecifikationer)">
+          <outline type="rss" version="rss" text="Nyheter om NGS-tjänsten (Nationella gemensamma e-hälsospecifikationer)" htmlUrl="https://www.ehalsomyndigheten.se/om-oss/rss/" xmlUrl="https://www.ehalsomyndigheten.se/yrkesverksam/ngs-tjansten/nyheter/rss/" />
+        </outline>
+        <outline text="Söktjänsten Kunskapsstöd för e-hälsa">
+          <outline type="rss" version="rss" text="Söktjänsten Kunskapsstöd för e-hälsa" htmlUrl="https://www.ehalsomyndigheten.se/om-oss/rss/" xmlUrl="https://www.ehalsomyndigheten.se/yrkesverksam/e-halsostod-till-kommuner/kunskapsstod-for-e-halsa/rss-flode/" />
+        </outline>
+      </outline>
+      <outline text="Boverket">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/nyheter/" />
+        </outline>
+        <outline text="Boverkets kalender">
+          <outline type="rss" version="rss" text="Boverkets kalender" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/kalender/" />
+        </outline>
+        <outline text="Boverkets publikationer">
+          <outline type="rss" version="rss" text="Boverkets publikationer" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/publikationer/" />
+        </outline>
+        <outline text="Nyheter på PBL kunskapsbanken">
+          <outline type="rss" version="rss" text="Nyheter på PBL kunskapsbanken" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/PBL-kunskapsbanken/nyheter-pa-pbl-kunskapsbanken/" />
+        </outline>
+        <outline text="Nyheter om bostadsanpassningsbidraget">
+          <outline type="rss" version="rss" text="Nyheter om bostadsanpassningsbidraget" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/babhandboken/aktuellt/" />
+        </outline>
+        <outline text="Nyheter inom energiområdet">
+          <outline type="rss" version="rss" text="Nyheter inom energiområdet" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/byggande/bygg-och-renovera-energieffektivt/nyheter-inom-energiomradet/" />
+        </outline>
+        <outline text="Nyheter om ekonomiska planer">
+          <outline type="rss" version="rss" text="Nyheter om ekonomiska planer" htmlUrl="https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/" xmlUrl="https://www.boverket.se/sv/ekonomiska-planer/aktuellt/" />
+        </outline>
+      </outline>
+      <outline text="Livsmedelsverket">
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/rss-pressmeddelanden" />
+        </outline>
+        <outline text="Debattartiklar">
+          <outline type="rss" version="rss" text="Debattartiklar" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/rss-debattartiklar" />
+        </outline>
+        <outline text="Kommentarer">
+          <outline type="rss" version="rss" text="Kommentarer" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/rss-kommentarer" />
+        </outline>
+        <outline text="Återkallanden">
+          <outline type="rss" version="rss" text="Återkallanden" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/rss-aterkallanden" />
+        </outline>
+        <outline text="Nyheter mat och hälsa">
+          <outline type="rss" version="rss" text="Nyheter mat och hälsa" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/rss-nyheter-mat-och-halsa" />
+        </outline>
+        <outline text="Nyheter för livsmedelsföretagare">
+          <outline type="rss" version="rss" text="Nyheter för livsmedelsföretagare" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/livsmedelsverket---nyheter-for-livsmedelsforetagare" />
+        </outline>
+        <outline text="Lagstiftning">
+          <outline type="rss" version="rss" text="Lagstiftning" htmlUrl="https://www.livsmedelsverket.se/om-oss/press/rss" xmlUrl="https://www.livsmedelsverket.se/rss/livsmedelsverket---lagstiftning" />
+        </outline>
+      </outline>
+      <outline text="Arbetsmiljöverket">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/" xmlUrl="https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/rss-nyheter/" />
+        </outline>
+        <outline text="Kaledarium">
+          <outline type="rss" version="rss" text="Kaledarium" htmlUrl="https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/" xmlUrl="https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/rss-kalendarium/" />
+        </outline>
+      </outline>
+      <outline text="Polismyndigheten">
+        <outline text="Blekinge: Nyheter">
+          <outline type="rss" version="rss" text="Blekinge: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/blekinge/nyheter-rss---blekinge/" />
+        </outline>
+        <outline text="Blekinge: Händelser">
+          <outline type="rss" version="rss" text="Blekinge: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/blekinge/handelser-rss---blekinge/" />
+        </outline>
+        <outline text="Blekinge: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Blekinge: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/blekinge/press-rss---blekinge/" />
+        </outline>
+        <outline text="Blekinge: Lediga jobb">
+          <outline type="rss" version="rss" text="Blekinge: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/blekinge/lediga-jobb-rss---blekinge/" />
+        </outline>
+        <outline text="Dalarna: Nyheter">
+          <outline type="rss" version="rss" text="Dalarna: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/dalarna/nyheter-rss---dalarna/" />
+        </outline>
+        <outline text="Dalarna: Händelser">
+          <outline type="rss" version="rss" text="Dalarna: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/dalarna/handelser-rss---dalarna/" />
+        </outline>
+        <outline text="Dalarna: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Dalarna: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/dalarna/press-rss---dalarna/" />
+        </outline>
+        <outline text="Dalarna: Lediga jobb">
+          <outline type="rss" version="rss" text="Dalarna: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/dalarna/lediga-jobb-rss---dalarna/" />
+        </outline>
+        <outline text="Gotland: Nyheter">
+          <outline type="rss" version="rss" text="Gotland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gotland/nyheter-rss---gotland/" />
+        </outline>
+        <outline text="Gotland: Händelser">
+          <outline type="rss" version="rss" text="Gotland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gotland/handelser-rss---gotland/" />
+        </outline>
+        <outline text="Gotland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Gotland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gotland/press-rss---gotland/" />
+        </outline>
+        <outline text="Gotland: Lediga jobb">
+          <outline type="rss" version="rss" text="Gotland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gotland/lediga-jobb-rss---gotland/" />
+        </outline>
+        <outline text="Gävleborg: Nyheter">
+          <outline type="rss" version="rss" text="Gävleborg: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gavleborg/nyheter-rss---gavleborg/" />
+        </outline>
+        <outline text="Gävleborg: Händelser">
+          <outline type="rss" version="rss" text="Gävleborg: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gavleborg/handelser-rss---gavleborg/" />
+        </outline>
+        <outline text="Gävleborg: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Gävleborg: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gavleborg/press-rss---gavleborg/" />
+        </outline>
+        <outline text="Gävleborg: Lediga jobb">
+          <outline type="rss" version="rss" text="Gävleborg: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/gavleborg/lediga-jobb-rss---gavleborg/" />
+        </outline>
+        <outline text="Halland: Nyheter">
+          <outline type="rss" version="rss" text="Halland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/halland/nyheter-rss---halland/" />
+        </outline>
+        <outline text="Halland: Händelser">
+          <outline type="rss" version="rss" text="Halland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/halland/handelser-rss---halland/" />
+        </outline>
+        <outline text="Halland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Halland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/halland/press-rss---halland/" />
+        </outline>
+        <outline text="Halland: Lediga jobb">
+          <outline type="rss" version="rss" text="Halland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/halland/lediga-jobb-rss---halland/" />
+        </outline>
+        <outline text="Jämtland: Nyheter">
+          <outline type="rss" version="rss" text="Jämtland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jamtland/nyheter-rss---jamtland/" />
+        </outline>
+        <outline text="Jämtland: Händelser">
+          <outline type="rss" version="rss" text="Jämtland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jamtland/handelser-rss---jamtland/" />
+        </outline>
+        <outline text="Jämtland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Jämtland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jamtland/press-rss---jamtland/" />
+        </outline>
+        <outline text="Jämtland: Lediga jobb">
+          <outline type="rss" version="rss" text="Jämtland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jamtland/lediga-jobb-rss---jamtland/" />
+        </outline>
+        <outline text="Jönköpings län: Nyheter">
+          <outline type="rss" version="rss" text="Jönköpings län: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jonkopings-lan/nyheter-rss---jonkopings-lan/" />
+        </outline>
+        <outline text="Jönköpings län: Händelser">
+          <outline type="rss" version="rss" text="Jönköpings län: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jonkopings-lan/handelser-rss---jonkoping/" />
+        </outline>
+        <outline text="Jönköpings län: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Jönköpings län: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jonkopings-lan/press-rss---jonkopings-lan/" />
+        </outline>
+        <outline text="Jönköpings län: Lediga jobb">
+          <outline type="rss" version="rss" text="Jönköpings län: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/jonkopings-lan/lediga-jobb-rss---jonkopings-lan/" />
+        </outline>
+        <outline text="Kalmar län: Nyheter">
+          <outline type="rss" version="rss" text="Kalmar län: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kalmar-lan/nyheter-rss---kalmar-lan/" />
+        </outline>
+        <outline text="Kalmar län: Händelser">
+          <outline type="rss" version="rss" text="Kalmar län: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kalmar-lan/handelser-rss---kalmar-lan/" />
+        </outline>
+        <outline text="Kalmar län: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Kalmar län: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kalmar-lan/press-rss---kalmar-lan/" />
+        </outline>
+        <outline text="Kalmar län: Lediga jobb">
+          <outline type="rss" version="rss" text="Kalmar län: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kalmar-lan/lediga-jobb-rss---kalmar-lan/" />
+        </outline>
+        <outline text="Kronoberg: Nyheter">
+          <outline type="rss" version="rss" text="Kronoberg: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kronoberg/nyheter-rss---kronoberg/" />
+        </outline>
+        <outline text="Kronoberg: Händelser">
+          <outline type="rss" version="rss" text="Kronoberg: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kronoberg/handelser-rss---kronoberg/" />
+        </outline>
+        <outline text="Kronoberg: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Kronoberg: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kronoberg/press-rss---kronoberg/" />
+        </outline>
+        <outline text="Kronoberg: Lediga jobb">
+          <outline type="rss" version="rss" text="Kronoberg: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/kronoberg/lediga-jobb-rss---kronoberg/" />
+        </outline>
+        <outline text="Norrbotten: Nyheter">
+          <outline type="rss" version="rss" text="Norrbotten: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/norrbotten/nyheter-rss---norrbotten/" />
+        </outline>
+        <outline text="Norrbotten: Händelser">
+          <outline type="rss" version="rss" text="Norrbotten: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/norrbotten/handelser-rss---norrbotten/" />
+        </outline>
+        <outline text="Norrbotten: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Norrbotten: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/norrbotten/press-rss---norrbotten/" />
+        </outline>
+        <outline text="Norrbotten: Lediga jobb">
+          <outline type="rss" version="rss" text="Norrbotten: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/norrbotten/lediga-jobb-rss---norrbotten/" />
+        </outline>
+        <outline text="Skåne: Nyheter">
+          <outline type="rss" version="rss" text="Skåne: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/skane/nyheter-rss---skane/" />
+        </outline>
+        <outline text="Skåne: Händelser">
+          <outline type="rss" version="rss" text="Skåne: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/skane/handelser-rss---skane/" />
+        </outline>
+        <outline text="Skåne: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Skåne: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/skane/press-rss---skane/" />
+        </outline>
+        <outline text="Skåne: Lediga jobb">
+          <outline type="rss" version="rss" text="Skåne: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/skane/lediga-jobb-rss---skane/" />
+        </outline>
+        <outline text="Stockholms län: Nyheter">
+          <outline type="rss" version="rss" text="Stockholms län: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/stockholms-lan/nyheter-rss---stockholms-lan/" />
+        </outline>
+        <outline text="Stockholms län: Händelser">
+          <outline type="rss" version="rss" text="Stockholms län: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/stockholms-lan/handelser-rss---stockholms-lan/" />
+        </outline>
+        <outline text="Stockholms län: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Stockholms län: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/stockholms-lan/press-rss---stockholms-lan/" />
+        </outline>
+        <outline text="Stockholms län: Lediga jobb">
+          <outline type="rss" version="rss" text="Stockholms län: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/stockholms-lan/lediga-jobb-rss---stockholms-lan/" />
+        </outline>
+        <outline text="Södermanland: Nyheter">
+          <outline type="rss" version="rss" text="Södermanland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/sodermanland/nyheter-rss---sodermanland/" />
+        </outline>
+        <outline text="Södermanland: Händelser">
+          <outline type="rss" version="rss" text="Södermanland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/sodermanland/handelser-rss---sodermanland/" />
+        </outline>
+        <outline text="Södermanland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Södermanland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/sodermanland/press-rss---sodermanland/" />
+        </outline>
+        <outline text="Södermanland: Lediga jobb">
+          <outline type="rss" version="rss" text="Södermanland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/sodermanland/lediga-jobb-rss---sodermanland/" />
+        </outline>
+        <outline text="Uppsala län: Nyheter">
+          <outline type="rss" version="rss" text="Uppsala län: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/uppsala-lan/nyheter-rss---uppsala-lan/" />
+        </outline>
+        <outline text="Uppsala län: Händelser">
+          <outline type="rss" version="rss" text="Uppsala län: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/uppsala-lan/handelser-rss---uppsala-lan/" />
+        </outline>
+        <outline text="Uppsala län: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Uppsala län: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/uppsala-lan/press-rss---uppsala-lan/" />
+        </outline>
+        <outline text="Uppsala län: Lediga jobb">
+          <outline type="rss" version="rss" text="Uppsala län: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/uppsala-lan/lediga-jobb-rss---uppsala-lan/" />
+        </outline>
+        <outline text="Värmland: Nyheter">
+          <outline type="rss" version="rss" text="Värmland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/varmland/nyheter-rss---varmland/" />
+        </outline>
+        <outline text="Värmland: Händelser">
+          <outline type="rss" version="rss" text="Värmland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/varmland/handelser-rss---varmland/" />
+        </outline>
+        <outline text="Värmland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Värmland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/varmland/press-rss---varmland/" />
+        </outline>
+        <outline text="Värmland: Lediga jobb">
+          <outline type="rss" version="rss" text="Värmland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/varmland/lediga-jobb-rss---varmland/" />
+        </outline>
+        <outline text="Västerbotten: Nyheter">
+          <outline type="rss" version="rss" text="Västerbotten: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasterbotten/nyheter-rss---vasterbotten/" />
+        </outline>
+        <outline text="Västerbotten: Händelser">
+          <outline type="rss" version="rss" text="Västerbotten: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasterbotten/handelser-rss---vasterbotten/" />
+        </outline>
+        <outline text="Västerbotten: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Västerbotten: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasterbotten/press-rss---vasterbotten/" />
+        </outline>
+        <outline text="Västerbotten: Lediga jobb">
+          <outline type="rss" version="rss" text="Västerbotten: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasterbotten/lediga-jobb-rss---vasterbotten/" />
+        </outline>
+        <outline text="Västernorrland: Nyheter">
+          <outline type="rss" version="rss" text="Västernorrland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasternorrland/nyheter-rss---vasternorrland/" />
+        </outline>
+        <outline text="Västernorrland: Händelser">
+          <outline type="rss" version="rss" text="Västernorrland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasternorrland/handelser-rss---vasternorrland/" />
+        </outline>
+        <outline text="Västernorrland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Västernorrland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasternorrland/press-rss---vasternorrland/" />
+        </outline>
+        <outline text="Västernorrland: Lediga jobb">
+          <outline type="rss" version="rss" text="Västernorrland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vasternorrland/lediga-jobb-rss---vasternorrland/" />
+        </outline>
+        <outline text="Västmanland: Nyheter">
+          <outline type="rss" version="rss" text="Västmanland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastmanland/nyheter-rss---vastmanland/" />
+        </outline>
+        <outline text="Västmanland: Händelser">
+          <outline type="rss" version="rss" text="Västmanland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastmanland/handelser-rss---vastmanland/" />
+        </outline>
+        <outline text="Västmanland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Västmanland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastmanland/press-rss---vastmanland/" />
+        </outline>
+        <outline text="Västmanland: Lediga jobb">
+          <outline type="rss" version="rss" text="Västmanland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastmanland/lediga-jobb-rss---vastmanland/" />
+        </outline>
+        <outline text="Västra Götaland: Nyheter">
+          <outline type="rss" version="rss" text="Västra Götaland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastra-gotaland/nyheter-rss---vastra-gotaland/" />
+        </outline>
+        <outline text="Västra Götaland: Händelser">
+          <outline type="rss" version="rss" text="Västra Götaland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastra-gotaland/handelser-rss---vastra-gotaland/" />
+        </outline>
+        <outline text="Västra Götaland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Västra Götaland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastra-gotaland/press-rss---vastra-gotaland/" />
+        </outline>
+        <outline text="Västra Götaland: Lediga jobb">
+          <outline type="rss" version="rss" text="Västra Götaland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/vastra-gotaland/lediga-jobb-rss---vastra-gotaland/" />
+        </outline>
+        <outline text="Örebro län: Nyheter">
+          <outline type="rss" version="rss" text="Örebro län: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/orebro-lan/nyheter-rss---orebro-lan/" />
+        </outline>
+        <outline text="Örebro län: Händelser">
+          <outline type="rss" version="rss" text="Örebro län: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/orebro-lan/handelser-rss---orebro-lan/" />
+        </outline>
+        <outline text="Örebro län: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Örebro län: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/orebro-lan/press-rss---orebro-lan/" />
+        </outline>
+        <outline text="Örebro län: Lediga jobb">
+          <outline type="rss" version="rss" text="Örebro län: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/orebro-lan/lediga-jobb-rss---orebro-lan/" />
+        </outline>
+        <outline text="Östergötland: Nyheter">
+          <outline type="rss" version="rss" text="Östergötland: Nyheter" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/ostergotland/nyheter-rss---ostergotland/" />
+        </outline>
+        <outline text="Östergötland: Händelser">
+          <outline type="rss" version="rss" text="Östergötland: Händelser" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/ostergotland/handelser-rss---ostergotland/" />
+        </outline>
+        <outline text="Östergötland: Pressmeddelanden">
+          <outline type="rss" version="rss" text="Östergötland: Pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/ostergotland/press-rss---ostergotland/" />
+        </outline>
+        <outline text="Östergötland: Lediga jobb">
+          <outline type="rss" version="rss" text="Östergötland: Lediga jobb" htmlUrl="https://polisen.se/aktuellt/rss/lokala-rss-floden/" xmlUrl="https://polisen.se/aktuellt/rss/ostergotland/lediga-jobb-rss---ostergotland/" />
+        </outline>
+        <outline text="Nationella pressmeddelanden">
+          <outline type="rss" version="rss" text="Nationella pressmeddelanden" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/press-rss---nationella/" />
+        </outline>
+        <outline text="Pressmeddelanden hela landet">
+          <outline type="rss" version="rss" text="Pressmeddelanden hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/pressmeddelanden-hela-landet/" />
+        </outline>
+        <outline text="Nationella nyheter">
+          <outline type="rss" version="rss" text="Nationella nyheter" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/nyheter-rss---nationella/" />
+        </outline>
+        <outline text="Nyheter hela landet">
+          <outline type="rss" version="rss" text="Nyheter hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/nyheter-hela-landet/" />
+        </outline>
+        <outline text="Hjälp polisen hela landet">
+          <outline type="rss" version="rss" text="Hjälp polisen hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/hjalp-polisen-rss/" />
+        </outline>
+        <outline text="Händelser hela landet">
+          <outline type="rss" version="rss" text="Händelser hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/" />
+        </outline>
+        <outline text="Debattartiklar och kommentarer hela landet">
+          <outline type="rss" version="rss" text="Debattartiklar och kommentarer hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/debatt-och-kommentarer/" />
+        </outline>
+        <outline text="Publikationer hela landet">
+          <outline type="rss" version="rss" text="Publikationer hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/senast-publicerade-rapporter-och-publikationer/" />
+        </outline>
+        <outline text="Lediga jobb hela landet">
+          <outline type="rss" version="rss" text="Lediga jobb hela landet" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb/" />
+        </outline>
+        <outline text="Lediga jobb på ekonomiavdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på ekonomiavdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-ekonomiavdelningen/" />
+        </outline>
+        <outline text="Lediga jobb på HR-avdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på HR-avdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-hr-avdelningen/" />
+        </outline>
+        <outline text="Lediga jobb på IT-avdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på IT-avdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-inom-it/" />
+        </outline>
+        <outline text="Lediga jobb på kommunikationsavdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på kommunikationsavdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-kommunikationsavdelningen/" />
+        </outline>
+        <outline text="Lediga jobb på nationella operativa avdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på nationella operativa avdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-nationella-operativa-avdelningen/" />
+        </outline>
+        <outline text="Lediga jobb på nationellt forensiskt centrum">
+          <outline type="rss" version="rss" text="Lediga jobb på nationellt forensiskt centrum" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-nationellt-forensiskt-centrum/" />
+        </outline>
+        <outline text="Lediga jobb på rättsavdelningen">
+          <outline type="rss" version="rss" text="Lediga jobb på rättsavdelningen" htmlUrl="https://polisen.se/aktuellt/rss/" xmlUrl="https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-rattsavdelningen/" />
+        </outline>
+      </outline>
+      <outline text="Spelinspektionen">
+        <outline text="Nyhetsarkiv">
+          <outline type="rss" version="rss" text="Nyhetsarkiv" htmlUrl="https://www.spelinspektionen.se/press/om-rss/" xmlUrl="https://www.spelinspektionen.se/press/nyhetsarkiv/rss" />
+        </outline>
+      </outline>
+      <outline text="Ekonomistyrningsverket, ESV">
+        <outline text="Kalenderhändelser">
+          <outline type="rss" version="rss" text="Kalenderhändelser" htmlUrl="https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/" xmlUrl="https://www.esv.se/Specialsidor/RSS/rss---kalender/" />
+        </outline>
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/" xmlUrl="https://www.esv.se/Specialsidor/RSS/ESV---Nyheter/" />
+        </outline>
+        <outline text="Publikationer">
+          <outline type="rss" version="rss" text="Publikationer" htmlUrl="https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/" xmlUrl="https://www.esv.se/Specialsidor/RSS/ESV---Publikationer/" />
+        </outline>
+        <outline text="Regleringsbrev">
+          <outline type="rss" version="rss" text="Regleringsbrev" htmlUrl="https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/" xmlUrl="https://www.esv.se/Specialsidor/RSS/ESV--Regleringsbrev/" />
+        </outline>
+        <outline text="Lediga jobb">
+          <outline type="rss" version="rss" text="Lediga jobb" htmlUrl="https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/" xmlUrl="https://site106.reachmee.com/Public/rssfeed/external.ashx?id=6&amp;InstallationID=I012&amp;CustomerName=esv&amp;lang=SE" />
+        </outline>
+      </outline>
+      <outline text="Universitets- och högskolerådet, UHR">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.uhr.se/om-uhr/om-webbplatsen/rss/" xmlUrl="https://www.uhr.se/om-uhr/nyheter/rss" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.uhr.se/om-uhr/om-webbplatsen/rss/" xmlUrl="https://www.uhr.se/om-uhr/nyheter/pressmeddelanden/rss" />
+        </outline>
+      </outline>
+      <outline text="Riksbanken">
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/" xmlUrl="https://www.riksbank.se/sv/rss/pressmeddelanden/" />
+        </outline>
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/" xmlUrl="https://www.riksbank.se/sv/rss/nyheter/" />
+        </outline>
+        <outline text="Kalenderhändelser">
+          <outline type="rss" version="rss" text="Kalenderhändelser" htmlUrl="https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/" xmlUrl="https://www.riksbank.se/sv/rss/kalender/" />
+        </outline>
+        <outline text="Tal">
+          <outline type="rss" version="rss" text="Tal" htmlUrl="https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/" xmlUrl="https://www.riksbank.se/sv/rss/tal/" />
+        </outline>
+        <outline text="Penningpolitiska protokoll">
+          <outline type="rss" version="rss" text="Penningpolitiska protokoll" htmlUrl="https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/" xmlUrl="https://www.riksbank.se/sv/rss/penningpolitiska-protokoll/" />
+        </outline>
+      </outline>
+      <outline text="Riksgälden">
+        <outline text="Aktuellt: Aktuellt från Riksgälden (nyheter och pressmeddelanden)">
+          <outline type="rss" version="rss" text="Aktuellt: Aktuellt från Riksgälden (nyheter och pressmeddelanden)" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/rss/" />
+        </outline>
+        <outline text="Aktuellt: Pressmeddelanden och nyheter för statens upplåning">
+          <outline type="rss" version="rss" text="Aktuellt: Pressmeddelanden och nyheter för statens upplåning" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-statens-upplaning/rss/" />
+        </outline>
+        <outline text="Aktuellt: Aktuellt om kärnavfallsfinansiering">
+          <outline type="rss" version="rss" text="Aktuellt: Aktuellt om kärnavfallsfinansiering" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-karnavfallsfinansiering/rss/" />
+        </outline>
+        <outline text="Aktuellt: Nyheter för Statens internbank">
+          <outline type="rss" version="rss" text="Aktuellt: Nyheter för Statens internbank" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-statens-internbank/rss/" />
+        </outline>
+        <outline text="Aktuellt: Nyheter om finansiell stabilitet">
+          <outline type="rss" version="rss" text="Aktuellt: Nyheter om finansiell stabilitet" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-finansiell-stabilitet/rss/" />
+        </outline>
+        <outline text="Aktuellt: Nyheter om insättningsgarantin">
+          <outline type="rss" version="rss" text="Aktuellt: Nyheter om insättningsgarantin" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-insattningsgarantin/rss/" />
+        </outline>
+        <outline text="Publikationer: Senaste rapporter från Riksgälden">
+          <outline type="rss" version="rss" text="Publikationer: Senaste rapporter från Riksgälden" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/publikationer/rss/" />
+        </outline>
+        <outline text="Publikationer: Rapporten Statsupplåning, prognos och analys">
+          <outline type="rss" version="rss" text="Publikationer: Rapporten Statsupplåning, prognos och analys" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/publikationer/statsupplaning/rss2/" />
+        </outline>
+        <outline text="Publikationer: Rapporten Sveriges statsskuld">
+          <outline type="rss" version="rss" text="Publikationer: Rapporten Sveriges statsskuld" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/publikationer/sveriges-statsskuld/rss/" />
+        </outline>
+        <outline text="Publikationer: Årsredovisning">
+          <outline type="rss" version="rss" text="Publikationer: Årsredovisning" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/publikationer/arsredovisning/rss/" />
+        </outline>
+        <outline text="Publikationer: Riktlinjer för statsskuldens förvaltning">
+          <outline type="rss" version="rss" text="Publikationer: Riktlinjer för statsskuldens förvaltning" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/publikationer/riktlinjer/rss/" />
+        </outline>
+        <outline text="Publikationer: Remissvar">
+          <outline type="rss" version="rss" text="Publikationer: Remissvar" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/remissvar/rss/" />
+        </outline>
+        <outline text="Publikationer: Planerad publicering">
+          <outline type="rss" version="rss" text="Publikationer: Planerad publicering" htmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/" xmlUrl="https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/planerad-publicering/rss/" />
+        </outline>
+      </outline>
+      <outline text="Sveriges Kommuner och Regioner, SKR">
+        <outline text="Nyheter och debattartiklar: Nyheter från SKR:s presstjänst">
+          <outline type="rss" version="rss" text="Nyheter och debattartiklar: Nyheter från SKR:s presstjänst" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://skr.se/4.7a383bf01715da022e3fffa/12.1f376ad3177c89481f750329.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter och debattartiklar: Debattartiklar från SKR:s presstjänst">
+          <outline type="rss" version="rss" text="Nyheter och debattartiklar: Debattartiklar från SKR:s presstjänst" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://skr.se/4.7c348ba01715d7a6e91897a/12.4829a209177db4e31aa443ca.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter och debattartiklar: Vd:s krönika">
+          <outline type="rss" version="rss" text="Nyheter och debattartiklar: Vd:s krönika" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://skr.se/4.7a383bf01715da022e310031/12.4829a209177db4e31aa44743.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: SKR:s Veckobrev">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: SKR:s Veckobrev" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/81?hash=42bda11cc0c8" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Arbete och integration">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Arbete och integration" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/33?hash=f6772dbc7758" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Arbetsgivarfrågor">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Arbetsgivarfrågor" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/90?hash=d1d6b5fc8647" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Barnens rättigheter">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Barnens rättigheter" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/14?hash=5f993558361a" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Demokrati">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Demokrati" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/12?hash=7fab0b297c9f" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Digitalisering">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Digitalisering" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/26?hash=d25c2b0141b1" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: EU och internationellt">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: EU och internationellt" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/34?hash=9b49d98935b4" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Kompetenscenter välfärdsteknik">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Kompetenscenter välfärdsteknik" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/145?hash=d0957efdac86" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Komvux">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Komvux" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/211?hash=9f8059000c94" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Konkurrens och valfrihet">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Konkurrens och valfrihet" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/104?hash=dc4d4b0ae704" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Kunskapsstyrning">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Kunskapsstyrning" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/107?hash=2c7e80bafdda" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Medborgardialog">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Medborgardialog" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/11?hash=74193bd46c49" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Miljöchefsnytt">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Miljöchefsnytt" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/20?hash=3b181e885fc7" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Offentliga fastigheter">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Offentliga fastigheter" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/21?hash=d143b268caa0" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Plan- och byggnytt">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Plan- och byggnytt" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/31?hash=dd38b1176178" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Psykisk hälsa">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Psykisk hälsa" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/16?hash=be20f1253952" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Regional utveckling">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Regional utveckling" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/110?hash=f20e1613da53" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Revision">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Revision" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/25?hash=6756dd675b4e" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Skola och förskola">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Skola och förskola" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/30?hash=96472eca2fe9" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Socialtjänst">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Socialtjänst" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.editnews.com/18?hash=5bf9c31ab258" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Trafik och infrastruktur">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Trafik och infrastruktur" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/22?hash=7d9aee4eda6e" />
+        </outline>
+        <outline text="Nyhetsbrev från SKR: Överförmyndare">
+          <outline type="rss" version="rss" text="Nyhetsbrev från SKR: Överförmyndare" htmlUrl="https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html" xmlUrl="https://rss.epostservice.se/35?hash=2d94789cb67a" />
+        </outline>
+      </outline>
+      <outline text="Statens medicinsk-etiska råd, SMER">
+        <outline text="Statens medicinsk-etiska råd">
+          <outline type="rss" version="rss" text="Statens medicinsk-etiska råd" htmlUrl="https://smer.se/om-smer/" xmlUrl="https://smer.se/feed/" />
+        </outline>
+      </outline>
+      <outline text="Etikprövningsmyndigheten">
+        <outline text="Etikprövningsmyndigheten">
+          <outline type="rss" version="rss" text="Etikprövningsmyndigheten" htmlUrl="https://etikprovningsmyndigheten.se/nyheter/" xmlUrl="https://etikprovningsmyndigheten.se/feed/" />
+        </outline>
+      </outline>
+      <outline text="Nämnden för prövning av oredlighet i forskning, NPOF">
+        <outline text="Nämnden för prövning av oredlighet i forskning">
+          <outline type="rss" version="rss" text="Nämnden för prövning av oredlighet i forskning" htmlUrl="https://npof.se/om-oss/" xmlUrl="https://npof.se/feed" />
+        </outline>
+      </outline>
+      <outline text="Naturvårdsverket">
+        <outline text="Naturvårdsverket Geodata-tjänster">
+          <outline type="rss" version="rss" text="Naturvårdsverket Geodata-tjänster" htmlUrl="https://www.naturvardsverket.se/" xmlUrl="https://geodata.naturvardsverket.se/rss" />
+        </outline>
+      </outline>
+      <outline text="Integritetsskyddsmyndigheten, IMY">
+        <outline text="Publikationer">
+          <outline type="rss" version="rss" text="Publikationer" htmlUrl="https://www.imy.se/om-oss/aktuellt-fran-oss/rss/" xmlUrl="https://www.imy.se/publikationer/rss/" />
+        </outline>
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.imy.se/om-oss/aktuellt-fran-oss/rss/" xmlUrl="https://www.imy.se/nyheter/rss" />
+        </outline>
+        <outline text="Tillsyner och beslut">
+          <outline type="rss" version="rss" text="Tillsyner och beslut" htmlUrl="https://www.imy.se/om-oss/aktuellt-fran-oss/rss/" xmlUrl="https://www.imy.se/tillsyner/rss" />
+        </outline>
+        <outline text="IMY-bloggen">
+          <outline type="rss" version="rss" text="IMY-bloggen" htmlUrl="https://www.imy.se/om-oss/aktuellt-fran-oss/rss/" xmlUrl="https://www.imy.se/blogg/rss" />
+        </outline>
+      </outline>
+      <outline text="Specialpedagogiska skolmyndigheten, SPSM">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.spsm.se/om-oss/press/" xmlUrl="https://www.spsm.se/om-oss/press/nyheter/nyheter-rss/" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.spsm.se/om-oss/press/" xmlUrl="https://www.spsm.se/om-oss/press/pressmeddelanden/pressmeddelanden-rss/" />
+        </outline>
+      </outline>
+      <outline text="Konsumentverket, KO">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/" xmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/?selectedcategory=Nyhet&amp;format=rss" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/" xmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/?selectedcategory=Pressmeddelande&amp;format=rss" />
+        </outline>
+        <outline text="Återkallelser av varor">
+          <outline type="rss" version="rss" text="Återkallelser av varor" htmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/" xmlUrl="https://www.konsumentverket.se/aktuellt/aterkallelser-av-varor/?format=rss" />
+        </outline>
+        <outline text="Mål, domar och förelägganden">
+          <outline type="rss" version="rss" text="Mål, domar och förelägganden" htmlUrl="https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/" xmlUrl="https://www.konsumentverket.se/aktuellt/mal-domar-och-forelagganden/?format=rss" />
+        </outline>
+      </outline>
+      <outline text="Krisinformation">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.krisinformation.se/" xmlUrl="https://www.krisinformation.se/nyheter?rss=true" />
+        </outline>
+      </outline>
+      <outline text="Statens Servicecenter">
+        <outline text="Nyheter och pressmeddelanden">
+          <outline type="rss" version="rss" text="Nyheter och pressmeddelanden" htmlUrl="https://www.statenssc.se/rss" xmlUrl="https://www.statenssc.se/4.14488607168eee7a2b433a/12.14488607168eee7a2b4345.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.statenssc.se/rss" xmlUrl="https://www.statenssc.se/4.78b655171684b8f40f726d/12.78b655171684b8f40f7278.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+      </outline>
+      <outline text="Försvarsmakten">
+        <outline text="Aktuellt">
+          <outline type="rss" version="rss" text="Aktuellt" htmlUrl="https://www.forsvarsmakten.se/sv/aktuellt/" xmlUrl="https://www.forsvarsmakten.se/sv/aktuellt/feed.rss" />
+        </outline>
+      </outline>
+      <outline text="Kronofogden">
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://auktionstorget.kronofogden.se/80601.html" xmlUrl="https://www.kronofogden.se/4.4b3cc579179bc58524323bd/12.4b3cc579179bc585243243b.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter från Kronofogden">
+          <outline type="rss" version="rss" text="Nyheter från Kronofogden" htmlUrl="https://auktionstorget.kronofogden.se/80601.html" xmlUrl="https://www.kronofogden.se/4.4b3cc579179bc58524323b5/12.4b3cc579179bc5852432439.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter på Auktionstorget">
+          <outline type="rss" version="rss" text="Nyheter på Auktionstorget" htmlUrl="https://auktionstorget.kronofogden.se/80601.html" xmlUrl="https://auktionstorget.kronofogden.se/4.1b6eeec8134a762cf718000761/12.1b6eeec8134a762cf718000766.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter för ingivare">
+          <outline type="rss" version="rss" text="Nyheter för ingivare" htmlUrl="https://auktionstorget.kronofogden.se/80601.html" xmlUrl="https://kronofogden.se/4.4b3cc579179bc58524323c5/12.4b3cc579179bc585243243d.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Försäljningar av fastigheter på Auktionstorget">
+          <outline type="rss" version="rss" text="Försäljningar av fastigheter på Auktionstorget" htmlUrl="https://auktionstorget.kronofogden.se/80601.html" xmlUrl="https://auktionstorget.kronofogden.se/4.44812de6133c5768d6780008018/12.44812de6133c5768d6780008032.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+      </outline>
+      <outline text="Pensionsmyndigheten">
+        <outline text="Nyheter">
+          <outline type="rss" version="rss" text="Nyheter" htmlUrl="https://www.pensionsmyndigheten.se/om-pensionsmyndigheten/om-webbplatsen/prenumerera-pa-nyheter-rss" xmlUrl="https://www.pensionsmyndigheten.se/bin/rss/nyheter.xml" />
+        </outline>
+      </outline>
+      <outline text="Skatteverket">
+        <outline text="Alla nyheter, notiser och pressmeddelanden">
+          <outline type="rss" version="rss" text="Alla nyheter, notiser och pressmeddelanden" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="http://skatteverket.se/4.dfe345a107ebcc9baf800017593/12.dfe345a107ebcc9baf800017599.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Endast nyheter och notiser">
+          <outline type="rss" version="rss" text="Endast nyheter och notiser" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.dfe345a107ebcc9baf800017593/12.dfe345a107ebcc9baf800017599.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter inom EMCS">
+          <outline type="rss" version="rss" text="Nyheter inom EMCS" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.41f1c61d16193087d7f14093/12.41f1c61d16193087d7f14099.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter inom punktskatter">
+          <outline type="rss" version="rss" text="Nyheter inom punktskatter" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.3152d9ac158968eb8fd10cc/12.3152d9ac158968eb8fd10d5.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Nyheter från Navet">
+          <outline type="rss" version="rss" text="Nyheter från Navet" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.361dc8c15312eff6fd63b/12.361dc8c15312eff6fd644.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Driftstörningar från Navet">
+          <outline type="rss" version="rss" text="Driftstörningar från Navet" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.3152d9ac158968eb8fd2131/12.3152d9ac158968eb8fd213a.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Lediga jobb">
+          <outline type="rss" version="rss" text="Lediga jobb" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.varbi.com/what:rssfeed" />
+        </outline>
+        <outline text="Nyheter om digitala samarbeten">
+          <outline type="rss" version="rss" text="Nyheter om digitala samarbeten" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.309a41aa1672ad0c837b5d7/12.309a41aa1672ad0c837b5dd.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Driftmeddelanden från Utvecklarportalen">
+          <outline type="rss" version="rss" text="Driftmeddelanden från Utvecklarportalen" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/driftmeddelanden/prenumerera-pa-driftmeddelanden" />
+        </outline>
+        <outline text="Publicerade generella kontroller">
+          <outline type="rss" version="rss" text="Publicerade generella kontroller" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.2cf1b5cd163796a5c8bc747/12.2cf1b5cd163796a5c8bc74d.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Pressmeddelanden">
+          <outline type="rss" version="rss" text="Pressmeddelanden" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.dfe345a107ebcc9baf800017652/12.dfe345a107ebcc9baf800017658.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Skatteverkets remissvar">
+          <outline type="rss" version="rss" text="Skatteverkets remissvar" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.19b9f599116a9e8ef36800036/12.19b9f599116a9e8ef36800042.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+        <outline text="Skatteverkets skrivelser">
+          <outline type="rss" version="rss" text="Skatteverkets skrivelser" htmlUrl="https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html" xmlUrl="https://skatteverket.se/4.19b9f599116a9e8ef368000101/12.19b9f599116a9e8ef368000107.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

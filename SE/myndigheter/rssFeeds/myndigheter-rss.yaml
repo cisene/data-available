@@ -1,0 +1,1148 @@
+
+sources:
+
+- name: Folkhälsomyndigheten
+  feeds:
+
+  - name: Alla nyheter
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss
+
+  - name: Smittskydd och sjukdomar
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=smittskydd-och-sjukdomar&amp;syndication=rss
+
+  - name: Alkohol, narkotika, dopning, tobak och spel
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=andts&amp;syndication=rss
+
+  - name: Livsvillkor och levnadsvanor
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=livsvillkor-och-levnadsvanor&amp;syndication=rss
+
+  - name: Hälsoskydd och miljöhälsa
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=halsoskydd-och-miljohalsa&amp;syndication=rss
+
+  - name: Statistik och undersökningar
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=statistik-och-undersokningar&amp;syndication=rss
+
+  - name: Tillsyn och tillsynsvägledning
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?topic=tillsyn-och-tillsynsvagledning&amp;syndication=rss
+
+  - name: Publikationer
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationer/?syndication=rss
+
+  - name: Kalenderhändelser
+    htmlUrl: https://www.folkhalsomyndigheten.se/nyheter-och-press/prenumerera/rss/
+    xmlUrl: https://www.folkhalsomyndigheten.se/konferens-och-utbildning/?syndication=rss
+
+
+- name: MSB
+  feeds:
+
+  - name: Alla nyheter från MSB
+    htmlUrl: https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/
+    xmlUrl: https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb/
+
+  - name: Nyheter från startsidan på msb.se
+    htmlUrl: https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/
+    xmlUrl: https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-startsidan-pa-msb.se/
+
+  - name: Nyheter om Rakel
+    htmlUrl: https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/
+    xmlUrl: https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-om-rakel/
+
+  - name: Nyheter från Farligt gods
+    htmlUrl: https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/
+    xmlUrl: https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-om-farligt-gods/
+
+  - name: Nyheter från Räddningstjänst
+    htmlUrl: https://www.msb.se/sv/om-msb/informationskanaler/rss-floden/
+    xmlUrl: https://www.msb.se/sv/rss-floden/rss-alla-nyheter-fran-msb-raddningstjanst/
+
+
+- name: Elsäkerhetsverket
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/
+    xmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS/
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/
+    xmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS-pressmeddelanden/
+
+  - name: Försäljningsförbud
+    htmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/
+    xmlUrl: https://www.elsakerhetsverket.se/om-webbplatsen/RSS-floden/RSS-forsaljningsforbud/
+
+
+- name: Justitieombudsmannen, JO
+  feeds:
+
+  - name: JO-beslut alla sektorer
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-alla-sektorer
+
+  - name: JO-beslut allmän domstol
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-allman-domstol
+
+  - name: JO-beslut Försäkringskassan
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-forsakringskassan
+
+  - name: JO-beslut försvaret
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-forsvaret
+
+  - name: JO-beslut förvaltningsdomstol
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-forvaltningsdomstol
+
+  - name: JO-beslut förvaltningslagen
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-forvaltningslagen
+
+  - name: JO-beslut grundläggande fri- och rättigheter samt tryck- och yttrandefrihet
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-fri-rattigheter-tryckfrihet
+
+  - name: JO-beslut hälso- och sjukvård
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-halso-sjukvard
+
+  - name: JO-beslut kriminalvård
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-kriminalvard
+
+  - name: JO-beslut kronofogden
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-kronofogden
+
+  - name: JO-beslut jordbruk, djurskydd, miljö- och hälsoskydd
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-miljo
+
+  - name: JO-beslut överförmyndare
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-overformyndare
+
+  - name: JO-beslut plan- och byggområdet
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-plan-bygg
+
+  - name: JO-beslut polis
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-polis
+
+  - name: JO-beslut sekretess
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-sekretess
+
+  - name: JO-beslut Skatteverket
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-skatteverket
+
+  - name: JO-beslut socialtjänst och LSS
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-socialtjanst-lss
+
+  - name: JO-beslut tryck- och yttrandefrihet
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-tryck-yttrandefrihet
+
+  - name: JO-beslut utlänningsärenden
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-beslut-utlanningsarenden
+
+  - name: Lediga/tillsatta tjänster JO
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/jo-lediga-tjanster
+
+  - name: Övriga nyheter från JO
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/pressmeddelanden
+
+  - name: Senast publicerade protokoll från Opcat-inspektioner
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/senast-publicerade-protokoll-opcat-inspektioner
+
+  - name: Senast publicerade protokoll från ordinarie JO-inspektioner
+    htmlUrl: https://www.jo.se/om-jo/press/rss-floden/
+    xmlUrl: https://www.jo.se/feed/senast-publicerade-protokoll-ordinarie-jo-inspektioner
+
+
+- name: Lantmäteriet
+  feeds:
+
+  - name: Nyheter på lantmateriet.se
+    htmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/
+    xmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-nyheter/
+
+  - name: Produktnyheter, allmänna
+    htmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/
+    xmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-allmanna/
+
+  - name: Produktnyheter, fastighetsinformation
+    htmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/
+    xmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-fastighetsinformation/
+
+  - name: Produktnyheter, geografisk information
+    htmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/
+    xmlUrl: https://www.lantmateriet.se/sv/om-lantmateriet/press/prenumerera-pa-rss-floden/rss-produktnyheter-geografisk-information/
+
+
+- name: Riksarkivet
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://riksarkivet.se/vara-rss-floden
+    xmlUrl: http://riksarkivet.se/Rss/nyheter
+
+
+- name: E‑hälsomyndigheten
+  feeds:
+
+  - name: Driftinformation
+    htmlUrl: https://www.ehalsomyndigheten.se/om-oss/rss/
+    xmlUrl: https://www.ehalsomyndigheten.se/driftinformation/rss/
+
+  - name: Nyheter
+    htmlUrl: https://www.ehalsomyndigheten.se/om-oss/rss/
+    xmlUrl: https://www.ehalsomyndigheten.se/nyheter/rss/
+
+  - name: Nyheter om NGS-tjänsten (Nationella gemensamma e-hälsospecifikationer)
+    htmlUrl: https://www.ehalsomyndigheten.se/om-oss/rss/
+    xmlUrl: https://www.ehalsomyndigheten.se/yrkesverksam/ngs-tjansten/nyheter/rss/
+
+  - name: Söktjänsten Kunskapsstöd för e-hälsa
+    htmlUrl: https://www.ehalsomyndigheten.se/om-oss/rss/
+    xmlUrl: https://www.ehalsomyndigheten.se/yrkesverksam/e-halsostod-till-kommuner/kunskapsstod-for-e-halsa/rss-flode/
+
+
+- name: Boverket
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/nyheter/
+
+  - name: Boverkets kalender
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/kalender/
+
+  - name: Boverkets publikationer
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/publikationer/
+
+  - name: Nyheter på PBL kunskapsbanken
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/PBL-kunskapsbanken/nyheter-pa-pbl-kunskapsbanken/
+
+  - name: Nyheter om bostadsanpassningsbidraget
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/babhandboken/aktuellt/
+
+  - name: Nyheter inom energiområdet
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/byggande/bygg-och-renovera-energieffektivt/nyheter-inom-energiomradet/
+
+  - name: Nyheter om ekonomiska planer
+    htmlUrl: https://www.boverket.se/sv/om-boverket/om-webbplatsen/anvand-webbplats/rss-floden/
+    xmlUrl: https://www.boverket.se/sv/ekonomiska-planer/aktuellt/
+
+
+- name: Livsmedelsverket
+  feeds:
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/rss-pressmeddelanden
+
+  - name: Debattartiklar
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/rss-debattartiklar
+
+  - name: Kommentarer
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/rss-kommentarer
+
+  - name: Återkallanden
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/rss-aterkallanden
+
+  - name: Nyheter mat och hälsa
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/rss-nyheter-mat-och-halsa
+
+  - name: Nyheter för livsmedelsföretagare
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/livsmedelsverket---nyheter-for-livsmedelsforetagare
+
+  - name: Lagstiftning
+    htmlUrl: https://www.livsmedelsverket.se/om-oss/press/rss
+    xmlUrl: https://www.livsmedelsverket.se/rss/livsmedelsverket---lagstiftning
+
+
+- name: Arbetsmiljöverket
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/
+    xmlUrl: https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/rss-nyheter/
+
+  - name: Kaledarium
+    htmlUrl: https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/
+    xmlUrl: https://www.av.se/om-oss/om-webbplatsen/rss-prenumerera/rss-kalendarium/
+
+
+- name: Polismyndigheten
+  feeds:
+
+  - name: 'Blekinge: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/blekinge/nyheter-rss---blekinge/
+
+  - name: 'Blekinge: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/blekinge/handelser-rss---blekinge/
+
+  - name: 'Blekinge: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/blekinge/press-rss---blekinge/
+
+  - name: 'Blekinge: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/blekinge/lediga-jobb-rss---blekinge/
+
+  - name: 'Dalarna: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/dalarna/nyheter-rss---dalarna/
+
+  - name: 'Dalarna: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/dalarna/handelser-rss---dalarna/
+
+  - name: 'Dalarna: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/dalarna/press-rss---dalarna/
+
+  - name: 'Dalarna: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/dalarna/lediga-jobb-rss---dalarna/
+
+  - name: 'Gotland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gotland/nyheter-rss---gotland/
+
+  - name: 'Gotland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gotland/handelser-rss---gotland/
+
+  - name: 'Gotland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gotland/press-rss---gotland/
+
+  - name: 'Gotland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gotland/lediga-jobb-rss---gotland/
+
+  - name: 'Gävleborg: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gavleborg/nyheter-rss---gavleborg/
+
+  - name: 'Gävleborg: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gavleborg/handelser-rss---gavleborg/
+
+  - name: 'Gävleborg: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gavleborg/press-rss---gavleborg/
+
+  - name: 'Gävleborg: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/gavleborg/lediga-jobb-rss---gavleborg/
+
+  - name: 'Halland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/halland/nyheter-rss---halland/
+
+  - name: 'Halland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/halland/handelser-rss---halland/
+
+  - name: 'Halland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/halland/press-rss---halland/
+
+  - name: 'Halland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/halland/lediga-jobb-rss---halland/
+
+  - name: 'Jämtland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jamtland/nyheter-rss---jamtland/
+
+  - name: 'Jämtland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jamtland/handelser-rss---jamtland/
+
+  - name: 'Jämtland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jamtland/press-rss---jamtland/
+
+  - name: 'Jämtland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jamtland/lediga-jobb-rss---jamtland/
+
+  - name: 'Jönköpings län: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jonkopings-lan/nyheter-rss---jonkopings-lan/
+
+  - name: 'Jönköpings län: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jonkopings-lan/handelser-rss---jonkoping/
+
+  - name: 'Jönköpings län: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jonkopings-lan/press-rss---jonkopings-lan/
+
+  - name: 'Jönköpings län: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/jonkopings-lan/lediga-jobb-rss---jonkopings-lan/
+
+  - name: 'Kalmar län: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kalmar-lan/nyheter-rss---kalmar-lan/
+
+  - name: 'Kalmar län: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kalmar-lan/handelser-rss---kalmar-lan/
+
+  - name: 'Kalmar län: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kalmar-lan/press-rss---kalmar-lan/
+
+  - name: 'Kalmar län: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kalmar-lan/lediga-jobb-rss---kalmar-lan/
+
+  - name: 'Kronoberg: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kronoberg/nyheter-rss---kronoberg/
+
+  - name: 'Kronoberg: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kronoberg/handelser-rss---kronoberg/
+
+  - name: 'Kronoberg: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kronoberg/press-rss---kronoberg/
+
+  - name: 'Kronoberg: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/kronoberg/lediga-jobb-rss---kronoberg/
+
+  - name: 'Norrbotten: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/norrbotten/nyheter-rss---norrbotten/
+
+  - name: 'Norrbotten: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/norrbotten/handelser-rss---norrbotten/
+
+  - name: 'Norrbotten: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/norrbotten/press-rss---norrbotten/
+
+  - name: 'Norrbotten: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/norrbotten/lediga-jobb-rss---norrbotten/
+
+  - name: 'Skåne: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/skane/nyheter-rss---skane/
+
+  - name: 'Skåne: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/skane/handelser-rss---skane/
+
+  - name: 'Skåne: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/skane/press-rss---skane/
+
+  - name: 'Skåne: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/skane/lediga-jobb-rss---skane/
+
+  - name: 'Stockholms län: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/stockholms-lan/nyheter-rss---stockholms-lan/
+
+  - name: 'Stockholms län: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/stockholms-lan/handelser-rss---stockholms-lan/
+
+  - name: 'Stockholms län: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/stockholms-lan/press-rss---stockholms-lan/
+
+  - name: 'Stockholms län: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/stockholms-lan/lediga-jobb-rss---stockholms-lan/
+
+  - name: 'Södermanland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/sodermanland/nyheter-rss---sodermanland/
+
+  - name: 'Södermanland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/sodermanland/handelser-rss---sodermanland/
+
+  - name: 'Södermanland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/sodermanland/press-rss---sodermanland/
+
+  - name: 'Södermanland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/sodermanland/lediga-jobb-rss---sodermanland/
+
+  - name: 'Uppsala län: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/uppsala-lan/nyheter-rss---uppsala-lan/
+
+  - name: 'Uppsala län: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/uppsala-lan/handelser-rss---uppsala-lan/
+
+  - name: 'Uppsala län: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/uppsala-lan/press-rss---uppsala-lan/
+
+  - name: 'Uppsala län: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/uppsala-lan/lediga-jobb-rss---uppsala-lan/
+
+  - name: 'Värmland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/varmland/nyheter-rss---varmland/
+
+  - name: 'Värmland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/varmland/handelser-rss---varmland/
+
+  - name: 'Värmland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/varmland/press-rss---varmland/
+
+  - name: 'Värmland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/varmland/lediga-jobb-rss---varmland/
+
+  - name: 'Västerbotten: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasterbotten/nyheter-rss---vasterbotten/
+
+  - name: 'Västerbotten: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasterbotten/handelser-rss---vasterbotten/
+
+  - name: 'Västerbotten: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasterbotten/press-rss---vasterbotten/
+
+  - name: 'Västerbotten: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasterbotten/lediga-jobb-rss---vasterbotten/
+
+  - name: 'Västernorrland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasternorrland/nyheter-rss---vasternorrland/
+
+  - name: 'Västernorrland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasternorrland/handelser-rss---vasternorrland/
+
+  - name: 'Västernorrland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasternorrland/press-rss---vasternorrland/
+
+  - name: 'Västernorrland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vasternorrland/lediga-jobb-rss---vasternorrland/
+
+  - name: 'Västmanland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastmanland/nyheter-rss---vastmanland/
+
+  - name: 'Västmanland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastmanland/handelser-rss---vastmanland/
+
+  - name: 'Västmanland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastmanland/press-rss---vastmanland/
+
+  - name: 'Västmanland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastmanland/lediga-jobb-rss---vastmanland/
+
+  - name: 'Västra Götaland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastra-gotaland/nyheter-rss---vastra-gotaland/
+
+  - name: 'Västra Götaland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastra-gotaland/handelser-rss---vastra-gotaland/
+
+  - name: 'Västra Götaland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastra-gotaland/press-rss---vastra-gotaland/
+
+  - name: 'Västra Götaland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/vastra-gotaland/lediga-jobb-rss---vastra-gotaland/
+
+  - name: 'Örebro län: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/orebro-lan/nyheter-rss---orebro-lan/
+
+  - name: 'Örebro län: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/orebro-lan/handelser-rss---orebro-lan/
+
+  - name: 'Örebro län: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/orebro-lan/press-rss---orebro-lan/
+
+  - name: 'Örebro län: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/orebro-lan/lediga-jobb-rss---orebro-lan/
+
+  - name: 'Östergötland: Nyheter'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/ostergotland/nyheter-rss---ostergotland/
+
+  - name: 'Östergötland: Händelser'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/ostergotland/handelser-rss---ostergotland/
+
+  - name: 'Östergötland: Pressmeddelanden'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/ostergotland/press-rss---ostergotland/
+
+  - name: 'Östergötland: Lediga jobb'
+    htmlUrl: https://polisen.se/aktuellt/rss/lokala-rss-floden/
+    xmlUrl: https://polisen.se/aktuellt/rss/ostergotland/lediga-jobb-rss---ostergotland/
+
+  - name: Nationella pressmeddelanden
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/press-rss---nationella/
+
+  - name: Pressmeddelanden hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/pressmeddelanden-hela-landet/
+
+  - name: Nationella nyheter
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/nyheter-rss---nationella/
+
+  - name: Nyheter hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/nyheter-hela-landet/
+
+  - name: Hjälp polisen hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/hjalp-polisen-rss/
+
+  - name: Händelser hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/
+
+  - name: Debattartiklar och kommentarer hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/debatt-och-kommentarer/
+
+  - name: Publikationer hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/senast-publicerade-rapporter-och-publikationer/
+
+  - name: Lediga jobb hela landet
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb/
+
+  - name: Lediga jobb på ekonomiavdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-ekonomiavdelningen/
+
+  - name: Lediga jobb på HR-avdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-hr-avdelningen/
+
+  - name: Lediga jobb på IT-avdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-inom-it/
+
+  - name: Lediga jobb på kommunikationsavdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-kommunikationsavdelningen/
+
+  - name: Lediga jobb på nationella operativa avdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-nationella-operativa-avdelningen/
+
+  - name: Lediga jobb på nationellt forensiskt centrum
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-nationellt-forensiskt-centrum/
+
+  - name: Lediga jobb på rättsavdelningen
+    htmlUrl: https://polisen.se/aktuellt/rss/
+    xmlUrl: https://polisen.se/aktuellt/rss/hela-landet/lediga-jobb-pa-rattsavdelningen/
+
+
+
+
+- name: Spelinspektionen
+  feeds:
+
+  - name: Nyhetsarkiv
+    htmlUrl: https://www.spelinspektionen.se/press/om-rss/
+    xmlUrl: https://www.spelinspektionen.se/press/nyhetsarkiv/rss
+
+
+- name: Ekonomistyrningsverket, ESV
+  feeds:
+
+  - name: Kalenderhändelser
+    htmlUrl: https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/
+    xmlUrl: https://www.esv.se/Specialsidor/RSS/rss---kalender/
+
+  - name: Nyheter
+    htmlUrl: https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/
+    xmlUrl: https://www.esv.se/Specialsidor/RSS/ESV---Nyheter/
+
+  - name: Publikationer
+    htmlUrl: https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/
+    xmlUrl: https://www.esv.se/Specialsidor/RSS/ESV---Publikationer/
+
+  - name: Regleringsbrev
+    htmlUrl: https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/
+    xmlUrl: https://www.esv.se/Specialsidor/RSS/ESV--Regleringsbrev/
+
+  - name: Lediga jobb
+    htmlUrl: https://www.esv.se/press-och-publicerat/prenumerera-pa-innehall/
+    xmlUrl: https://site106.reachmee.com/Public/rssfeed/external.ashx?id=6&InstallationID=I012&CustomerName=esv&lang=SE
+
+
+
+
+
+- name: Universitets- och högskolerådet, UHR
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.uhr.se/om-uhr/om-webbplatsen/rss/
+    xmlUrl: https://www.uhr.se/om-uhr/nyheter/rss
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.uhr.se/om-uhr/om-webbplatsen/rss/
+    xmlUrl: https://www.uhr.se/om-uhr/nyheter/pressmeddelanden/rss
+
+
+
+- name: Riksbanken
+  feeds:
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/
+    xmlUrl: https://www.riksbank.se/sv/rss/pressmeddelanden/
+  
+  - name: Nyheter
+    htmlUrl: https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/
+    xmlUrl: https://www.riksbank.se/sv/rss/nyheter/
+
+  - name: Kalenderhändelser
+    htmlUrl: https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/
+    xmlUrl: https://www.riksbank.se/sv/rss/kalender/
+
+  - name: Tal
+    htmlUrl: https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/
+    xmlUrl: https://www.riksbank.se/sv/rss/tal/
+
+  - name: Penningpolitiska protokoll
+    htmlUrl: https://www.riksbank.se/sv/press-och-publicerat/prenumerera-via-rss/
+    xmlUrl: https://www.riksbank.se/sv/rss/penningpolitiska-protokoll/
+
+
+- name: Riksgälden
+  feeds:
+
+  - name: 'Aktuellt: Aktuellt från Riksgälden (nyheter och pressmeddelanden)'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/rss/
+
+  - name: 'Aktuellt: Pressmeddelanden och nyheter för statens upplåning'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-statens-upplaning/rss/
+
+  - name: 'Aktuellt: Aktuellt om kärnavfallsfinansiering'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-karnavfallsfinansiering/rss/
+
+  - name: 'Aktuellt: Nyheter för Statens internbank'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-statens-internbank/rss/
+
+  - name: 'Aktuellt: Nyheter om finansiell stabilitet'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-finansiell-stabilitet/rss/
+
+  - name: 'Aktuellt: Nyheter om insättningsgarantin'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/nyhetslista-insattningsgarantin/rss/
+
+  - name: 'Publikationer: Senaste rapporter från Riksgälden'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/publikationer/rss/
+
+  - name: 'Publikationer: Rapporten Statsupplåning, prognos och analys'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/publikationer/statsupplaning/rss2/
+
+  - name: 'Publikationer: Rapporten Sveriges statsskuld'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/publikationer/sveriges-statsskuld/rss/
+
+  - name: 'Publikationer: Årsredovisning'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/publikationer/arsredovisning/rss/
+
+  - name: 'Publikationer: Riktlinjer för statsskuldens förvaltning'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/publikationer/riktlinjer/rss/
+
+  - name: 'Publikationer: Remissvar'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/remissvar/rss/
+
+  - name: 'Publikationer: Planerad publicering'
+    htmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/prenumerera/rss-pa-riksgalden.se/
+    xmlUrl: https://www.riksgalden.se/sv/press-och-publicerat/pressmeddelanden-och-nyheter/nyhetslistor/planerad-publicering/rss/
+
+
+
+
+
+- name: Sveriges Kommuner och Regioner, SKR
+  feeds:
+
+  - name: 'Nyheter och debattartiklar: Nyheter från SKR:s presstjänst'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://skr.se/4.7a383bf01715da022e3fffa/12.1f376ad3177c89481f750329.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: 'Nyheter och debattartiklar: Debattartiklar från SKR:s presstjänst'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://skr.se/4.7c348ba01715d7a6e91897a/12.4829a209177db4e31aa443ca.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: 'Nyheter och debattartiklar: Vd:s krönika'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://skr.se/4.7a383bf01715da022e310031/12.4829a209177db4e31aa44743.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: 'Nyhetsbrev från SKR: SKR:s Veckobrev'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/81?hash=42bda11cc0c8
+
+  - name: 'Nyhetsbrev från SKR: Arbete och integration'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/33?hash=f6772dbc7758
+
+  - name: 'Nyhetsbrev från SKR: Arbetsgivarfrågor'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/90?hash=d1d6b5fc8647
+
+  - name: 'Nyhetsbrev från SKR: Barnens rättigheter'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/14?hash=5f993558361a
+
+  - name: 'Nyhetsbrev från SKR: Demokrati'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/12?hash=7fab0b297c9f
+
+  - name: 'Nyhetsbrev från SKR: Digitalisering'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/26?hash=d25c2b0141b1
+
+  - name: 'Nyhetsbrev från SKR: EU och internationellt'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/34?hash=9b49d98935b4
+
+  - name: 'Nyhetsbrev från SKR: Kompetenscenter välfärdsteknik'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/145?hash=d0957efdac86
+
+  - name: 'Nyhetsbrev från SKR: Komvux'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/211?hash=9f8059000c94
+
+  - name: 'Nyhetsbrev från SKR: Konkurrens och valfrihet'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/104?hash=dc4d4b0ae704
+
+  - name: 'Nyhetsbrev från SKR: Kunskapsstyrning'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/107?hash=2c7e80bafdda
+
+  - name: 'Nyhetsbrev från SKR: Medborgardialog'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/11?hash=74193bd46c49
+
+  - name: 'Nyhetsbrev från SKR: Miljöchefsnytt'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/20?hash=3b181e885fc7
+
+  - name: 'Nyhetsbrev från SKR: Offentliga fastigheter'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/21?hash=d143b268caa0
+
+  - name: 'Nyhetsbrev från SKR: Plan- och byggnytt'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/31?hash=dd38b1176178
+
+  - name: 'Nyhetsbrev från SKR: Psykisk hälsa'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/16?hash=be20f1253952
+
+  - name: 'Nyhetsbrev från SKR: Regional utveckling'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/110?hash=f20e1613da53
+
+  - name: 'Nyhetsbrev från SKR: Revision'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/25?hash=6756dd675b4e
+
+  - name: 'Nyhetsbrev från SKR: Skola och förskola'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/30?hash=96472eca2fe9
+
+  - name: 'Nyhetsbrev från SKR: Socialtjänst'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.editnews.com/18?hash=5bf9c31ab258
+
+  - name: 'Nyhetsbrev från SKR: Trafik och infrastruktur'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/22?hash=7d9aee4eda6e
+
+  - name: 'Nyhetsbrev från SKR: Överförmyndare'
+    htmlUrl: https://skr.se/skr/tjanster/epostutskickprenumerera/rssfloden.rss.html
+    xmlUrl: https://rss.epostservice.se/35?hash=2d94789cb67a
+
+
+
+
+- name: Statens medicinsk-etiska råd, SMER
+  feeds:
+
+  - name: Statens medicinsk-etiska råd
+    htmlUrl: https://smer.se/om-smer/
+    xmlUrl: https://smer.se/feed/
+
+
+- name: Etikprövningsmyndigheten
+  feeds:
+
+  - name: Etikprövningsmyndigheten
+    htmlUrl: https://etikprovningsmyndigheten.se/nyheter/
+    xmlUrl: https://etikprovningsmyndigheten.se/feed/
+
+
+- name: Nämnden för prövning av oredlighet i forskning, NPOF
+  feeds:
+
+  - name: Nämnden för prövning av oredlighet i forskning
+    htmlUrl: https://npof.se/om-oss/
+    xmlUrl: https://npof.se/feed
+
+
+- name: Naturvårdsverket
+  feeds:
+
+  - name: Naturvårdsverket Geodata-tjänster
+    htmlUrl: https://www.naturvardsverket.se/
+    xmlUrl: https://geodata.naturvardsverket.se/rss
+
+
+- name: Integritetsskyddsmyndigheten, IMY
+  feeds:
+
+  - name: Publikationer
+    htmlUrl: https://www.imy.se/om-oss/aktuellt-fran-oss/rss/
+    xmlUrl: https://www.imy.se/publikationer/rss/
+
+  - name: Nyheter
+    htmlUrl: https://www.imy.se/om-oss/aktuellt-fran-oss/rss/
+    xmlUrl: https://www.imy.se/nyheter/rss
+
+  - name: Tillsyner och beslut
+    htmlUrl: https://www.imy.se/om-oss/aktuellt-fran-oss/rss/
+    xmlUrl: https://www.imy.se/tillsyner/rss
+
+  - name: IMY-bloggen
+    htmlUrl: https://www.imy.se/om-oss/aktuellt-fran-oss/rss/
+    xmlUrl: https://www.imy.se/blogg/rss
+
+
+- name: Specialpedagogiska skolmyndigheten, SPSM
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.spsm.se/om-oss/press/
+    xmlUrl: https://www.spsm.se/om-oss/press/nyheter/nyheter-rss/
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.spsm.se/om-oss/press/
+    xmlUrl: https://www.spsm.se/om-oss/press/pressmeddelanden/pressmeddelanden-rss/
+
+
+- name: Konsumentverket, KO
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/
+    xmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/?selectedcategory=Nyhet&format=rss
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/
+    xmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/?selectedcategory=Pressmeddelande&format=rss
+
+  - name: Återkallelser av varor
+    htmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/
+    xmlUrl: https://www.konsumentverket.se/aktuellt/aterkallelser-av-varor/?format=rss
+
+  - name: Mål, domar och förelägganden
+    htmlUrl: https://www.konsumentverket.se/aktuellt/nyheter-och-pressmeddelanden/prenumerera/
+    xmlUrl: https://www.konsumentverket.se/aktuellt/mal-domar-och-forelagganden/?format=rss
+
+
+- name: Krisinformation
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.krisinformation.se/
+    xmlUrl: https://www.krisinformation.se/nyheter?rss=true
+
+
+- name: Statens Servicecenter
+  feeds:
+
+  - name: Nyheter och pressmeddelanden
+    htmlUrl: https://www.statenssc.se/rss
+    xmlUrl: https://www.statenssc.se/4.14488607168eee7a2b433a/12.14488607168eee7a2b4345.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.statenssc.se/rss
+    xmlUrl: https://www.statenssc.se/4.78b655171684b8f40f726d/12.78b655171684b8f40f7278.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+
+- name: Försvarsmakten
+  feeds:
+
+  - name: Aktuellt
+    htmlUrl: https://www.forsvarsmakten.se/sv/aktuellt/
+    xmlUrl: https://www.forsvarsmakten.se/sv/aktuellt/feed.rss
+
+
+- name: Kronofogden
+  feeds:
+
+  - name: Pressmeddelanden
+    htmlUrl: https://auktionstorget.kronofogden.se/80601.html
+    xmlUrl: https://www.kronofogden.se/4.4b3cc579179bc58524323bd/12.4b3cc579179bc585243243b.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter från Kronofogden
+    htmlUrl: https://auktionstorget.kronofogden.se/80601.html
+    xmlUrl: https://www.kronofogden.se/4.4b3cc579179bc58524323b5/12.4b3cc579179bc5852432439.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter på Auktionstorget
+    htmlUrl: https://auktionstorget.kronofogden.se/80601.html
+    xmlUrl: https://auktionstorget.kronofogden.se/4.1b6eeec8134a762cf718000761/12.1b6eeec8134a762cf718000766.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter för ingivare
+    htmlUrl: https://auktionstorget.kronofogden.se/80601.html
+    xmlUrl: https://kronofogden.se/4.4b3cc579179bc58524323c5/12.4b3cc579179bc585243243d.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Försäljningar av fastigheter på Auktionstorget
+    htmlUrl: https://auktionstorget.kronofogden.se/80601.html
+    xmlUrl: https://auktionstorget.kronofogden.se/4.44812de6133c5768d6780008018/12.44812de6133c5768d6780008032.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+
+
+
+
+
+- name: Pensionsmyndigheten
+  feeds:
+
+  - name: Nyheter
+    htmlUrl: https://www.pensionsmyndigheten.se/om-pensionsmyndigheten/om-webbplatsen/prenumerera-pa-nyheter-rss
+    xmlUrl: https://www.pensionsmyndigheten.se/bin/rss/nyheter.xml
+
+- name: Skatteverket
+  feeds:
+
+  - name: Alla nyheter, notiser och pressmeddelanden
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: http://skatteverket.se/4.dfe345a107ebcc9baf800017593/12.dfe345a107ebcc9baf800017599.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Endast nyheter och notiser
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.dfe345a107ebcc9baf800017593/12.dfe345a107ebcc9baf800017599.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter inom EMCS
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.41f1c61d16193087d7f14093/12.41f1c61d16193087d7f14099.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter inom punktskatter
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.3152d9ac158968eb8fd10cc/12.3152d9ac158968eb8fd10d5.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Nyheter från Navet
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.361dc8c15312eff6fd63b/12.361dc8c15312eff6fd644.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Driftstörningar från Navet
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.3152d9ac158968eb8fd2131/12.3152d9ac158968eb8fd213a.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Lediga jobb
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.varbi.com/what:rssfeed
+
+  - name: Nyheter om digitala samarbeten
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.309a41aa1672ad0c837b5d7/12.309a41aa1672ad0c837b5dd.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Driftmeddelanden från Utvecklarportalen
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/driftmeddelanden/prenumerera-pa-driftmeddelanden
+
+  - name: Publicerade generella kontroller
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.2cf1b5cd163796a5c8bc747/12.2cf1b5cd163796a5c8bc74d.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Pressmeddelanden
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.dfe345a107ebcc9baf800017652/12.dfe345a107ebcc9baf800017658.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Skatteverkets remissvar
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.19b9f599116a9e8ef36800036/12.19b9f599116a9e8ef36800042.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
+  - name: Skatteverkets skrivelser
+    htmlUrl: https://www.skatteverket.se/funktioner/rss/prenumererapanyheterrattsinformation.4.dfe345a107ebcc9baf800017562.html
+    xmlUrl: https://skatteverket.se/4.19b9f599116a9e8ef368000101/12.19b9f599116a9e8ef368000107.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8
+
