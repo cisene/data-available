@@ -1,0 +1,70 @@
+meta:
+  title: Guesstimation Car Manufacturers through OUI-prefix
+  author: Christopher Isene <christopher.isene@gmail.com>
+  created: 2025-03-13T12:08:24+01:00
+  modified: 2025-03-13T12:08:24+01:00
+  
+prefixes:
+
+- prefix: 00:10:02
+  name: Actia
+  observed:
+  - prefix: 00:10:02:21
+    name: Volvo
+  - prefix: 00:10:02:23
+    name: Volvo XC90
+  - prefix: 00:10:02:31
+    name: Volvo
+  - prefix: 00:10:02:36
+    name: Volvo    
+  - prefix: 00:10:02:3f
+    name: Volvo    
+  - prefix: 00:10:02:45
+    name: Volvo    
+  - prefix: 00:10:02:4a
+    name: Volvo    
+  - prefix: 00:10:02:4b
+    name: Volvo    
+
+- prefix: 00:13:1e
+  name: peiker acustic GmbH
+  observed:
+  - prefix: 00:13:1e:67
+    name: BMW
+  - prefix: 00:13:1e:83
+    name: BMW
+
+- prefix: 00:92:a5
+  name: LG Innotek
+  observed:
+  - prefix: 00:92:a5:38
+    name: Mercedes Benz
+
+- prefix: 06:62:61
+  name: NULL
+  observed:
+  - prefix: 06:62:61:39
+    name: Porsche
+  - prefix: 06:62:61:3f
+    name: Porsche
+
+- prefix: 06:c4:61
+  name: NULL
+  observed:
+  - prefix: 06:c4:61:86
+    name: Volkswagen
+  - prefix: 06:c4:61:87
+    name: Volkswagen
+  - prefix: 06:c4:61:cb
+    name: Volkswagen
+  - prefix: 06:c4:61:d1
+    name: Volkswagen
+  - prefix: 06:c4:61:d5
+    name: Volkswagen
+  - prefix: 06:c4:61:d7
+    name: Volkswagen
+  - prefix: 06:c4:61:de
+    name: Volkswagen
+  - prefix: 06:c4:61:e6
+    name: Volkswagen
+    
