@@ -2,7 +2,7 @@ meta:
   title: Guesstimation Car Manufacturers through OUI-prefix
   author: Christopher Isene <christopher.isene@gmail.com>
   created: 2025-03-13T12:08:24+01:00
-  modified: 2025-03-13T12:08:24+01:00
+  modified: 2025-03-13T12:18:24+01:00
   
 prefixes:
 
@@ -67,4 +67,91 @@ prefixes:
     name: Volkswagen
   - prefix: 06:c4:61:e6
     name: Volkswagen
+    
+- prefix: 10:32:2c
+  name: Murata Manufacturing Co., Ltd.
+  observed:
+  - prefix: 10:32:2c:48
+    name: Mercedes Benz
+
+- prefix: 10:98:c3
+  name: Murata Manufacturing Co., Ltd.
+  observed:
+  - prefix: 10:98:c3:17
+    name: Audi
+
+- prefix: 12:32:2c
+  name: NULL
+  observed:
+  - prefix: 12:32:2c:4b
+    name: Volkswagen
+  - prefix: 12:32:2c:54
+    name: Volkswagen
+  - prefix: 12:32:2c:5b
+    name: Ford
+  - prefix: 12:32:2c:9b
+    name: Volkswagen
+  - prefix: 12:32:2c:9f
+    name: Volkswagen
+  - prefix: 12:32:2c:a0
+    name: Volkswagen
+  - prefix: 12:32:2c:a5
+    name: Volkswagen
+  - prefix: 12:32:2c:b5
+    name: Volkswagen
+  - prefix: 12:32:2c:df
+    name: Volkswagen
+  - prefix: 12:32:2c:e4
+    name: Volkswagen
+
+- prefix: 12:e8:a7
+  name: NULL
+  observed:
+  - prefix: 12:e8:a7:07
+    name: Audi
+  - prefix: 12:e8:a7:14
+    name: Mercedes Benz
+  - prefix: 12:e8:a7:69
+    name: Mercedes Benz
+  - prefix: 12:e8:a7:6c
+    name: Porsche
+  - prefix: 12:e8:a7:76
+    name: BMW
+  - prefix: 12:e8:a7:8b
+    name: Mercedes Benz
+  - prefix: 12:e8:a7:99
+    name: Mercedes Benz
+  - prefix: 12:e8:a7:bb
+    name: Porsche
+
+- prefix: 1a:48:ca
+  name: NULL
+  observed:
+  - prefix: 1a:48:ca:02
+    name: Skoda
+  - prefix: 1a:48:ca:0a
+    name: Volkswagen
+  - prefix: 1a:48:ca:0b
+    name: Volkswagen
+  - prefix: 1a:48:ca:20
+    name: Volkswagen
+  - prefix: 1a:48:ca:42
+    name: Volkswagen
+  - prefix: 1a:48:ca:52
+    name: SEAT
+  - prefix: 1a:48:ca:6d
+    name: Volkswagen
+  - prefix: 1a:48:ca:70
+    name: Volkswagen
+  - prefix: 1a:48:ca:81
+    name: Volkswagen
+  - prefix: 1a:48:ca:9d
+    name: Volkswagen
+  - prefix: 1a:48:ca:9f
+    name: Volkswagen
+  - prefix: 1a:48:ca:ba
+    name: Skoda
+  - prefix: 1a:48:ca:df
+    name: Skoda
+
     
