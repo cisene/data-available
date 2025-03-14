@@ -330,11 +330,67 @@ prefixes:
   - prefix: 3a:f9:f5:af
     name: BMW
 
+- prefix: 40:1a:58
+  name: Wistron Neweb Corporation
+  observed:
+  - prefix: 40:1a:58:b5
+    name: Audi
 
+- prefix: 40:d5:21
+  name: LG Innotek
+  observed:
+  - prefix: 40:d5:21:aa
+    name: Mercedes Benz
 
+- prefix: 44:91:60
+  name: Murata Manufacturing Co., Ltd.
+  observed:
+  - prefix: 44:91:60:d9
+    name: Porsche
     
+- prefix: 44:e4:ee
+  name: Wistron Neweb Corporation
+  observed:
+  - prefix: 44:e4:ee:c4
+    name: Audi
 
-    
-    
+- prefix: 44:eb:2e
+  name: Alpsalpine Co,.Ltd
+  observed:
+  - prefix: 44:eb:2e:5a
+    name: NULL
 
+- prefix: 4a:75:62
+  name: NULL
+  observed:
+  - prefix: 4a:75:62:37
+    name: Audi
+
+- prefix: 4a:eb:62
+  name: NULL
+  observed:
+  - prefix: 4a:eb:62:a0
+    name: Volkswagen
+  - prefix: 4a:eb:62:d9
+    name: Volkswagen
+  - prefix: 4a:eb:62:ef
+    name: SEAT
+
+- prefix: 52:26:ef
+  name: NULL
+  observed:
+  - prefix: 52:26:ef:83
+    name: Skoda
+  - prefix: 52:26:ef:a4
+    name: Volkswagen
+  - prefix: 52:26:ef:a8
+    name: SEAT
+    
+- prefix: 52:c3:a2
+  name: NULL
+  observed:
+  - prefix: 52:c3:a2:45
+    name: Volkswagen
+  - prefix: 52:c3:a2:55
+    name: Mercedes Benz
 
