@@ -203,10 +203,22 @@ prefixes:
   observed:
   - prefix: 26:cd:8d:12
     name: Volkswagen
+  - prefix: 26:cd:8d:18
+    name: SEAT
 
 - prefix: 2c:d1:c6
   name: Murata Manufacturing Co., Ltd.
   observed:
+  - prefix: 2c:d1:c6:4e
+    name: Skoda
+  - prefix: 2c:d1:c6:64
+    name: SEAT
+  - prefix: 2c:d1:c6:ac
+    name: SEAT
+  - prefix: 2c:d1:c6:b6
+    name: Volkswagen
+  - prefix: 2c:d1:c6:eb
+    name: Volkswagen
   - prefix: 2c:d1:c6:d1
     name: Mercedes Benz
 
