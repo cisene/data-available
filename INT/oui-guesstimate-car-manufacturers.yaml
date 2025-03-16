@@ -2,7 +2,7 @@ meta:
   title: Guesstimation Car Manufacturers through OUI-prefix
   author: Christopher Isene <christopher.isene@gmail.com>
   created: 2025-03-13T12:08:24+01:00
-  modified: 2025-03-16T16:23:11+01:00
+  modified: 2025-03-16T17:33:07+01:00
   
 prefixes:
 
@@ -967,3 +967,398 @@ prefixes:
 
   - prefix: a6:04:50:df
     name: Skoda
+
+- prefix: a6:68:ea
+  name: NULL
+  observed:
+
+  - prefix: a6:68:ea:f6
+    name: Audi
+
+- prefix: a6:a8:40
+  name: NULL
+  observed:
+
+  - prefix: a6:a8:40:56
+    name: Audi
+
+- prefix: b2:00:73
+  name: NULL
+  observed:
+
+  - prefix: b2:00:73:09
+    name: BMW
+
+  - prefix: b2:00:73:1f
+    name: Mercedes Benz
+
+  - prefix: b2:00:73:25
+    name: BMW
+
+  - prefix: b2:00:73:33
+    name: Mercedes Benz
+
+  - prefix: b2:00:73:93
+    name: Mercedes Benz
+
+  - prefix: b2:00:73:c0
+    name: Audi
+
+  - prefix: b2:00:73:d6
+    name: BMW
+
+  - prefix: b2:00:73:d7
+    name: BMW
+
+- prefix: b4:ec:02
+  name: Alpsalpine Co,.Ltd
+  observed:
+
+  - prefix: b4:ec:02:6a
+    name: Mercedes Benz
+
+- prefix: b6:db:d3
+  name: NULL
+  observed:
+
+  - prefix: b6:db:d3:da
+    name: Audi
+
+- prefix: ba:9f:09
+  name: NULL
+  observed:
+
+  - prefix: ba:9f:09:72
+    name: BMW
+
+  - prefix: ba:9f:09:c1
+    name: Mercedes Benz
+
+  - prefix: ba:9f:09:f2
+    name: Mercedes Benz
+
+- prefix: ba:f4:4f
+  name: NULL
+  observed:
+
+  - prefix: ba:f4:4f:22
+    name: Audi
+
+  - prefix: ba:f4:4f:30
+    name: Audi
+
+  - prefix: ba:f4:4f:34
+    name: Audi
+
+  - prefix: ba:f4:4f:36
+    name: Audi
+
+- prefix: c2:85:b1
+  name: NULL
+  observed:
+
+  - prefix: c2:85:b1:12
+    name: Audi
+
+- prefix: c2:c4:f9
+  name: NULL
+  observed:
+
+  - prefix: c2:c4:f9:57
+    name: Mercedes Benz
+
+- prefix: c2:d0:06
+  name: NULL
+  observed:
+
+  - prefix: c2:d0:06:92
+    name: Audi
+
+- prefix: c4:f8:39
+  name: Actia Automotive
+  observed:
+
+  - prefix: c4:f8:39:11
+    name: Volvo
+
+  - prefix: c4:f8:39:80
+    name: Volvo
+
+  - prefix: c4:f8:39:85
+    name: Volvo
+
+  - prefix: c4:f8:39:88
+    name: Volvo
+
+  - prefix: c4:f8:39:89
+    name: Volvo
+
+  - prefix: c4:f8:39:8d
+    name: Volvo
+
+  - prefix: c4:f8:39:8f
+    name: Volvo
+
+  - prefix: c4:f8:39:93
+    name: Volvo
+
+  - prefix: c4:f8:39:94
+    name: Volvo
+
+  - prefix: c4:f8:39:98
+    name: Volvo
+
+  - prefix: c4:f8:39:9a
+    name: Volvo
+
+  - prefix: c4:f8:39:9b
+    name: Volvo
+
+  - prefix: c4:f8:39:9c
+    name: Volvo
+
+- prefix: cc:c0:79
+  name: Murata Manufacturing Co., Ltd.
+  observed:
+
+  - prefix: cc:c0:79:50
+    name: Audi
+
+  - prefix: cc:c0:79:7c
+    name: Audi
+
+- prefix: cc:f9:57
+  name: u-blox AG
+  observed:
+
+  - prefix: cc:f9:57:69
+    name: Audi
+
+  - prefix: cc:f9:57:6c
+    name: Audi
+
+  - prefix: cc:f9:57:6e
+    name: Audi
+
+- prefix: d2:40:ef
+  name: NULL
+  observed:
+
+  - prefix: d2:40:ef:00
+    name: Volkswagen
+
+  - prefix: d2:40:ef:1d
+    name: Skoda
+
+  - prefix: d2:40:ef:4b
+    name: Volkswagen
+
+  - prefix: d2:40:ef:6f
+    name: Volkswagen
+
+  - prefix: d2:40:ef:aa
+    name: Skoda
+
+  - prefix: d2:40:ef:ac
+    name: Volkswagen
+
+  - prefix: d2:40:ef:ac
+    name: Skoda
+
+  - prefix: d2:40:ef:b5
+    name: Skoda
+
+  - prefix: d2:40:ef:b9
+    name: Volkswagen
+
+  - prefix: d2:40:ef:be
+    name: Volkswagen
+
+  - prefix: d2:40:ef:d1
+    name: Volkswagen
+
+  - prefix: d2:40:ef:d3
+    name: Skoda
+
+- prefix: d6:26:a4
+  name: NULL
+  observed:
+
+  - prefix: d6:26:a4:14
+    name: Porsche
+
+  - prefix: d6:26:a4:6e
+    name: Audi
+
+  - prefix: d6:26:a4:71
+    name: Porsche
+
+- prefix: d6:29:83
+  name: NULL
+  observed:
+
+  - prefix: d6:29:83:7b
+    name: Audi
+
+- prefix: d6:53:83
+  name: NULL
+  observed:
+
+  - prefix: d6:53:83:43
+    name: Volkswagen
+
+  - prefix: d6:53:83:61
+    name: Skoda
+
+- prefix: da:10:68
+  name: NULL
+  observed:
+
+  - prefix: da:10:68:0a
+    name: SEAT
+
+  - prefix: da:10:68:0d
+    name: Volkswagen
+
+  - prefix: da:10:68:0f
+    name: Volkswagen
+
+  - prefix: da:10:68:13
+    name: Volkswagen
+
+  - prefix: da:10:68:13
+    name: Skoda
+
+  - prefix: da:10:68:1e
+    name: Volkswagen
+
+  - prefix: da:10:68:c1
+    name: Volkswagen
+
+  - prefix: da:10:68:c3
+    name: Skoda
+
+  - prefix: da:10:68:c6
+    name: Skoda
+
+  - prefix: da:10:68:c8
+    name: Skoda
+
+  - prefix: da:10:68:ce
+    name: Volkswagen
+
+  - prefix: da:10:68:d8
+    name: SEAT
+
+  - prefix: da:10:68:ff
+    name: SEAT
+
+- prefix: e0:37:bf
+  name: Wistron Neweb Corporation
+  observed:
+
+  - prefix: e0:37:bf:fc
+    name: BMW
+
+- prefix: e2:37:bf
+  name: NULL
+  observed:
+
+  - prefix: e2:37:bf:0e
+    name: BMW
+
+- prefix: e8:e8:b7
+  name: Murata Manufacturing Co., Ltd.
+  observed:
+
+  - prefix: e8:e8:b7:49
+    name: Porsche
+
+- prefix: ea:4f:25
+  name: NULL
+  observed:
+
+  - prefix: ea:4f:25:05
+    name: Skoda
+
+  - prefix: ea:4f:25:0b
+    name: Volkswagen
+
+  - prefix: ea:4f:25:12
+    name: Volkswagen
+
+  - prefix: ea:4f:25:3e
+    name: Volkswagen
+
+  - prefix: ea:4f:25:46
+    name: Volkswagen
+
+  - prefix: ea:4f:25:c8
+    name: Skoda
+
+  - prefix: ea:4f:25:cf
+    name: Volkswagen
+
+- prefix: ee:5c:84
+  name: NULL
+  observed:
+
+  - prefix: ee:5c:84:e9
+    name: Volkswagen
+
+  - prefix: ee:5c:84:f3
+    name: SEAT
+
+- prefix: f8:96:fe
+  name: LG Innotek
+  observed:
+
+  - prefix: f8:96:fe:7f
+    name: Mercedes Benz
+
+  - prefix: f8:96:fe:fa
+    name: Mercedes Benz
+
+- prefix: fa:6d:cc
+  name: NULL
+  observed:
+
+  - prefix: fa:6d:cc:93
+    name: Audi
+
+  - prefix: fa:6d:cc:bc
+    name: Audi
+
+  - prefix: fa:6d:cc:d4
+    name: Audi
+
+- prefix: fe:84:a7
+  name: NULL
+  observed:
+
+  - prefix: fe:84:a7:00
+    name: Volkswagen
+
+  - prefix: fe:84:a7:02
+    name: Volkswagen
+
+  - prefix: fe:84:a7:05
+    name: Skoda
+
+  - prefix: fe:84:a7:0f
+    name: Volkswagen
+
+  - prefix: fe:84:a7:18
+    name: Volkswagen
+
+  - prefix: fe:84:a7:7a
+    name: Skoda
+
+  - prefix: fe:84:a7:82
+    name: SEAT
+
+  - prefix: fe:84:a7:84
+    name: Volkswagen
+
+  - prefix: fe:84:a7:85
+    name: SEAT
