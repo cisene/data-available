@@ -2,7 +2,7 @@ meta:
   title: Guesstimation Car Manufacturers through OUI-prefix
   author: Christopher Isene <christopher.isene@gmail.com>
   created: 2025-03-13T12:08:24+01:00
-  modified: 2025-03-13T12:18:24+01:00
+  modified: 2025-03-16T16:23:11+01:00
   
 prefixes:
 
@@ -529,7 +529,7 @@ prefixes:
     name: Mercedes Benz
 
 - prefix: 56:64:de
-  name:
+  name: NULL
   observed: 
 
   - prefix: 56:64:de:22
@@ -545,35 +545,35 @@ prefixes:
     name: Audi
 
 - prefix: 56:f8:2a
-  name:
+  name: NULL
   observed:
 
   - prefix: 56:f8:2a:58
     name: Audi
 
 - prefix: 58:16:d7
-  name:
+  name: Alpsalpine Co,.Ltd
   observed:
 
   - prefix: 58:16:d7:d8
     name: Mercedes Benz
 
 - prefix: 58:2b:0a
-  name:
+  name: Texas Instruments
   observed:
 
   - prefix: 58:2b:0a:d5
     name: Mini
 
 - prefix: 5a:3e:2e
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:3e:2e:ff
     name: Audi
 
 - prefix: 5a:6a:0a
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:6a:0a:31
@@ -583,21 +583,21 @@ prefixes:
     name: Porsche
 
 - prefix: 5a:9a:16
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:9a:16:46
     name: Porsche
 
 - prefix: 5a:d1:77
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:d1:77:18
     name: Porsche
 
 - prefix: 5a:d5:0a
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:d5:0a:96
@@ -607,7 +607,7 @@ prefixes:
     name: Volkswagen
 
 - prefix: 5a:e4:03
-  name:
+  name: NULL
   observed:
 
   - prefix: 5a:e4:03:0f
@@ -638,7 +638,7 @@ prefixes:
     name: Audi
 
 - prefix: 62:e6:f0
-  name:
+  name: NULL
   observed:
 
   - prefix: 62:e6:f0:39
@@ -657,14 +657,14 @@ prefixes:
     name: Audi
 
 - prefix: 66:d9:9b
-  name:
+  name: NULL
   observed:
 
   - prefix: 66:d9:9b:6d
     name: Audi
 
 - prefix: 66:e2:20
-  name:
+  name: NULL
   observed:
 
   - prefix: 66:e2:20:3d
@@ -720,3 +720,250 @@ prefixes:
 
   - prefix: 66:e2:20:f8
     name: Mercedes Benz
+
+- prefix: 6e:1d:eb
+  name: NULL
+  observed:
+
+  - prefix: 6e:1d:eb:15
+    name: Audi
+
+  - prefix: 6e:1d:eb:1a
+    name: Audi
+
+  - prefix: 6e:1d:eb:1d
+    name: Audi
+
+  - prefix: 6e:1d:eb:28
+    name: Audi
+
+- prefix: 72:74:14
+  name: NULL
+  observed:
+
+  - prefix: 72:74:14:42
+    name: Volkswagen
+
+  - prefix: 72:74:14:45
+    name: Volkswagen
+
+  - prefix: 72:74:14:48
+    name: Volkswagen
+
+  - prefix: 72:74:14:42
+    name: Volkswagen
+
+  - prefix: 72:74:14:5a
+    name: Skoda
+
+  - prefix: 72:74:14:6f
+    name: Volkswagen
+
+  - prefix: 72:74:14:7f
+    name: Skoda
+
+  - prefix: 72:74:14:8b
+    name: Volkswagen
+
+  - prefix: 72:74:14:bb
+    name: Volkswagen
+
+  - prefix: 72:74:14:e9
+    name: Volkswagen
+
+  - prefix: 72:74:14:f6
+    name: Volkswagen
+
+- prefix: 74:95:ec
+  name: Alpsalpine Co,.Ltd
+  observed:
+
+  - prefix: 74:95:ec:76
+    name: Mercedes Benz
+
+  - prefix: 74:95:ec:b0
+    name: Mercedes Benz
+
+  - prefix: 74:95:ec:c1
+    name: Mercedes Benz
+
+- prefix: 7a:f5:05
+  name: NULL
+  observed:
+
+  - prefix: 7a:f5:05:01
+    name: Volkswagen
+
+  - prefix: 7a:f5:05:14
+    name: Volkswagen
+
+  - prefix: 7a:f5:05:26
+    name: Volkswagen
+
+  - prefix: 7a:f5:05:2c
+    name: Volkswagen
+
+- prefix: 8a:5a:85
+  name: NULL
+  observed:
+
+  - prefix: 8a:5a:85:cf
+    name: Mercedes Benz
+
+  - prefix: 8a:5a:85:fb
+    name: Mercedes Benz
+
+- prefix: 8c:57:9b
+  name: Wistron Neweb Corporation
+  observed:
+
+  - prefix: 8c:57:9b:51
+    name: BMW
+
+- prefix: 8e:53:e6
+  name: NULL
+  observed:
+
+  - prefix: 8e:53:e6:12
+    name: Porsche
+
+  - prefix: 8e:53:e6:13
+    name: Porsche
+
+- prefix: 90:9a:77
+  name: Texas Instruments
+  observed:
+
+  - prefix: 90:9a:77:db
+    name: Mini
+
+- prefix: 92:b7:50
+  name: NULL
+  observed:
+
+  - prefix: 92:b7:50:88
+    name: Audi
+
+- prefix: 9a:49:14
+  name: NULL
+  observed:
+
+  - prefix: 9a:49:14:09
+    name: Audi
+
+  - prefix: 9a:49:14:20
+    name: BMW
+
+  - prefix: 9a:49:14:5e
+    name: Audi
+
+  - prefix: 9a:49:14:96
+    name: Porsche
+
+  - prefix: 9a:49:14:ae
+    name: Porsche
+
+  - prefix: 9a:49:14:df
+    name: Audi
+
+  - prefix: 9a:49:14:ee
+    name: BMW
+
+- prefix: 9c:df:03
+  name: Harman/Becker Automotive Systems GmbH
+  observed:
+
+  - prefix: 9c:df:03:91
+    name: Mercedes Benz
+
+- prefix: 9e:50:d1
+  name: NULL
+  observed:
+
+  - prefix: 9e:50:d1:02
+    name: SEAT
+
+  - prefix: 9e:50:d1:a1
+    name: Volkswagen
+
+  - prefix: 9e:50:d1:fb
+    name: SEAT
+
+- prefix: 9e:f5:5f
+  name: NULL
+  observed:
+
+  - prefix: 9e:f5:5f:1f
+    name: Mini
+
+  - prefix: 9e:f5:5f:67
+    name: BMW
+
+- prefix: a0:56:b2
+  name: Harman/Becker Automotive Systems GmbH
+  observed:
+
+  - prefix: a0:56:b2:85
+    name: Mercedes Benz
+
+  - prefix: a0:56:b2:d7
+    name: Mercedes Benz
+
+- prefix: a2:cd:f3
+  name: NULL
+  observed:
+
+  - prefix: a2:cd:f3:5c
+    name: Volkswagen
+
+  - prefix: a2:cd:f3:5f
+    name: Volkswagen
+
+  - prefix: a2:cd:f3:c6
+    name: Skoda
+
+  - prefix: a2:cd:f3:ca
+    name: Volkswagen
+
+  - prefix: a2:cd:f3:cc
+    name: Volkswagen
+
+  - prefix: a2:cd:f3:ec
+    name: Volkswagen
+
+  - prefix: a2:cd:f3:f8
+    name: Skoda
+
+- prefix: a6:04:50
+  name: NULL
+  observed:
+
+  - prefix: a6:04:50:38
+    name: Volkswagen
+
+  - prefix: a6:04:50:72
+    name: SEAT
+
+  - prefix: a6:04:50:77
+    name: Volkswagen
+
+  - prefix: a6:04:50:88
+    name: Volkswagen
+
+  - prefix: a6:04:50:8b
+    name: Skoda
+
+  - prefix: a6:04:50:8f
+    name: Volkswagen
+
+  - prefix: a6:04:50:c9
+    name: Volkswagen
+
+  - prefix: a6:04:50:db
+    name: Volkswagen
+
+  - prefix: a6:04:50:df
+    name: Volkswagen
+
+  - prefix: a6:04:50:df
+    name: Skoda
