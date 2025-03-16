@@ -9,473 +9,714 @@ prefixes:
 - prefix: 00:10:02
   name: Actia
   observed:
+
   - prefix: 00:10:02:21
     name: Volvo
+
   - prefix: 00:10:02:23
     name: Volvo XC90
+
   - prefix: 00:10:02:31
     name: Volvo
+
   - prefix: 00:10:02:36
     name: Volvo    
+
   - prefix: 00:10:02:3f
     name: Volvo    
+
   - prefix: 00:10:02:45
     name: Volvo    
+
   - prefix: 00:10:02:4a
     name: Volvo    
+
   - prefix: 00:10:02:4b
     name: Volvo    
 
 - prefix: 00:13:1e
   name: peiker acustic GmbH
   observed:
+
   - prefix: 00:13:1e:67
     name: BMW
+
   - prefix: 00:13:1e:83
     name: BMW
 
 - prefix: 00:92:a5
   name: LG Innotek
   observed:
+
   - prefix: 00:92:a5:38
     name: Mercedes Benz
 
 - prefix: 06:62:61
   name: NULL
   observed:
+
   - prefix: 06:62:61:39
     name: Porsche
+
   - prefix: 06:62:61:3f
     name: Porsche
 
 - prefix: 06:c4:61
   name: NULL
   observed:
+
   - prefix: 06:c4:61:86
     name: Volkswagen
+
   - prefix: 06:c4:61:87
     name: Volkswagen
+
   - prefix: 06:c4:61:9e
     name: Skoda
+
   - prefix: 06:c4:61:cb
     name: Volkswagen
+
   - prefix: 06:c4:61:d1
     name: Volkswagen
+
   - prefix: 06:c4:61:d5
     name: Volkswagen
+
   - prefix: 06:c4:61:d7
     name: Volkswagen
+
   - prefix: 06:c4:61:de
     name: Volkswagen
+
   - prefix: 06:c4:61:e6
     name: Volkswagen
     
 - prefix: 10:32:2c
   name: Murata Manufacturing Co., Ltd.
   observed:
+
   - prefix: 10:32:2c:48
     name: Mercedes Benz
 
 - prefix: 10:98:c3
   name: Murata Manufacturing Co., Ltd.
   observed:
+
   - prefix: 10:98:c3:17
     name: Audi
 
 - prefix: 12:32:2c
   name: NULL
   observed:
+
   - prefix: 12:32:2c:4b
     name: Volkswagen
+
   - prefix: 12:32:2c:51
     name: Volkswagen
+
   - prefix: 12:32:2c:54
     name: Volkswagen
+
   - prefix: 12:32:2c:5b
     name: Ford
+
   - prefix: 12:32:2c:9b
     name: Volkswagen
+
   - prefix: 12:32:2c:9f
     name: Volkswagen
+
   - prefix: 12:32:2c:a0
     name: Volkswagen
+
   - prefix: 12:32:2c:a5
     name: Volkswagen
+
   - prefix: 12:32:2c:b5
     name: Volkswagen
+
   - prefix: 12:32:2c:d3
     name: Volkswagen
+
   - prefix: 12:32:2c:df
     name: Volkswagen
+
   - prefix: 12:32:2c:e4
     name: Volkswagen
 
 - prefix: 12:e8:a7
   name: NULL
   observed:
+
   - prefix: 12:e8:a7:07
     name: Audi
+
   - prefix: 12:e8:a7:14
     name: Mercedes Benz
+
   - prefix: 12:e8:a7:69
     name: Mercedes Benz
+
   - prefix: 12:e8:a7:6c
     name: Porsche
+
   - prefix: 12:e8:a7:76
     name: BMW
+
   - prefix: 12:e8:a7:8b
     name: Mercedes Benz
+
   - prefix: 12:e8:a7:99
     name: Mercedes Benz
+
   - prefix: 12:e8:a7:9b
     name: Audi
+
   - prefix: 12:e8:a7:bb
     name: Porsche
 
 - prefix: 18:48:ca
   name: Murata Manufacturing Co., Ltd.
   observed:
+
   - prefix: 18:48:ca:ae
     name: Mercedes Benz
 
 - prefix: 1a:48:ca
   name: NULL
   observed:
+
   - prefix: 1a:48:ca:02
     name: Skoda
+
   - prefix: 1a:48:ca:0a
     name: Volkswagen
+
   - prefix: 1a:48:ca:0b
     name: Volkswagen
+
   - prefix: 1a:48:ca:20
     name: Volkswagen
+
   - prefix: 1a:48:ca:42
     name: Volkswagen
+
   - prefix: 1a:48:ca:52
     name: SEAT
+
   - prefix: 1a:48:ca:6d
     name: Volkswagen
+
   - prefix: 1a:48:ca:70
     name: Volkswagen
+
   - prefix: 1a:48:ca:7b
     name: SEAT
+
   - prefix: 1a:48:ca:81
     name: Volkswagen
+
   - prefix: 1a:48:ca:92
     name: Volkswagen
+
   - prefix: 1a:48:ca:9d
     name: Volkswagen
+
   - prefix: 1a:48:ca:9f
     name: Volkswagen
+
   - prefix: 1a:48:ca:ba
     name: Skoda
+
   - prefix: 1a:48:ca:df
     name: Skoda
+
   - prefix: 1a:48:ca:e9
     name: Volkswagen
 
 - prefix: 1e:e1:92
   name: NULL
   observed:
+
   - prefix: 1e:e1:92:c0
     name: BMW
+
   - prefix: 1e:e1:92:cc
     name: Mercedes Benz
+
   - prefix: 1e:e1:92:cd
     name: Mercedes Benz
+
   - prefix: 1e:e1:92:cf
     name: Mercedes Benz
 
 - prefix: 22:ba:36
   name: NULL
   observed:
+
   - prefix: 22:ba:36:ac
     name: Audi
+
   - prefix: 22:ba:36:af
     name: Audi
+
   - prefix: 22:ba:36:b7
     name: Audi
+
   - prefix: 22:ba:36:be
     name: Audi
 
 - prefix: 26:cd:8d
   name: NULL
   observed:
+
   - prefix: 26:cd:8d:12
     name: Volkswagen
+
   - prefix: 26:cd:8d:18
     name: SEAT
 
 - prefix: 2c:d1:c6
   name: Murata Manufacturing Co., Ltd.
   observed:
+
   - prefix: 2c:d1:c6:4e
     name: Skoda
+
   - prefix: 2c:d1:c6:64
     name: SEAT
+
   - prefix: 2c:d1:c6:ac
     name: SEAT
+
   - prefix: 2c:d1:c6:b6
     name: Volkswagen
+
   - prefix: 2c:d1:c6:eb
     name: Volkswagen
+
   - prefix: 2c:d1:c6:d1
     name: Mercedes Benz
 
 - prefix: 2c:dc:ad
   name: Wistron Neweb Corporation
   observed:
+
   - prefix: 2c:dc:ad:14
     name: BMW
+
   - prefix: 2c:dc:ad:7e
     name: Audi
+
   - prefix: 2c:dc:ad:a3
     name: Porsche
 
 - prefix: 2e:68:c6
   name: NULL
   observed:
+
   - prefix: 2e:68:c6:61
     name: Porsche
 
 - prefix: 2e:d1:c6
   name: NULL
   observed:
+
   - prefix: 2e:d1:c6:00
     name: Volkswagen
+
   - prefix: 2e:d1:c6:08
     name: Volkswagen
+
   - prefix: 2e:d1:c6:13
     name: Skoda
+
   - prefix: 2e:d1:c6:38
     name: Volkswagen
+
   - prefix: 2e:d1:c6:4b
     name: Volkswagen
+
   - prefix: 2e:d1:c6:4c
     name: Skoda
+
   - prefix: 2e:d1:c6:56
     name: Volkswagen
+
   - prefix: 2e:d1:c6:5b
     name: Volkswagen
+
   - prefix: 2e:d1:c6:5c
     name: Volkswagen
+
   - prefix: 2e:d1:c6:63
     name: Volkswagen
+
   - prefix: 2e:d1:c6:64
     name: Volkswagen
+
   - prefix: 2e:d1:c6:68
     name: Volkswagen
+
   - prefix: 2e:d1:c6:6b
     name: Volkswagen
+
   - prefix: 2e:d1:c6:6c
     name: Volkswagen
+
   - prefix: 2e:d1:c6:6d
     name: SEAT
+
   - prefix: 2e:d1:c6:7d
     name: Volkswagen
+
   - prefix: 2e:d1:c6:86
     name: Volkswagen
+
   - prefix: 2e:d1:c6:8a
     name: Skoda
+
   - prefix: 2e:d1:c6:a2
     name: Volkswagen
+
   - prefix: 2e:d1:c6:aa
     name: Volkswagen
+
   - prefix: 2e:d1:c6:ab
     name: Skoda
+
   - prefix: 2e:d1:c6:b0
     name: SEAT
+
   - prefix: 2e:d1:c6:b1
     name: Volkswagen
+
   - prefix: 2e:d1:c6:b4
     name: Skoda
+
   - prefix: 2e:d1:c6:b7
     name: Skoda
+
   - prefix: 2e:d1:c6:b8
     name: Skoda
+
   - prefix: 2e:d1:c6:b9
     name: Skoda
+
   - prefix: 2e:d1:c6:c4
     name: SEAT
+
   - prefix: 2e:d1:c6:cb
     name: Volkswagen
+
   - prefix: 2e:d1:c6:db
     name: Volkswagen
+
   - prefix: 2e:d1:c6:de
     name: Volkswagen
+
   - prefix: 2e:d1:c6:eb
     name: Volkswagen
+
   - prefix: 2e:d1:c6:f0
     name: Volkswagen
+
   - prefix: 2e:d1:c6:f3
     name: Skoda
+
   - prefix: 2e:d1:c6:f4
     name: Volkswagen
+
   - prefix: 2e:d1:c6:f8
     name: Volkswagen
 
 - prefix: 30:c3:d9
   name: Alpsalpine Co,.Ltd
-  observed: Mercedes Benz
+  observed:
 
 - prefix: 32:c3:d9
   name: NULL
   observed:
+
   - prefix: 32:c3:d9:86
     name: Volkswagen
 
 - prefix: 3a:f9:f5
   name: NULL
   observed:
+
   - prefix: 3a:f9:f5:af
     name: BMW
 
 - prefix: 40:1a:58
   name: Wistron Neweb Corporation
   observed:
+
   - prefix: 40:1a:58:b5
     name: Audi
 
 - prefix: 40:d5:21
   name: LG Innotek
   observed:
+
   - prefix: 40:d5:21:aa
     name: Mercedes Benz
 
 - prefix: 44:91:60
   name: Murata Manufacturing Co., Ltd.
   observed:
+
   - prefix: 44:91:60:d9
     name: Porsche
     
 - prefix: 44:e4:ee
   name: Wistron Neweb Corporation
   observed:
+
   - prefix: 44:e4:ee:c4
     name: Audi
 
 - prefix: 44:eb:2e
   name: Alpsalpine Co,.Ltd
   observed:
+
   - prefix: 44:eb:2e:5a
     name: NULL
 
 - prefix: 4a:75:62
   name: NULL
   observed:
+
   - prefix: 4a:75:62:37
     name: Audi
 
 - prefix: 4a:eb:62
   name: NULL
   observed:
+
   - prefix: 4a:eb:62:a0
     name: Volkswagen
+
   - prefix: 4a:eb:62:d9
     name: Volkswagen
+
   - prefix: 4a:eb:62:ef
     name: SEAT
 
 - prefix: 52:26:ef
   name: NULL
   observed:
+
   - prefix: 52:26:ef:83
     name: Skoda
+
   - prefix: 52:26:ef:a4
     name: Volkswagen
+
   - prefix: 52:26:ef:a8
     name: SEAT
     
 - prefix: 52:c3:a2
   name: NULL
   observed:
+
   - prefix: 52:c3:a2:45
     name: Volkswagen
+
   - prefix: 52:c3:a2:55
     name: Mercedes Benz
 
 - prefix: 56:64:de
   name:
   observed: 
+
   - prefix: 56:64:de:22
     name: Audi
+
   - prefix: 56:64:de:2c
     name: Audi
+
   - prefix: 56:64:de:8b
     name: Audi
+
   - prefix: 56:64:de:9b
     name: Audi
 
 - prefix: 56:f8:2a
   name:
   observed:
+
   - prefix: 56:f8:2a:58
     name: Audi
 
 - prefix: 58:16:d7
   name:
   observed:
+
   - prefix: 58:16:d7:d8
     name: Mercedes Benz
 
 - prefix: 58:2b:0a
   name:
   observed:
+
   - prefix: 58:2b:0a:d5
     name: Mini
 
 - prefix: 5a:3e:2e
   name:
   observed:
+
   - prefix: 5a:3e:2e:ff
     name: Audi
 
 - prefix: 5a:6a:0a
   name:
   observed:
+
   - prefix: 5a:6a:0a:31
     name: Audi
+
   - prefix: 5a:6a:0a:44
     name: Porsche
 
 - prefix: 5a:9a:16
   name:
   observed:
+
   - prefix: 5a:9a:16:46
     name: Porsche
 
 - prefix: 5a:d1:77
   name:
   observed:
+
   - prefix: 5a:d1:77:18
     name: Porsche
 
 - prefix: 5a:d5:0a
   name:
   observed:
+
   - prefix: 5a:d5:0a:96
     name: Volkswagen
+
   - prefix: 5a:d5:0a:ed
     name: Volkswagen
 
 - prefix: 5a:e4:03
   name:
   observed:
+
   - prefix: 5a:e4:03:0f
     name: Mercedes Benz
+
   - prefix: 5a:e4:03:1b
     name: Audi
+
   - prefix: 5a:e4:03:21
     name: Porsche
+
   - prefix: 5a:e4:03:40
     name: Audi
+
   - prefix: 5a:e4:03:52
     name: Porsche
+
   - prefix: 5a:e4:03:88
     name: Porsche
+
   - prefix: 5a:e4:03:b5
     name: Mercedes Benz
+
   - prefix: 5a:e4:03:e1
     name: Porsche
+
   - prefix: 5a:e4:03:ec
     name: Audi
+
+- prefix: 62:e6:f0
+  name:
+  observed:
+
+  - prefix: 62:e6:f0:39
+    name: Audi
+
+  - prefix: 62:e6:f0:57
+    name: Mercedes Benz
+
+  - prefix: 62:e6:f0:5d
+    name: Audi
+
+  - prefix: 62:e6:f0:b5
+    name: Audi
+
+  - prefix: 62:e6:f0:c2
+    name: Audi
+
+- prefix: 66:d9:9b
+  name:
+  observed:
+
+  - prefix: 66:d9:9b:6d
+    name: Audi
+
+- prefix: 66:e2:20
+  name:
+  observed:
+
+  - prefix: 66:e2:20:3d
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:46
+    name: BMW
+
+  - prefix: 66:e2:20:49
+    name: BMW
+
+  - prefix: 66:e2:20:4e
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:58
+    name: BMW
+
+  - prefix: 66:e2:20:5d
+    name: BMW
+
+  - prefix: 66:e2:20:8e
+    name: BMW
+
+  - prefix: 66:e2:20:a1
+    name: BMW
+
+  - prefix: 66:e2:20:a4
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:ae
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:c4
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:ca
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:d3
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:df
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:e1
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:e5
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:f5
+    name: Mercedes Benz
+
+  - prefix: 66:e2:20:f8
+    name: Mercedes Benz
