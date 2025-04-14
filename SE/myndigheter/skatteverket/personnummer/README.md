@@ -144,8 +144,4 @@ Skatteverket skapar varje år nya testpersonnummer, dessa är samlade här.
 | 2023 | [Testpersonnummer - 2023](./2023/Testpersonnummer.csv) |
 | 2024 | [Testpersonnummer - 2024](./2024/Testpersonnummer.csv) |
 | 2025 | [Testpersonnummer - 2025](./2025/Testpersonnummer.csv) |
-| 2026 | [Testpersonnummer - 2026](./2026/Testpersonnummer.csv) |
-| 2027 | [Testpersonnummer - 2027](./2027/Testpersonnummer.csv) |
-| 2028 | [Testpersonnummer - 2028](./2028/Testpersonnummer.csv) |
-| 2029 | [Testpersonnummer - 2029](./2029/Testpersonnummer.csv) |
 
