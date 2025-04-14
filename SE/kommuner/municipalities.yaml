@@ -1,873 +1,1454 @@
 municipalities:
 
 - name: Ale
+  county-letter: O
+  municipality-code: '1440'
   web: http://www.ale.se/
 
 - name: Alingsås
+  county-letter: O
+  municipality-code: '1489'
   web: http://www.alingsas.se/
 
 - name: Alvesta
+  county-letter: G
+  municipality-code: '0764'
   web: http://www.alvesta.se/
 
 - name: Aneby
+  county-letter: F
+  municipality-code: '0604'
   web: http://www.aneby.se/
 
 - name: Arboga
+  county-letter: U
+  municipality-code: '1984'
   web: http://www.arboga.se/
 
 - name: Arjeplog
+  county-letter: BD
+  municipality-code: '2506'
   web: http://www.arjeplog.se/
 
 - name: Arvidsjaur
+  county-letter: BD
+  municipality-code: '2505'
   web: http://www.arvidsjaur.se/
 
 - name: Arvika
+  county-letter: S
+  municipality-code: '1784'
   web: http://www.arvika.se/
 
 - name: Askersund
+  county-letter: T
+  municipality-code: '1882'
   web: http://www.askersund.se/
 
 - name: Avesta
+  county-letter: W
+  municipality-code: '2084'
   web: http://www.avesta.se/
 
 - name: Bengtsfors
+  county-letter: O
+  municipality-code: '1460'
   web: http://www.bengtsfors.se/
 
 - name: Berg
+  county-letter: Z
+  municipality-code: '2326'
   web: http://www.berg.se/
 
 - name: Bjurholm
+  county-letter: AC
+  municipality-code: '2403'
   web: http://www.bjurholm.se/
 
 - name: Bjuv
+  county-letter: M
+  municipality-code: '1260'
   web: http://www.bjuv.se/
 
 - name: Boden
+  county-letter: BD
+  municipality-code: '2582'
   web: http://www.boden.se/
 
 - name: Bollebygd
+  county-letter: O
+  municipality-code: '1443'
   web: http://www.bollebygd.se/
 
 - name: Bollnäs
+  county-letter: X
+  municipality-code: '2183'
   web: http://www.bollnas.se/
 
 - name: Borgholm
+  county-letter: H
+  municipality-code: '0885'
   web: http://www.borgholm.se/
 
 - name: Borlänge
+  county-letter: W
+  municipality-code: '2081'
   web: http://www.borlange.se/
 
 - name: Borås
+  county-letter: O
+  municipality-code: '1490'
   web: http://www.boras.se/
 
 - name: Botkyrka
+  county-letter: AB
+  municipality-code: '0127'
   web: http://www.botkyrka.se/
 
 - name: Boxholm
+  county-letter: E
+  municipality-code: '0560'
   web: http://www.boxholm.se/
 
 - name: Bromölla
+  county-letter: M
+  municipality-code: '1272'
   web: http://www.bromolla.se/
 
 - name: Bräcke
+  county-letter: Z
+  municipality-code: '2305'
   web: http://www.bracke.se/
 
 - name: Burlöv
+  county-letter: M
+  municipality-code: '1231'
   web: http://www.burlov.se/
 
 - name: Båstad
+  county-letter: M
+  municipality-code: '1278'
   web: http://www.bastad.se/
 
 - name: Dals-Ed
+  county-letter: O
+  municipality-code: '1438'
   web: http://www.dalsed.se/
 
 - name: Danderyd
+  county-letter: AB
+  municipality-code: '0162'
   web: https://www.danderyd.se/
 
 - name: Degerfors
+  county-letter: T
+  municipality-code: '1862'
   web: http://www.degerfors.se/
 
 - name: Dorotea
+  county-letter: AC
+  municipality-code: '2425'
   web: http://www.dorotea.se/
 
 - name: Eda
+  county-letter: S
+  municipality-code: '1730'
   web: http://www.eda.se/
 
 - name: Ekerö
+  county-letter: AB
+  municipality-code: '0125'
   web: http://www.ekero.se/
 
 - name: Eksjö
+  county-letter: F
+  municipality-code: '0686'
   web: http://www.eksjo.se/
 
 - name: Emmaboda
+  county-letter: H
+  municipality-code: '0862'
   web: http://www.emmaboda.se/
 
 - name: Enköping
+  county-letter: C
+  municipality-code: '0381'
   web: http://www.enkoping.se/
 
 - name: Eskilstuna
+  county-letter: D
+  municipality-code: '0484'
   web: http://www.eskilstuna.se/
 
 - name: Eslöv
+  county-letter: M
+  municipality-code: '1285'
   web: http://www.eslov.se/
 
 - name: Essunga
+  county-letter: O
+  municipality-code: '1445'
   web: http://www.essunga.se/
 
 - name: Fagersta
+  county-letter: U
+  municipality-code: '1982'
   web: http://www.fagersta.se/
 
 - name: Falkenberg
+  county-letter: N
+  municipality-code: '1382'
   web: http://www.falkenberg.se/
 
 - name: Falköping
+  county-letter: O
+  municipality-code: '1499'
   web: http://www.falkoping.se/
 
 - name: Falun
+  county-letter: W
+  municipality-code: '2080'
   web: http://www.falun.se/
 
 - name: Filipstad
+  county-letter: S
+  municipality-code: '1782'
   web: http://www.filipstad.se/
 
 - name: Finspång
+  county-letter: E
+  municipality-code: '0562'
   web: http://www.finspang.se/
 
 - name: Flen
+  county-letter: D
+  municipality-code: '0482'
   web: http://www.flen.se/
 
 - name: Forshaga
+  county-letter: S
+  municipality-code: '1763'
   web: http://www.forshaga.se/
 
 - name: Färgelanda
+  county-letter: O
+  municipality-code: '1439'
   web: http://www.fargelanda.se/
 
 - name: Gagnef
+  county-letter: W
+  municipality-code: '2026'
   web: http://www.gagnef.se/
 
 - name: Gislaved
+  county-letter: F
+  municipality-code: '0662'
   web: http://www.gislaved.se/
 
 - name: Gnesta
+  county-letter: D
+  municipality-code: '0461'
   web: http://www.gnesta.se/
 
 - name: Gnosjö
+  county-letter: F
+  municipality-code: '0617'
   web: https://www.gnosjo.se/
 
 - name: Gotland
+  county-letter: I
+  municipality-code: '0980'
   web: http://www.gotland.se/
 
 - name: Grums
+  county-letter: S
+  municipality-code: '1764'
   web: http://www.grums.se/
 
 - name: Grästorp
+  county-letter: O
+  municipality-code: '1444'
   web: http://www.grastorp.se/
 
 - name: Gullspång
+  county-letter: O
+  municipality-code: '1447'
   web: http://www.gullspang.se/
 
 - name: Gällivare
+  county-letter: BD
+  municipality-code: '2523'
   web: https://gallivare.se
 
 - name: Gävle
+  county-letter: X
+  municipality-code: '2180'
   web: https://www.gavle.se/
 
 - name: Göteborg
+  county-letter: O
+  municipality-code: '1480'
   web: http://www.goteborg.se/
 
 - name: Götene
+  county-letter: O
+  municipality-code: '1471'
   web: https://www.gotene.se/
 
 - name: Habo
+  county-letter: F
+  municipality-code: '0643'
   web: http://www.habokommun.se/
 
 - name: Hagfors
+  county-letter: S
+  municipality-code: '1783'
   web: http://www.hagfors.se/
 
 - name: Hallsberg
+  county-letter: T
+  municipality-code: '1861'
   web: http://www.hallsberg.se/
 
 - name: Hallstahammar
+  county-letter: U
+  municipality-code: '1961'
   web: http://www.hallstahammar.se/
 
 - name: Halmstad
+  county-letter: N
+  municipality-code: '1380'
   web: http://www.halmstad.se/
 
 - name: Hammarö
+  county-letter: S
+  municipality-code: '1761'
   web: http://www.hammaro.se/
 
 - name: Haninge
+  county-letter: AB
+  municipality-code: '0136'
   web: http://www.haninge.se/
 
 - name: Haparanda
+  county-letter: BD
+  municipality-code: '2583'
   web: http://www.haparanda.se/
 
 - name: Heby
+  county-letter: C
+  municipality-code: '0331'
   web: http://www.heby.se/
 
 - name: Hedemora
+  county-letter: W
+  municipality-code: '2083'
   web: http://www.hedemora.se/
 
 - name: Helsingborg
+  county-letter: M
+  municipality-code: '1283'
   web: http://www.helsingborg.se/
 
 - name: Herrljunga
+  county-letter: O
+  municipality-code: '1466'
   web: https://www.herrljunga.se/
 
 - name: Hjo
+  county-letter: O
+  municipality-code: '1497'
   web: http://www.hjo.se/
 
 - name: Hofors
+  county-letter: X
+  municipality-code: '2104'
   web: http://www.hofors.se/
 
 - name: Huddinge
+  county-letter: AB
+  municipality-code: '0126'
   web: http://www.huddinge.se/
 
 - name: Hudiksvall
+  county-letter: X
+  municipality-code: '2184'
   web: http://www.hudiksvall.se/
 
 - name: Hultsfred
+  county-letter: H
+  municipality-code: '0860'
   web: http://www.hultsfred.se/
 
 - name: Hylte
+  county-letter: N
+  municipality-code: '1315'
   web: http://www.hylte.se/
 
 - name: Håbo
+  county-letter: C
+  municipality-code: '0305'
   web: http://www.habo.se/
 
 - name: Hällefors
+  county-letter: T
+  municipality-code: '1863'
   web: http://www.hellefors.se/
 
 - name: Härjedalen
+  county-letter: Z
+  municipality-code: '2361'
   web: http://www.herjedalen.se/
 
 - name: Härnösand
+  county-letter: Y
+  municipality-code: '2280'
   web: https://www.harnosand.se/
 
 - name: Härryda
+  county-letter: O
+  municipality-code: '1401'
   web: http://www.harryda.se/
 
 - name: Hässleholm
+  county-letter: M
+  municipality-code: '1293'
   web: http://www.hassleholm.se/
 
 - name: Höganäs
+  county-letter: M
+  municipality-code: '1284'
   web: http://www.hoganas.se/
 
 - name: Högsby
+  county-letter: H
+  municipality-code: '0821'
   web: http://www.hogsby.se/
 
 - name: Hörby
+  county-letter: M
+  municipality-code: '1266'
   web: http://www.horby.se/
 
 - name: Höör
+  county-letter: M
+  municipality-code: '1267'
   web: http://www.hoor.se/
 
 - name: Jokkmokk
+  county-letter: BD
+  municipality-code: '2510'
   web: http://www.jokkmokk.se/
 
 - name: Järfälla
+  county-letter: AB
+  municipality-code: '0123'
   web: http://www.jarfalla.se/
 
 - name: Jönköping
+  county-letter: F
+  municipality-code: '0680'
   web: http://www.jonkoping.se/
 
 - name: Kalix
+  county-letter: BD
+  municipality-code: '2514'
   web: http://www.kalix.se/
 
 - name: Kalmar
+  county-letter: H
+  municipality-code: '0880'
   web: http://www.kalmar.se/
 
 - name: Karlsborg
+  county-letter: O
+  municipality-code: '1446'
   web: http://www.karlsborg.se/
 
 - name: Karlshamn
+  county-letter: K
+  municipality-code: '1082'
   web: http://www.karlshamn.se/
 
 - name: Karlskoga
+  county-letter: T
+  municipality-code: '1883'
   web: https://www.karlskoga.se/
 
 - name: Karlskrona
+  county-letter: K
+  municipality-code: '1080'
   web: http://www.karlskrona.se/
 
 - name: Karlstad
+  county-letter: S
+  municipality-code: '1780'
   web: http://www.karlstad.se/
 
 - name: Katrineholm
+  county-letter: D
+  municipality-code: '0483'
   web: http://www.katrineholm.se/
 
 - name: Kil
+  county-letter: S
+  municipality-code: '1715'
   web: http://www.kil.se/
 
 - name: Kinda
+  county-letter: E
+  municipality-code: '0513'
   web: http://www.kinda.se/
 
 - name: Kiruna
+  county-letter: BD
+  municipality-code: '2584'
   web: http://kiruna.se/
 
 - name: Klippan
+  county-letter: M
+  municipality-code: '1276'
   web: http://www.klippan.se/
 
 - name: Knivsta
+  county-letter: C
+  municipality-code: '0330'
   web: http://www.knivsta.se/
 
 - name: Kramfors
+  county-letter: Y
+  municipality-code: '2282'
   web: http://www.kramfors.se/
 
 - name: Kristianstad
+  county-letter: M
+  municipality-code: '1290'
   web: https://www.kristianstad.se/
 
 - name: Kristinehamn
+  county-letter: S
+  municipality-code: '1781'
   web: http://www.kristinehamn.se/
 
 - name: Krokom
+  county-letter: Z
+  municipality-code: '2309'
   web: http://www.krokom.se/
 
 - name: Kumla
+  county-letter: T
+  municipality-code: '1881'
   web: http://www.kumla.se/
 
 - name: Kungsbacka
+  county-letter: N
+  municipality-code: '1384'
   web: http://www.kungsbacka.se/
 
 - name: Kungsör
+  county-letter: U
+  municipality-code: '1960'
   web: http://www.kungsor.se/
 
 - name: Kungälv
+  county-letter: O
+  municipality-code: '1482'
   web: http://www.kungalv.se/
 
 - name: Kävlinge
+  county-letter: M
+  municipality-code: '1261'
   web: http://www.kavlinge.se/
 
 - name: Köping
+  county-letter: U
+  municipality-code: '1983'
   web: http://www.koping.se/
 
 - name: Laholm
+  county-letter: N
+  municipality-code: '1381'
   web: http://www.laholm.se/
 
 - name: Landskrona
+  county-letter: M
+  municipality-code: '1282'
   web: http://www.landskrona.se/
 
 - name: Laxå
+  county-letter: T
+  municipality-code: '1860'
   web: http://www.laxa.se/
 
 - name: Lekeberg
+  county-letter: T
+  municipality-code: '1814'
   web: http://www.lekeberg.se/
 
 - name: Leksand
+  county-letter: W
+  municipality-code: '2029'
   web: http://www.leksand.se/
 
 - name: Lerum
+  county-letter: O
+  municipality-code: '1441'
   web: http://www.lerum.se/
 
 - name: Lessebo
+  county-letter: G
+  municipality-code: '0761'
   web: http://www.lessebo.se/
 
 - name: Lidingö
+  county-letter: AB
+  municipality-code: '0186'
   web: http://www.lidingo.se/
 
 - name: Lidköping
+  county-letter: O
+  municipality-code: '1494'
   web: http://www.lidkoping.se/
 
 - name: Lilla Edet
+  county-letter: O
+  municipality-code: '1462'
   web: http://www.lillaedet.se/
 
 - name: Lindesberg
+  county-letter: T
+  municipality-code: '1885'
   web: http://www.lindesberg.se/
 
 - name: Linköping
+  county-letter: E
+  municipality-code: '0580'
   web: http://www.linkoping.se/
 
 - name: Ljungby
+  county-letter: G
+  municipality-code: '0781'
   web: http://www.ljungby.se/
 
 - name: Ljusdal
+  county-letter: X
+  municipality-code: '2161'
   web: https://www.ljusdal.se/
 
 - name: Ljusnarsberg
+  county-letter: T
+  municipality-code: '1864'
   web: http://www.ljusnarsberg.se/
 
 - name: Lomma
+  county-letter: M
+  municipality-code: '1262'
   web: http://www.lomma.se/
 
 - name: Ludvika
+  county-letter: W
+  municipality-code: '2085'
   web: http://www.ludvika.se/
 
 - name: Luleå
+  county-letter: BD
+  municipality-code: '2580'
   web: http://www.lulea.se/
 
 - name: Lund
+  county-letter: M
+  municipality-code: '1281'
   web: http://www.lund.se/
 
 - name: Lycksele
+  county-letter: AC
+  municipality-code: '2481'
   web: http://www.lycksele.se/
 
 - name: Lysekil
+  county-letter: O
+  municipality-code: '1484'
   web: http://www.lysekil.se/
 
 - name: Malmö
+  county-letter: M
+  municipality-code: '1280'
   web: http://www.malmo.se/
 
+- name: Malung - Sälen
+  county-letter: W
+  municipality-code: '2023'
 - name: Malung-Sälen
   web: https://malung-salen.se/
 
 - name: Malå
+  county-letter: AC
+  municipality-code: '2418'
   web: http://www.mala.se/
 
 - name: Mariestad
+  county-letter: O
+  municipality-code: '1493'
   web: http://www.mariestad.se/
 
 - name: Mark
+  county-letter: O
+  municipality-code: '1463'
   web: http://www.mark.se/
 
 - name: Markaryd
+  county-letter: G
+  municipality-code: '0767'
   web: http://www.markaryd.se/
 
 - name: Mellerud
+  county-letter: O
+  municipality-code: '1461'
   web: http://www.mellerud.se/
 
 - name: Mjölby
+  county-letter: E
+  municipality-code: '0586'
   web: https://www.mjolby.se/
 
 - name: Mora
+  county-letter: W
+  municipality-code: '2062'
   web: https://morakommun.se/
 
 - name: Motala
+  county-letter: E
+  municipality-code: '0583'
   web: http://www.motala.se/
 
 - name: Mullsjö
+  county-letter: F
+  municipality-code: '0642'
   web: http://www.mullsjo.se/
 
 - name: Munkedal
+  county-letter: O
+  municipality-code: '1430'
   web: http://www.munkedal.se/
 
 - name: Munkfors
+  county-letter: S
+  municipality-code: '1762'
   web: http://www.munkfors.se/
 
 - name: Mölndal
+  county-letter: O
+  municipality-code: '1481'
   web: http://www.molndal.se/
 
 - name: Mönsterås
+  county-letter: H
+  municipality-code: '0861'
   web: http://www.monsteras.se/
 
 - name: Mörbylånga
+  county-letter: H
+  municipality-code: '0840'
   web: http://www.morbylanga.se/
 
 - name: Nacka
+  county-letter: AB
+  municipality-code: '0182'
   web: http://www.nacka.se/
 
 - name: Nora
+  county-letter: T
+  municipality-code: '1884'
   web: http://www.nora.se/
 
 - name: Norberg
+  county-letter: U
+  municipality-code: '1962'
   web: http://www.norberg.se/
 
 - name: Nordanstig
+  county-letter: X
+  municipality-code: '2132'
   web: http://www.nordanstig.se/
 
 - name: Nordmaling
+  county-letter: AC
+  municipality-code: '2401'
   web: https://www.nordmaling.se/
 
 - name: Norrköping
+  county-letter: E
+  municipality-code: '0581'
   web: http://www.norrkoping.se/
 
 - name: Norrtälje
+  county-letter: AB
+  municipality-code: '0188'
   web: https://www.norrtalje.se/
 
 - name: Norsjö
+  county-letter: AC
+  municipality-code: '2417'
   web: http://www.norsjo.se/
 
 - name: Nybro
+  county-letter: H
+  municipality-code: '0881'
   web: http://www.nybro.se/
 
 - name: Nykvarn
+  county-letter: AB
+  municipality-code: '0140'
   web: http://www.nykvarn.se/
 
 - name: Nyköping
+  county-letter: D
+  municipality-code: '0480'
   web: https://www.nykoping.se/
 
 - name: Nynäshamn
+  county-letter: AB
+  municipality-code: '0192'
   web: http://www.nynashamn.se/
 
 - name: Nässjö
+  county-letter: F
+  municipality-code: '0682'
   web: http://www.nassjo.se/
 
 - name: Ockelbo
+  county-letter: X
+  municipality-code: '2101'
   web: https://www.ockelbo.se/
 
 - name: Olofström
+  county-letter: K
+  municipality-code: '1060'
   web: http://www.olofstrom.se/
 
 - name: Orsa
+  county-letter: W
+  municipality-code: '2034'
   web: http://www.orsa.se/
 
 - name: Orust
+  county-letter: O
+  municipality-code: '1421'
   web: http://www.orust.se/
 
 - name: Osby
+  county-letter: M
+  municipality-code: '1273'
   web: http://www.osby.se/
 
 - name: Oskarshamn
+  county-letter: H
+  municipality-code: '0882'
   web: https://www.oskarshamn.se/
 
 - name: Ovanåker
+  county-letter: X
+  municipality-code: '2121'
   web: http://www.ovanaker.se/
 
 - name: Oxelösund
+  county-letter: D
+  municipality-code: '0481'
   web: http://www.oxelosund.se/
 
 - name: Pajala
+  county-letter: BD
+  municipality-code: '2521'
   web: http://www.pajala.se/
 
 - name: Partille
+  county-letter: O
+  municipality-code: '1402'
   web: http://www.partille.se/
 
 - name: Perstorp
+  county-letter: M
+  municipality-code: '1275'
   web: http://www.perstorp.se/
 
 - name: Piteå
+  county-letter: BD
+  municipality-code: '2581'
   web: http://www.pitea.se/
 
 - name: Ragunda
+  county-letter: Z
+  municipality-code: '2303'
   web: http://www.ragunda.se/
 
 - name: Robertsfors
+  county-letter: AC
+  municipality-code: '2409'
   web: http://www.robertsfors.se/
 
 - name: Ronneby
+  county-letter: K
+  municipality-code: '1081'
   web: http://www.ronneby.se/
 
 - name: Rättvik
+  county-letter: W
+  municipality-code: '2031'
   web: http://www.rattvik.se/
 
 - name: Sala
+  county-letter: U
+  municipality-code: '1981'
   web: http://www.sala.se/
 
 - name: Salem
+  county-letter: AB
+  municipality-code: '0128'
   web: http://www.salem.se/
 
 - name: Sandviken
+  county-letter: X
+  municipality-code: '2181'
   web: http://www.sandviken.se/
 
 - name: Sigtuna
+  county-letter: AB
+  municipality-code: '0191'
   web: http://www.sigtuna.se/
 
 - name: Simrishamn
+  county-letter: M
+  municipality-code: '1291'
   web: http://www.simrishamn.se/
 
 - name: Sjöbo
+  county-letter: M
+  municipality-code: '1265'
   web: http://www.sjobo.se/
 
 - name: Skara
+  county-letter: O
+  municipality-code: '1495'
   web: http://www.skara.se/
 
 - name: Skellefteå
+  county-letter: AC
+  municipality-code: '2482'
   web: http://www.skelleftea.se/
 
 - name: Skinnskatteberg
+  county-letter: U
+  municipality-code: '1904'
   web: http://www.skinnskatteberg.se/
 
 - name: Skurup
+  county-letter: M
+  municipality-code: '1264'
   web: http://www.skurup.se/
 
 - name: Skövde
+  county-letter: O
+  municipality-code: '1496'
   web: http://www.skovde.se/
 
 - name: Smedjebacken
+  county-letter: W
+  municipality-code: '2061'
   web: http://www.smedjebacken.se/
 
 - name: Sollefteå
+  county-letter: Y
+  municipality-code: '2283'
   web: https://www.solleftea.se/
 
 - name: Sollentuna
+  county-letter: AB
+  municipality-code: '0163'
   web: http://www.sollentuna.se/
 
 - name: Solna
+  county-letter: AB
+  municipality-code: '0184'
   web: http://www.solna.se/
 
 - name: Sorsele
+  county-letter: AC
+  municipality-code: '2422'
   web: http://www.sorsele.se/
 
 - name: Sotenäs
+  county-letter: O
+  municipality-code: '1427'
   web: http://www.sotenas.se/
 
 - name: Staffanstorp
+  county-letter: M
+  municipality-code: '1230'
   web: http://www.staffanstorp.se/
 
 - name: Stenungsund
+  county-letter: O
+  municipality-code: '1415'
   web: http://www.stenungsund.se/
 
 - name: Stockholm
+  county-letter: AB
+  municipality-code: '0180'
   web: http://www.stockholm.se/
 
 - name: Storfors
+  county-letter: S
+  municipality-code: '1760'
   web: http://www.storfors.se/
 
 - name: Storuman
+  county-letter: AC
+  municipality-code: '2421'
   web: http://www.storuman.se/
 
 - name: Strängnäs
+  county-letter: D
+  municipality-code: '0486'
   web: http://www.strangnas.se/
 
 - name: Strömstad
+  county-letter: O
+  municipality-code: '1486'
   web: http://www.stromstad.se/
 
 - name: Strömsund
+  county-letter: Z
+  municipality-code: '2313'
   web: http://www.stromsund.se/
 
 - name: Sundbyberg
+  county-letter: AB
+  municipality-code: '0183'
   web: http://www.sundbyberg.se/
 
 - name: Sundsvall
+  county-letter: Y
+  municipality-code: '2281'
   web: https://sundsvall.se/
 
 - name: Sunne
+  county-letter: S
+  municipality-code: '1766'
   web: http://www.sunne.se/
 
 - name: Surahammar
+  county-letter: U
+  municipality-code: '1907'
   web: http://www.surahammar.se/
 
 - name: Svalöv
+  county-letter: M
+  municipality-code: '1214'
   web: http://www.svalov.se/
 
 - name: Svedala
+  county-letter: M
+  municipality-code: '1263'
   web: http://www.svedala.se/
 
 - name: Svenljunga
+  county-letter: O
+  municipality-code: '1465'
   web: https://www.svenljunga.se/
 
 - name: Säffle
+  county-letter: S
+  municipality-code: '1785'
   web: http://www.saffle.se/
 
 - name: Säter
+  county-letter: W
+  municipality-code: '2082'
   web: http://www.sater.se/
 
 - name: Sävsjö
+  county-letter: F
+  municipality-code: '0684'
   web: http://www.savsjo.se/
 
 - name: Söderhamn
+  county-letter: X
+  municipality-code: '2182'
   web: http://www.soderhamn.se/
 
 - name: Söderköping
+  county-letter: E
+  municipality-code: '0582'
   web: http://www.soderkoping.se/
 
 - name: Södertälje
+  county-letter: AB
+  municipality-code: '0181'
   web: http://www.sodertalje.se/
 
 - name: Sölvesborg
+  county-letter: K
+  municipality-code: '1083'
   web: http://www.solvesborg.se/
 
 - name: Tanum
+  county-letter: O
+  municipality-code: '1435'
   web: http://www.tanum.se/
 
 - name: Tibro
+  county-letter: O
+  municipality-code: '1472'
   web: http://www.tibro.se/
 
 - name: Tidaholm
+  county-letter: O
+  municipality-code: '1498'
   web: http://www.tidaholm.se/
 
 - name: Tierp
+  county-letter: C
+  municipality-code: '0360'
   web: http://www.tierp.se/
 
 - name: Timrå
+  county-letter: Y
+  municipality-code: '2262'
   web: http://www.timra.se/
 
 - name: Tingsryd
+  county-letter: G
+  municipality-code: '0763'
   web: http://www.tingsryd.se/
 
 - name: Tjörn
+  county-letter: O
+  municipality-code: '1419'
   web: http://www.tjorn.se/
 
 - name: Tomelilla
+  county-letter: M
+  municipality-code: '1270'
   web: http://www.tomelilla.se/
 
 - name: Torsby
+  county-letter: S
+  municipality-code: '1737'
   web: http://www.torsby.se/
 
 - name: Torsås
+  county-letter: H
+  municipality-code: '0834'
   web: https://www.torsas.se/
 
 - name: Tranemo
+  county-letter: O
+  municipality-code: '1452'
   web: http://www.tranemo.se/
 
 - name: Tranås
+  county-letter: F
+  municipality-code: '0687'
   web: http://www.tranas.se/
 
 - name: Trelleborg
+  county-letter: M
+  municipality-code: '1287'
   web: http://www.trelleborg.se/
 
 - name: Trollhättan
+  county-letter: O
+  municipality-code: '1488'
   web: http://www.trollhattan.se/
 
 - name: Trosa
+  county-letter: D
+  municipality-code: '0488'
   web: http://www.trosa.se/
 
 - name: Tyresö
+  county-letter: AB
+  municipality-code: '0138'
   web: http://www.tyreso.se/
 
 - name: Täby
+  county-letter: AB
+  municipality-code: '0160'
   web: http://www.taby.se/
 
 - name: Töreboda
+  county-letter: O
+  municipality-code: '1473'
   web: http://www.toreboda.se/
 
 - name: Uddevalla
+  county-letter: O
+  municipality-code: '1485'
   web: http://www.uddevalla.se/
 
 - name: Ulricehamn
+  county-letter: O
+  municipality-code: '1491'
   web: http://www.ulricehamn.se/
 
 - name: Umeå
+  county-letter: AC
+  municipality-code: '2480'
   web: http://www.umea.se/
 
 - name: Upplands-Bro
+  county-letter: AB
+  municipality-code: '0139'
   web: http://www.upplands-bro.se/
 
 - name: Upplands Väsby
+  county-letter: AB
+  municipality-code: '0114'
   web: http://www.upplandsvasby.se/
 
 - name: Uppsala
+  county-letter: C
+  municipality-code: '0380'
   web: https://www.uppsala.se/
 
 - name: Uppvidinge
+  county-letter: G
+  municipality-code: '0760'
   web: http://www.uppvidinge.se/
 
 - name: Vadstena
+  county-letter: E
+  municipality-code: '0584'
   web: http://www.vadstena.se/
 
 - name: Vaggeryd
+  county-letter: F
+  municipality-code: '0665'
   web: http://www.vaggeryd.se/
 
 - name: Valdemarsvik
+  county-letter: E
+  municipality-code: '0563'
   web: http://www.valdemarsvik.se/
 
 - name: Vallentuna
+  county-letter: AB
+  municipality-code: '0115'
   web: https://www.vallentuna.se/
 
 - name: Vansbro
+  county-letter: W
+  municipality-code: '2021'
   web: http://www.vansbro.se/
 
 - name: Vara
+  county-letter: O
+  municipality-code: '1470'
   web: http://www.vara.se/
 
 - name: Varberg
+  county-letter: N
+  municipality-code: '1383'
   web: http://www.varberg.se/
 
 - name: Vaxholm
+  county-letter: AB
+  municipality-code: '0187'
   web: http://www.vaxholm.se/
 
 - name: Vellinge
+  county-letter: M
+  municipality-code: '1233'
   web: http://www.vellinge.se/
 
 - name: Vetlanda
+  county-letter: F
+  municipality-code: '0685'
   web: http://www.vetlanda.se/
 
 - name: Vilhelmina
+  county-letter: AC
+  municipality-code: '2462'
   web: http://www.vilhelmina.se/
 
 - name: Vimmerby
+  county-letter: H
+  municipality-code: '0884'
   web: http://www.vimmerby.se/
 
 - name: Vindeln
+  county-letter: AC
+  municipality-code: '2404'
   web: http://www.vindeln.se/
 
 - name: Vingåker
+  county-letter: D
+  municipality-code: '0428'
   web: http://www.vingaker.se/
 
 - name: Vårgårda
+  county-letter: O
+  municipality-code: '1442'
   web: http://www.vargarda.se/
 
 - name: Vänersborg
+  county-letter: O
+  municipality-code: '1487'
   web: http://www.vanersborg.se/
 
 - name: Vännäs
+  county-letter: AC
+  municipality-code: '2460'
   web: http://www.vannas.se/
 
 - name: Värmdö
+  county-letter: AB
+  municipality-code: '0120'
   web: http://www.varmdo.se/
 
 - name: Värnamo
+  county-letter: F
+  municipality-code: '0683'
   web: http://www.varnamo.se/
 
 - name: Västervik
+  county-letter: H
+  municipality-code: '0883'
   web: http://www.vastervik.se/
 
 - name: Västerås
+  county-letter: U
+  municipality-code: '1980'
   web: http://www.vasteras.se/
 
 - name: Växjö
+  county-letter: G
+  municipality-code: '0780'
   web: http://www.vaxjo.se/
 
 - name: Ydre
+  county-letter: E
+  municipality-code: '0512'
   web: http://www.ydre.se/
 
 - name: Ystad
+  county-letter: M
+  municipality-code: '1286'
   web: http://www.ystad.se/
 
 - name: Åmål
+  county-letter: O
+  municipality-code: '1492'
   web: http://www.amal.se/
 
 - name: Ånge
+  county-letter: Y
+  municipality-code: '2260'
   web: http://www.ange.se/
 
 - name: Åre
+  county-letter: Z
+  municipality-code: '2321'
   web: https://www.are.se/
 
 - name: Årjäng
+  county-letter: S
+  municipality-code: '1765'
   web: http://www.arjang.se/
 
 - name: Åsele
+  county-letter: AC
+  municipality-code: '2463'
   web: http://www.asele.se/
 
 - name: Åstorp
+  county-letter: M
+  municipality-code: '1277'
   web: http://www.astorp.se/
 
 - name: Åtvidaberg
+  county-letter: E
+  municipality-code: '0561'
   web: http://www.atvidaberg.se/
 
 - name: Älmhult
+  county-letter: G
+  municipality-code: '0765'
   web: http://www.almhult.se/
 
 - name: Älvdalen
+  county-letter: W
+  municipality-code: '2039'
   web: http://www.alvdalen.se/
 
 - name: Älvkarleby
+  county-letter: C
+  municipality-code: '0319'
   web: http://www.alvkarleby.se/
 
 - name: Älvsbyn
+  county-letter: BD
+  municipality-code: '2560'
   web: http://www.alvsbyn.se/
 
 - name: Ängelholm
+  county-letter: M
+  municipality-code: '1292'
   web: http://www.engelholm.se/
 
 - name: Öckerö
+  county-letter: O
+  municipality-code: '1407'
   web: http://www.ockero.se/
 
 - name: Ödeshög
+  county-letter: E
+  municipality-code: '0509'
   web: http://www.odeshog.se/
 
 - name: Örebro
+  county-letter: T
+  municipality-code: '1880'
   web: http://www.orebro.se/
 
 - name: Örkelljunga
+  county-letter: M
+  municipality-code: '1257'
   web: http://www.orkelljunga.se/
 
 - name: Örnsköldsvik
+  county-letter: Y
+  municipality-code: '2284'
   web: http://www.ornskoldsvik.se/
 
 - name: Östersund
+  county-letter: Z
+  municipality-code: '2380'
   web: http://www.ostersund.se/
 
 - name: Österåker
+  county-letter: AB
+  municipality-code: '0117'
   web: https://www.osteraker.se/
 
 - name: Östhammar
+  county-letter: C
+  municipality-code: '0382'
   web: http://www.osthammar.se/
 
 - name: Östra Göinge
+  county-letter: M
+  municipality-code: '1256'
   web: http://www.ostragoinge.se/
 
 - name: Överkalix
+  county-letter: BD
+  municipality-code: '2513'
   web: http://www.overkalix.se/
 
 - name: Övertorneå
+  county-letter: BD
+  municipality-code: '2518'
   web: http://www.overtornea.se/
 
 
