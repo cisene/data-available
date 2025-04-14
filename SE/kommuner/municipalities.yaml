@@ -1,0 +1,873 @@
+municipalities:
+
+- name: Ale
+  web: http://www.ale.se/
+
+- name: Alingsås
+  web: http://www.alingsas.se/
+
+- name: Alvesta
+  web: http://www.alvesta.se/
+
+- name: Aneby
+  web: http://www.aneby.se/
+
+- name: Arboga
+  web: http://www.arboga.se/
+
+- name: Arjeplog
+  web: http://www.arjeplog.se/
+
+- name: Arvidsjaur
+  web: http://www.arvidsjaur.se/
+
+- name: Arvika
+  web: http://www.arvika.se/
+
+- name: Askersund
+  web: http://www.askersund.se/
+
+- name: Avesta
+  web: http://www.avesta.se/
+
+- name: Bengtsfors
+  web: http://www.bengtsfors.se/
+
+- name: Berg
+  web: http://www.berg.se/
+
+- name: Bjurholm
+  web: http://www.bjurholm.se/
+
+- name: Bjuv
+  web: http://www.bjuv.se/
+
+- name: Boden
+  web: http://www.boden.se/
+
+- name: Bollebygd
+  web: http://www.bollebygd.se/
+
+- name: Bollnäs
+  web: http://www.bollnas.se/
+
+- name: Borgholm
+  web: http://www.borgholm.se/
+
+- name: Borlänge
+  web: http://www.borlange.se/
+
+- name: Borås
+  web: http://www.boras.se/
+
+- name: Botkyrka
+  web: http://www.botkyrka.se/
+
+- name: Boxholm
+  web: http://www.boxholm.se/
+
+- name: Bromölla
+  web: http://www.bromolla.se/
+
+- name: Bräcke
+  web: http://www.bracke.se/
+
+- name: Burlöv
+  web: http://www.burlov.se/
+
+- name: Båstad
+  web: http://www.bastad.se/
+
+- name: Dals-Ed
+  web: http://www.dalsed.se/
+
+- name: Danderyd
+  web: https://www.danderyd.se/
+
+- name: Degerfors
+  web: http://www.degerfors.se/
+
+- name: Dorotea
+  web: http://www.dorotea.se/
+
+- name: Eda
+  web: http://www.eda.se/
+
+- name: Ekerö
+  web: http://www.ekero.se/
+
+- name: Eksjö
+  web: http://www.eksjo.se/
+
+- name: Emmaboda
+  web: http://www.emmaboda.se/
+
+- name: Enköping
+  web: http://www.enkoping.se/
+
+- name: Eskilstuna
+  web: http://www.eskilstuna.se/
+
+- name: Eslöv
+  web: http://www.eslov.se/
+
+- name: Essunga
+  web: http://www.essunga.se/
+
+- name: Fagersta
+  web: http://www.fagersta.se/
+
+- name: Falkenberg
+  web: http://www.falkenberg.se/
+
+- name: Falköping
+  web: http://www.falkoping.se/
+
+- name: Falun
+  web: http://www.falun.se/
+
+- name: Filipstad
+  web: http://www.filipstad.se/
+
+- name: Finspång
+  web: http://www.finspang.se/
+
+- name: Flen
+  web: http://www.flen.se/
+
+- name: Forshaga
+  web: http://www.forshaga.se/
+
+- name: Färgelanda
+  web: http://www.fargelanda.se/
+
+- name: Gagnef
+  web: http://www.gagnef.se/
+
+- name: Gislaved
+  web: http://www.gislaved.se/
+
+- name: Gnesta
+  web: http://www.gnesta.se/
+
+- name: Gnosjö
+  web: https://www.gnosjo.se/
+
+- name: Gotland
+  web: http://www.gotland.se/
+
+- name: Grums
+  web: http://www.grums.se/
+
+- name: Grästorp
+  web: http://www.grastorp.se/
+
+- name: Gullspång
+  web: http://www.gullspang.se/
+
+- name: Gällivare
+  web: https://gallivare.se
+
+- name: Gävle
+  web: https://www.gavle.se/
+
+- name: Göteborg
+  web: http://www.goteborg.se/
+
+- name: Götene
+  web: https://www.gotene.se/
+
+- name: Habo
+  web: http://www.habokommun.se/
+
+- name: Hagfors
+  web: http://www.hagfors.se/
+
+- name: Hallsberg
+  web: http://www.hallsberg.se/
+
+- name: Hallstahammar
+  web: http://www.hallstahammar.se/
+
+- name: Halmstad
+  web: http://www.halmstad.se/
+
+- name: Hammarö
+  web: http://www.hammaro.se/
+
+- name: Haninge
+  web: http://www.haninge.se/
+
+- name: Haparanda
+  web: http://www.haparanda.se/
+
+- name: Heby
+  web: http://www.heby.se/
+
+- name: Hedemora
+  web: http://www.hedemora.se/
+
+- name: Helsingborg
+  web: http://www.helsingborg.se/
+
+- name: Herrljunga
+  web: https://www.herrljunga.se/
+
+- name: Hjo
+  web: http://www.hjo.se/
+
+- name: Hofors
+  web: http://www.hofors.se/
+
+- name: Huddinge
+  web: http://www.huddinge.se/
+
+- name: Hudiksvall
+  web: http://www.hudiksvall.se/
+
+- name: Hultsfred
+  web: http://www.hultsfred.se/
+
+- name: Hylte
+  web: http://www.hylte.se/
+
+- name: Håbo
+  web: http://www.habo.se/
+
+- name: Hällefors
+  web: http://www.hellefors.se/
+
+- name: Härjedalen
+  web: http://www.herjedalen.se/
+
+- name: Härnösand
+  web: https://www.harnosand.se/
+
+- name: Härryda
+  web: http://www.harryda.se/
+
+- name: Hässleholm
+  web: http://www.hassleholm.se/
+
+- name: Höganäs
+  web: http://www.hoganas.se/
+
+- name: Högsby
+  web: http://www.hogsby.se/
+
+- name: Hörby
+  web: http://www.horby.se/
+
+- name: Höör
+  web: http://www.hoor.se/
+
+- name: Jokkmokk
+  web: http://www.jokkmokk.se/
+
+- name: Järfälla
+  web: http://www.jarfalla.se/
+
+- name: Jönköping
+  web: http://www.jonkoping.se/
+
+- name: Kalix
+  web: http://www.kalix.se/
+
+- name: Kalmar
+  web: http://www.kalmar.se/
+
+- name: Karlsborg
+  web: http://www.karlsborg.se/
+
+- name: Karlshamn
+  web: http://www.karlshamn.se/
+
+- name: Karlskoga
+  web: https://www.karlskoga.se/
+
+- name: Karlskrona
+  web: http://www.karlskrona.se/
+
+- name: Karlstad
+  web: http://www.karlstad.se/
+
+- name: Katrineholm
+  web: http://www.katrineholm.se/
+
+- name: Kil
+  web: http://www.kil.se/
+
+- name: Kinda
+  web: http://www.kinda.se/
+
+- name: Kiruna
+  web: http://kiruna.se/
+
+- name: Klippan
+  web: http://www.klippan.se/
+
+- name: Knivsta
+  web: http://www.knivsta.se/
+
+- name: Kramfors
+  web: http://www.kramfors.se/
+
+- name: Kristianstad
+  web: https://www.kristianstad.se/
+
+- name: Kristinehamn
+  web: http://www.kristinehamn.se/
+
+- name: Krokom
+  web: http://www.krokom.se/
+
+- name: Kumla
+  web: http://www.kumla.se/
+
+- name: Kungsbacka
+  web: http://www.kungsbacka.se/
+
+- name: Kungsör
+  web: http://www.kungsor.se/
+
+- name: Kungälv
+  web: http://www.kungalv.se/
+
+- name: Kävlinge
+  web: http://www.kavlinge.se/
+
+- name: Köping
+  web: http://www.koping.se/
+
+- name: Laholm
+  web: http://www.laholm.se/
+
+- name: Landskrona
+  web: http://www.landskrona.se/
+
+- name: Laxå
+  web: http://www.laxa.se/
+
+- name: Lekeberg
+  web: http://www.lekeberg.se/
+
+- name: Leksand
+  web: http://www.leksand.se/
+
+- name: Lerum
+  web: http://www.lerum.se/
+
+- name: Lessebo
+  web: http://www.lessebo.se/
+
+- name: Lidingö
+  web: http://www.lidingo.se/
+
+- name: Lidköping
+  web: http://www.lidkoping.se/
+
+- name: Lilla Edet
+  web: http://www.lillaedet.se/
+
+- name: Lindesberg
+  web: http://www.lindesberg.se/
+
+- name: Linköping
+  web: http://www.linkoping.se/
+
+- name: Ljungby
+  web: http://www.ljungby.se/
+
+- name: Ljusdal
+  web: https://www.ljusdal.se/
+
+- name: Ljusnarsberg
+  web: http://www.ljusnarsberg.se/
+
+- name: Lomma
+  web: http://www.lomma.se/
+
+- name: Ludvika
+  web: http://www.ludvika.se/
+
+- name: Luleå
+  web: http://www.lulea.se/
+
+- name: Lund
+  web: http://www.lund.se/
+
+- name: Lycksele
+  web: http://www.lycksele.se/
+
+- name: Lysekil
+  web: http://www.lysekil.se/
+
+- name: Malmö
+  web: http://www.malmo.se/
+
+- name: Malung-Sälen
+  web: https://malung-salen.se/
+
+- name: Malå
+  web: http://www.mala.se/
+
+- name: Mariestad
+  web: http://www.mariestad.se/
+
+- name: Mark
+  web: http://www.mark.se/
+
+- name: Markaryd
+  web: http://www.markaryd.se/
+
+- name: Mellerud
+  web: http://www.mellerud.se/
+
+- name: Mjölby
+  web: https://www.mjolby.se/
+
+- name: Mora
+  web: https://morakommun.se/
+
+- name: Motala
+  web: http://www.motala.se/
+
+- name: Mullsjö
+  web: http://www.mullsjo.se/
+
+- name: Munkedal
+  web: http://www.munkedal.se/
+
+- name: Munkfors
+  web: http://www.munkfors.se/
+
+- name: Mölndal
+  web: http://www.molndal.se/
+
+- name: Mönsterås
+  web: http://www.monsteras.se/
+
+- name: Mörbylånga
+  web: http://www.morbylanga.se/
+
+- name: Nacka
+  web: http://www.nacka.se/
+
+- name: Nora
+  web: http://www.nora.se/
+
+- name: Norberg
+  web: http://www.norberg.se/
+
+- name: Nordanstig
+  web: http://www.nordanstig.se/
+
+- name: Nordmaling
+  web: https://www.nordmaling.se/
+
+- name: Norrköping
+  web: http://www.norrkoping.se/
+
+- name: Norrtälje
+  web: https://www.norrtalje.se/
+
+- name: Norsjö
+  web: http://www.norsjo.se/
+
+- name: Nybro
+  web: http://www.nybro.se/
+
+- name: Nykvarn
+  web: http://www.nykvarn.se/
+
+- name: Nyköping
+  web: https://www.nykoping.se/
+
+- name: Nynäshamn
+  web: http://www.nynashamn.se/
+
+- name: Nässjö
+  web: http://www.nassjo.se/
+
+- name: Ockelbo
+  web: https://www.ockelbo.se/
+
+- name: Olofström
+  web: http://www.olofstrom.se/
+
+- name: Orsa
+  web: http://www.orsa.se/
+
+- name: Orust
+  web: http://www.orust.se/
+
+- name: Osby
+  web: http://www.osby.se/
+
+- name: Oskarshamn
+  web: https://www.oskarshamn.se/
+
+- name: Ovanåker
+  web: http://www.ovanaker.se/
+
+- name: Oxelösund
+  web: http://www.oxelosund.se/
+
+- name: Pajala
+  web: http://www.pajala.se/
+
+- name: Partille
+  web: http://www.partille.se/
+
+- name: Perstorp
+  web: http://www.perstorp.se/
+
+- name: Piteå
+  web: http://www.pitea.se/
+
+- name: Ragunda
+  web: http://www.ragunda.se/
+
+- name: Robertsfors
+  web: http://www.robertsfors.se/
+
+- name: Ronneby
+  web: http://www.ronneby.se/
+
+- name: Rättvik
+  web: http://www.rattvik.se/
+
+- name: Sala
+  web: http://www.sala.se/
+
+- name: Salem
+  web: http://www.salem.se/
+
+- name: Sandviken
+  web: http://www.sandviken.se/
+
+- name: Sigtuna
+  web: http://www.sigtuna.se/
+
+- name: Simrishamn
+  web: http://www.simrishamn.se/
+
+- name: Sjöbo
+  web: http://www.sjobo.se/
+
+- name: Skara
+  web: http://www.skara.se/
+
+- name: Skellefteå
+  web: http://www.skelleftea.se/
+
+- name: Skinnskatteberg
+  web: http://www.skinnskatteberg.se/
+
+- name: Skurup
+  web: http://www.skurup.se/
+
+- name: Skövde
+  web: http://www.skovde.se/
+
+- name: Smedjebacken
+  web: http://www.smedjebacken.se/
+
+- name: Sollefteå
+  web: https://www.solleftea.se/
+
+- name: Sollentuna
+  web: http://www.sollentuna.se/
+
+- name: Solna
+  web: http://www.solna.se/
+
+- name: Sorsele
+  web: http://www.sorsele.se/
+
+- name: Sotenäs
+  web: http://www.sotenas.se/
+
+- name: Staffanstorp
+  web: http://www.staffanstorp.se/
+
+- name: Stenungsund
+  web: http://www.stenungsund.se/
+
+- name: Stockholm
+  web: http://www.stockholm.se/
+
+- name: Storfors
+  web: http://www.storfors.se/
+
+- name: Storuman
+  web: http://www.storuman.se/
+
+- name: Strängnäs
+  web: http://www.strangnas.se/
+
+- name: Strömstad
+  web: http://www.stromstad.se/
+
+- name: Strömsund
+  web: http://www.stromsund.se/
+
+- name: Sundbyberg
+  web: http://www.sundbyberg.se/
+
+- name: Sundsvall
+  web: https://sundsvall.se/
+
+- name: Sunne
+  web: http://www.sunne.se/
+
+- name: Surahammar
+  web: http://www.surahammar.se/
+
+- name: Svalöv
+  web: http://www.svalov.se/
+
+- name: Svedala
+  web: http://www.svedala.se/
+
+- name: Svenljunga
+  web: https://www.svenljunga.se/
+
+- name: Säffle
+  web: http://www.saffle.se/
+
+- name: Säter
+  web: http://www.sater.se/
+
+- name: Sävsjö
+  web: http://www.savsjo.se/
+
+- name: Söderhamn
+  web: http://www.soderhamn.se/
+
+- name: Söderköping
+  web: http://www.soderkoping.se/
+
+- name: Södertälje
+  web: http://www.sodertalje.se/
+
+- name: Sölvesborg
+  web: http://www.solvesborg.se/
+
+- name: Tanum
+  web: http://www.tanum.se/
+
+- name: Tibro
+  web: http://www.tibro.se/
+
+- name: Tidaholm
+  web: http://www.tidaholm.se/
+
+- name: Tierp
+  web: http://www.tierp.se/
+
+- name: Timrå
+  web: http://www.timra.se/
+
+- name: Tingsryd
+  web: http://www.tingsryd.se/
+
+- name: Tjörn
+  web: http://www.tjorn.se/
+
+- name: Tomelilla
+  web: http://www.tomelilla.se/
+
+- name: Torsby
+  web: http://www.torsby.se/
+
+- name: Torsås
+  web: https://www.torsas.se/
+
+- name: Tranemo
+  web: http://www.tranemo.se/
+
+- name: Tranås
+  web: http://www.tranas.se/
+
+- name: Trelleborg
+  web: http://www.trelleborg.se/
+
+- name: Trollhättan
+  web: http://www.trollhattan.se/
+
+- name: Trosa
+  web: http://www.trosa.se/
+
+- name: Tyresö
+  web: http://www.tyreso.se/
+
+- name: Täby
+  web: http://www.taby.se/
+
+- name: Töreboda
+  web: http://www.toreboda.se/
+
+- name: Uddevalla
+  web: http://www.uddevalla.se/
+
+- name: Ulricehamn
+  web: http://www.ulricehamn.se/
+
+- name: Umeå
+  web: http://www.umea.se/
+
+- name: Upplands-Bro
+  web: http://www.upplands-bro.se/
+
+- name: Upplands Väsby
+  web: http://www.upplandsvasby.se/
+
+- name: Uppsala
+  web: https://www.uppsala.se/
+
+- name: Uppvidinge
+  web: http://www.uppvidinge.se/
+
+- name: Vadstena
+  web: http://www.vadstena.se/
+
+- name: Vaggeryd
+  web: http://www.vaggeryd.se/
+
+- name: Valdemarsvik
+  web: http://www.valdemarsvik.se/
+
+- name: Vallentuna
+  web: https://www.vallentuna.se/
+
+- name: Vansbro
+  web: http://www.vansbro.se/
+
+- name: Vara
+  web: http://www.vara.se/
+
+- name: Varberg
+  web: http://www.varberg.se/
+
+- name: Vaxholm
+  web: http://www.vaxholm.se/
+
+- name: Vellinge
+  web: http://www.vellinge.se/
+
+- name: Vetlanda
+  web: http://www.vetlanda.se/
+
+- name: Vilhelmina
+  web: http://www.vilhelmina.se/
+
+- name: Vimmerby
+  web: http://www.vimmerby.se/
+
+- name: Vindeln
+  web: http://www.vindeln.se/
+
+- name: Vingåker
+  web: http://www.vingaker.se/
+
+- name: Vårgårda
+  web: http://www.vargarda.se/
+
+- name: Vänersborg
+  web: http://www.vanersborg.se/
+
+- name: Vännäs
+  web: http://www.vannas.se/
+
+- name: Värmdö
+  web: http://www.varmdo.se/
+
+- name: Värnamo
+  web: http://www.varnamo.se/
+
+- name: Västervik
+  web: http://www.vastervik.se/
+
+- name: Västerås
+  web: http://www.vasteras.se/
+
+- name: Växjö
+  web: http://www.vaxjo.se/
+
+- name: Ydre
+  web: http://www.ydre.se/
+
+- name: Ystad
+  web: http://www.ystad.se/
+
+- name: Åmål
+  web: http://www.amal.se/
+
+- name: Ånge
+  web: http://www.ange.se/
+
+- name: Åre
+  web: https://www.are.se/
+
+- name: Årjäng
+  web: http://www.arjang.se/
+
+- name: Åsele
+  web: http://www.asele.se/
+
+- name: Åstorp
+  web: http://www.astorp.se/
+
+- name: Åtvidaberg
+  web: http://www.atvidaberg.se/
+
+- name: Älmhult
+  web: http://www.almhult.se/
+
+- name: Älvdalen
+  web: http://www.alvdalen.se/
+
+- name: Älvkarleby
+  web: http://www.alvkarleby.se/
+
+- name: Älvsbyn
+  web: http://www.alvsbyn.se/
+
+- name: Ängelholm
+  web: http://www.engelholm.se/
+
+- name: Öckerö
+  web: http://www.ockero.se/
+
+- name: Ödeshög
+  web: http://www.odeshog.se/
+
+- name: Örebro
+  web: http://www.orebro.se/
+
+- name: Örkelljunga
+  web: http://www.orkelljunga.se/
+
+- name: Örnsköldsvik
+  web: http://www.ornskoldsvik.se/
+
+- name: Östersund
+  web: http://www.ostersund.se/
+
+- name: Österåker
+  web: https://www.osteraker.se/
+
+- name: Östhammar
+  web: http://www.osthammar.se/
+
+- name: Östra Göinge
+  web: http://www.ostragoinge.se/
+
+- name: Överkalix
+  web: http://www.overkalix.se/
+
+- name: Övertorneå
+  web: http://www.overtornea.se/
+
+
