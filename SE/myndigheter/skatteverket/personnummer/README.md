@@ -31,13 +31,13 @@ Skatteverket skapar varje år nya testpersonnummer, dessa är samlade här.
 | 1910 | [Testpersonnummer - 1910](./1910/Testpersonnummer.csv) |
 | 1911 | [Testpersonnummer - 1911](./1911/Testpersonnummer.csv) |
 | 1912 | [Testpersonnummer - 1912](./1912/Testpersonnummer.csv) |
-| 1913 | [Testpersonnummer - 1913](./1913/Testpersonnummer.csv) |
-| 1914 | [Testpersonnummer - 1914](./1914/Testpersonnummer.csv) |
-| 1915 | [Testpersonnummer - 1915](./1915/Testpersonnummer.csv) |
-| 1916 | [Testpersonnummer - 1916](./1916/Testpersonnummer.csv) |
-| 1917 | [Testpersonnummer - 1917](./1917/Testpersonnummer.csv) |
-| 1918 | [Testpersonnummer - 1918](./1918/Testpersonnummer.csv) |
-| 1919 | [Testpersonnummer - 1919](./1919/Testpersonnummer.csv) |
+| 1913 | (Saknas)                                               |
+| 1914 | (Saknas)                                               |
+| 1915 | (Saknas)                                               |
+| 1916 | (Saknas)                                               |
+| 1917 | (Saknas)                                               |
+| 1918 | (Saknas)                                               |
+| 1919 | (Saknas)                                               |
 | 1920 | [Testpersonnummer - 1920](./1920/Testpersonnummer.csv) |
 | 1921 | [Testpersonnummer - 1921](./1921/Testpersonnummer.csv) |
 | 1922 | [Testpersonnummer - 1922](./1922/Testpersonnummer.csv) |
