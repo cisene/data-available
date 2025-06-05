@@ -155,6 +155,9 @@ def countryLookup(data):
   if re.search(r"(Ryska\sFederationen|Ryssland)", str(data), flags=re.IGNORECASE):
     result = { 'country': 'Russian Federation', 'countrycode': 'ru', 'numericcode': '', 'continent': 'europe' }
 
+  if re.search(r"Rwanda", str(data), flags=re.IGNORECASE):
+    result = { 'country': 'Rwanda', 'countrycode': 'rw', 'numericcode': '', 'continent': 'africa'}
+
   if re.search(r"Saudiarabien", str(data), flags=re.IGNORECASE):
     result = { 'country': 'Saudi Arabia', 'countrycode': 'sa', 'numericcode': '', 'continent': 'asia' }
 
