@@ -20,3 +20,6 @@
 | 19870314-2391 | Specimen              | Sven           |    M |
 | 19900102-2384 | Andersson             | Anna           |    K |
 | 19901126-2396 | RÄKSMÖRGÅS Skärgårdsö | Güñthér        |    M |
+| 19660610-5935 | Nilsson               | Stig           |    M |
+| 19800610-5935 | Nilsson               | Stig           |    M |
+| 19500610-5935 | Nilsson               | Stig           |    M |
