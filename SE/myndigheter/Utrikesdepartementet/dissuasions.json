@@ -1,7 +1,7 @@
 {
   "@meta": {
     "source": "https://www.regeringen.se/ud-avrader/", 
-    "updated": "2025-06-05 19:12:13+0100"
+    "updated": "2025-07-24 14:39:47+0100"
   }, 
   "countries": [
     {
@@ -262,9 +262,9 @@
       "continent": "asia", 
       "link": "https://www.regeringen.se/ud-avrader/irak---avradan/", 
       "dissuasion": {
-        "begin": "2020-01-07T00:00:00+0100", 
+        "begin": "2025-07-02T00:00:00+0100", 
         "end": null, 
-        "updated": "2020-01-07T00:00:00+0100", 
+        "updated": "2025-07-02T00:00:00+0100", 
         "ongoing_without_limitation": true
       }
     }, 
@@ -286,9 +286,9 @@
       "continent": "asia", 
       "link": "https://www.regeringen.se/ud-avrader/israel---avradan/", 
       "dissuasion": {
-        "begin": "2025-02-07T00:00:00+0100", 
+        "begin": "2025-07-02T00:00:00+0100", 
         "end": null, 
-        "updated": "2025-02-07T00:00:00+0100", 
+        "updated": "2025-07-02T00:00:00+0100", 
         "ongoing_without_limitation": true
       }
     }, 
@@ -456,7 +456,7 @@
       "dissuasion": {
         "begin": "2015-02-10T00:00:00+0100", 
         "end": null, 
-        "updated": "2023-05-26T00:00:00+0100", 
+        "updated": "2025-07-07T16:10:00+0100", 
         "ongoing_without_limitation": true
       }
     }, 
@@ -490,9 +490,9 @@
       "continent": "asia", 
       "link": "https://www.regeringen.se/ud-avrader/palestina---avradan/", 
       "dissuasion": {
-        "begin": "2025-02-07T00:00:00+0100", 
+        "begin": "2025-06-14T00:00:00+0100", 
         "end": null, 
-        "updated": "2025-02-07T00:00:00+0100", 
+        "updated": "2025-07-02T09:30:00+0100", 
         "ongoing_without_limitation": true
       }
     }, 
