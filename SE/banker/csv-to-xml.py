@@ -131,7 +131,7 @@ def readCSV(filename):
         if rangeNumbers['start'] in ignore_list:
           continue
 
-        actor       = line[1]
+        actor       = str(line[1]).strip()
         bic         = line[2]
         iban        = line[3]
         accountType = line[4]
