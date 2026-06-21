@@ -1,0 +1,587 @@
+
+- publication: Computer Sweden
+  rss:
+  - name: Computer Sweden
+    htmlUrl: https://computersweden.se/
+    xmlUrl: https://computersweden.se/feed/
+
+  - name: M3
+    htmlUrl: https://www.m3.se/tester
+    xmlUrl: https://www.m3.se/feed
+
+  - name: MacWorld
+    htmlUrl: https://www.macworld.se/
+    xmlUrl: https://www.macworld.se/feed
+
+- publication: Dagens Nyheter
+  rss:
+  - name: Dagens Nyheter - Ekonomi
+    htmlUrl: https://www.dn.se/ekonomi/
+    xmlUrl: https://www.dn.se/rss/ekonomi/
+
+  - name: Dagens Nyheter - Sport
+    htmlUrl: https://www.dn.se/sport/
+    xmlUrl: https://www.dn.se/rss/sport/
+
+  - name: Dagens Nyheter - Fotboll
+    htmlUrl: https://www.dn.se/om/fotboll/
+    xmlUrl: https://www.dn.se/rss/om/fotboll/
+
+  - name: Dagens Nyheter - Ishockey
+    htmlUrl: https://www.dn.se/om/ishockey/
+    xmlUrl: https://www.dn.se/rss/om/ishockey/
+
+  - name: Dagens Nyheter - Ridsport
+    htmlUrl: https://www.dn.se/om/ridsport/
+    xmlUrl: https://www.dn.se/rss/om/ridsport/
+
+  - name: Dagens Nyheter - Längdskidor
+    htmlUrl: https://www.dn.se/om/langdskidakning/
+    xmlUrl: https://www.dn.se/rss/om/langdskidakning/
+
+  - name: Dagens Nyheter - Politik
+    htmlUrl: https://www.dn.se/om/svensk-politik/
+    xmlUrl: https://www.dn.se/rss/om/svensk-politik/
+
+  - name: Dagens Nyheter - Vetenskap
+    htmlUrl: https://www.dn.se/vetenskap/
+    xmlUrl: https://www.dn.se/rss/vetenskap/
+
+  - name: Dagens Nyheter - Fakta i Frågan
+    htmlUrl: https://www.dn.se/om/fakta-i-fragan/
+    xmlUrl: https://www.dn.se/rss/om/fakta-i-fragan/
+
+  - name: Dagens Nyheter - Motor
+    htmlUrl: https://www.dn.se/motor/
+    xmlUrl: https://www.dn.se/rss/motor/
+
+  - name: Dagens Nyheter - Din Ekonomi
+    htmlUrl: https://www.dn.se/om/din-ekonomi/
+    xmlUrl: https://www.dn.se/rss/om/din-ekonomi/
+
+  - name: Dagens Nyheter - Börs
+    htmlUrl: https://www.dn.se/ekonomi/bors/
+    xmlUrl: https://www.dn.se/rss/ekonomi/bors/
+
+  - name: Dagens Nyheter - Debatt
+    htmlUrl: https://www.dn.se/debatt/
+    xmlUrl: https://www.dn.se/rss/debatt/
+
+  - name: Dagens Nyheter - Sverige
+    htmlUrl: https://www.dn.se/sverige/
+    xmlUrl: https://www.dn.se/rss/sverige/
+
+  - name: Dagens Nyheter - Världen
+    htmlUrl: https://www.dn.se/varlden/
+    xmlUrl: https://www.dn.se/rss/varlden/
+
+  - name: Dagens Nyheter - Kultur
+    htmlUrl: https://www.dn.se/kultur/
+    xmlUrl: https://www.dn.se/rss/kultur/
+
+  - name: Dagens Nyheter - Klimatet
+    htmlUrl: https://www.dn.se/om/klimatet/
+    xmlUrl: https://www.dn.se/rss/om/klimatet/
+
+  - name: Dagens Nyheter - Ledare
+    htmlUrl: https://www.dn.se/ledare/
+    xmlUrl: https://www.dn.se/rss/ledare/
+
+  - name: Dagens Nyheter - Repliker
+    htmlUrl: https://www.dn.se/om/replik-ledare/
+    xmlUrl: https://www.dn.se/rss/om/replik-ledare/
+
+  - name: Dagens Nyheter - Stockholm
+    htmlUrl: https://www.dn.se/sthlm/
+    xmlUrl: https://www.dn.se/rss/sthlm/
+
+  - name: Dagens Nyheter - Göteborg
+    htmlUrl: https://www.dn.se/gbg/
+    xmlUrl: https://www.dn.se/rss/gbg/
+
+  - name: Dagens Nyheter - Skåne
+    htmlUrl: https://www.dn.se/skane/
+    xmlUrl: https://www.dn.se/rss/skane/
+
+  - name: Dagens Nyheter - Norra Sverige
+    htmlUrl: https://www.dn.se/norra-sverige/
+    xmlUrl: https://www.dn.se/rss/norra-sverige/
+
+  - name: Dagens Nyheter - Insidan
+    htmlUrl: https://www.dn.se/insidan/
+    xmlUrl: https://www.dn.se/rss/insidan/
+
+  - name: Dagens Nyheter - Hälsa
+    htmlUrl: https://www.dn.se/om/halsa/
+    xmlUrl: https://www.dn.se/rss/om/halsa/
+
+  - name: Dagens Nyheter - Krogkommissionen
+    htmlUrl: https://www.dn.se/om/krogkommissionen/
+    xmlUrl: https://www.dn.se/rss/om/krogkommissionen/
+
+  - name: Dagens Nyheter - Nyhetsdygnet
+    htmlUrl: https://www.dn.se/nyhetsdygnet/
+    xmlUrl: https://www.dn.se/rss/nyhetsdygnet/
+
+  - name: Dagens Nyheter - Privatekonomi
+    htmlUrl: https://www.dn.se/om/privatekonomi/
+    xmlUrl: https://www.dn.se/rss/om/privatekonomi/
+
+- publication: Expressen
+  rss:
+  - name: Expressen - Nyheter
+    htmlUrl: null
+    xmlUrl: http://expressen.se/rss/nyheter
+
+  - name: Expressen - Senaste Nyheterna
+    htmlUrl: null
+    xmlUrl: http://expressen.se/expressen/jsp/rss/
+
+  - name: Expressen - Sport
+    htmlUrl: null
+    xmlUrl: http://expressen.se/rss/sport
+
+  - name: Expressen - Nöje
+    htmlUrl: null
+    xmlUrl: http://expressen.se/rss/noje
+
+  - name: Expressen - Nöje Senaste Nytt
+    htmlUrl: null
+    xmlUrl: http://expressen.se/expressen/jsp/rss/?avdelning=112
+
+  - name: Falu-Kuriren - Senaste Nytt
+    htmlUrl: null
+    xmlUrl: http://www.falukuriren.se/rss/senastenytt/
+
+- name: Gotlandska.se
+  htmlUrl: null
+  xmlUrl: http://www.gotlandska.se/rss/rss.asp
+
+- publication: Göteborgsposten
+  rss:
+  - name: Göteborgs-Posten - Inrikes
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=102
+
+  - name: Göteborgs-Posten - Utrikes
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=103
+
+  - name: Göteborgs-Posten - Sport
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=104
+
+  - name: Göteborgs-Posten - Kultur
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=110
+
+  - name: Göteborgs-Posten - Opinion
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=122
+
+  - name: Göteborgs-Posten - Fotboll
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=128
+
+  - name: Göteborgs-Posten - Nöje
+    htmlUrl: null
+    xmlUrl: http://www.gp.se/rss/index.jsp?d=180
+
+- name: Hockeymagasinet
+  htmlUrl: null
+  xmlUrl: http://hockeymagasinet.fpgroup.se/newsfeed.xml
+
+
+- publication: Motornyheter FART
+  rss:
+  - name: Motornyheter FART
+    htmlUrl: null
+    xmlUrl: http://www.fart.se/rss.php
+
+  - name: Motornyheter FART - Bilar
+    htmlUrl: null
+    xmlUrl: http://www.fart.se/rss.php?bilar
+
+  - name: Motornyheter FART - Motorsport
+    htmlUrl: null
+    xmlUrl: http://www.fart.se/rss.php?motorsport
+
+- publication: Kristianstadsbladet
+  rss:
+  - name: Kristianstadsbladet
+    htmlUrl: null
+    xmlUrl: http://www.kristianstadsbladet.se/apps/pbcs.dll/section?Category=RSS&profile=1052
+
+- publication: Norrköpings Tidningar
+  rss:
+  - name: NT - Senaste Nytt
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Senaste_nytt.xml
+
+  - name: NT - Norrköping
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Norrkoping.xml
+
+  - name: NT - Finspång
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Finspang.xml
+
+  - name: NT - Söderköping
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Soderkoping.xml
+
+  - name: NT - Valdemarsvik
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Valdemarsvik.xml
+
+  - name: NT - Sport
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Sport.xml
+
+  - name: NT - Opinion
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Debatt.xml
+
+  - name: NT - Nöje
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Noje.xml
+
+  - name: NT - Ung
+    htmlUrl: null
+    xmlUrl: http://common.teknomedia.se/rss/xml/data/NT_Ung.xml
+
+- publication: Ny Teknik
+  rss:
+  - name: Ny Teknik
+    htmlUrl: null
+    xmlUrl: http://www.nyteknik.se/nytrss.asp
+
+- publication: Privata Affärer
+  rss:
+  - name: Privata Affärer - Nyheter
+    htmlUrl: null
+    xmlUrl: http://www.privataaffarer.se/rss/nyheter/default.asp
+
+  - name: Privata Affärer - Telegram
+    htmlUrl: null
+    xmlUrl: http://www.privataaffarer.se/rss/telegram/default.asp
+
+  - name: Privata Affärer - Press releaser
+    htmlUrl: null
+    xmlUrl: http://www.privataaffarer.se/rss/press/default.asp
+
+  - name: Privata Affärer - Analyser
+    htmlUrl: null
+    xmlUrl: http://www.privataaffarer.se/rss/analyser/default.asp
+
+- publication: Smålandsposten
+  rss:
+  - name: Smålandsposten
+    htmlUrl: null
+    xmlUrl: http://www.smp.se/extras/rss.php
+
+  - name: Smålandsposten - Sport
+    htmlUrl: null
+    xmlUrl: http://www.smp.se/extras/rss.php?args=,102
+
+- publication: Sveriges Radio
+  rss:
+  - name: SR Ekot
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/nyheterRSS.xml
+
+  - name: SR Ekonomi ekot
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/ekonomiRSS.xml
+
+  - name: SR Kulturnytt
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/kulturRSS.xml
+
+  - name: SR Mitt i musiken
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/mittimusikenRSS.xml
+
+  - name: SR Musikjournalen
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/musikRSS.xml
+
+  - name: SR Radiosporten
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/sportRSS.xml
+
+  - name: SR Sisuradio
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/sisuradioRSS.xml
+
+  - name: SR Vetenskapsnytt
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/vetenskapRSS.xml
+
+  - name: SR Blekinge
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/blekingeRSS.xml
+
+  - name: SR Dalarna
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/dalarnaRSS.xml
+
+  - name: SR Gävleborg
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/gavleborgRSS.xml
+
+  - name: SR Göteborg
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/goteborgRSS.xml
+
+  - name: SR Gotland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/gotlandRSS.xml
+
+  - name: SR Halland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/hallandRSS.xml
+
+  - name: SR Jämtland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/jamtlandRSS.xml
+
+  - name: SR Jönköping
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/jonkopingRSS.xml
+
+  - name: SR Kalmar
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/kalmarRSS.xml
+
+  - name: SR Kristianstad
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/kristianstadRSS.xml
+
+  - name: SR Kronoberg
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/kronobergRSS.xml
+
+  - name: SR Malmö
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/malmoRSS.xml
+
+  - name: SR Norrbotten
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/norrbottenRSS.xml
+
+  - name: Radio Stockholm
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/stockholmRSS.xml
+
+  - name: SR Sjuhärad
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/sjuharadRSS.xml
+
+  - name: SR Skaraborg
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/skaraborgRSS.xml
+
+  - name: SR Sörmland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/sormlandRSS.xml
+
+  - name: SR Uppland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/upplandRSS.xml
+
+  - name: SR Värmland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/varmlandRSS.xml
+
+  - name: SR Väst
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/vastRSS.xml
+
+  - name: SR Västerbotten
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/vasterbottenRSS.xml
+
+  - name: SR Västernorrland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/vasternorrlandRSS.xml
+
+  - name: SR Västmanland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/vastmanlandRSS.xml
+
+  - name: SR Örebro
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/orebroRSS.xml
+
+  - name: SR Östergötland
+    htmlUrl: null
+    xmlUrl: http://www.sr.se/xml_news/rss/ostergotlandRSS.xml
+
+- publication: Stockholms Fria Tidning
+  rss:
+  - name: Stockholms Fria Tidning - Opinion
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=2
+
+  - name: Stockholms Fria Tidning - "Inledare"
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=1
+
+  - name: Stockholms Fria Tidning - Sweden
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=4
+
+  - name: Stockholms Fria Tidning - Kultur
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=7
+
+  - name: Stockholms Fria Tidning - På gång
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=11
+
+  - name: Stockholms Fria Tidning - Sport
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=8
+
+  - name: Stockholms Fria Tidning - Stockholm
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=3
+
+  - name: Stockholms Fria Tidning - "Synpunkten"
+    htmlUrl: null
+    xmlUrl: http://stockholms.fria.nu/backend.php?cat=9
+
+- publication: Svenska Dagbladet
+  rss:
+  - name: Svenska Dagbladet - Toppnyheter
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/svd_top.xml
+
+  - name: Svenska Dagbladet - Senaste nyheterna
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/senastenytt.xml
+
+  - name: Svenska Dagbladet - Inrikes
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/inrikes.xml
+
+  - name: Svenska Dagbladet - Utrikes
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/utrikes.xml
+
+  - name: Svenska Dagbladet - Sport
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/sport.xml
+
+  - name: Svenska Dagbladet - Ekonomi toppnyheter
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/naringsliv.xml
+
+  - name: Svenska Dagbladet - Ekonomi senaste nyheterna
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/naringsliv.xml
+
+  - name: Svenska Dagbladet - Telekom, IT
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/TelekomIT.xml
+
+  - name: Svenska Dagbladet - Privatekonomi
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/privatekonomi.xml
+
+  - name: Svenska Dagbladet - Kultur/Nöje toppnyheter
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/kultur_top.xml
+
+  - name: Svenska Dagbladet - Kultur/Nöje senaste nyheterna
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/kultur.xml
+
+  - name: Svenska Dagbladet - Nöje senaste nyheterna
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/noje.xml
+
+  - name: Svenska Dagbladet - Resor
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/resor.xml
+
+  - name: Svenska Dagbladet - Musikrecentioner
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/skivor.xml
+
+  - name: Svenska Dagbladet - Bokrecentioner
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/litteratur.xml
+
+  - name: Svenska Dagbladet - Filmrecentioner
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/film.xml
+
+  - name: Svenska Dagbladet - Teater/Showrecentioner
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/scen.xml
+
+  - name: Svenska Dagbladet - Krogrecentioner
+    htmlUrl: null
+    xmlUrl: http://www.svd.se/articleexport/rss20/krog.xml
+
+- publication: Sveriges Television
+  rss:
+  - name: SVT - Hockey
+    htmlUrl: null
+    xmlUrl: http://svt.se/rss/sport/ishockey.xml
+
+  - name: SVT - Senaste nyheterna
+    htmlUrl: null
+    xmlUrl: http://svt.se/rss/nyheter/lop
+
+  - name: SVT - Sport
+    htmlUrl: null
+    xmlUrl: http://svt.se/rss/sport/
+
+  - name: SVT - Tvärsnytt
+    htmlUrl: null
+    xmlUrl: http://svt.se/rss/nyheter/tvarsnytt
+
+- publication: Sydsvenska Dagbladet
+  rss:
+  - name: Sydsvenska Dagbladet
+    htmlUrl: null
+    xmlUrl: http://w1.sydsvenskan.se/export/rss/senastenytt.jsp
+
+- publication: The Local
+  rss:
+  - name: The Local
+    htmlUrl: null
+    xmlUrl: http://www.thelocal.se/RSS/theLocal.xml
+
+- publication: Trelleborgs Allehanda
+  rss:
+  - name: Trelleborgs Allehanda
+    htmlUrl: null
+    xmlUrl: http://www.trelleborgsallehanda.se/apps/pbcs.dll/section?Category=RSS&profile=1301
+
+- publication: Vimmerby Tidning
+  rss:
+  - name: Vimmerby Tidning
+    htmlUrl: null
+    xmlUrl: http://www.vimmerbytidning.se/rss.xml
+
+- publication: Västerbottens-Kuriren
+  rss:
+  - name: Västerbottens-Kuriren
+    htmlUrl: null
+    xmlUrl: http://www.torkel.se/vk.rdf
+
+- publication: Ystads Allehanda
+  rss:
+  - name: Ystads Allehanda
+    htmlUrl: null
+    xmlUrl: http://www.ystadsallehanda.se/apps/pbcs.dll/section?Category=RSS&profile=1247
+
+- publication: Östgöta Correspondenten
+  rss:
+  - name: Östgöta Correspondenten
+    htmlUrl: null
+    xmlUrl: http://www.corren.se/rss.xml
