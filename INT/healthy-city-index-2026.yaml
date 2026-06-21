@@ -1,0 +1,1251 @@
+index:
+
+- rank: 1
+  city: Oslo
+  country: Norway
+  points: 6919
+
+- rank: 2
+  city: Uppsala
+  country: Sweden
+  points: 6856
+
+- rank: 3
+  city: Helsinki
+  country: Finland
+  points: 6850
+
+- rank: 4
+  city: Västerås
+  country: Sweden
+  points: 6567
+
+- rank: 5
+  city: Tokyo
+  country: Japan
+  points: 6559
+
+- rank: 6
+  city: Grenoble
+  country: France
+  points: 6546
+
+- rank: 7
+  city: Trondheim
+  country: Norway
+  points: 6513
+
+- rank: 8
+  city: Malmö
+  country: Sweden
+  points: 6510
+
+- rank: 9
+  city: Espoo
+  country: Finland
+  points: 6505
+
+- rank: 10
+  city: Cambridge
+  country: United Kingdom
+  points: 6489
+
+- rank: 11
+  city: Klagenfurt am Wörthersee
+  country: Austria
+  points: 6481
+
+- rank: 12
+  city: Yokohama
+  country: Japan
+  points: 6467
+
+- rank: 13
+  city: Funabashi
+  country: Japan
+  points: 6454
+
+- rank: 14
+  city: Copenhagen
+  country: Denmark
+  points: 6448
+
+- rank: 15
+  city: Paris
+  country: France
+  points: 6423
+
+- rank: 16
+  city: Munich
+  country: Germany
+  points: 6397
+
+- rank: 17
+  city: Bern
+  country: Switzerland
+  points: 6368
+
+- rank: 18
+  city: Jönköping
+  country: Sweden
+  points: 6365
+
+- rank: 19
+  city: Geneva
+  country: Switzerland
+  points: 6351
+
+- rank: 20
+  city: Reykjavik
+  country: Iceland
+  points: 6347
+
+- rank: 21
+  city: Nancy
+  country: France
+  points: 6334
+
+- rank: 22
+  city: Lugano
+  country: Switzerland
+  points: 6333
+
+- rank: 23
+  city: Barcelona
+  country: Spain
+  points: 6331
+
+- rank: 24
+  city: Aarhus
+  country: Denmark
+  points: 6322
+
+- rank: 25
+  city: Amsterdam
+  country: Netherlands
+  points: 6310
+
+- rank: 26
+  city: Vancouver
+  country: Canada
+  points: 6300
+
+- rank: 27
+  city: Stockholm
+  country: Sweden
+  points: 6297
+
+- rank: 28
+  city: Bordeaux
+  country: France
+  points: 6282
+
+- rank: 29
+  city: Winterthur
+  country: Switzerland
+  points: 6272
+
+- rank: 30
+  city: Maastricht
+  country: Netherlands
+  points: 6256
+
+- rank: 31
+  city: Nagoya
+  country: Japan
+  points: 6254
+
+- rank: 32
+  city: Bristol
+  country: United Kingdom
+  points: 6249
+
+- rank: 33
+  city: London
+  country: United Kingdom
+  points: 6245
+
+- rank: 34
+  city: Bilbao
+  country: Spain
+  points: 6238
+
+- rank: 35
+  city: Nijmegen
+  country: Netherlands
+  points: 6237
+
+- rank: 36
+  city: Berlin
+  country: Germany
+  points: 6231
+
+- rank: 37
+  city: Ljubljana
+  country: Slovenia
+  points: 6222
+
+- rank: 38
+  city: Hachioji
+  country: Japan
+  points: 6211
+
+- rank: 39
+  city: Edinburgh
+  country: United Kingdom
+  points: 6193
+
+- rank: 40
+  city: Adelaide
+  country: Australia
+  points: 6180
+
+- rank: 41
+  city: Zaragoza
+  country: Spain
+  points: 6157
+
+- rank: 42
+  city: Gothenburg
+  country: Sweden
+  points: 6152
+
+- rank: 43
+  city: Turku
+  country: Finland
+  points: 6147
+
+- rank: 44
+  city: Strasbourg
+  country: France
+  points: 6142
+
+- rank: 45
+  city: Leiden
+  country: Netherlands
+  points: 6142
+
+- rank: 46
+  city: Zurich
+  country: Switzerland
+  points: 6142
+
+- rank: 47
+  city: Seoul
+  country: South Korea
+  points: 6138
+
+- rank: 48
+  city: Stavanger
+  country: Norway
+  points: 6133
+
+- rank: 49
+  city: Lucerne
+  country: Switzerland
+  points: 6126
+
+- rank: 50
+  city: Drammen
+  country: Norway
+  points: 6125
+
+- rank: 51
+  city: Augsburg
+  country: Germany
+  points: 6119
+
+- rank: 52
+  city: Zoetermeer
+  country: Netherlands
+  points: 6087
+
+- rank: 53
+  city: Bergen
+  country: Norway
+  points: 6086
+
+- rank: 54
+  city: Sopot
+  country: Poland
+  points: 6085
+
+- rank: 55
+  city: Norrköping
+  country: Sweden
+  points: 6066
+
+- rank: 56
+  city: Toulouse
+  country: France
+  points: 6062
+
+- rank: 57
+  city: Odense
+  country: Denmark
+  points: 6050
+
+- rank: 58
+  city: Aachen
+  country: Germany
+  points: 6048
+
+- rank: 59
+  city: Innsbruck
+  country: Austria
+  points: 6043
+
+- rank: 60
+  city: Lubeck
+  country: Germany
+  points: 6020
+
+- rank: 61
+  city: Parma
+  country: Italy
+  points: 6019
+
+- rank: 62
+  city: Ghent
+  country: Belgium
+  points: 6019
+
+- rank: 63
+  city: Kyoto
+  country: Japan
+  points: 6008
+
+- rank: 64
+  city: Le Mans
+  country: France
+  points: 6003
+
+- rank: 65
+  city: Vienna
+  country: Austria
+  points: 6003
+
+- rank: 66
+  city: Eindhoven
+  country: Netherlands
+  points: 6003
+
+- rank: 67
+  city: Warsaw
+  country: Poland
+  points: 5998
+
+- rank: 68
+  city: Okayama
+  country: Japan
+  points: 5997
+
+- rank: 69
+  city: Bologna
+  country: Italy
+  points: 5987
+
+- rank: 70
+  city: Auckland
+  country: New Zealand
+  points: 5983
+
+- rank: 71
+  city: Prague
+  country: Czechia
+  points: 5970
+
+- rank: 72
+  city: Groningen
+  country: Netherlands
+  points: 5969
+
+- rank: 73
+  city: Sapporo
+  country: Japan
+  points: 5968
+
+- rank: 74
+  city: Bremen
+  country: Germany
+  points: 5968
+
+- rank: 75
+  city: Hamburg
+  country: Germany
+  points: 5967
+
+- rank: 76
+  city: Aalborg
+  country: Denmark
+  points: 5943
+
+- rank: 77
+  city: Essen
+  country: Germany
+  points: 5942
+
+- rank: 78
+  city: Kumamoto
+  country: Japan
+  points: 5914
+
+- rank: 79
+  city: Delft
+  country: Netherlands
+  points: 5909
+
+- rank: 80
+  city: Ballarat
+  country: Australia
+  points: 5906
+
+- rank: 81
+  city: Valencia
+  country: Spain
+  points: 5903
+
+- rank: 82
+  city: Tallinn
+  country: Estonia
+  points: 5892
+
+- rank: 83
+  city: Roskilde
+  country: Denmark
+  points: 5886
+
+- rank: 84
+  city: Dordrecht
+  country: Netherlands
+  points: 5881
+
+- rank: 85
+  city: Sendai
+  country: Japan
+  points: 5877
+
+- rank: 86
+  city: Calgary
+  country: Canada
+  points: 5865
+
+- rank: 87
+  city: Jyväskylä
+  country: Finland
+  points: 5865
+
+- rank: 88
+  city: Montreal
+  country: Canada
+  points: 5844
+
+- rank: 89
+  city: Hiroshima
+  country: Japan
+  points: 5838
+
+- rank: 90
+  city: Wrocław
+  country: Poland
+  points: 5827
+
+- rank: 91
+  city: Brussels
+  country: Belgium
+  points: 5825
+
+- rank: 92
+  city: Frankfurt am Main
+  country: Germany
+  points: 5821
+
+- rank: 93
+  city: Bruges
+  country: Belgium
+  points: 5819
+
+- rank: 94
+  city: Antwerp
+  country: Belgium
+  points: 5811
+
+- rank: 95
+  city: Stuttgart
+  country: Germany
+  points: 5807
+
+- rank: 96
+  city: Christchurch
+  country: New Zealand
+  points: 5803
+
+- rank: 97
+  city: Southampton
+  country: United Kingdom
+  points: 5799
+
+- rank: 98
+  city: Shizuoka
+  country: Japan
+  points: 5790
+
+- rank: 99
+  city: Toronto
+  country: Canada
+  points: 5789
+
+- rank: 100
+  city: Ottawa
+  country: Canada
+  points: 5777
+
+- rank: 101
+  city: San Jose
+  country: United States
+  points: 5767
+
+- rank: 102
+  city: The Hague
+  country: Netherlands
+  points: 5758
+
+- rank: 103
+  city: Incheon
+  country: South Korea
+  points: 5745
+
+- rank: 104
+  city: Nottingham
+  country: United Kingdom
+  points: 5730
+
+- rank: 105
+  city: New Taipei City
+  country: Taiwan
+  points: 5718
+
+- rank: 106
+  city: Leverkusen
+  country: Germany
+  points: 5711
+
+- rank: 107
+  city: Milan
+  country: Italy
+  points: 5702
+
+- rank: 108
+  city: Markham
+  country: Canada
+  points: 5697
+
+- rank: 109
+  city: Singapore
+  country: Singapore
+  points: 5697
+
+- rank: 110
+  city: Maia
+  country: Portugal
+  points: 5693
+
+- rank: 111
+  city: Geelong
+  country: Australia
+  points: 5678
+
+- rank: 112
+  city: Maitland
+  country: Australia
+  points: 5665
+
+- rank: 113
+  city: Hannover
+  country: Germany
+  points: 5663
+
+- rank: 114
+  city: Taipei City
+  country: Taiwan
+  points: 5660
+
+- rank: 115
+  city: Ansan
+  country: South Korea
+  points: 5657
+
+- rank: 116
+  city: Peterborough
+  country: United Kingdom
+  points: 5641
+
+- rank: 117
+  city: Naples
+  country: Italy
+  points: 5641
+
+- rank: 118
+  city: Branuschwaig
+  country: Germany
+  points: 5638
+
+- rank: 119
+  city: Kitchener
+  country: Canada
+  points: 5631
+
+- rank: 120
+  city: Bari
+  country: Italy
+  points: 5630
+
+- rank: 121
+  city: Gdańsk
+  country: Poland
+  points: 5623
+
+- rank: 122
+  city: Leeds
+  country: United Kingdom
+  points: 5611
+
+- rank: 123
+  city: Luxembourg
+  country: Luxembourg
+  points: 5610
+
+- rank: 124
+  city: Hobart
+  country: Australia
+  points: 5590
+
+- rank: 125
+  city: Linz
+  country: Austria
+  points: 5588
+
+- rank: 126
+  city: Anyang
+  country: South Korea
+  points: 5583
+
+- rank: 127
+  city: Rzeszów
+  country: Poland
+  points: 5576
+
+- rank: 128
+  city: Las Palmas de Gran Canaria
+  country: Spain
+  points: 5576
+
+- rank: 129
+  city: Brampton
+  country: Canada
+  points: 5574
+
+- rank: 130
+  city: Manchester
+  country: United Kingdom
+  points: 5574
+
+- rank: 131
+  city: Mannheim
+  country: Germany
+  points: 5573
+
+- rank: 132
+  city: Gwangju
+  country: South Korea
+  points: 5565
+
+- rank: 133
+  city: San Francisco
+  country: United States
+  points: 5552
+
+- rank: 134
+  city: Verona
+  country: Italy
+  points: 5549
+
+- rank: 135
+  city: Burnaby
+  country: Canada
+  points: 5549
+
+- rank: 136
+  city: Burlington
+  country: Canada
+  points: 5543
+
+- rank: 137
+  city: Duisburg
+  country: Germany
+  points: 5542
+
+- rank: 138
+  city: Seongnam
+  country: South Korea
+  points: 5537
+
+- rank: 139
+  city: Mios
+  country: France
+  points: 5528
+
+- rank: 140
+  city: Bonn
+  country: Germany
+  points: 5527
+
+- rank: 141
+  city: Melbourne
+  country: Australia
+  points: 5515
+
+- rank: 142
+  city: Odivelas
+  country: Portugal
+  points: 5513
+
+- rank: 143
+  city: Gdynia
+  country: Poland
+  points: 5508
+
+- rank: 144
+  city: Sejong
+  country: South Korea
+  points: 5498
+
+- rank: 145
+  city: Brno
+  country: Czechia
+  points: 5497
+
+- rank: 146
+  city: Matosinhos
+  country: Portugal
+  points: 5493
+
+- rank: 147
+  city: Luton
+  country: United Kingdom
+  points: 5493
+
+- rank: 148
+  city: Córdoba
+  country: Spain
+  points: 5475
+
+- rank: 149
+  city: Rome
+  country: Italy
+  points: 5475
+
+- rank: 150
+  city: Messina
+  country: Italy
+  points: 5470
+
+- rank: 151
+  city: Cracow
+  country: Poland
+  points: 5469
+
+- rank: 152
+  city: Mechelen
+  country: Belgium
+  points: 5467
+
+- rank: 153
+  city: Białystok
+  country: Poland
+  points: 5463
+
+- rank: 154
+  city: Nice
+  country: France
+  points: 5432
+
+- rank: 155
+  city: Tauranga
+  country: New Zealand
+  points: 5425
+
+- rank: 156
+  city: Braga
+  country: Portugal
+  points: 5420
+
+- rank: 157
+  city: Gliwice
+  country: Poland
+  points: 5412
+
+- rank: 158
+  city: Wolverhampton
+  country: United Kingdom
+  points: 5410
+
+- rank: 159
+  city: Częstochowa
+  country: Poland
+  points: 5402
+
+- rank: 160
+  city: Swansea
+  country: United Kingdom
+  points: 5402
+
+- rank: 161
+  city: Palma
+  country: Spain
+  points: 5401
+
+- rank: 162
+  city: Lisbon
+  country: Portugal
+  points: 5355
+
+- rank: 163
+  city: Daejeon
+  country: South Korea
+  points: 5354
+
+- rank: 164
+  city: Rockhampton
+  country: Australia
+  points: 5332
+
+- rank: 165
+  city: Almada
+  country: Portugal
+  points: 5330
+
+- rank: 166
+  city: Northampton
+  country: United Kingdom
+  points: 5322
+
+- rank: 167
+  city: Dunedin
+  country: New Zealand
+  points: 5301
+
+- rank: 168
+  city: Winnipeg
+  country: Canada
+  points: 5271
+
+- rank: 169
+  city: Cheongju
+  country: South Korea
+  points: 5257
+
+- rank: 170
+  city: Asan
+  country: South Korea
+  points: 5254
+
+- rank: 171
+  city: Limerick
+  country: Ireland
+  points: 5247
+
+- rank: 172
+  city: Salerno
+  country: Italy
+  points: 5245
+
+- rank: 173
+  city: Ostrava
+  country: Czechia
+  points: 5244
+
+- rank: 174
+  city: Gondomar
+  country: Portugal
+  points: 5229
+
+- rank: 175
+  city: Chiayi
+  country: Taiwan
+  points: 5224
+
+- rank: 176
+  city: Quebec
+  country: Canada
+  points: 5222
+
+- rank: 177
+  city: Lower Hutt
+  country: New Zealand
+  points: 5217
+
+- rank: 178
+  city: Split
+  country: Croatia
+  points: 5214
+
+- rank: 179
+  city: Liverpool
+  country: United Kingdom
+  points: 5211
+
+- rank: 180
+  city: Bratislava
+  country: Slovakia
+  points: 5203
+
+- rank: 181
+  city: Haifa
+  country: Israel
+  points: 5197
+
+- rank: 182
+  city: Wuppertal
+  country: Germany
+  points: 5194
+
+- rank: 183
+  city: Poznań
+  country: Poland
+  points: 5192
+
+- rank: 184
+  city: Cork
+  country: Ireland
+  points: 5177
+
+- rank: 185
+  city: Hong Kong
+  country: Hong Kong
+  points: 5159
+
+- rank: 186
+  city: Keelung
+  country: Taiwan
+  points: 5158
+
+- rank: 187
+  city: Larisa
+  country: Greece
+  points: 5136
+
+- rank: 188
+  city: São Paulo
+  country: Brazil
+  points: 5127
+
+- rank: 189
+  city: Halifax
+  country: Canada
+  points: 5123
+
+- rank: 190
+  city: Curitiba
+  country: Brazil
+  points: 5111
+
+- rank: 191
+  city: Vaughan
+  country: Canada
+  points: 5097
+
+- rank: 192
+  city: Radom
+  country: Poland
+  points: 5090
+
+- rank: 193
+  city: Boston
+  country: United States
+  points: 5059
+
+- rank: 194
+  city: London
+  country: Canada
+  points: 4998
+
+- rank: 195
+  city: Bradford
+  country: United Kingdom
+  points: 4993
+
+- rank: 196
+  city: Burgas
+  country: Bulgaria
+  points: 4986
+
+- rank: 197
+  city: Łódź
+  country: Poland
+  points: 4984
+
+- rank: 198
+  city: Funchal
+  country: Portugal
+  points: 4962
+
+- rank: 199
+  city: Marseille
+  country: France
+  points: 4957
+
+- rank: 200
+  city: Stoke-on-Trent
+  country: United Kingdom
+  points: 4950
+
+- rank: 201
+  city: Gelsenkirchen
+  country: Germany
+  points: 4936
+
+- rank: 202
+  city: Whakatane
+  country: New Zealand
+  points: 4928
+
+- rank: 203
+  city: San Diego
+  country: United States
+  points: 4919
+
+- rank: 204
+  city: Hangzhou
+  country: China
+  points: 4906
+
+- rank: 205
+  city: Kaohsiung
+  country: Taiwan
+  points: 4885
+
+- rank: 206
+  city: Guangzhou
+  country: China
+  points: 4863
+
+- rank: 207
+  city: Debrecen
+  country: Hungary
+  points: 4857
+
+- rank: 208
+  city: Hsinchu
+  country: Taiwan
+  points: 4855
+
+- rank: 209
+  city: New York City
+  country: United States
+  points: 4846
+
+- rank: 210
+  city: Windsor
+  country: Canada
+  points: 4794
+
+- rank: 211
+  city: Belo Horizonte
+  country: Brazil
+  points: 4791
+
+- rank: 212
+  city: Taichung
+  country: Taiwan
+  points: 4757
+
+- rank: 213
+  city: Austin
+  country: United States
+  points: 4748
+
+- rank: 214
+  city: Chelyabinsk
+  country: Russia
+  points: 4744
+
+- rank: 215
+  city: Regina
+  country: Canada
+  points: 4742
+
+- rank: 216
+  city: Charleroi
+  country: Belgium
+  points: 4675
+
+- rank: 217
+  city: Córdoba
+  country: Argentina
+  points: 4674
+
+- rank: 218
+  city: Beijing
+  country: China
+  points: 4668
+
+- rank: 219
+  city: Ioannina
+  country: Greece
+  points: 4664
+
+- rank: 220
+  city: Buenos Aires
+  country: Argentina
+  points: 4657
+
+- rank: 221
+  city: Istanbul
+  country: Turkey
+  points: 4652
+
+- rank: 222
+  city: Varna
+  country: Bulgaria
+  points: 4628
+
+- rank: 223
+  city: Tainan
+  country: Taiwan
+  points: 4628
+
+- rank: 224
+  city: Medellin
+  country: Colombia
+  points: 4595
+
+- rank: 225
+  city: Tashkent
+  country: Uzbekistan
+  points: 4588
+
+- rank: 226
+  city: Saskatoon
+  country: Canada
+  points: 4578
+
+- rank: 227
+  city: Sharjah
+  country: United Arab Emirates
+  points: 4576
+
+- rank: 228
+  city: Rabat
+  country: Morocco
+  points: 4543
+
+- rank: 229
+  city: Dubai
+  country: United Arab Emirates
+  points: 4497
+
+- rank: 230
+  city: Minneapolis
+  country: United States
+  points: 4406
+
+- rank: 231
+  city: Posadas
+  country: Argentina
+  points: 4365
+
+- rank: 232
+  city: Bucharest
+  country: Romania
+  points: 4343
+
+- rank: 233
+  city: Denver
+  country: United States
+  points: 4236
+
+- rank: 234
+  city: Tucson
+  country: United States
+  points: 4197
+
+- rank: 235
+  city: Shanghai
+  country: China
+  points: 4159
+
+- rank: 236
+  city: Kuwait city
+  country: Kuwait
+  points: 4156
+
+- rank: 237
+  city: Mecca
+  country: Saudi Arabia
+  points: 4066
+
+- rank: 238
+  city: Milwaukee
+  country: United States
+  points: 4027
+
+- rank: 239
+  city: Montevideo
+  country: Uruguay
+  points: 3959
+
+- rank: 240
+  city: Chicago
+  country: United States
+  points: 3933
+
+- rank: 241
+  city: Atlanta
+  country: United States
+  points: 3757
+
+- rank: 242
+  city: Aguascalientes
+  country: Mexico
+  points: 3697
+
+- rank: 243
+  city: Kuala Lumpur
+  country: Malaysia
+  points: 3584
+
+- rank: 244
+  city: Mumbai
+  country: India
+  points: 3544
+
+- rank: 245
+  city: Houston
+  country: United States
+  points: 3476
+
+- rank: 246
+  city: Nashville
+  country: United States
+  points: 3465
+
+- rank: 247
+  city: Kuching
+  country: Malaysia
+  points: 3440
+
+- rank: 248
+  city: Dallas
+  country: United States
+  points: 3374
+
+- rank: 249
+  city: Indianapolis
+  country: United States
+  points: 3340
+
+- rank: 250
+  city: Guadalajara
+  country: Mexico
+  points: 3171
